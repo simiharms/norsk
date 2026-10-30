@@ -18,7 +18,7 @@ For lesson N (two digits, e.g. `03`):
 - `src/content/lesson-NN.json`: one `Lesson` object (schema in `src/content/types.ts`).
 - `src/content/vocab-NN.json`: an array of `Word` objects: the lesson's vocabulary.
 
-Check your work with `cd /home/user/hebrew/norsk && npx vite-node scripts/validate-content.ts N` (several
+Check your work with `npx vite-node scripts/validate-content.ts N` (several
 lesson numbers allowed). Fix every error. Look at every warning too; most point at real mistakes.
 
 ## The plan

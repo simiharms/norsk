@@ -4,8 +4,9 @@ A Norwegian course app for German speakers that follows the textbook **»Et år 
 Deutschsprachige«** (Randi Rosenvinge Schirmer, Hempen Verlag) lesson by lesson. It's a present, so the
 whole app speaks German: explanations, translations, buttons.
 
-Like Shoresh (the Hebrew app in the parent folder), it runs entirely on the device: no account, no server,
-no AI service, works offline after the first visit, progress stays on the phone (with a backup file).
+Like Shoresh, the Hebrew app ([simiharms/hebrew](https://github.com/simiharms/hebrew)), it runs entirely on
+the device: no account, no server, no AI service, works offline after the first visit, progress stays on the
+phone (with a backup file).
 
 ## What's inside
 
@@ -35,9 +36,9 @@ fact-checked by AI editors, not by a Norwegian teacher.
 
 1. **Personal message (optional):** put a dedication in `src/gift.ts`, e.g.
    `export const DEDICATION = 'Für Mama – lykke til med norsken! ❤️';`. It appears on the welcome screen.
-2. **Publish:** merging into `main` runs the existing GitHub Pages workflow, which now builds Nordlys too
-   and publishes it at **`https://simiharms.github.io/hebrew/norsk/`** (Pages must be enabled for the
-   repository: Settings → Pages → Source: GitHub Actions; see the main README).
+2. **Publish:** every push to `main` runs the GitHub Pages workflow (`.github/workflows/deploy.yml`):
+   tests, content check, build, and deployment to **`https://simiharms.github.io/norsk/`**. Once, in the
+   repository: Settings → Pages → Source: **GitHub Actions**. Pages is free for public repositories.
 3. **On her iPhone or iPad:** open the address in **Safari** → Share → **Add to Home Screen**. Open it once
    while online; after that it works offline.
 4. **Norwegian voice (once):** Settings → Accessibility → Spoken Content → Voices → Norwegian → **Nora**
@@ -48,7 +49,6 @@ fact-checked by AI editors, not by a Norwegian teacher.
 ## Develop
 
 ```bash
-cd norsk
 npm install
 npm run dev          # dev server
 npm test             # unit tests (answer checking, numbers, backups)
