@@ -366,8 +366,8 @@
           "de": "„Welche Bücher hast du als Kind gelesen?“ Wenn du Norweger danach fragst, bekommst du oft die gleichen Antworten. Viele norwegische Kinderbücher sind über sechzig Jahre alt, aber Kinder lesen sie immer noch, und Eltern und Großeltern können die Lieder daraus auswendig."
         },
         {
-          "no": "Den mest kjente forfatteren er Thorbjørn Egner (1912–1990). Han skrev både historiene og sangene, og han tegnet bildene selv. I «Karius og Baktus» bor to små troll i tennene til gutten Jens – helt til han begynner å pusse tennene. I «Klatremus og de andre dyrene i Hakkebakkeskogen» (1953) må Mikkel Rev lære at alle dyrene i skogen skal være venner.",
-          "de": "Der bekannteste Autor ist Thorbjørn Egner (1912–1990). Er schrieb sowohl die Geschichten als auch die Lieder, und er zeichnete die Bilder selbst. In „Karius und Baktus“ wohnen zwei kleine Trolle in den Zähnen des Jungen Jens – bis er anfängt, sich die Zähne zu putzen. In „Klatremus og de andre dyrene i Hakkebakkeskogen“ (Klettermaus und die anderen Tiere im Hackebackewald, 1953) muss der Fuchs Mikkel lernen, dass alle Tiere im Wald Freunde sein sollen."
+          "no": "En av de mest kjente forfatterne er Thorbjørn Egner (1912–1990). Han skrev både historiene og sangene, og han tegnet bildene selv. I «Karius og Baktus» bor to små troll i tennene til gutten Jens – helt til han begynner å pusse tennene. I «Klatremus og de andre dyrene i Hakkebakkeskogen» (1953) må Mikkel Rev lære at alle dyrene i skogen skal være venner.",
+          "de": "Einer der bekanntesten Autoren ist Thorbjørn Egner (1912–1990). Er schrieb sowohl die Geschichten als auch die Lieder, und er zeichnete die Bilder selbst. In „Karius und Baktus“ wohnen zwei kleine Trolle in den Zähnen des Jungen Jens – bis er anfängt, sich die Zähne zu putzen. In „Klatremus og de andre dyrene i Hakkebakkeskogen“ (Klettermaus und die anderen Tiere im Hackebackewald, 1953) muss der Fuchs Mikkel lernen, dass alle Tiere im Wald Freunde sein sollen."
         },
         {
           "no": "«Folk og røvere i Kardemomme by» (1955) handler om de tre røverne Kasper, Jesper og Jonatan. I den lille byen gjelder bare én lov: «Man skal ikke plage andre, man skal være grei og snill, og for øvrig kan man gjøre hva man vil.» Mange nordmenn synes at det er en god lov for et helt land.",
@@ -392,8 +392,8 @@
           "de": "auswendig"
         },
         {
-          "no": "Den mest kjente forfatteren",
-          "de": "der bekannteste Autor"
+          "no": "En av de mest kjente forfatterne",
+          "de": "einer der bekanntesten Autoren"
         },
         {
           "no": "tegnet",
@@ -955,7 +955,7 @@
           "explain": "Bestimmte Form + til: mora (moren) til Per – anders als mor mi ohne Endung."
         },
         {
-          "prompt": "Den er ikke min. Det er sykkelen til ___. (er = Ola)",
+          "prompt": "Den er ikke min. Det er sykkelen til ___. (han = Ola, Objektform)",
           "de": "Es ist nicht meins. Es ist sein Fahrrad.",
           "answer": [
             "ham",

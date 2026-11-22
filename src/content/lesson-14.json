@@ -637,7 +637,7 @@
           "explain": "Im Nebensatz steht ikke vor dem Verb: selv om den ikke er stor."
         },
         {
-          "prompt": "Matthias sykler, fordi han ___. (ikke, ha bil, presens)",
+          "prompt": "Matthias sykler fordi han ___. (ikke, ha bil, presens)",
           "de": "Matthias fährt Rad, weil er kein Auto hat.",
           "answer": [
             "ikke har bil",
