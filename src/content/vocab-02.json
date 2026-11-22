@@ -1992,7 +1992,7 @@
       "no": "Den passer fint!",
       "de": "Die passt gut!"
     },
-    "note": "passe = (in der Größe) passen. passe på = aufpassen."
+    "note": "passe = (in der Größe) passen. passe på = aufpassen. Sånn passe. = Es geht so (passe hier: mittelmäßig)."
   },
   {
     "id": "w06_kveld",
@@ -2020,9 +2020,14 @@
     "pos": "adv",
     "lesson": 2,
     "ex": {
-      "no": "Jeg bakte kaka selv.",
-      "de": "Ich habe den Kuchen selbst gebacken."
-    }
+      "no": "Vann tar man selv.",
+      "de": "Wasser holt man sich selbst."
+    },
+    "deAlt": [
+      "sogar",
+      "selber"
+    ],
+    "note": "Vor einem Nomen auch »sogar«: selv for en sveitser = sogar für einen Schweizer."
   },
   {
     "id": "w07_takk_i_like_maate",
@@ -2044,8 +2049,8 @@
     "lesson": 2,
     "wk": true,
     "ex": {
-      "no": "Sist fredag kom jeg for sent til kurset.",
-      "de": "Letzten Freitag kam ich zu spät zum Kurs."
+      "no": "Lenge siden sist!",
+      "de": "Lange nicht gesehen!"
     },
     "note": "sist fredag = letzten Freitag (auch: forrige fredag). Takk for sist = Danke für das letzte Mal."
   },
@@ -2056,8 +2061,8 @@
     "pos": "phrase",
     "lesson": 2,
     "ex": {
-      "no": "Kaka var faktisk ikke så verst.",
-      "de": "Der Kuchen war tatsächlich gar nicht so schlecht."
+      "no": "Kaffen her er ikke så verst.",
+      "de": "Der Kaffee hier ist gar nicht so schlecht."
     },
     "note": "Typisch norwegisches Understatement – oft ein Lob!"
   },
@@ -2094,33 +2099,29 @@
     ],
     "lesson": 2,
     "ex": {
-      "no": "Været blir enda verre i morgen.",
-      "de": "Das Wetter wird morgen noch schlechter."
+      "no": "Det er dårlig vær i dag.",
+      "de": "Heute ist schlechtes Wetter."
     },
     "note": "dårlig – verre – verst (schlimmer, wenn es schon schlecht ist) oder dårligere – dårligst (weniger gut)."
   },
   {
     "id": "w10_fare",
     "no": "fare",
-    "de": "fahren, eilen",
-    "deAlt": [
-      "fahren",
-      "eilen"
-    ],
-    "pos": "verb",
-    "vf": [
+    "de": "die Gefahr",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "fare",
+      "faren",
       "farer",
-      "for",
-      "fart",
-      "far"
+      "farene"
     ],
-    "vg": "sterk",
     "lesson": 2,
     "ex": {
-      "no": "Han for ut av døra.",
-      "de": "Er eilte zur Tür hinaus."
+      "no": "Det er ingen fare.",
+      "de": "Es besteht keine Gefahr."
     },
-    "note": "Eher schriftlich; im Alltag sagt man reise, kjøre oder dra."
+    "note": "Ingen fare! = Keine Sorge! Kein Problem! (wörtlich: keine Gefahr)."
   },
   {
     "id": "w10_borte",
@@ -2154,8 +2155,8 @@
     "vg": "2",
     "lesson": 2,
     "ex": {
-      "no": "Susanne kommer til å like seg i Tromsø.",
-      "de": "Susanne wird sich in Tromsø wohlfühlen."
+      "no": "Susanne liker seg i Oslo.",
+      "de": "Susanne fühlt sich in Oslo wohl."
     }
   },
   {
@@ -2169,10 +2170,10 @@
     ],
     "pos": "pron",
     "lesson": 2,
-    "note": "ingen = ikke noen. Mit Hilfsverb: Jeg har ikke sett noen.",
+    "note": "ingen = ikke noen: Det er ingen her. = Det er ikke noen her. Mit Modalverb nur ikke … noen: Jeg kan ikke se noen.",
     "ex": {
-      "no": "Ingen klarer å være helt stille.",
-      "de": "Niemand schafft es, ganz leise zu sein."
+      "no": "Det er ingen her.",
+      "de": "Hier ist niemand."
     }
   },
   {
@@ -2197,8 +2198,8 @@
     "pos": "phrase",
     "lesson": 2,
     "ex": {
-      "no": "Professoren lo hele tiden.",
-      "de": "Der Professor lachte die ganze Zeit."
+      "no": "Matthias spør hele tiden.",
+      "de": "Matthias fragt die ganze Zeit."
     }
   },
   {
@@ -2213,8 +2214,8 @@
     ],
     "lesson": 2,
     "ex": {
-      "no": "Jeg har aldri spist noe sånt før.",
-      "de": "So etwas habe ich noch nie gegessen."
+      "no": "Jeg vil også ha en sånn kake!",
+      "de": "Ich will auch so einen Kuchen!"
     }
   },
   {

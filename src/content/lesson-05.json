@@ -72,8 +72,8 @@
       },
       {
         "s": "o",
-        "no": "Selvfølgelig! Mamma blir sur hvis vi ikke gjør det.",
-        "de": "Natürlich! Mama wird sauer, wenn wir das nicht machen."
+        "no": "Selvfølgelig! Mamma blir sur hvis vi går med sko inne.",
+        "de": "Natürlich! Mama wird sauer, wenn wir drinnen Schuhe tragen."
       },
       {
         "s": "s",
@@ -223,6 +223,14 @@
       {
         "no": "hvis",
         "de": "wenn, falls"
+      },
+      {
+        "no": "går med sko inne",
+        "de": "drinnen (im Haus) Schuhe tragen"
+      },
+      {
+        "no": "inne",
+        "de": "drinnen, im Haus"
       },
       {
         "no": "egentlig",
@@ -731,7 +739,7 @@
         },
         {
           "h": "det als „es“ ohne Bezug",
-          "body": "Wie deutsch „es“ steht **det** als formales Subjekt, vor allem bei Wetter, Zeit und Stimmung:\n\n• **Det regner.** – Es regnet.\n• **Det er kaldt i dag.** – Es ist kalt heute.\n• **Det er hyggelig her.** – Es ist gemütlich hier.\n\n**det** stellt auch Personen und Dinge vor, sogar im Plural: **Det er Anna.** – Das ist Anna. **Det er naboene.** – Das sind die Nachbarn. Darum heißt es vor einem Nomen nach **er** meist **det**, egal welches Geschlecht: **Ostehøvelen? Det er en norsk oppfinnelse.**\n\nUnd **det** kann für einen ganzen Satz stehen: **Mamma blir sur hvis vi ikke gjør det.** **Det vet jeg ikke.**"
+          "body": "Wie deutsch „es“ steht **det** als formales Subjekt, vor allem bei Wetter, Zeit und Stimmung:\n\n• **Det regner.** – Es regnet.\n• **Det er kaldt i dag.** – Es ist kalt heute.\n• **Det er hyggelig her.** – Es ist gemütlich hier.\n\n**det** stellt auch Personen und Dinge vor, sogar im Plural: **Det er Anna.** – Das ist Anna. **Det er naboene.** – Das sind die Nachbarn. Darum heißt es vor einem Nomen nach **er** meist **det**, egal welches Geschlecht: **Ostehøvelen? Det er en norsk oppfinnelse.**\n\nUnd **det** kann für einen ganzen Satz stehen: **Alle tar av seg skoene. Det er typisk norsk.** **Det vet jeg ikke.**"
         }
       ],
       "drills": [
@@ -1222,7 +1230,7 @@
       "id": "g05_dobbelkonsonant",
       "title": "Vereinfachung von Doppelkonsonanten",
       "titleNo": "dobbel konsonant",
-      "summary": "Ein Doppelkonsonant am Wortende wird vor einem weiteren Konsonanten vereinfacht: grønn – grønt, snill – snilt. Nur full behält ll: fullt.",
+      "summary": "Ein Doppelkonsonant am Wortende wird vor einem weiteren Konsonanten vereinfacht: grønn – grønt, snill – snilt. Ausnahme: full – fullt.",
       "sections": [
         {
           "h": "Vor einem Konsonanten: nur einer",

@@ -1589,11 +1589,11 @@
     "de": "einsteigen",
     "pos": "phrase",
     "lesson": 4,
-    "wk": true,
     "ex": {
-      "no": "På Voss gikk hun på toget igjen.",
-      "de": "In Voss stieg sie wieder in den Zug."
-    }
+      "no": "I Bergen går hun på toget.",
+      "de": "In Bergen steigt sie in den Zug."
+    },
+    "note": "Nicht verwechseln: gå på tur = wandern gehen."
   },
   {
     "id": "w13_poss_min",
@@ -1697,10 +1697,10 @@
     "vg": "sterk",
     "lesson": 4,
     "ex": {
-      "no": "Da hadde vi sluppet å fryse.",
-      "de": "Dann hätten wir nicht frieren müssen."
+      "no": "I dag slipper vi å lage mat.",
+      "de": "Heute müssen wir nicht kochen."
     },
-    "note": "slippe å gjøre noe = etwas nicht tun müssen"
+    "note": "slippe å gjøre noe = etwas nicht tun müssen. Nicht verwechseln mit slappe av (sich entspannen): Slapp av! ist der Imperativ von slappe av."
   },
   {
     "id": "w20_naerhet",

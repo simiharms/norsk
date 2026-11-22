@@ -1962,8 +1962,8 @@
     ],
     "lesson": 6,
     "ex": {
-      "no": "Susanne kjøpte billettene forrige uke.",
-      "de": "Susanne hat die Karten letzte Woche gekauft."
+      "no": "Billettene er til Anna og Jonas.",
+      "de": "Die Karten sind für Anna und Jonas."
     }
   },
   {
@@ -1980,8 +1980,8 @@
     "vg": "sterk",
     "lesson": 6,
     "ex": {
-      "no": "Vi satt ved bordet i tre timer.",
-      "de": "Wir saßen drei Stunden am Tisch."
+      "no": "Tidlig om morgenen sitter jeg på T-banen.",
+      "de": "Früh am Morgen sitze ich in der U-Bahn."
     }
   },
   {
@@ -1989,9 +1989,8 @@
     "no": "topp",
     "de": "die Spitze, der Gipfel",
     "deAlt": [
-      "Spitze",
-      "Gipfel",
-      "oberstes Stockwerk"
+      "die Spitze",
+      "der Gipfel"
     ],
     "pos": "noun",
     "gender": "m",
@@ -2003,9 +2002,10 @@
     ],
     "lesson": 6,
     "ex": {
-      "no": "Utsikten fra toppen er utrolig fin.",
-      "de": "Die Aussicht von oben ist unglaublich schön."
-    }
+      "no": "Kaka har et lite flagg på toppen.",
+      "de": "Der Kuchen hat ein kleines Fähnchen obendrauf."
+    },
+    "note": "på toppen = obendrauf, ganz oben."
   },
   {
     "id": "w16_kjempefin",
@@ -2024,8 +2024,8 @@
     "lesson": 6,
     "note": "kjempe- verstärkt (umgangssprachlich): kjempebra, kjempestor. Jeg har det kjempefint = Mir geht es super.",
     "ex": {
-      "no": "Jeg har det kjempefint i Tromsø!",
-      "de": "Mir geht es in Tromsø super!"
+      "no": "Genseren er kjempefin!",
+      "de": "Der Pullover ist superschön!"
     }
   },
   {
@@ -2084,10 +2084,9 @@
       "tette"
     ],
     "lesson": 6,
-    "wk": true,
     "ex": {
-      "no": "Det snødde så tett at vi ikke så noe.",
-      "de": "Es schneite so dicht, dass wir nichts sahen."
+      "no": "Vi står tett sammen i døra.",
+      "de": "Wir stehen dicht beieinander in der Tür."
     }
   },
   {

@@ -172,7 +172,6 @@
     "de": "das (warme) Abendessen",
     "deAlt": [
       "das Abendessen",
-      "das Mittagessen",
       "die Hauptmahlzeit"
     ],
     "pos": "noun",
@@ -188,7 +187,7 @@
       "no": "Vi lager middag i kveld.",
       "de": "Wir kochen heute Abend."
     },
-    "note": "Die warme Hauptmahlzeit, meist am späten Nachmittag (16–18 Uhr)."
+    "note": "Die warme Hauptmahlzeit, meist am späten Nachmittag (16–18 Uhr). Achtung: nicht »Mittagessen« – das ist lunsj."
   },
   {
     "id": "w03_frokost",
@@ -1997,8 +1996,8 @@
     "pos": "num",
     "lesson": 3,
     "ex": {
-      "no": "Jeg ble født i to tusen og ett.",
-      "de": "Ich bin 2001 geboren."
+      "no": "Tusen takk for maten!",
+      "de": "Vielen Dank für das Essen!"
     },
     "note": "Jahreszahlen ab 2000: to tusen og fem (2005). Auch: ett tusen (1000)."
   },
@@ -2027,9 +2026,9 @@
     "pos": "adv",
     "lesson": 3,
     "ex": {
-      "no": "Vi gikk opp på Fløyen.",
-      "de": "Wir gingen auf den Fløyen hinauf."
+      "no": "Kom opp, maten er klar!",
+      "de": "Komm hoch, das Essen ist fertig!"
     },
-    "note": "Richtung (wohin?). Ort: oppe."
+    "note": "Richtung (wohin?). Ort: oppe. Auch in vaske opp = abspülen."
   }
 ]

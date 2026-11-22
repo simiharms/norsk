@@ -533,7 +533,7 @@
         },
         {
           "h": "Einsilbige Neutra: keine Endung",
-          "body": "Neutra mit **einer Silbe** bleiben im Plural gleich:\n\n• **et hus – to hus**\n• **et barn – to barn**\n• **et glass – to glass**\n• **et egg – fire egg**\n• **et år – to år**\n• **et språk – mange språk**\n\nAchtung: Neutra mit zwei Silben bekommen **-er**: **et hotell – hoteller**, **et stykke – stykker**."
+          "body": "Neutra mit **einer Silbe** bleiben im Plural gleich:\n\n• **et hus – to hus**\n• **et barn – to barn**\n• **et glass – to glass**\n• **et egg – fire egg**\n• **et år – to år**\n• **et språk – mange språk**\n\nAchtung: Mehrsilbige Neutra bekommen meist **-er**: **et hotell – hoteller**, **et stykke – stykker**. Zusammengesetzte Wörter richten sich aber nach dem letzten Teil: **et kjøleskap – to kjøleskap** (wie **et skap – to skap**). Und **et kjøkken** bleibt im Plural ebenfalls **kjøkken**."
         },
         {
           "h": "Wörter auf -er und unregelmäßige Pluralformen",
@@ -1223,7 +1223,9 @@
       "de": "Heute Abend kochen wir zusammen.",
       "no": [
         "I kveld lager vi middag sammen.",
-        "I kveld lager vi mat sammen."
+        "I kveld lager vi mat sammen.",
+        "Vi lager middag sammen i kveld.",
+        "Vi lager mat sammen i kveld."
       ],
       "hint": "Fang mit »I kveld« an – dann kommt sofort das Verb."
     },
@@ -1265,7 +1267,8 @@
     {
       "de": "Ich weiß, dass Anna Deutsch lernt.",
       "no": [
-        "Jeg vet at Anna lærer tysk."
+        "Jeg vet at Anna lærer tysk.",
+        "Jeg vet Anna lærer tysk."
       ]
     },
     {

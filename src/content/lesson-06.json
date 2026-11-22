@@ -23,7 +23,7 @@
         "de": "Heute wird Anna fünfundzwanzig. Früh am Morgen sitze ich in der U-Bahn nach Kringsjå. Ich habe einen deutschen Schokoladenkuchen dabei. Das Rezept ist alt und kommt von Mama. Ich hoffe, dass Anna den Kuchen mag."
       },
       {
-        "no": "Anna bor i et kollektiv sammen med Henrik. Han åpner døra, og Jonas, kjæresten til Anna, er allerede der. «Hysj! Anna sover ennå,» hvisker Henrik.",
+        "no": "Anna bor i et kollektiv sammen med Henrik. Han åpner døra, og Jonas, kjæresten til Anna, er allerede der. «Hysj! Anna sover ennå», hvisker Henrik.",
         "de": "Anna wohnt mit Henrik in einer WG. Er öffnet die Tür, und Jonas, Annas Freund, ist schon da. „Psst! Anna schläft noch“, flüstert Henrik."
       },
       {
@@ -417,6 +417,11 @@
         "note": "Wörtlich: „Gratuliere mit dem Tag!“ – die übliche Geburtstagsformel."
       },
       {
+        "no": "Gratulerer så mye!",
+        "de": "Herzlichen Glückwunsch!",
+        "note": "Passt zu jedem Anlass: Geburtstag, Prüfung, neue Stelle …"
+      },
+      {
         "no": "Gratulerer med tjuefemårsdagen!",
         "de": "Herzlichen Glückwunsch zum fünfundzwanzigsten Geburtstag!"
       },
@@ -450,7 +455,7 @@
       },
       {
         "no": "Jeg håper at du liker den.",
-        "de": "Ich hoffe, dass er dir gefällt.",
+        "de": "Ich hoffe, dass es dir gefällt.",
         "note": "Das sagt man, wenn man ein Geschenk überreicht. den = gaven (en gave)."
       },
       {
@@ -483,13 +488,8 @@
         "de": "Viel Glück!"
       },
       {
-        "no": "God bedring!",
-        "de": "Gute Besserung!"
-      },
-      {
-        "no": "Takk for sist!",
-        "de": "Danke für das letzte Mal!",
-        "note": "Typisch norwegisch: Man bedankt sich beim nächsten Treffen noch einmal für das letzte Zusammensein."
+        "no": "Er du syk? God bedring!",
+        "de": "Bist du krank? Gute Besserung!"
       }
     ]
   },

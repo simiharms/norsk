@@ -1248,7 +1248,8 @@
     {
       "de": "Mads hat Kuchen aus einer dänischen Bäckerei.",
       "no": [
-        "Mads har kaker fra et dansk bakeri."
+        "Mads har kaker fra et dansk bakeri.",
+        "Mads har kake fra et dansk bakeri."
       ],
       "hint": "bakeri ist ein Neutrum – und dansk bekommt kein -t."
     },

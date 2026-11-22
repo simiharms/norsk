@@ -530,8 +530,8 @@
         "note": "Wenn man jemanden lange nicht getroffen hat. Kurz: »Lenge siden!«"
       },
       {
-        "no": "Takk for sist!",
-        "de": "Danke für das letzte Mal!",
+        "no": "Hei! Takk for sist!",
+        "de": "Hallo! Danke für das letzte Mal!",
         "note": "Typisch norwegisch: Man bedankt sich beim Wiedersehen für das letzte Treffen."
       },
       {
@@ -893,7 +893,7 @@
             [
               "**bare**",
               "nur, einfach",
-              "**Vi snakker bare sakte.**"
+              "**Vi snakker bare norsk.**"
             ],
             [
               "**gjerne**",
