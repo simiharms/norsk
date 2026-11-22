@@ -1057,18 +1057,6 @@
     }
   },
   {
-    "id": "w09_gaa_seg_vill",
-    "no": "gå seg vill",
-    "de": "sich verlaufen",
-    "pos": "phrase",
-    "lesson": 9,
-    "wk": true,
-    "ex": {
-      "no": "Jeg har gått meg vill.",
-      "de": "Ich habe mich verlaufen."
-    }
-  },
-  {
     "id": "w09_herfra",
     "no": "herfra",
     "de": "von hier (aus)",
@@ -1669,20 +1657,6 @@
     "ex": {
       "no": "Til høyre er soverommet.",
       "de": "Rechts ist das Schlafzimmer."
-    }
-  },
-  {
-    "id": "w20_i_stedet_for",
-    "no": "i stedet for",
-    "de": "statt",
-    "deAlt": [
-      "anstatt"
-    ],
-    "pos": "prep",
-    "lesson": 9,
-    "ex": {
-      "no": "I stedet for å gå på ski leste hun.",
-      "de": "Statt Ski zu fahren, las sie."
     }
   },
   {

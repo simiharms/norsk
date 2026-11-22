@@ -754,17 +754,6 @@
     }
   },
   {
-    "id": "w08_i_morges",
-    "no": "i morges",
-    "de": "heute früh, heute Morgen",
-    "pos": "phrase",
-    "lesson": 8,
-    "ex": {
-      "no": "I morges regnet det.",
-      "de": "Heute früh hat es geregnet."
-    }
-  },
-  {
     "id": "w08_rundt",
     "no": "rundt",
     "de": "um … herum; gegen (zeitlich)",

@@ -324,6 +324,7 @@ export const PLAN: PlanLesson[] = [
     when: 'Anfang November',
     story:
       'Susanne’s last week in Oslo. A normal Tuesday in the Nygård family from 6 a.m. to midnight: Kari (teacher) and Per (works for the municipality), Ola (16) and his homework, bestemor Ingrid who is visiting, the dog Bamse – and Anna, who has just moved into the basement flat and works night shifts on her practice at Ullevål. Everyone has their own habits (sin/si/sitt/sine, all, hver, begge, annen).',
+    // The book has »Et norsk barnerim: Min onkel triller piller« here; its text is not ours to reproduce.
     extra: ['Norske barnerim'],
     wk: 'Slekt og familie',
     grammar: [

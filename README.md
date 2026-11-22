@@ -13,12 +13,12 @@ phone (with a backup file).
 | | |
 | --- | --- |
 | **23 lessons, like the book** | The book's table of contents: same text titles, Landeskunde, Wörterkiste and grammar in the same order, with the book's page numbers, A1 (1–5) → A2 (6–10) → B1 (11–16) → B2 (17–23): a year in Norway from the language course in Oslo to Bergen, Tromsø, Hurtigruten, Christmas in the polar night, Easter at the cabin, the 17th of May and midsummer. Each lesson has the steps below and a lesson test (70 % moves you on). |
-| **Text** | 46 new texts (a lesson text and a Landeskunde text per lesson, about 14,000 words) on the book's themes, read aloud by the device's Norwegian voice (all, line by line, or slowly). Tap any word: you hear it and see its meaning and forms (bilen → bil, gikk → gå), the phrase it belongs to in that sentence (i tide, har lyst til), compounds split into parts, and who a person in the story is. German translation per line or for the whole text. |
-| **Wörter** | 2,131 words (372 verbs) introduced lesson by lesson, as flash cards with spaced repetition (FSRS): flip and rate, or type the answer. Nouns with en/ei/et and all four forms, verbs with all tenses, adjectives with their endings, an example sentence each. |
-| **Grammatik** | 83 grammar topics in the book's order, explained in German, contrastively (what's like German, what isn't), with tables and 882 typed gap-fill drills. |
+| **Text** | 47 new texts (a lesson text and the book's Landeskunde texts per lesson, about 15,600 words) on the book's themes, read aloud by the device's Norwegian voice (all, line by line, or slowly). Tap any word: you hear it and see its meaning and forms (bilen → bil, gikk → gå), the phrase it belongs to in that sentence (i tide, har lyst til), compounds split into parts, and who a person in the story is. German translation per line or for the whole text. |
+| **Wörter** | 2,378 words (404 verbs) introduced lesson by lesson, as flash cards with spaced repetition (FSRS): flip and rate, or type the answer. Nouns with en/ei/et and all four forms, verbs with all tenses, adjectives with their endings, an example sentence each. |
+| **Grammatik** | 104 grammar topics in the book's order and wording, explained in German, contrastively (what's like German, what isn't), with tables and 1,114 typed gap-fill drills. |
 | **Übungen** | About 800 exercises on the texts: true/false, open questions answered in Norwegian, find-the-word, translate German → Norwegian (word-by-word comparison), gap-filled summary. |
-| **Wörterkiste** | 437 useful phrases on the lessons' themes, also as cards. |
-| **Landeskunde** | Short texts on Norwegian culture, regions and history (Troll, Bergen og Vestlandet, Hurtigruta, jul, påskekrim, 17. mai, samene …). |
+| **Wörterkiste** | 453 useful phrases on the book's Wörterkiste themes, also as cards. |
+| **Landeskunde** | The book's Landeskunde themes as short texts: Troll, Henrik Ibsen, norske aviser, nissen, Bergen og Vestlandet, norsk barnelitteratur, Hurtigruta, Trondheim, kongefamilien, samene … |
 | **Hören, Schreiben** | Listen without the text, dictation, and a writing task with checklist and model text. |
 | **Verben** | All verbs with presens, preteritum, perfektum, imperativ; a trainer that only asks the tenses the learner has met. |
 | **Zahlen und Uhrzeit** | Numbers by ear and in words, clock times (halv tre = 2:30), dates (syttende mai), years. |

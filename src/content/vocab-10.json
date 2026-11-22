@@ -1735,17 +1735,6 @@
     }
   },
   {
-    "id": "w13_midt_i",
-    "no": "midt i",
-    "de": "mitten in",
-    "pos": "prep",
-    "lesson": 10,
-    "ex": {
-      "no": "Sykkelen står midt i gangen.",
-      "de": "Das Fahrrad steht mitten im Flur."
-    }
-  },
-  {
     "id": "w10_kollega",
     "no": "kollega",
     "de": "der Kollege / die Kollegin",
@@ -1976,17 +1965,6 @@
       "de": "Anfang Oktober ist Matthias nach Bergen gezogen."
     },
     "note": "i begynnelsen av … = am Anfang von …, Anfang (Monat)"
-  },
-  {
-    "id": "w21_om_bord",
-    "no": "om bord",
-    "de": "an Bord",
-    "pos": "phrase",
-    "lesson": 10,
-    "ex": {
-      "no": "Vi gikk om bord på ferja i siste liten.",
-      "de": "Wir gingen in letzter Minute an Bord der Fähre."
-    }
   },
   {
     "id": "w11_gaa_paa",

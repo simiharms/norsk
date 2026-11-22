@@ -1594,17 +1594,6 @@
     "note": "Als Anrede heute selten; man duzt und nennt meist den Vornamen."
   },
   {
-    "id": "w17_i_fjor",
-    "no": "i fjor",
-    "de": "letztes Jahr",
-    "pos": "adv",
-    "lesson": 7,
-    "ex": {
-      "no": "I fjor bodde Matthias i Bern.",
-      "de": "Letztes Jahr wohnte Matthias in Bern."
-    }
-  },
-  {
     "id": "w23_staa_opp",
     "no": "stå opp",
     "de": "aufstehen",
