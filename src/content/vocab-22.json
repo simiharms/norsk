@@ -1,5 +1,23 @@
 [
   {
+    "id": "w04_post",
+    "no": "post",
+    "de": "die Post",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "post",
+      "posten"
+    ],
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Jeg går på posten.",
+      "de": "Ich gehe zur Post."
+    },
+    "note": "posten = die Post (der Dienst, die Filiale); post = Briefe und Pakete."
+  },
+  {
     "id": "w22_grunnlovsdag",
     "no": "grunnlovsdag",
     "de": "der Verfassungstag",
@@ -16,21 +34,6 @@
       "no": "På grunnlovsdagen går barna i tog.",
       "de": "Am Verfassungstag laufen die Kinder im Umzug mit."
     }
-  },
-  {
-    "id": "w22_gratulerer_med_dagen",
-    "no": "gratulerer med dagen",
-    "de": "herzlichen Glückwunsch",
-    "deAlt": [
-      "alles Gute zum Geburtstag"
-    ],
-    "pos": "phrase",
-    "lesson": 22,
-    "ex": {
-      "no": "Gratulerer med dagen, alle sammen!",
-      "de": "Herzlichen Glückwunsch, alle zusammen!"
-    },
-    "note": "Sagt man zum Geburtstag – und am 17. Mai zu allen."
   },
   {
     "id": "w22_champagne",
@@ -177,23 +180,6 @@
     "note": "gå i dress = einen Anzug tragen."
   },
   {
-    "id": "w22_ro",
-    "no": "ro",
-    "de": "die Ruhe",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "ro",
-      "roa/roen"
-    ],
-    "lesson": 22,
-    "ex": {
-      "no": "Ta det med ro, vi har god tid.",
-      "de": "Immer mit der Ruhe, wir haben viel Zeit."
-    },
-    "note": "Ta det med ro! = Immer mit der Ruhe! / Keine Sorge!"
-  },
-  {
     "id": "w22_slips",
     "no": "slips",
     "de": "die Krawatte",
@@ -261,8 +247,8 @@
     "vg": "4",
     "lesson": 22,
     "ex": {
-      "no": "Bestemor sydde bunaden selv.",
-      "de": "Oma hat die Tracht selbst genäht."
+      "no": "Det tar lang tid å sy en bunad.",
+      "de": "Es dauert lange, eine Tracht zu nähen."
     }
   },
   {
@@ -314,8 +300,8 @@
     "vg": "1",
     "lesson": 22,
     "ex": {
-      "no": "Anna skal arve bunaden til bestemor.",
-      "de": "Anna wird Omas Tracht erben."
+      "no": "Kari arvet sølja etter mormoren sin.",
+      "de": "Kari hat die Brosche von ihrer Großmutter geerbt."
     },
     "note": "arve noe etter noen = etwas von jemandem erben."
   },
@@ -335,17 +321,6 @@
     "ex": {
       "no": "Bestemor forteller gjerne om familiehistoria.",
       "de": "Oma erzählt gern von der Familiengeschichte."
-    }
-  },
-  {
-    "id": "w22_skaal_for",
-    "no": "skål for",
-    "de": "Prost auf",
-    "pos": "phrase",
-    "lesson": 22,
-    "ex": {
-      "no": "Skål for Norge!",
-      "de": "Prost auf Norwegen!"
     }
   },
   {
@@ -431,25 +406,6 @@
       "de": "Jede Schule hat im Kinderumzug ihre eigene Fahne."
     },
     "note": "fane = großes Banner mit Stange; flagg = Flagge."
-  },
-  {
-    "id": "w22_forklaring",
-    "no": "forklaring",
-    "de": "die Erklärung",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "forklaring",
-      "forklaringa/forklaringen",
-      "forklaringer",
-      "forklaringene"
-    ],
-    "lesson": 22,
-    "ex": {
-      "no": "Per ga Matthias en kort forklaring.",
-      "de": "Per gab Matthias eine kurze Erklärung."
-    },
-    "note": "Von forklare (erklären); auch maskulin: forklaringen."
   },
   {
     "id": "w22_finne_seg_i",
@@ -644,22 +600,6 @@
     "note": "holde en tale = eine Rede halten."
   },
   {
-    "id": "w22_beskjeden",
-    "no": "beskjeden",
-    "de": "bescheiden",
-    "pos": "adj",
-    "forms": [
-      "beskjeden",
-      "beskjedent",
-      "beskjedne"
-    ],
-    "lesson": 22,
-    "ex": {
-      "no": "Sveitsere er ofte ganske beskjedne.",
-      "de": "Schweizer sind oft ziemlich bescheiden."
-    }
-  },
-  {
     "id": "w22_komplisert",
     "no": "komplisert",
     "de": "kompliziert",
@@ -674,25 +614,6 @@
       "no": "Historien er litt komplisert.",
       "de": "Die Geschichte ist etwas kompliziert."
     }
-  },
-  {
-    "id": "w22_grunn",
-    "no": "grunn",
-    "de": "der Grund",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "grunn",
-      "grunnen",
-      "grunner",
-      "grunnene"
-    ],
-    "lesson": 22,
-    "ex": {
-      "no": "På grunn av historien er mange tyskere forsiktige med flagg.",
-      "de": "Wegen der Geschichte sind viele Deutsche vorsichtig mit Fahnen."
-    },
-    "note": "på grunn av = wegen"
   },
   {
     "id": "w22_nasjonal",
@@ -1123,29 +1044,8 @@
     ],
     "lesson": 22,
     "ex": {
-      "no": "Kari og Per har en sønn og ei datter.",
-      "de": "Kari und Per haben einen Sohn und eine Tochter."
-    }
-  },
-  {
-    "id": "w22_bilde",
-    "no": "bilde",
-    "de": "das Bild",
-    "deAlt": [
-      "das Foto"
-    ],
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "bilde",
-      "bildet",
-      "bilder",
-      "bildene"
-    ],
-    "lesson": 22,
-    "ex": {
-      "no": "Matthias tar mange bilder med det nye kameraet.",
-      "de": "Matthias macht viele Fotos mit der neuen Kamera."
+      "no": "Kari og Per har en sønn, Ola.",
+      "de": "Kari und Per haben einen Sohn, Ola."
     }
   },
   {
@@ -1237,8 +1137,8 @@
     ],
     "lesson": 22,
     "ex": {
-      "no": "Anna er dattera til Kari og Per.",
-      "de": "Anna ist die Tochter von Kari und Per."
+      "no": "Prinsesse Ingrid Alexandra er dattera til kronprins Haakon.",
+      "de": "Prinzessin Ingrid Alexandra ist die Tochter von Kronprinz Haakon."
     },
     "note": "Unregelmäßiger Plural: døtre – døtrene."
   },
@@ -1274,24 +1174,6 @@
     "ex": {
       "no": "Kongens valgspråk er «Alt for Norge».",
       "de": "Der Wahlspruch des Königs lautet „Alles für Norwegen“."
-    }
-  },
-  {
-    "id": "w22_oppgave",
-    "no": "oppgave",
-    "de": "die Aufgabe",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "oppgave",
-      "oppgava/oppgaven",
-      "oppgaver",
-      "oppgavene"
-    ],
-    "lesson": 22,
-    "ex": {
-      "no": "Kongen har mange oppgaver.",
-      "de": "Der König hat viele Aufgaben."
     }
   },
   {
@@ -1378,24 +1260,6 @@
     "ex": {
       "no": "Flagget er et symbol på landet.",
       "de": "Die Flagge ist ein Symbol für das Land."
-    }
-  },
-  {
-    "id": "w22_opplevelse",
-    "no": "opplevelse",
-    "de": "das Erlebnis",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "opplevelse",
-      "opplevelsen",
-      "opplevelser",
-      "opplevelsene"
-    ],
-    "lesson": 22,
-    "ex": {
-      "no": "Barnetoget var en stor opplevelse for Susanne.",
-      "de": "Der Kinderumzug war ein großes Erlebnis für Susanne."
     }
   },
   {
@@ -1519,8 +1383,7 @@
     "ex": {
       "no": "Mange hus har en flaggstang i hagen.",
       "de": "Viele Häuser haben eine Fahnenstange im Garten."
-    },
-    "wk": true
+    }
   },
   {
     "id": "w22_heise",
@@ -1538,8 +1401,7 @@
     "ex": {
       "no": "Per heiste flagget klokka åtte.",
       "de": "Per hisste die Flagge um acht Uhr."
-    },
-    "wk": true
+    }
   },
   {
     "id": "w22_vifte",
@@ -1560,8 +1422,7 @@
     "ex": {
       "no": "Barna viftet med flaggene.",
       "de": "Die Kinder schwenkten die Fahnen."
-    },
-    "wk": true
+    }
   },
   {
     "id": "w22_nasjonalsang",
@@ -1579,8 +1440,7 @@
     "ex": {
       "no": "Nasjonalsangen begynner med «Ja, vi elsker».",
       "de": "Die Nationalhymne beginnt mit „Ja, vi elsker“."
-    },
-    "wk": true
+    }
   },
   {
     "id": "w22_patriotisk",
@@ -1596,8 +1456,7 @@
     "ex": {
       "no": "På 17. mai er alle litt patriotiske.",
       "de": "Am 17. Mai sind alle ein bisschen patriotisch."
-    },
-    "wk": true
+    }
   },
   {
     "id": "w22_avslappet",
@@ -1613,8 +1472,7 @@
     "ex": {
       "no": "Nordmenn har et avslappet forhold til flagget.",
       "de": "Norweger haben ein entspanntes Verhältnis zur Flagge."
-    },
-    "wk": true
+    }
   },
   {
     "id": "w22_forhold",
@@ -1635,8 +1493,7 @@
     "ex": {
       "no": "Susanne og Matthias har et godt forhold.",
       "de": "Susanne und Matthias haben eine gute Beziehung."
-    },
-    "wk": true
+    }
   },
   {
     "id": "w22_kjenne_seg",
@@ -1654,25 +1511,6 @@
     "ex": {
       "no": "På 17. mai kjente Susanne seg nesten norsk.",
       "de": "Am 17. Mai fühlte sich Susanne fast norwegisch."
-    },
-    "wk": true
-  },
-  {
-    "id": "w22_brekke",
-    "no": "brekke",
-    "de": "brechen",
-    "pos": "verb",
-    "vf": [
-      "brekker",
-      "brakk",
-      "brukket",
-      "brekk"
-    ],
-    "vg": "sterk",
-    "lesson": 22,
-    "ex": {
-      "no": "Han brakk armen da han falt på isen.",
-      "de": "Er brach sich den Arm, als er auf dem Eis hinfiel."
     }
   },
   {
@@ -1711,6 +1549,876 @@
       "de": "Der König leitet den Staatsrat."
     },
     "note": "en leder = ein Leiter, eine Führungskraft.",
+    "lesson": 22
+  },
+  {
+    "id": "w23_innlegg",
+    "no": "innlegg",
+    "de": "der Beitrag",
+    "deAlt": [
+      "der Post"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "innlegg",
+      "innlegget",
+      "innlegg",
+      "innlegga/innleggene"
+    ],
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Dette er det siste innlegget på bloggen min.",
+      "de": "Das ist der letzte Beitrag auf meinem Blog."
+    }
+  },
+  {
+    "id": "w23_laste_opp",
+    "no": "laste opp",
+    "de": "hochladen",
+    "pos": "verb",
+    "vf": [
+      "laster opp",
+      "lastet/lasta opp",
+      "lastet/lasta opp",
+      "last opp"
+    ],
+    "vg": "1",
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Jeg laster opp bildene i morgen.",
+      "de": "Ich lade die Fotos morgen hoch."
+    }
+  },
+  {
+    "id": "w23_app",
+    "no": "app",
+    "de": "die App",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "app",
+      "appen",
+      "apper",
+      "appene"
+    ],
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Du kan laste ned appen gratis.",
+      "de": "Du kannst die App kostenlos herunterladen."
+    }
+  },
+  {
+    "id": "w23_baerbar",
+    "no": "bærbar",
+    "de": "tragbar",
+    "pos": "adj",
+    "forms": [
+      "bærbar",
+      "bærbart",
+      "bærbare"
+    ],
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Susanne skriver på en bærbar PC.",
+      "de": "Susanne schreibt auf einem Laptop."
+    },
+    "note": "en bærbar (PC) = ein Laptop."
+  },
+  {
+    "id": "w23_tastatur",
+    "no": "tastatur",
+    "de": "die Tastatur",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "tastatur",
+      "tastaturet",
+      "tastaturer",
+      "tastaturene"
+    ],
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Det norske tastaturet har æ, ø og å.",
+      "de": "Die norwegische Tastatur hat æ, ø und å."
+    }
+  },
+  {
+    "id": "w23_passord",
+    "no": "passord",
+    "de": "das Passwort",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "passord",
+      "passordet",
+      "passord",
+      "passorda/passordene"
+    ],
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Jeg har glemt passordet mitt.",
+      "de": "Ich habe mein Passwort vergessen."
+    }
+  },
+  {
+    "id": "w23_brukernavn",
+    "no": "brukernavn",
+    "de": "der Benutzername",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "brukernavn",
+      "brukernavnet",
+      "brukernavn",
+      "brukernavna/brukernavnene"
+    ],
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Brukernavnet mitt er susanne24.",
+      "de": "Mein Benutzername ist susanne24."
+    }
+  },
+  {
+    "id": "w23_laste_ned",
+    "no": "laste ned",
+    "de": "herunterladen",
+    "pos": "verb",
+    "vf": [
+      "laster ned",
+      "lastet/lasta ned",
+      "lastet/lasta ned",
+      "last ned"
+    ],
+    "vg": "1",
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Har du lastet ned appen?",
+      "de": "Hast du die App heruntergeladen?"
+    }
+  },
+  {
+    "id": "w23_lenke",
+    "no": "lenke",
+    "de": "der Link",
+    "deAlt": [
+      "die Kette"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "lenke",
+      "lenka/lenken",
+      "lenker",
+      "lenkene"
+    ],
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Kan du sende meg lenka?",
+      "de": "Kannst du mir den Link schicken?"
+    },
+    "note": "Auch: die Kette."
+  },
+  {
+    "id": "w23_klikke",
+    "no": "klikke",
+    "de": "klicken",
+    "pos": "verb",
+    "vf": [
+      "klikker",
+      "klikket/klikka",
+      "klikket/klikka",
+      "klikk"
+    ],
+    "vg": "1",
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Klikk på lenka for å se bildene.",
+      "de": "Klick auf den Link, um die Fotos zu sehen."
+    }
+  },
+  {
+    "id": "w23_lagre",
+    "no": "lagre",
+    "de": "speichern",
+    "pos": "verb",
+    "vf": [
+      "lagrer",
+      "lagret/lagra",
+      "lagret/lagra",
+      "lagre"
+    ],
+    "vg": "1",
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Husk å lagre dokumentet!",
+      "de": "Denk daran, das Dokument zu speichern!"
+    }
+  },
+  {
+    "id": "w23_fil",
+    "no": "fil",
+    "de": "die Datei",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "fil",
+      "filen",
+      "filer",
+      "filene"
+    ],
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Filen er for stor til å sende.",
+      "de": "Die Datei ist zu groß zum Verschicken."
+    }
+  },
+  {
+    "id": "w23_vedlegg",
+    "no": "vedlegg",
+    "de": "der Anhang",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "vedlegg",
+      "vedlegget",
+      "vedlegg",
+      "vedlegga/vedleggene"
+    ],
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Jeg sender bildene som vedlegg.",
+      "de": "Ich schicke die Fotos als Anhang."
+    }
+  },
+  {
+    "id": "w23_henge_seg_opp",
+    "no": "henge seg opp",
+    "de": "sich aufhängen (Computer)",
+    "pos": "verb",
+    "vf": [
+      "henger seg opp",
+      "hengte seg opp",
+      "hengt seg opp",
+      "heng deg opp"
+    ],
+    "vg": "2",
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "PC-en har hengt seg opp igjen.",
+      "de": "Der Computer hat sich schon wieder aufgehängt."
+    }
+  },
+  {
+    "id": "w23_traadlos",
+    "no": "trådløs",
+    "de": "kabellos",
+    "deAlt": [
+      "drahtlos"
+    ],
+    "pos": "adj",
+    "forms": [
+      "trådløs",
+      "trådløst",
+      "trådløse"
+    ],
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Har dere trådløst nett her?",
+      "de": "Habt ihr hier WLAN?"
+    },
+    "note": "trådløst nett = WLAN; im Alltag oft einfach wifi."
+  },
+  {
+    "id": "w23_oppdatere",
+    "no": "oppdatere",
+    "de": "aktualisieren",
+    "deAlt": [
+      "updaten"
+    ],
+    "pos": "verb",
+    "vf": [
+      "oppdaterer",
+      "oppdaterte",
+      "oppdatert",
+      "oppdater"
+    ],
+    "vg": "2",
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Du må oppdatere appen.",
+      "de": "Du musst die App aktualisieren."
+    }
+  },
+  {
+    "id": "w23_kommentar",
+    "no": "kommentar",
+    "de": "der Kommentar",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "kommentar",
+      "kommentaren",
+      "kommentarer",
+      "kommentarene"
+    ],
+    "lesson": 22,
+    "wk": true,
+    "ex": {
+      "no": "Anna skrev en hyggelig kommentar under innlegget.",
+      "de": "Anna schrieb einen netten Kommentar unter den Beitrag."
+    }
+  },
+  {
+    "id": "w22_utenfor",
+    "no": "utenfor",
+    "de": "vor, außerhalb",
+    "deAlt": [
+      "draußen vor"
+    ],
+    "pos": "prep",
+    "ex": {
+      "no": "Korpset spilte utenfor huset vårt.",
+      "de": "Die Kapelle spielte vor unserem Haus."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_korps",
+    "no": "korps",
+    "de": "das Blasorchester, die Musikkapelle",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "korps",
+      "korpset",
+      "korps",
+      "korpsa/korpsene"
+    ],
+    "lesson": 22,
+    "ex": {
+      "no": "Ola spilte trompet i korpset da han var liten.",
+      "de": "Ola hat als Kind in der Kapelle Trompete gespielt."
+    }
+  },
+  {
+    "id": "w22_bukse",
+    "no": "bukse",
+    "de": "die Hose",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "bukse",
+      "buksa",
+      "bukser",
+      "buksene"
+    ],
+    "lesson": 22,
+    "ex": {
+      "no": "Russen går i røde bukser.",
+      "de": "Die Russ tragen rote Hosen."
+    }
+  },
+  {
+    "id": "w22_baal",
+    "no": "bål",
+    "de": "das Lagerfeuer",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "bål",
+      "bålet",
+      "bål",
+      "båla/bålene"
+    ],
+    "lesson": 22,
+    "ex": {
+      "no": "I Sveits tenner man bål på fjellene 1. august.",
+      "de": "In der Schweiz zündet man am 1. August Feuer auf den Bergen an."
+    }
+  },
+  {
+    "id": "w22_balkong",
+    "no": "balkong",
+    "de": "der Balkon",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "balkong",
+      "balkongen",
+      "balkonger",
+      "balkongene"
+    ],
+    "ex": {
+      "no": "Kongefamilien vinker fra balkongen.",
+      "de": "Die Königsfamilie winkt vom Balkon."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_polse",
+    "no": "pølse",
+    "de": "das Würstchen",
+    "deAlt": [
+      "die Wurst"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "pølse",
+      "pølsa",
+      "pølser",
+      "pølsene"
+    ],
+    "ex": {
+      "no": "På 17. mai spiser barna is og pølser.",
+      "de": "Am 17. Mai essen die Kinder Eis und Würstchen."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_politisk",
+    "no": "politisk",
+    "de": "politisch",
+    "pos": "adj",
+    "forms": [
+      "politisk",
+      "politisk",
+      "politiske"
+    ],
+    "ex": {
+      "no": "Kongen tar ikke stilling til politiske spørsmål.",
+      "de": "Der König nimmt zu politischen Fragen keine Stellung."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_konfirmasjon",
+    "no": "konfirmasjon",
+    "de": "die Konfirmation",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "konfirmasjon",
+      "konfirmasjonen",
+      "konfirmasjoner",
+      "konfirmasjonene"
+    ],
+    "ex": {
+      "no": "Anna fikk bunaden sin til konfirmasjonen.",
+      "de": "Anna hat ihre Tracht zur Konfirmation bekommen."
+    },
+    "note": "In Norwegen meist mit etwa 15 Jahren, oft mit Bunad und großem Familienfest.",
+    "lesson": 22
+  },
+  {
+    "id": "w22_sperring",
+    "no": "sperring",
+    "de": "die Absperrung",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "sperring",
+      "sperringen",
+      "sperringer",
+      "sperringene"
+    ],
+    "ex": {
+      "no": "Vi sto fremst ved sperringene.",
+      "de": "Wir standen ganz vorn an den Absperrungen."
+    },
+    "note": "Auch: ei sperring – sperringa.",
+    "lesson": 22
+  },
+  {
+    "id": "w22_rekke",
+    "no": "rekke",
+    "de": "die Reihe",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "rekke",
+      "rekka",
+      "rekker",
+      "rekkene"
+    ],
+    "ex": {
+      "no": "Den lille jenta gikk bakerst i rekka.",
+      "de": "Das kleine Mädchen ging ganz hinten in der Reihe."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_frihet",
+    "no": "frihet",
+    "de": "die Freiheit",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "frihet",
+      "friheten",
+      "friheter",
+      "frihetene"
+    ],
+    "ex": {
+      "no": "Frihet er viktigere enn penger.",
+      "de": "Freiheit ist wichtiger als Geld."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_tegn",
+    "no": "tegn",
+    "de": "das Zeichen",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "tegn",
+      "tegnet",
+      "tegn",
+      "tegna/tegnene"
+    ],
+    "ex": {
+      "no": "Flagget er et tegn på fest og glede.",
+      "de": "Die Flagge ist ein Zeichen für Fest und Freude."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_merkedag",
+    "no": "merkedag",
+    "de": "der besondere Tag",
+    "deAlt": [
+      "der Gedenktag",
+      "der Feiertag"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "merkedag",
+      "merkedagen",
+      "merkedager",
+      "merkedagene"
+    ],
+    "ex": {
+      "no": "På merkedager heiser Per flagget.",
+      "de": "An besonderen Tagen hisst Per die Flagge."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_delvis",
+    "no": "delvis",
+    "de": "teilweise, zum Teil",
+    "pos": "adv",
+    "ex": {
+      "no": "Forklaringen ligger delvis i historien.",
+      "de": "Die Erklärung liegt zum Teil in der Geschichte."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_tilfeldighet",
+    "no": "tilfeldighet",
+    "de": "der Zufall",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "tilfeldighet",
+      "tilfeldigheten",
+      "tilfeldigheter",
+      "tilfeldighetene"
+    ],
+    "ex": {
+      "no": "Det var en ren tilfeldighet at vi møttes.",
+      "de": "Es war reiner Zufall, dass wir uns trafen."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_melodi",
+    "no": "melodi",
+    "de": "die Melodie",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "melodi",
+      "melodien",
+      "melodier",
+      "melodiene"
+    ],
+    "ex": {
+      "no": "Melodien til nasjonalsangen er av Rikard Nordraak.",
+      "de": "Die Melodie der Nationalhymne stammt von Rikard Nordraak."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_identitet",
+    "no": "identitet",
+    "de": "die Identität",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "identitet",
+      "identiteten",
+      "identiteter",
+      "identitetene"
+    ],
+    "ex": {
+      "no": "Naturen er en viktig del av den norske identiteten.",
+      "de": "Die Natur ist ein wichtiger Teil der norwegischen Identität."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_plikt",
+    "no": "plikt",
+    "de": "die Pflicht",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "plikt",
+      "plikten",
+      "plikter",
+      "pliktene"
+    ],
+    "ex": {
+      "no": "Å gå på tur på søndag er nesten en plikt.",
+      "de": "Sonntags wandern zu gehen ist fast eine Pflicht."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_stolthet",
+    "no": "stolthet",
+    "de": "der Stolz",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "stolthet",
+      "stoltheten"
+    ],
+    "ex": {
+      "no": "Nordmenn ler gjerne av sin egen stolthet.",
+      "de": "Norweger lachen gern über ihren eigenen Stolz."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_avdeling",
+    "no": "avdeling",
+    "de": "die Abteilung",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "avdeling",
+      "avdelingen",
+      "avdelinger",
+      "avdelingene"
+    ],
+    "ex": {
+      "no": "Hun er sjefen for avdelingen.",
+      "de": "Sie ist die Chefin der Abteilung."
+    },
+    "note": "Auch: ei avdeling – avdelinga.",
+    "lesson": 22
+  },
+  {
+    "id": "w22_fordel",
+    "no": "fordel",
+    "de": "der Vorteil",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "fordel",
+      "fordelen",
+      "fordeler",
+      "fordelene"
+    ],
+    "ex": {
+      "no": "En fordel ved å bo i sentrum er at alt er nært.",
+      "de": "Ein Vorteil, wenn man im Zentrum wohnt, ist, dass alles nah ist."
+    },
+    "note": "Gegenteil: en ulempe (Nachteil).",
+    "lesson": 22
+  },
+  {
+    "id": "w22_rad",
+    "no": "rad",
+    "de": "die Reihe (Sitzreihe)",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "rad",
+      "raden",
+      "rader",
+      "radene"
+    ],
+    "ex": {
+      "no": "Vi satt i de bakre radene.",
+      "de": "Wir saßen in den hinteren Reihen."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_fremst",
+    "no": "fremst",
+    "de": "ganz vorn",
+    "pos": "adv",
+    "ex": {
+      "no": "To elever med fanen går fremst i toget.",
+      "de": "Zwei Schüler mit der Fahne gehen ganz vorn im Umzug."
+    },
+    "lesson": 22,
+    "alt": [
+      "framst"
+    ],
+    "note": "Superlativ zu foran (fremre – fremst); auch: framst."
+  },
+  {
+    "id": "w22_bakerst",
+    "no": "bakerst",
+    "de": "ganz hinten",
+    "pos": "adv",
+    "ex": {
+      "no": "Vi sto bakerst i køen.",
+      "de": "Wir standen ganz hinten in der Schlange."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_overst",
+    "no": "øverst",
+    "de": "ganz oben",
+    "pos": "adv",
+    "ex": {
+      "no": "Skriv navnet ditt øverst på siden.",
+      "de": "Schreib deinen Namen ganz oben auf die Seite."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_nederst",
+    "no": "nederst",
+    "de": "ganz unten",
+    "pos": "adv",
+    "ex": {
+      "no": "Svaret står nederst på siden.",
+      "de": "Die Antwort steht ganz unten auf der Seite."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_ytterst",
+    "no": "ytterst",
+    "de": "ganz außen",
+    "pos": "adv",
+    "ex": {
+      "no": "Ola sto ytterst på brygga.",
+      "de": "Ola stand ganz außen am Ende des Stegs."
+    },
+    "lesson": 22
+  },
+  {
+    "id": "w22_indre",
+    "no": "indre",
+    "de": "innere",
+    "pos": "adj",
+    "forms": [
+      "indre",
+      "indre",
+      "indre"
+    ],
+    "ex": {
+      "no": "Om sommeren er det mange båter i Indre Oslofjord.",
+      "de": "Im Sommer sind viele Boote auf dem inneren Oslofjord."
+    },
+    "note": "Komparativ eines Ortsadverbs: nur vor dem Substantiv, ohne Endung.",
+    "lesson": 22
+  },
+  {
+    "id": "w22_ytre",
+    "no": "ytre",
+    "de": "äußere",
+    "pos": "adj",
+    "forms": [
+      "ytre",
+      "ytre",
+      "ytre"
+    ],
+    "ex": {
+      "no": "Det ytre er ikke alltid det viktigste.",
+      "de": "Das Äußere ist nicht immer das Wichtigste."
+    },
+    "note": "Komparativ eines Ortsadverbs: nur vor dem Substantiv, ohne Endung.",
+    "lesson": 22
+  },
+  {
+    "id": "w22_ovre",
+    "no": "øvre",
+    "de": "obere",
+    "pos": "adj",
+    "forms": [
+      "øvre",
+      "øvre",
+      "øvre"
+    ],
+    "ex": {
+      "no": "Kontoret ligger i den øvre delen av byen.",
+      "de": "Das Büro liegt im oberen Teil der Stadt."
+    },
+    "note": "Komparativ eines Ortsadverbs: nur vor dem Substantiv, ohne Endung.",
+    "lesson": 22
+  },
+  {
+    "id": "w22_nedre",
+    "no": "nedre",
+    "de": "untere",
+    "pos": "adj",
+    "forms": [
+      "nedre",
+      "nedre",
+      "nedre"
+    ],
+    "ex": {
+      "no": "Vi bor i den nedre etasjen.",
+      "de": "Wir wohnen im unteren Stockwerk."
+    },
+    "note": "Komparativ eines Ortsadverbs: nur vor dem Substantiv, ohne Endung.",
+    "lesson": 22
+  },
+  {
+    "id": "w22_bakre",
+    "no": "bakre",
+    "de": "hintere",
+    "pos": "adj",
+    "forms": [
+      "bakre",
+      "bakre",
+      "bakre"
+    ],
+    "ex": {
+      "no": "De bakre radene var tomme.",
+      "de": "Die hinteren Reihen waren leer."
+    },
+    "note": "Komparativ eines Ortsadverbs: nur vor dem Substantiv, ohne Endung.",
     "lesson": 22
   }
 ]

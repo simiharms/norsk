@@ -12,7 +12,6 @@
       "telefonsamtalene"
     ],
     "lesson": 19,
-    "wk": true,
     "ex": {
       "no": "Telefonsamtalen med Anna varte nesten en time.",
       "de": "Das Telefongespräch mit Anna dauerte fast eine Stunde."
@@ -34,33 +33,10 @@
       "samtalene"
     ],
     "lesson": 19,
-    "wk": true,
     "ex": {
       "no": "Susanne forteller Inga om samtalen.",
       "de": "Susanne erzählt Inga von dem Gespräch."
     }
-  },
-  {
-    "id": "w19_paaske",
-    "no": "påske",
-    "de": "Ostern",
-    "deAlt": [
-      "das Osterfest"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "påske",
-      "påsken",
-      "påsker",
-      "påskene"
-    ],
-    "lesson": 19,
-    "ex": {
-      "no": "Vi skal på hytta i påsken.",
-      "de": "Über Ostern fahren wir zur Hütte."
-    },
-    "note": "i påsken = an Ostern, über Ostern; God påske! = Frohe Ostern!"
   },
   {
     "id": "w19_fridag",
@@ -196,29 +172,6 @@
     }
   },
   {
-    "id": "w19_lure_paa",
-    "no": "lure på",
-    "de": "sich fragen",
-    "deAlt": [
-      "wissen wollen",
-      "überlegen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "lurer på",
-      "lurte på",
-      "lurt på",
-      "lur på"
-    ],
-    "vg": "2",
-    "lesson": 19,
-    "ex": {
-      "no": "Jeg lurer på hva Erik egentlig vil.",
-      "de": "Ich frage mich, was Erik eigentlich will."
-    },
-    "note": "Sehr häufig in der indirekten Frage. Vorsicht: lure noen = jemanden reinlegen; lur (Adj.) = schlau."
-  },
-  {
     "id": "w19_trondersk",
     "no": "trøndersk",
     "de": "trøndisch (aus Trøndelag)",
@@ -237,24 +190,6 @@
       "de": "Die Dame sprach breites Trøndersk."
     },
     "note": "Als Substantiv: trøndersk = der Dialekt; en trønder = jemand aus Trøndelag."
-  },
-  {
-    "id": "w19_alder",
-    "no": "alder",
-    "de": "das Alter",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "alder",
-      "alderen",
-      "aldre",
-      "aldrene"
-    ],
-    "lesson": 19,
-    "ex": {
-      "no": "Hun er på min alder.",
-      "de": "Sie ist in meinem Alter."
-    }
   },
   {
     "id": "w19_kompliment",
@@ -311,28 +246,6 @@
     "ex": {
       "no": "Overlegen spurte om Anna ville se på.",
       "de": "Der Oberarzt fragte, ob Anna zuschauen wolle."
-    }
-  },
-  {
-    "id": "w19_se_paa",
-    "no": "se på",
-    "de": "zuschauen",
-    "deAlt": [
-      "anschauen",
-      "ansehen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "ser på",
-      "så på",
-      "sett på",
-      "se på"
-    ],
-    "vg": "sterk",
-    "lesson": 19,
-    "ex": {
-      "no": "Får jeg se på?",
-      "de": "Darf ich zuschauen?"
     }
   },
   {
@@ -449,27 +362,6 @@
     }
   },
   {
-    "id": "w19_tenke_seg_om",
-    "no": "tenke seg om",
-    "de": "nachdenken",
-    "deAlt": [
-      "es sich überlegen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "tenker seg om",
-      "tenkte seg om",
-      "tenkt seg om",
-      "tenk deg om"
-    ],
-    "vg": "2",
-    "lesson": 19,
-    "ex": {
-      "no": "Tenk deg godt om før du svarer!",
-      "de": "Denk gut nach, bevor du antwortest!"
-    }
-  },
-  {
     "id": "w19_paaskeuke",
     "no": "påskeuke",
     "de": "die Osterwoche",
@@ -520,28 +412,6 @@
     }
   },
   {
-    "id": "w19_sitte_paa",
-    "no": "sitte på",
-    "de": "mitfahren",
-    "deAlt": [
-      "im Auto mitfahren"
-    ],
-    "pos": "verb",
-    "vf": [
-      "sitter på",
-      "satt på",
-      "sittet på",
-      "sitt på"
-    ],
-    "vg": "sterk",
-    "lesson": 19,
-    "ex": {
-      "no": "Kan jeg sitte på med deg til Oslo?",
-      "de": "Kann ich mit dir nach Oslo mitfahren?"
-    },
-    "note": "Nur für das Mitfahren in einem privaten Auto."
-  },
-  {
     "id": "w19_hoeres_ut",
     "no": "høres ut",
     "de": "klingen",
@@ -578,67 +448,6 @@
     "ex": {
       "no": "Susanne kjøper flybillett til Trondheim.",
       "de": "Susanne kauft ein Flugticket nach Trondheim."
-    }
-  },
-  {
-    "id": "w19_sjekke",
-    "no": "sjekke",
-    "de": "nachsehen",
-    "deAlt": [
-      "prüfen",
-      "checken",
-      "kontrollieren"
-    ],
-    "pos": "verb",
-    "vf": [
-      "sjekker",
-      "sjekket",
-      "sjekket",
-      "sjekk"
-    ],
-    "vg": "1",
-    "lesson": 19,
-    "ex": {
-      "no": "Jeg sjekker togtidene i kveld.",
-      "de": "Ich schaue heute Abend nach den Zugzeiten."
-    }
-  },
-  {
-    "id": "w19_melding",
-    "no": "melding",
-    "de": "die Nachricht",
-    "deAlt": [
-      "die SMS",
-      "die Meldung"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "melding",
-      "meldingen/meldinga",
-      "meldinger",
-      "meldingene"
-    ],
-    "lesson": 19,
-    "wk": true,
-    "ex": {
-      "no": "Erik sendte meg en lang melding.",
-      "de": "Erik hat mir eine lange Nachricht geschickt."
-    }
-  },
-  {
-    "id": "w19_vi_snakkes",
-    "no": "vi snakkes",
-    "de": "wir hören uns",
-    "deAlt": [
-      "bis bald"
-    ],
-    "pos": "phrase",
-    "lesson": 19,
-    "wk": true,
-    "ex": {
-      "no": "Ha det, vi snakkes i morgen!",
-      "de": "Tschüss, wir hören uns morgen!"
     }
   },
   {
@@ -699,27 +508,6 @@
     "ex": {
       "no": "Jeg fikk vite det i går.",
       "de": "Ich habe es gestern erfahren."
-    }
-  },
-  {
-    "id": "w19_bestemme",
-    "no": "bestemme",
-    "de": "bestimmen",
-    "deAlt": [
-      "entscheiden"
-    ],
-    "pos": "verb",
-    "vf": [
-      "bestemmer",
-      "bestemte",
-      "bestemt",
-      "bestem"
-    ],
-    "vg": "2",
-    "lesson": 19,
-    "ex": {
-      "no": "Det er ikke jeg som bestemmer.",
-      "de": "Ich bin es nicht, die das entscheidet."
     }
   },
   {
@@ -796,7 +584,6 @@
       "beskjedene"
     ],
     "lesson": 19,
-    "wk": true,
     "ex": {
       "no": "Jeg skal gi henne beskjed.",
       "de": "Ich sage ihr Bescheid."
@@ -819,7 +606,6 @@
     ],
     "vg": "uregelm",
     "lesson": 19,
-    "wk": true,
     "ex": {
       "no": "Legg igjen en beskjed etter pipetonen.",
       "de": "Hinterlass eine Nachricht nach dem Signalton."
@@ -838,7 +624,6 @@
     ],
     "vg": "2",
     "lesson": 19,
-    "wk": true,
     "ex": {
       "no": "Kan du be henne ringe meg tilbake?",
       "de": "Kannst du ihr sagen, sie soll mich zurückrufen?"
@@ -850,32 +635,10 @@
     "de": "sich verwählen",
     "pos": "phrase",
     "lesson": 19,
-    "wk": true,
     "ex": {
       "no": "Beklager, jeg har slått feil nummer.",
       "de": "Entschuldigung, ich habe mich verwählt."
     }
-  },
-  {
-    "id": "w19_opptatt",
-    "no": "opptatt",
-    "de": "besetzt",
-    "deAlt": [
-      "beschäftigt"
-    ],
-    "pos": "adj",
-    "forms": [
-      "opptatt",
-      "opptatt",
-      "opptatte"
-    ],
-    "lesson": 19,
-    "wk": true,
-    "ex": {
-      "no": "Det har vært opptatt hele kvelden.",
-      "de": "Es war den ganzen Abend besetzt."
-    },
-    "note": "Jeg er opptatt = Ich habe keine Zeit / bin beschäftigt."
   },
   {
     "id": "w19_dekning",
@@ -892,7 +655,6 @@
       "dekningen/dekninga"
     ],
     "lesson": 19,
-    "wk": true,
     "ex": {
       "no": "På fjellet har vi ofte ikke dekning.",
       "de": "In den Bergen haben wir oft keinen Empfang."
@@ -915,7 +677,6 @@
     ],
     "vg": "sterk",
     "lesson": 19,
-    "wk": true,
     "ex": {
       "no": "Samtalen ble brutt.",
       "de": "Das Gespräch ist abgebrochen."
@@ -937,7 +698,6 @@
       "batteriene"
     ],
     "lesson": 19,
-    "wk": true,
     "ex": {
       "no": "Batteriet mitt er nesten tomt.",
       "de": "Mein Akku ist fast leer."
@@ -959,7 +719,6 @@
       "pipetonene"
     ],
     "lesson": 19,
-    "wk": true,
     "ex": {
       "no": "Snakk etter pipetonen.",
       "de": "Sprich nach dem Signalton."
@@ -981,7 +740,6 @@
       "videosamtalene"
     ],
     "lesson": 19,
-    "wk": true,
     "ex": {
       "no": "Vi tar en videosamtale på søndag.",
       "de": "Am Sonntag telefonieren wir per Video."
@@ -993,7 +751,6 @@
     "de": "danke fürs Gespräch",
     "pos": "phrase",
     "lesson": 19,
-    "wk": true,
     "ex": {
       "no": "Takk for praten, vi snakkes!",
       "de": "Danke fürs Gespräch, wir hören uns!"
@@ -1008,7 +765,6 @@
     ],
     "pos": "interj",
     "lesson": 19,
-    "wk": true,
     "ex": {
       "no": "Beklager, hun er ikke her akkurat nå.",
       "de": "Tut mir leid, sie ist gerade nicht da."
@@ -1149,25 +905,6 @@
     }
   },
   {
-    "id": "w19_vare",
-    "no": "vare",
-    "de": "dauern",
-    "pos": "verb",
-    "vf": [
-      "varer",
-      "varte",
-      "vart",
-      ""
-    ],
-    "vg": "2",
-    "lesson": 19,
-    "ex": {
-      "no": "Samtalen varte i nesten en time.",
-      "de": "Das Gespräch dauerte fast eine Stunde."
-    },
-    "note": "Nicht verwechseln: en vare = eine Ware."
-  },
-  {
     "id": "w19_kongehus",
     "no": "kongehus",
     "de": "das Königshaus",
@@ -1261,29 +998,6 @@
     }
   },
   {
-    "id": "w19_brygge",
-    "no": "brygge",
-    "de": "der Kai",
-    "deAlt": [
-      "der Steg",
-      "das Speicherhaus am Wasser"
-    ],
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "brygge",
-      "brygga",
-      "brygger",
-      "bryggene"
-    ],
-    "lesson": 19,
-    "ex": {
-      "no": "Båten ligger ved brygga.",
-      "de": "Das Boot liegt am Kai."
-    },
-    "note": "In Bergen und Trondheim heißen auch die alten Speicherhäuser am Wasser brygger."
-  },
-  {
     "id": "w19_bakke",
     "no": "bakke",
     "de": "der Hang",
@@ -1325,23 +1039,6 @@
     }
   },
   {
-    "id": "w19_mulig",
-    "no": "mulig",
-    "de": "möglich",
-    "pos": "adj",
-    "forms": [
-      "mulig",
-      "mulig",
-      "mulige"
-    ],
-    "lesson": 19,
-    "ex": {
-      "no": "Kom så fort som mulig!",
-      "de": "Komm so schnell wie möglich!"
-    },
-    "note": "alt mulig = alles Mögliche"
-  },
-  {
     "id": "w19_flott",
     "no": "flott",
     "de": "toll",
@@ -1360,24 +1057,6 @@
     "ex": {
       "no": "Så flott at du har fri i påsken!",
       "de": "Toll, dass du über Ostern frei hast!"
-    }
-  },
-  {
-    "id": "w19_plan",
-    "no": "plan",
-    "de": "der Plan",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "plan",
-      "planen",
-      "planer",
-      "planene"
-    ],
-    "lesson": 19,
-    "ex": {
-      "no": "Matthias har ingen planer for påsken.",
-      "de": "Matthias hat für Ostern keine Pläne."
     }
   },
   {
@@ -1419,8 +1098,8 @@
     ],
     "lesson": 19,
     "ex": {
-      "no": "Anna er ingen trønder, hun er fra Oslo.",
-      "de": "Anna ist keine Trønderin, sie ist aus Oslo."
+      "no": "Damen hørte med en gang at Anna ikke var trønder.",
+      "de": "Die Dame hörte sofort, dass Anna keine Trønderin war."
     },
     "note": "Jemand aus Trøndelag, der Gegend um Trondheim."
   },
@@ -1445,21 +1124,6 @@
       "no": "I en periode bodde Anna i Trondheim.",
       "de": "Eine Zeit lang wohnte Anna in Trondheim."
     }
-  },
-  {
-    "id": "w19_flere",
-    "no": "flere",
-    "de": "mehrere",
-    "deAlt": [
-      "mehr"
-    ],
-    "pos": "pron",
-    "lesson": 19,
-    "ex": {
-      "no": "Kirken har brent flere ganger.",
-      "de": "Die Kirche hat mehrmals gebrannt."
-    },
-    "note": "Komparativ von mange: mange – flere – flest. Det er ikke plass til flere = Es ist kein Platz für mehr."
   },
   {
     "id": "w19_dekorere",
@@ -1539,5 +1203,457 @@
     },
     "note": "Beruf ohne Artikel: Hun er lege.",
     "lesson": 19
+  },
+  {
+    "id": "w19_drive_med",
+    "no": "drive med",
+    "de": "betreiben, machen (Sport, Hobby)",
+    "pos": "verb",
+    "vf": [
+      "driver med",
+      "drev med",
+      "drevet med",
+      "driv med"
+    ],
+    "vg": "sterk",
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Hva driver du med på fritida?",
+      "de": "Was machst du in deiner Freizeit?"
+    }
+  },
+  {
+    "id": "w19_staa_paa_ski",
+    "no": "stå på ski",
+    "de": "alpin Ski fahren",
+    "pos": "phrase",
+    "note": "Auch: kjøre slalåm. gå på ski = Ski laufen, Langlauf.",
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Står du på ski eller på snowboard?",
+      "de": "Fährst du Ski oder Snowboard?"
+    }
+  },
+  {
+    "id": "w19_lysloype",
+    "no": "lysløype",
+    "de": "die beleuchtete Loipe",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "lysløype",
+      "lysløypa",
+      "lysløyper",
+      "lysløypene"
+    ],
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Vi går på ski i lysløypa etter jobben.",
+      "de": "Nach der Arbeit laufen wir auf der beleuchteten Loipe Ski."
+    }
+  },
+  {
+    "id": "w19_slalaam",
+    "no": "slalåm",
+    "de": "der Slalom; das alpine Skifahren",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "slalåm",
+      "slalåmen"
+    ],
+    "note": "kjøre slalåm = alpin Ski fahren",
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Matthias kjører slalåm på Voss hver helg.",
+      "de": "Matthias fährt jedes Wochenende in Voss alpin Ski."
+    }
+  },
+  {
+    "id": "w19_nedoverbakke",
+    "no": "nedoverbakke",
+    "de": "die Abfahrt, das Gefälle",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "nedoverbakke",
+      "nedoverbakken",
+      "nedoverbakker",
+      "nedoverbakkene"
+    ],
+    "note": "Gegenteil: en oppoverbakke (Steigung)",
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Susanne faller i hver nedoverbakke.",
+      "de": "Susanne fällt bei jeder Abfahrt hin."
+    }
+  },
+  {
+    "id": "w19_fotball",
+    "no": "fotball",
+    "de": "der Fußball",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "fotball",
+      "fotballen",
+      "fotballer",
+      "fotballene"
+    ],
+    "note": "spille fotball – ohne Artikel",
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Ola spiller fotball tre ganger i uka.",
+      "de": "Ola spielt dreimal pro Woche Fußball."
+    }
+  },
+  {
+    "id": "w19_haandball",
+    "no": "håndball",
+    "de": "der Handball",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "håndball",
+      "håndballen",
+      "håndballer",
+      "håndballene"
+    ],
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Jeg spiller håndball i et idrettslag.",
+      "de": "Ich spiele in einem Sportverein Handball."
+    }
+  },
+  {
+    "id": "w19_idrettslag",
+    "no": "idrettslag",
+    "de": "der Sportverein",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "idrettslag",
+      "idrettslaget",
+      "idrettslag",
+      "idrettslaga/idrettslagene"
+    ],
+    "lesson": 19,
+    "ex": {
+      "no": "Ola spiller fotball i et idrettslag.",
+      "de": "Ola spielt in einem Sportverein Fußball."
+    },
+    "wk": true
+  },
+  {
+    "id": "w19_kamp",
+    "no": "kamp",
+    "de": "das Spiel (Sport); der Kampf",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "kamp",
+      "kampen",
+      "kamper",
+      "kampene"
+    ],
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Kampen endte uavgjort.",
+      "de": "Das Spiel endete unentschieden."
+    }
+  },
+  {
+    "id": "w19_ende",
+    "no": "ende",
+    "de": "enden",
+    "pos": "verb",
+    "vf": [
+      "ender",
+      "endte",
+      "endt",
+      "end"
+    ],
+    "vg": "2",
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Kampen endte uavgjort, 2–2.",
+      "de": "Das Spiel endete 2:2 unentschieden."
+    }
+  },
+  {
+    "id": "w19_treningssenter",
+    "no": "treningssenter",
+    "de": "das Fitnessstudio",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "treningssenter",
+      "treningssenteret",
+      "treningssentre/treningssentere",
+      "treningssentrene/treningssenterne"
+    ],
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Hun trener på treningssenteret to ganger i uka.",
+      "de": "Sie trainiert zweimal pro Woche im Fitnessstudio."
+    }
+  },
+  {
+    "id": "w19_form",
+    "no": "form",
+    "de": "die Form",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "form",
+      "formen",
+      "former",
+      "formene"
+    ],
+    "lesson": 19,
+    "note": "være i god form = gut in Form sein, fit sein.",
+    "ex": {
+      "no": "Jeg er i mye bedre form nå.",
+      "de": "Ich bin jetzt viel besser in Form."
+    },
+    "wk": true
+  },
+  {
+    "id": "w19_skiskytter",
+    "no": "skiskytter",
+    "de": "der Biathlet, die Biathletin",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "skiskytter",
+      "skiskytteren",
+      "skiskyttere",
+      "skiskytterne"
+    ],
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Anna heier på de norske skiskytterne.",
+      "de": "Anna feuert die norwegischen Biathleten an."
+    }
+  },
+  {
+    "id": "w19_heie_paa",
+    "no": "heie på",
+    "de": "anfeuern, Fan sein von",
+    "pos": "verb",
+    "vf": [
+      "heier på",
+      "heiet på",
+      "heiet på",
+      ""
+    ],
+    "vg": "1",
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Hvem heier du på?",
+      "de": "Für wen bist du?"
+    }
+  },
+  {
+    "id": "w19_heia",
+    "no": "heia",
+    "de": "los!, auf geht’s! (beim Anfeuern)",
+    "pos": "interj",
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Heia Norge!",
+      "de": "Auf geht’s, Norwegen!"
+    }
+  },
+  {
+    "id": "w19_kom_igjen",
+    "no": "kom igjen",
+    "de": "los!, komm schon!",
+    "pos": "phrase",
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Kom igjen, du klarer det!",
+      "de": "Los, du schaffst das!"
+    }
+  },
+  {
+    "id": "w19_tape",
+    "no": "tape",
+    "de": "verlieren (ein Spiel)",
+    "pos": "verb",
+    "vf": [
+      "taper",
+      "tapte",
+      "tapt",
+      "tap"
+    ],
+    "vg": "2",
+    "note": "tape = verlieren (Spiel, Wettkampf); miste = verlieren (Gegenstand).",
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "De tapte kampen 1–3.",
+      "de": "Sie haben das Spiel 1:3 verloren."
+    }
+  },
+  {
+    "id": "w19_uavgjort",
+    "no": "uavgjort",
+    "de": "unentschieden",
+    "pos": "adj",
+    "forms": [
+      "uavgjort",
+      "uavgjort",
+      "uavgjorte"
+    ],
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Kampen endte uavgjort.",
+      "de": "Das Spiel endete unentschieden."
+    }
+  },
+  {
+    "id": "w19_score",
+    "no": "score",
+    "de": "(ein Tor) schießen",
+    "pos": "verb",
+    "vf": [
+      "scorer",
+      "scoret",
+      "scoret",
+      "scor"
+    ],
+    "vg": "1",
+    "note": "Gesprochen etwa „skåre“.",
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Ola scoret to mål.",
+      "de": "Ola hat zwei Tore geschossen."
+    }
+  },
+  {
+    "id": "w19_maal",
+    "no": "mål",
+    "de": "das Tor (Sport); das Ziel",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "mål",
+      "målet",
+      "mål",
+      "måla/målene"
+    ],
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Han scoret to mål i kampen.",
+      "de": "Er hat im Spiel zwei Tore geschossen."
+    }
+  },
+  {
+    "id": "w19_renn",
+    "no": "renn",
+    "de": "das (Ski-)Rennen",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "renn",
+      "rennet",
+      "renn",
+      "renna/rennene"
+    ],
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Hun ble nummer to i rennet.",
+      "de": "Sie wurde Zweite im Rennen."
+    }
+  },
+  {
+    "id": "w19_orke",
+    "no": "orke",
+    "de": "die Kraft haben, schaffen, mögen",
+    "pos": "verb",
+    "vf": [
+      "orker",
+      "orket",
+      "orket",
+      ""
+    ],
+    "vg": "1",
+    "lesson": 19,
+    "ex": {
+      "no": "Jeg orker ikke å trene i dag.",
+      "de": "Heute schaffe ich es nicht zu trainieren."
+    }
+  },
+  {
+    "id": "w19_elv",
+    "no": "elv",
+    "de": "der Fluss",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "elv",
+      "elva",
+      "elver",
+      "elvene"
+    ],
+    "lesson": 19,
+    "ex": {
+      "no": "Nidelva renner gjennom Trondheim.",
+      "de": "Die Nidelva fließt durch Trondheim."
+    }
+  },
+  {
+    "id": "w21_sliten",
+    "no": "sliten",
+    "de": "müde, erschöpft",
+    "pos": "adj",
+    "forms": [
+      "sliten",
+      "slitent",
+      "slitne"
+    ],
+    "lesson": 19,
+    "ex": {
+      "no": "Etter turen var vi våte og slitne.",
+      "de": "Nach der Tour waren wir nass und müde."
+    }
+  },
+  {
+    "id": "w23_slette",
+    "no": "slette",
+    "de": "löschen",
+    "pos": "verb",
+    "vf": [
+      "sletter",
+      "slettet/sletta",
+      "slettet/sletta",
+      "slett"
+    ],
+    "vg": "1",
+    "lesson": 19,
+    "wk": true,
+    "ex": {
+      "no": "Jeg slettet bildet ved en feil.",
+      "de": "Ich habe das Foto aus Versehen gelöscht."
+    }
   }
 ]

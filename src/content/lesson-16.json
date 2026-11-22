@@ -3,12 +3,12 @@
   "level": "B1",
   "title": "Susannes første dag på Universitetet i Tromsø",
   "titleDe": "Susannes erster Tag an der Universität Tromsø",
-  "place": "Tromsø, UiT Norges arktiske universitet",
+  "place": "Tromsø, UiT – Norwegens arktische Universität",
   "goals": [
-    "Du kannst vom ersten Tag an einer Universität erzählen: Infoveranstaltung, Einschreibung, Bibliothek, Vorlesung.",
-    "Du drückst Zugehörigkeit mit Präpositionen aus: rommet til Inga, taket på huset, Universitetet i Tromsø, en venn av meg.",
-    "Du verbindest Sätze mit Zeitkonjunktionen wie da, når, mens, før, etter at und så snart – und achtest auf die Inversion danach.",
-    "Du drückst Grund, Bedingung, Zweck, Folge und Gegensatz aus: fordi, siden, hvis, for at, så (at), selv om, som om.",
+    "Du kannst vom ersten Tag an einer Universität erzählen: Infoveranstaltung, Studentenausweis, Bibliothek, Vorlesung.",
+    "Du verwendest noe, noen, ingen und ingenting richtig – und sagst »Jeg har ikke sett noe«, nicht *har sett ingenting.",
+    "Du setzt Adjektive nach einem Possessivpronomen richtig (min nye jakke – den nye jakka mi) und sagst mit egen/eget/egne, was dein Eigenes ist.",
+    "Du drückst Gegenseitigkeit aus: Vi sees! Vi møtes i kantina. De hjelper hverandre.",
     "Du erfährst, warum Norwegen zwei Schriftsprachen und so viele Dialekte hat."
   ],
   "text": {
@@ -23,20 +23,20 @@
         "de": "Als Susanne am Montagmorgen aufwachte, war es draußen noch dunkel. Sie hatte schlecht geschlafen, weil sie so aufgeregt war. Am Abend davor war sie nach dem Flug aus Oslo in Tromsø gelandet, und alles war neu: die Stadt, die Wohnung und die kalte, klare Luft."
       },
       {
-        "no": "Susanne delte leilighet med Inga Eira, en samisk jente på 23 år fra Kautokeino. Inga studerte biologi og hadde allerede bodd i Tromsø i to år. Rommet til Inga var lite og ryddig, mens rommet til Susanne var fullt av kofferter og klær.",
-        "de": "Susanne teilte sich eine Wohnung mit Inga Eira, einer 23-jährigen Samin aus Kautokeino. Inga studierte Biologie und wohnte schon seit zwei Jahren in Tromsø. Ingas Zimmer war klein und ordentlich, während Susannes Zimmer voller Koffer und Kleidung war."
+        "no": "Susanne delte leilighet med Inga Eira, en samisk jente på 23 år fra Kautokeino. Inga studerte biologi og hadde allerede bodd i Tromsø i to år. De hadde hvert sitt eget rom. Rommet til Inga var lite og ryddig, mens rommet til Susanne var fullt av kofferter og klær.",
+        "de": "Susanne teilte sich eine Wohnung mit Inga Eira, einer 23-jährigen Samin aus Kautokeino. Inga studierte Biologie und wohnte schon seit zwei Jahren in Tromsø. Sie hatten jede ihr eigenes Zimmer. Ingas Zimmer war klein und ordentlich, während Susannes Zimmer voller Koffer und Kleidung war."
       },
       {
-        "no": "«Bare spør hvis du trenger noe», sa Inga mens hun lagde frokost til dem begge. Før Susanne gikk, viste Inga henne veien til bussen.",
-        "de": "„Frag einfach, wenn du etwas brauchst“, sagte Inga, während sie für sie beide Frühstück machte. Bevor Susanne ging, zeigte Inga ihr den Weg zum Bus."
+        "no": "«Bare spør hvis du trenger noe», sa Inga mens hun lagde frokost til dem begge. Da Susanne gikk, ropte hun etter henne: «Lykke til! Vi sees i kveld!»",
+        "de": "„Frag einfach, wenn du etwas brauchst“, sagte Inga, während sie für sie beide Frühstück machte. Als Susanne ging, rief sie ihr nach: „Viel Glück! Wir sehen uns heute Abend!“"
       },
       {
-        "no": "Klokka ti begynte informasjonsmøtet for internasjonale studenter. En dame fra det internasjonale kontoret ønsket alle velkommen til «verdens nordligste universitet». Hun forklarte at alle måtte registrere seg og betale semesteravgifta før de kunne ta eksamen. Susanne satt ved siden av en student fra Italia, og begge to tok mange notater.",
-        "de": "Um zehn Uhr begann die Infoveranstaltung für internationale Studierende. Eine Frau vom International Office hieß alle an der „nördlichsten Universität der Welt“ willkommen. Sie erklärte, dass sich alle registrieren und die Semestergebühr bezahlen müssten, bevor sie Prüfungen ablegen könnten. Susanne saß neben einem Studenten aus Italien, und beide machten sich viele Notizen."
+        "no": "Klokka ti begynte informasjonsmøtet for internasjonale studenter. En dame fra det internasjonale kontoret ønsket alle velkommen til «verdens nordligste universitet». Hun forklarte at alle måtte registrere seg og betale semesteravgifta før de kunne ta eksamen. Susanne satt ved siden av en student fra Italia, og begge to tok mange notater. «Skal vi møtes i kantina i morgen?» spurte han etterpå.",
+        "de": "Um zehn Uhr begann die Infoveranstaltung für internationale Studierende. Eine Frau vom International Office hieß alle an der „nördlichsten Universität der Welt“ willkommen. Sie erklärte, dass sich alle registrieren und die Semestergebühr bezahlen müssten, bevor sie Prüfungen ablegen könnten. Susanne saß neben einem Studenten aus Italien, und beide machten sich viele Notizen. „Wollen wir uns morgen in der Kantine treffen?“, fragte er danach."
       },
       {
-        "no": "Etter at møtet var slutt, hentet hun studentkortet sitt. Køen var så lang at hun måtte vente i nesten en time. Så snart hun hadde fått kortet, gikk hun til biblioteket. Det var stort og lyst, med store vinduer og utsikt mot snødekte fjell. En hyggelig bibliotekar viste henne hvordan hun kunne låne bøker og finne artikler på nettet.",
-        "de": "Nachdem die Veranstaltung zu Ende war, holte sie ihren Studentenausweis ab. Die Schlange war so lang, dass sie fast eine Stunde warten musste. Sobald sie den Ausweis bekommen hatte, ging sie in die Bibliothek. Sie war groß und hell, mit großen Fenstern und Blick auf schneebedeckte Berge. Eine freundliche Bibliothekarin zeigte ihr, wie sie Bücher ausleihen und Artikel im Internet finden konnte."
+        "no": "Etter at møtet var slutt, hentet hun det nye studentkortet sitt. Køen var så lang at hun måtte vente i nesten en time. Så snart hun hadde fått kortet, gikk hun til biblioteket. Det var stort og lyst, med store vinduer og utsikt mot snødekte fjell. En hyggelig bibliotekar viste henne hvordan hun kunne låne bøker og finne artikler på nettet.",
+        "de": "Nachdem die Veranstaltung zu Ende war, holte sie ihren neuen Studentenausweis ab. Die Schlange war so lang, dass sie fast eine Stunde warten musste. Sobald sie den Ausweis bekommen hatte, ging sie in die Bibliothek. Sie war groß und hell, mit großen Fenstern und Blick auf schneebedeckte Berge. Eine freundliche Bibliothekarin zeigte ihr, wie sie Bücher ausleihen und Artikel im Internet finden konnte."
       },
       {
         "no": "Den første forelesningen hennes var i nordisk språkvitenskap. Temaet var norske dialekter, og professoren, en eldre mann fra Senja, snakket selv nordnorsk. Han snakket fort og lo mye, som om han fortalte vitser hele tiden. De andre studentene lo også, men Susanne skjønte ikke hvorfor. Han brukte mange ord som hun aldri hadde hørt før.",
@@ -55,20 +55,20 @@
         "de": "Dann gab er ihr die Literaturliste. „Und wenn du willst, kannst du deine Semesterarbeit über Nordnorwegisch schreiben!“, sagte er."
       },
       {
-        "no": "Da hun kom ut av bygningen, var det allerede mørkt, selv om klokka bare var fire. Det hadde begynt å snø, og lysene i byen glitret i mørket. Hjemme hadde Inga laget bidos, en samisk gryterett med reinkjøtt, poteter og gulrøtter.",
-        "de": "Als sie aus dem Gebäude kam, war es schon dunkel, obwohl es erst vier Uhr war. Es hatte angefangen zu schneien, und die Lichter der Stadt glitzerten in der Dunkelheit. Zu Hause hatte Inga Bidos gekocht, einen samischen Eintopf mit Rentierfleisch, Kartoffeln und Möhren."
+        "no": "Da hun kom ut av bygningen, var det allerede mørkt, selv om klokka bare var fire. Det hadde begynt å snø. Hjemme hadde Inga laget bidos, en samisk gryterett med reinkjøtt, poteter og gulrøtter.",
+        "de": "Als sie aus dem Gebäude kam, war es schon dunkel, obwohl es erst vier Uhr war. Es hatte angefangen zu schneien. Zu Hause hatte Inga Bidos gekocht, einen samischen Eintopf mit Rentierfleisch, Kartoffeln und Möhren."
       },
       {
-        "no": "Mens de spiste, skrev Susanne en liste i notatboka si. «Dette forsto jeg: hvor biblioteket ligger, hvordan jeg låner bøker, og at jeg må registrere meg før fristen. Dette forsto jeg ikke: halvparten av forelesningen, navnet på bygningen der neste forelesning skal være, og hvorfor folk her sier ja mens de puster inn.»",
-        "de": "Während sie aßen, schrieb Susanne eine Liste in ihr Notizbuch. „Das habe ich verstanden: wo die Bibliothek ist, wie ich Bücher ausleihe und dass ich mich vor Ablauf der Frist registrieren muss. Das habe ich nicht verstanden: die Hälfte der Vorlesung, den Namen des Gebäudes, in dem die nächste Vorlesung sein soll, und warum die Leute hier beim Einatmen ‚ja‘ sagen.“"
+        "no": "Mens de spiste, skrev Susanne en liste i notatboka si. «Dette forsto jeg: hvor biblioteket ligger, hvordan jeg låner bøker, og at jeg må registrere meg før fristen. Dette forsto jeg ikke: halvparten av forelesningen og hvorfor folk her sier ja mens de puster inn.»",
+        "de": "Während sie aßen, schrieb Susanne eine Liste in ihr Notizbuch. „Das habe ich verstanden: wo die Bibliothek ist, wie ich Bücher ausleihe und dass ich mich vor Ablauf der Frist registrieren muss. Das habe ich nicht verstanden: die Hälfte der Vorlesung und warum die Leute hier beim Einatmen ‚ja‘ sagen.“"
       },
       {
-        "no": "Inga lo da hun leste lista. «Det siste gjør vi uten å tenke på det. Det er helt vanlig i Nord-Norge», sa hun.",
-        "de": "Inga lachte, als sie die Liste las. „Das Letzte machen wir, ohne darüber nachzudenken. Das ist in Nordnorwegen ganz normal“, sagte sie."
+        "no": "Inga lo da hun leste lista. «Det siste gjør alle her i nord», sa hun.",
+        "de": "Inga lachte, als sie die Liste las. „Das Letzte machen hier im Norden alle“, sagte sie."
       },
       {
-        "no": "Før hun la seg, sendte Susanne en melding til Matthias i Bergen: «Første dag er over. Jeg forsto bare halvparten, men jeg har det kjempefint her!»",
-        "de": "Bevor sie schlafen ging, schickte Susanne Matthias in Bergen eine Nachricht: „Der erste Tag ist vorbei. Ich habe nur die Hälfte verstanden, aber mir geht es hier super!“"
+        "no": "Før hun la seg, sendte Susanne en melding til Matthias i Bergen: «Første dag er over. Jeg forsto bare halvparten, men alle er så uformelle her, og jeg har det kjempefint!»",
+        "de": "Bevor sie schlafen ging, schickte Susanne Matthias in Bergen eine Nachricht: „Der erste Tag ist vorbei. Ich habe nur die Hälfte verstanden, aber hier sind alle so locker, und mir geht es super!“"
       },
       {
         "no": "Han svarte så snart han hadde lest den: «Halvparten er bra. Jeg forstår fortsatt ikke halvparten av det fru Solheim sier.»",
@@ -85,10 +85,6 @@
         "de": "noch (immer)"
       },
       {
-        "no": "spent",
-        "de": "gespannt, aufgeregt"
-      },
-      {
         "no": "flyturen",
         "de": "der Flug"
       },
@@ -101,12 +97,8 @@
         "de": "teilte sich eine Wohnung mit"
       },
       {
-        "no": "ryddig",
-        "de": "ordentlich, aufgeräumt"
-      },
-      {
-        "no": "kofferter",
-        "de": "Koffer (Plural)"
+        "no": "hvert sitt eget rom",
+        "de": "jede ihr eigenes Zimmer"
       },
       {
         "no": "Bare spør",
@@ -119,6 +111,18 @@
       {
         "no": "til dem begge",
         "de": "für sie beide"
+      },
+      {
+        "no": "ropte hun etter henne",
+        "de": "rief sie ihr nach"
+      },
+      {
+        "no": "Lykke til",
+        "de": "Viel Glück"
+      },
+      {
+        "no": "Vi sees",
+        "de": "Wir sehen uns"
       },
       {
         "no": "informasjonsmøtet",
@@ -153,6 +157,14 @@
         "de": "machten sich viele Notizen"
       },
       {
+        "no": "Skal vi møtes",
+        "de": "Wollen wir uns treffen"
+      },
+      {
+        "no": "kantina",
+        "de": "die Kantine, die Mensa"
+      },
+      {
         "no": "studentkortet",
         "de": "der Studentenausweis"
       },
@@ -161,16 +173,8 @@
         "de": "die (Warte-)Schlange"
       },
       {
-        "no": "Så snart",
-        "de": "sobald"
-      },
-      {
         "no": "utsikt mot",
         "de": "Blick auf"
-      },
-      {
-        "no": "snødekte",
-        "de": "schneebedeckte"
       },
       {
         "no": "nordisk språkvitenskap",
@@ -181,20 +185,8 @@
         "de": "ein älterer Mann"
       },
       {
-        "no": "som om",
-        "de": "als ob"
-      },
-      {
-        "no": "vitser",
-        "de": "Witze"
-      },
-      {
         "no": "skjønte",
         "de": "verstand"
-      },
-      {
-        "no": "vant til",
-        "de": "gewohnt an"
       },
       {
         "no": "Det gjør ingenting",
@@ -209,24 +201,16 @@
         "de": "die Semesterarbeit"
       },
       {
-        "no": "glitret",
-        "de": "glitzerten"
-      },
-      {
         "no": "bidos",
         "de": "Bidos (samischer Eintopf)"
       },
       {
-        "no": "gryterett",
-        "de": "Eintopf, Schmorgericht"
-      },
-      {
-        "no": "reinkjøtt",
-        "de": "Rentierfleisch"
-      },
-      {
         "no": "halvparten av",
         "de": "die Hälfte von"
+      },
+      {
+        "no": "uformelle",
+        "de": "locker, nicht förmlich"
       },
       {
         "no": "puster inn",
@@ -553,462 +537,497 @@
   },
   "grammar": [
     {
-      "id": "g16_genitiv_omskriving",
-      "title": "Genitiv mit Präpositionen",
-      "titleNo": "genitiv med preposisjon",
-      "summary": "Statt Genitiv-s verwendet man oft eine Präposition: rommet til Inga, taket på huset, Universitetet i Tromsø, en venn av meg.",
+      "id": "g16_noen_ingen",
+      "title": "Die unbestimmten Pronomina noe(n), ikke noe(n), ingen, ingenting",
+      "titleNo": "ubestemte pronomen: noen, noe, ingen, ingenting",
+      "summary": "noen (jemand, einige), noe (etwas), ingen (niemand, kein), ingenting (nichts) – und warum es »Jeg har ikke sett noen« heißt, nicht *har sett ingen.",
       "sections": [
         {
-          "h": "til bei Personen und Besitzern",
-          "body": "Im gesprochenen Norwegisch sagt man selten **Ingas rom**. Viel häufiger ist: Substantiv in der **bestimmten Form** + **til** + Besitzer:\n\n• **rommet til Inga** = Ingas Zimmer\n• **faren til Anna** = Annas Vater\n• **bilen til naboen** = das Auto des Nachbarn\n\nAchtung: Nach dem Genitiv-s ist das Substantiv unbestimmt (**Ingas rom**), mit **til** ist es bestimmt (**rommet til Inga**). Nach **til** steht ein Pronomen in der Objektform: **boka til ham**, **kofferten til henne** – meist sagt man aber einfach **boka hans**, **kofferten hennes**.",
+          "h": "noen und noe",
+          "body": "• **noen** = jemand; einige, ein paar (bei Zählbarem): **Er det noen her?** (Ist jemand hier?) **Inga har noen venner fra Kautokeino i Tromsø.**\n• **noe** = etwas; vor Unzählbarem auch »etwas, ein bisschen«: **Bare spør hvis du trenger noe.** **Vil du ha noe brød? Har du noe å drikke?**\n\nIn Fragen steht **noen/noe** oft dort, wo das Deutsche gar kein Wort oder »irgendwelche« sagt: **Har du noen spørsmål?** – Hast du (irgendwelche) Fragen? **Har du noe melk?** – Hast du Milch?",
           "table": [
             [
-              "mit -s",
-              "mit Präposition",
+              "",
+              "Personen / Zählbares",
+              "Dinge / Unzählbares"
+            ],
+            [
+              "positiv",
+              "**noen** (jemand, einige)",
+              "**noe** (etwas)"
+            ],
+            [
+              "negativ",
+              "**ingen** = ikke noen (niemand, kein)",
+              "**ingenting** = ikke noe (nichts)"
+            ]
+          ]
+        },
+        {
+          "h": "ingen, ingenting = ikke noen, ikke noe",
+          "body": "**ingen** heißt »niemand« und vor einem Substantiv »kein, keine«; **ingenting** heißt »nichts«. Beides kannst du auch mit **ikke noen / ikke noe** sagen:\n\n• **Ingen vet det.** – Niemand weiß es.\n• **Jeg har ingen penger.** = **Jeg har ikke noen penger.** – Ich habe kein Geld.\n• **Jeg ser ingenting.** = **Jeg ser ikke noe.** – Ich sehe nichts.\n• **Det gjør ingenting!** = **Det gjør ikke noe!** – Das macht nichts!\n\n**ingen** hat nur eine Form – anders als das deutsche »kein, keine, keinen«: **ingen dag, ingen penger, ingen hjemme**."
+        },
+        {
+          "h": "Mit Hilfs- oder Modalverb: nur ikke … noe(n)",
+          "body": "Steht ein Hilfs- oder Modalverb im Satz (Perfekt, **kan, vil, må** …), dann steht als Objekt **nicht ingen/ingenting**, sondern **ikke … noen / noe**:\n\n• **Jeg har ikke sett noen.** – Ich habe niemanden gesehen. (nicht *Jeg har sett ingen*)\n• **Jeg har ikke lest noe av pensum.** – Ich habe nichts von der Pflichtlektüre gelesen.\n• **Vi kan ikke gjøre noe.** – Wir können nichts machen.\n\n**ikke** steht dabei, wie immer, direkt nach dem Hilfsverb; **noe/noen** steht dort, wo das Objekt steht. Als **Subjekt** geht **ingen** immer: **Ingen har sett det.** – Niemand hat es gesehen."
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "«Bare spør hvis du trenger ___», sa Inga. (etwas)",
+          "de": "„Frag einfach, wenn du etwas brauchst“, sagte Inga.",
+          "answer": [
+            "noe"
+          ],
+          "explain": "noe = etwas."
+        },
+        {
+          "prompt": "Er det ___ her som snakker tysk? (jemand)",
+          "de": "Ist hier jemand, der Deutsch spricht?",
+          "answer": [
+            "noen"
+          ],
+          "explain": "noen = jemand."
+        },
+        {
+          "prompt": "Inga har ___ venner fra Kautokeino i Tromsø. (einige)",
+          "de": "Inga hat einige Freunde aus Kautokeino in Tromsø.",
+          "answer": [
+            "noen"
+          ],
+          "explain": "noen = einige (bei Zählbarem im Plural)."
+        },
+        {
+          "prompt": "Vil du ha ___ å spise før forelesningen? (etwas)",
+          "de": "Möchtest du vor der Vorlesung etwas essen?",
+          "answer": [
+            "noe"
+          ],
+          "explain": "noe å spise = etwas zu essen."
+        },
+        {
+          "prompt": "___ av de andre studentene snakket tysk. (niemand)",
+          "de": "Keiner der anderen Studierenden sprach Deutsch.",
+          "answer": [
+            "Ingen"
+          ],
+          "explain": "ingen = niemand, keiner; als Subjekt geht ingen immer."
+        },
+        {
+          "prompt": "I tåka på Fløyen så Susanne og Matthias nesten ___. (nichts)",
+          "de": "Im Nebel auf dem Fløyen sahen Susanne und Matthias fast nichts.",
+          "answer": [
+            "ingenting",
+            "ikke noe"
+          ],
+          "explain": "Ohne Hilfsverb geht beides: ingenting = ikke noe."
+        },
+        {
+          "prompt": "Jeg har ikke lest ___ av pensum ennå. (nichts)",
+          "de": "Ich habe noch nichts von der Pflichtlektüre gelesen.",
+          "answer": [
+            "noe"
+          ],
+          "explain": "Mit Hilfsverb (har lest): ikke … noe, nicht *har lest ingenting."
+        },
+        {
+          "prompt": "Susanne har ikke sett ___ fra Tyskland på campus. (niemanden)",
+          "de": "Susanne hat auf dem Campus niemanden aus Deutschland gesehen.",
+          "answer": [
+            "noen"
+          ],
+          "explain": "Mit Perfekt: ikke … noen, nicht *har sett ingen."
+        },
+        {
+          "prompt": "– Unnskyld, jeg kom for sent! – Det gjør ___. (nichts)",
+          "de": "– Entschuldigung, ich bin zu spät gekommen! – Das macht nichts.",
+          "answer": [
+            "ingenting",
+            "ikke noe"
+          ],
+          "explain": "Feste Wendung: Det gjør ingenting / Det gjør ikke noe."
+        },
+        {
+          "prompt": "Vi kan ikke gjøre ___ med været. (nichts)",
+          "de": "Wir können nichts gegen das Wetter machen.",
+          "answer": [
+            "noe"
+          ],
+          "explain": "Mit Modalverb (kan): ikke … noe."
+        },
+        {
+          "prompt": "Etter flyturen og husleia har Susanne nesten ___ penger igjen. (kein)",
+          "de": "Nach dem Flug und der Miete hat Susanne fast kein Geld mehr.",
+          "answer": [
+            "ingen",
+            "ikke noen"
+          ],
+          "explain": "ingen + Substantiv = kein(e); ingen hat nur eine Form. Ohne Hilfsverb geht auch ikke noen."
+        }
+      ]
+    },
+    {
+      "id": "g16_possessiv_adjektiv",
+      "title": "Nach einem Possessivpronomen",
+      "titleNo": "adjektiv etter eiendomspronomen",
+      "summary": "Possessiv davor: min nye jakke (Adjektiv mit -e, Substantiv unbestimmt). Possessiv dahinter: den nye jakka mi (doppelte Bestimmtheit).",
+      "sections": [
+        {
+          "h": "Possessiv vor dem Substantiv",
+          "body": "Ein vorangestelltes Possessivpronomen macht die Gruppe bestimmt – wie ein Genitiv (Lektion 12). Darum bekommt das Adjektiv **-e**, und das Substantiv bleibt **unbestimmt**:\n\n• **min nye jakke** – meine neue Jacke\n• **hennes gamle bil** – ihr altes Auto\n• **vårt lille hus** – unser kleines Haus\n• **deres små barn** – ihre kleinen Kinder\n• **sin nye koffert** – seinen/ihren (eigenen) neuen Koffer\n\nIm Deutschen ändert sich die Endung (»mein neu**er** Koffer, mein neu**es** Zimmer«), im Norwegischen heißt es immer **-e**, auch bei et-Wörtern: **mitt nye rom** (nicht *mitt nytt rom*). **liten** wird zu **lille** (Plural **små**), unveränderliche Adjektive bleiben, wie sie sind: **mitt rosa skjerf**.\n\nDiese Reihenfolge klingt etwas schriftlich oder betont den Besitzer: **Det er MIN nye jakke, ikke din!**"
+        },
+        {
+          "h": "Possessiv dahinter: doppelte Bestimmtheit",
+          "body": "Im Alltag steht das Possessiv meist **hinter** dem Substantiv. Dann brauchst du wie in Lektion 9 **den/det/de** + Adjektiv auf **-e** + **bestimmtes** Substantiv + Possessiv:\n\n• **den nye jakka mi**\n• **det lille huset vårt**\n• **de gamle bøkene hennes**\n• **det nye studentkortet sitt**\n\nTypische Fehler: *den nye jakke mi* (Substantiv nicht bestimmt), *min nye jakka* (Possessiv davor, aber Substantiv bestimmt), *nye jakka mi* (den fehlt).",
+          "table": [
+            [
+              "Possessiv davor",
+              "Possessiv dahinter",
               "Deutsch"
             ],
             [
-              "**Ingas rom**",
-              "**rommet til Inga**",
-              "Ingas Zimmer"
+              "**min nye jakke**",
+              "**den nye jakka mi**",
+              "meine neue Jacke"
             ],
             [
-              "**Pers bil**",
-              "**bilen til Per**",
-              "Pers Auto"
+              "**hennes gamle bil**",
+              "**den gamle bilen hennes**",
+              "ihr altes Auto"
             ],
             [
-              "**professorens kontor**",
-              "**kontoret til professoren**",
-              "das Büro des Professors"
+              "**vårt lille hus**",
+              "**det lille huset vårt**",
+              "unser kleines Haus"
+            ],
+            [
+              "**deres små barn**",
+              "**de små barna deres**",
+              "ihre kleinen Kinder"
             ]
           ]
-        },
-        {
-          "h": "på, i und av bei Dingen, Orten und Mengen",
-          "body": "Bei Dingen benutzt man fast nie -s, sondern eine Präposition. Welche, hängt von der Bedeutung ab:\n\n• **på** für Teile und Eigenschaften einer Sache: **taket på huset** (das Dach des Hauses), **prisen på boka** (der Preis des Buches), **navnet på gata** (der Name der Straße), **døra på kjøleskapet**\n• **i** für Orte und Institutionen an einem Ort: **Universitetet i Tromsø**, **lysene i byen**, **ordføreren i Bergen**\n• **av** für „einer von / ein Teil von“ und für Bilder: **en venn av meg** (ein Freund von mir), **en av studentene**, **halvparten av forelesningen**, **slutten av filmen**, **et bilde av Inga**\n\nDie Wahl der Präposition muss man teilweise einfach lernen – das Deutsche hilft hier wenig, denn dort steht meist der Genitiv oder „von“."
-        },
-        {
-          "h": "Typische Fehler",
-          "body": "• Nicht **Inga sitt rom** schreiben – das hört man zwar oft im Gespräch, aber in der Schriftsprache heißt es **rommet til Inga** oder **Ingas rom**.\n• Nach dem -s nie die bestimmte Form: **Annas bror**, nicht *Annas broren*.\n• „Ein Freund von mir“ heißt **en venn av meg**, nicht *en venn fra meg*."
         }
       ],
       "drills": [
         {
-          "prompt": "Rommet ___ Inga er lite og ryddig.",
-          "de": "Ingas Zimmer ist klein und ordentlich.",
+          "prompt": "Susanne pakket ut den ___ kofferten sin. (stor)",
+          "de": "Susanne packte ihren großen Koffer aus.",
           "answer": [
-            "til"
+            "store"
           ],
-          "explain": "Besitzer ist eine Person: bestimmte Form + til (rommet til Inga)."
+          "explain": "den + Adjektiv mit -e + bestimmtes Substantiv + Possessiv: den store kofferten sin."
         },
         {
-          "prompt": "Det ligger mye snø på taket ___ biblioteket.",
-          "de": "Auf dem Dach der Bibliothek liegt viel Schnee.",
+          "prompt": "Inga liker sitt ___ rom. (liten)",
+          "de": "Inga mag ihr kleines Zimmer.",
           "answer": [
-            "på"
+            "lille"
           ],
-          "explain": "Teil einer Sache: på (taket på biblioteket)."
+          "explain": "Possessiv davor: Adjektiv in der bestimmten Form; liten → lille."
         },
         {
-          "prompt": "Susanne studerer ved Universitetet ___ Tromsø.",
-          "de": "Susanne studiert an der Universität Tromsø.",
+          "prompt": "Hun hentet det ___ studentkortet sitt. (ny)",
+          "de": "Sie holte ihren neuen Studentenausweis ab.",
           "answer": [
-            "i"
+            "nye"
           ],
-          "explain": "Institution an einem Ort: i (Universitetet i Tromsø)."
+          "explain": "det nye studentkortet sitt – Adjektiv mit -e, auch beim et-Wort."
         },
         {
-          "prompt": "Hva er prisen ___ boka?",
-          "de": "Was kostet das Buch? (Wie hoch ist der Preis des Buches?)",
+          "prompt": "Susanne tok på seg den ___ lua si. (varm)",
+          "de": "Susanne setzte ihre warme Mütze auf.",
           "answer": [
-            "på"
+            "varme"
           ],
-          "explain": "Preis, Name, Farbe einer Sache: på (prisen på boka)."
+          "explain": "den varme lua si – Adjektiv mit -e."
         },
         {
-          "prompt": "Hun forsto bare halvparten ___ forelesningen.",
-          "de": "Sie verstand nur die Hälfte der Vorlesung.",
+          "prompt": "Mitt ___ rom er fullt av kofferter. (ny)",
+          "de": "Mein neues Zimmer ist voller Koffer.",
           "answer": [
-            "av"
+            "nye"
           ],
-          "explain": "Ein Teil von etwas: av (halvparten av forelesningen)."
+          "explain": "Possessiv davor: mitt nye rom, nicht *mitt nytt rom."
         },
         {
-          "prompt": "Vet du navnet ___ gata der Inga bor?",
-          "de": "Weißt du den Namen der Straße, in der Inga wohnt?",
+          "prompt": "Susanne skrev lista i den ___ notatboka si. (rød)",
+          "de": "Susanne schrieb die Liste in ihr rotes Notizbuch.",
           "answer": [
-            "på"
+            "røde"
           ],
-          "explain": "Der Name einer Sache: navnet på gata."
+          "explain": "den røde notatboka si – Adjektiv mit -e, Substantiv bestimmt."
         },
         {
-          "prompt": "Mora ___ Inga bor fortsatt i Kautokeino.",
-          "de": "Ingas Mutter wohnt immer noch in Kautokeino.",
+          "prompt": "Inga bruker fortsatt sin ___ ordbok fra skolen. (gammel)",
+          "de": "Inga benutzt immer noch ihr altes Wörterbuch aus der Schule.",
           "answer": [
-            "til"
+            "gamle"
           ],
-          "explain": "Person als Besitzer: mora til Inga."
+          "explain": "Possessiv davor: sin gamle ordbok – Adjektiv mit -e, Substantiv unbestimmt."
         },
         {
-          "prompt": "Inga viste Susanne et bilde ___ familien sin.",
-          "de": "Inga zeigte Susanne ein Bild ihrer Familie.",
+          "prompt": "Våre ___ naboer er studenter fra Italia. (ny)",
+          "de": "Unsere neuen Nachbarn sind Studenten aus Italien.",
           "answer": [
-            "av"
+            "nye"
           ],
-          "explain": "Ein Bild von jemandem: et bilde av …"
+          "explain": "Possessiv davor, Plural: våre nye naboer."
         },
         {
-          "prompt": "Han er en god venn ___ meg.",
-          "de": "Er ist ein guter Freund von mir.",
+          "prompt": "De ___ bøkene mine ligger fortsatt i Oslo. (norsk)",
+          "de": "Meine norwegischen Bücher liegen noch in Oslo.",
           "answer": [
-            "av"
+            "norske"
           ],
-          "explain": "„Ein Freund von mir“ = en venn av meg (einer aus der Gruppe meiner Freunde)."
+          "explain": "de norske bøkene mine – doppelte Bestimmtheit, Adjektiv mit -e."
         },
         {
-          "prompt": "Fargen ___ huset er gul.",
-          "de": "Die Farbe des Hauses ist gelb.",
+          "prompt": "Matthias skrev om den ___ leiligheten sin i Bergen. (ny)",
+          "de": "Matthias schrieb über seine neue Wohnung in Bergen.",
           "answer": [
-            "på"
+            "nye"
           ],
-          "explain": "Eigenschaft einer Sache (Farbe, Preis, Name): på (fargen på huset)."
-        },
-        {
-          "prompt": "Dette er en ___ de beste bøkene om dialekter.",
-          "de": "Das ist eines der besten Bücher über Dialekte.",
-          "answer": [
-            "av"
-          ],
-          "explain": "„Eines von / einer von“: en av, et av."
-        },
-        {
-          "prompt": "Lysene ___ byen glitret i mørket.",
-          "de": "Die Lichter der Stadt glitzerten in der Dunkelheit.",
-          "answer": [
-            "i",
-            "fra"
-          ],
-          "explain": "Etwas, das sich an einem Ort befindet: i (lysene i byen). Auch lysene fra byen ist richtig."
+          "explain": "den nye leiligheten sin – Adjektiv mit -e."
         }
       ]
     },
     {
-      "id": "g16_tid_konjunksjoner",
-      "title": "Temporale Konjunktionen",
-      "titleNo": "tidskonjunksjoner",
-      "summary": "da, når, mens, før, etter at, til, siden und så snart leiten Zeitsätze ein; steht der Nebensatz vorn, folgt im Hauptsatz die Inversion.",
+      "id": "g16_egen",
+      "title": "egen",
+      "titleNo": "egen",
+      "summary": "egen/eget/egne heißt »eigen«: mitt eget rom, sin egen dialekt, mine egne bøker – nach dem Possessiv im Singular ohne -e!",
       "sections": [
         {
-          "h": "da oder når?",
-          "body": "Das deutsche „als“ und „wenn“ entsprechen nicht genau **da** und **når**:\n\n• **da** = als: einmal, in der Vergangenheit. **Da Susanne kom til Tromsø, var det mørkt.**\n• **når** = wenn: immer wieder (Vergangenheit oder Gegenwart) und in der Zukunft. **Når jeg kommer hjem, ringer jeg deg.** **Når det snødde, gikk vi på ski.** (jedes Mal, wenn)\n\nFaustregel: Nur ein einziges Mal in der Vergangenheit → **da**. Alles andere → **når**. Typischer Fehler: *Når jeg var liten, …* ist nur richtig, wenn man „immer wenn“ meint; für die Kindheit als Zeitraum sagt man **Da jeg var liten, bodde jeg i Freiburg.**"
-        },
-        {
-          "h": "Weitere Zeitkonjunktionen",
-          "body": "Alle Zeitkonjunktionen leiten einen Nebensatz ein. Achte auf **etter at** (zwei Wörter) und auf **til** und **siden**, die auch Präpositionen sind (**til jul**, **siden mandag**).",
+          "h": "Die Formen",
+          "body": "**egen** (m/f), **eget** (n), **egne** (Plural):\n\n• **min egen ordbok**, **mi egen notatbok**, **mitt eget rom**, **mine egne bøker**\n• **hans egen bil**, **hennes eget studentkort**, **deres egne regler**\n• auch nach einem Genitiv: **Ingas eget rom**\n\n**egen** steht vor dem Substantiv, das Substantiv bleibt unbestimmt. Aber Achtung, eine Ausnahme: Nach einem Possessiv bekommen normale Adjektive ein **-e** (**min nye bil**), **egen** im Singular aber nicht: **min egen bil** (nicht *min egne bil*), **mitt eget rom** (nicht *mitt egne rom*). Nur im Plural und in der (seltenen) bestimmten Form steht **egne**: **mine egne bøker**, **det egne rommet**.",
           "table": [
             [
-              "Norwegisch",
-              "Deutsch",
-              "Beispiel"
+              "",
+              "maskulin/feminin",
+              "neutrum",
+              "Plural"
             ],
             [
-              "**mens**",
-              "während",
-              "**Mens de spiste, skrev hun en liste.**"
+              "nach Possessiv",
+              "**min egen ordbok**",
+              "**mitt eget rom**",
+              "**mine egne bøker**"
             ],
             [
-              "**før**",
-              "bevor",
-              "**Før hun gikk, viste Inga henne veien.**"
+              "mit sin/si/sitt/sine",
+              "**sin egen dialekt**",
+              "**sitt eget språk**",
+              "**sine egne meninger**"
             ],
             [
-              "**etter at**",
-              "nachdem",
-              "**Etter at møtet var slutt, hentet hun kortet.**"
-            ],
-            [
-              "**til**",
-              "bis",
-              "**Hun ventet til det var hennes tur.**"
-            ],
-            [
-              "**siden**",
-              "seit(dem)",
-              "**Siden hun kom, har det snødd hver dag.**"
-            ],
-            [
-              "**så snart**",
-              "sobald",
-              "**Så snart hun hadde fått kortet, gikk hun.**"
+              "unbestimmt",
+              "**en egen inngang**",
+              "**et eget rom**",
+              "**egne rom**"
             ]
           ]
         },
         {
-          "h": "Wortstellung: Inversion nach dem Nebensatz",
-          "body": "Im Nebensatz steht das Verb **nicht** am Ende (anders als im Deutschen): **da hun kom hjem** (als sie nach Hause kam).\n\nSteht der Nebensatz am Anfang, zählt er als erstes Satzglied. Im Hauptsatz kommt dann sofort das Verb, danach das Subjekt – genau wie im Deutschen:\n\n• **Da hun kom hjem, var det mørkt.** (Als sie heimkam, war es dunkel.)\n• **Etter at møtet var slutt, gikk hun til biblioteket.**\n\nSatzadverbien wie **ikke** stehen im Nebensatz vor dem Verb: **Da hun ikke fant bussen, gikk hun til fots.** (Als sie den Bus nicht fand, ging sie zu Fuß.)"
+          "h": "Mit sin und ohne Possessiv",
+          "body": "Mit dem reflexiven Possessiv (Lektion 15): **Inga har sitt eget rom.** **Hvert sted har sin egen dialekt.** **Studentene har sine egne meninger.**\n\nAuch mit unbestimmtem Artikel oder ganz ohne Artikel, oft im Sinn von »separat, für sich«: **et eget rom** (ein eigenes Zimmer), **en egen inngang** (ein separater Eingang), **Leiligheten har eget bad.** (Die Wohnung hat ein eigenes Bad – ohne Artikel, wie **ha bil**.)"
+        },
+        {
+          "h": "Feste Wendungen",
+          "body": "• **på egen hånd** = auf eigene Faust\n• **for egen regning** = auf eigene Kosten\n• **med egne øyne** = mit eigenen Augen\n• **Det er din egen sak.** = Das ist deine Sache. / Das geht nur dich etwas an.\n• **hver sin / hvert sitt eget …** = jeder sein eigenes …: **De har hvert sitt eget rom.**"
         }
       ],
       "drills": [
         {
-          "prompt": "___ Susanne kom til Tromsø, var det mørkt. (als – ein einziges Mal)",
-          "de": "Als Susanne nach Tromsø kam, war es dunkel.",
+          "prompt": "Inga har sitt ___ rom i leiligheten. (egen)",
+          "de": "Inga hat ihr eigenes Zimmer in der Wohnung.",
           "answer": [
-            "Da"
+            "eget"
           ],
-          "explain": "Ein einzelnes Ereignis in der Vergangenheit: da."
+          "explain": "et rom ist Neutrum → eget; nach dem Possessiv kein -e."
         },
         {
-          "prompt": "___ jeg er ferdig med forelesningen, ringer jeg deg. (wenn – Zukunft)",
-          "de": "Wenn ich mit der Vorlesung fertig bin, rufe ich dich an.",
+          "prompt": "«Hvert sted i Norge har sin ___ dialekt», sa professoren. (egen)",
+          "de": "„Jeder Ort in Norwegen hat seinen eigenen Dialekt“, sagte der Professor.",
           "answer": [
-            "Når"
+            "egen"
           ],
-          "explain": "Zukunft: når."
+          "explain": "sin richtet sich nach dialekt (en-Wort) → sin egen dialekt."
         },
         {
-          "prompt": "___ det er mørketid, tenner folk mange lys. (wenn – immer wieder)",
-          "de": "Wenn Polarnacht ist, zünden die Leute viele Lichter an.",
+          "prompt": "Studentene har sine ___ meninger om nynorsk. (egen)",
+          "de": "Die Studierenden haben ihre eigenen Meinungen über Nynorsk.",
           "answer": [
-            "Når"
+            "egne"
           ],
-          "explain": "Wiederholung (jedes Mal, wenn): når."
+          "explain": "Plural → egne."
         },
         {
-          "prompt": "___ jeg var liten, bodde jeg i Freiburg. (als)",
-          "de": "Als ich klein war, wohnte ich in Freiburg.",
+          "prompt": "Leiligheten har en ___ inngang. (egen)",
+          "de": "Die Wohnung hat einen separaten Eingang.",
           "answer": [
-            "Da"
+            "egen"
           ],
-          "explain": "Ein abgeschlossener Zeitraum in der Vergangenheit: da."
+          "explain": "en inngang → en egen inngang (eigener, separater Eingang)."
         },
         {
-          "prompt": "Inga lagde kaffe ___ Susanne pakket ut. (gleichzeitig)",
-          "de": "Inga kochte Kaffee, während Susanne auspackte.",
+          "prompt": "Jeg vil se nordlyset med mine ___ øyne. (egen)",
+          "de": "Ich will das Nordlicht mit eigenen Augen sehen.",
           "answer": [
-            "mens"
+            "egne"
           ],
-          "explain": "Gleichzeitigkeit: mens."
+          "explain": "Plural (øyne) → egne."
         },
         {
-          "prompt": "Du må registrere deg ___ du kan ta eksamen. (bevor)",
-          "de": "Du musst dich registrieren, bevor du die Prüfung ablegen kannst.",
+          "prompt": "Susanne vil skrive sin ___ oppgave om nordnorsk. (egen)",
+          "de": "Susanne will ihre eigene Arbeit über Nordnorwegisch schreiben.",
           "answer": [
-            "før"
+            "egen"
           ],
-          "explain": "bevor = før."
+          "explain": "en oppgave, Singular nach Possessiv → egen."
         },
         {
-          "prompt": "___ møtet var slutt, gikk hun til biblioteket. (nachdem)",
-          "de": "Nachdem die Veranstaltung zu Ende war, ging sie in die Bibliothek.",
+          "prompt": "Inga og Susanne har hvert sitt ___ rom. (egen)",
+          "de": "Inga und Susanne haben jede ihr eigenes Zimmer.",
           "answer": [
-            "Etter at"
+            "eget"
           ],
-          "explain": "nachdem = etter at (zwei Wörter)."
+          "explain": "hvert sitt eget rom – Neutrum Singular."
         },
         {
-          "prompt": "Hun ventet i køen ___ det var hennes tur. (bis)",
-          "de": "Sie wartete in der Schlange, bis sie an der Reihe war.",
+          "prompt": "Susanne gikk rundt i byen på ___ hånd. (egen)",
+          "de": "Susanne ging auf eigene Faust durch die Stadt.",
           "answer": [
-            "til",
-            "helt til"
+            "egen"
           ],
-          "explain": "bis = til (als Konjunktion)."
+          "explain": "Feste Wendung: på egen hånd = auf eigene Faust."
         },
         {
-          "prompt": "Inga har bodd i Tromsø ___ hun begynte å studere. (seit)",
-          "de": "Inga wohnt in Tromsø, seit sie angefangen hat zu studieren.",
+          "prompt": "Med familien snakker Inga sitt ___ språk, nordsamisk. (egen)",
+          "de": "Mit der Familie spricht Inga ihre eigene Sprache, Nordsamisch.",
           "answer": [
-            "siden"
+            "eget"
           ],
-          "explain": "seit(dem) = siden; dazu Perfekt im Hauptsatz (har bodd)."
+          "explain": "et språk → sitt eget språk."
         },
         {
-          "prompt": "Matthias svarte ___ han hadde lest meldingen. (sobald)",
-          "de": "Matthias antwortete, sobald er die Nachricht gelesen hatte.",
+          "prompt": "Har leiligheten ___ bad? (eigenes)",
+          "de": "Hat die Wohnung ein eigenes Bad?",
           "answer": [
-            "så snart",
-            "straks"
+            "eget",
+            "et eget"
           ],
-          "explain": "sobald = så snart (auch: straks)."
-        },
-        {
-          "prompt": "Da hun kom hjem, ___ mørkt. (det, være, preteritum)",
-          "de": "Als sie nach Hause kam, war es dunkel.",
-          "answer": [
-            "var det"
-          ],
-          "explain": "Der Nebensatz steht vorn → Inversion: Verb vor dem Subjekt (var det)."
-        },
-        {
-          "prompt": "Mens Susanne spiste, ___ en liste. (hun, skrive, preteritum)",
-          "de": "Während Susanne aß, schrieb sie eine Liste.",
-          "answer": [
-            "skrev hun"
-          ],
-          "explain": "Nach dem vorangestellten Nebensatz: Verb – Subjekt (skrev hun)."
+          "explain": "et bad → eget bad; ohne Artikel wie ha bil (mit Artikel: et eget bad)."
         }
       ]
     },
     {
-      "id": "g16_konjunksjoner",
-      "title": "Kausale, konditionale und andere Konjunktionen",
-      "titleNo": "underordnende konjunksjoner",
-      "summary": "fordi/siden (Grund), hvis/om (Bedingung), for at (Zweck), så (at) (Folge), selv om (Gegensatz), som om/enn (Vergleich) – im Nebensatz: Subjekt – ikke – Verb.",
+      "id": "g16_resiproke",
+      "title": "s-Verben mit reziproker Bedeutung",
+      "titleNo": "resiproke verb og hverandre",
+      "summary": "»einander, sich (gegenseitig)« drückst du mit einem s-Verb aus (Vi sees! Vi møtes i kantina.) oder mit hverandre (De hjelper hverandre).",
       "sections": [
         {
-          "h": "Die Konjunktionen im Überblick",
-          "body": "Diese Konjunktionen leiten Nebensätze ein. **siden** kann „seit“ (Zeit) oder „da, weil“ (Grund) bedeuten; **om** kann „wenn, falls“ oder „ob“ bedeuten – der Zusammenhang entscheidet.",
-          "table": [
-            [
-              "Bedeutung",
-              "Norwegisch",
-              "Deutsch",
-              "Beispiel"
-            ],
-            [
-              "Grund",
-              "**fordi**, **siden**",
-              "weil, da",
-              "**Hun var sliten fordi hun hadde sovet dårlig.**"
-            ],
-            [
-              "Bedingung",
-              "**hvis**, **om**",
-              "wenn, falls",
-              "**Hvis du vil, kan du skrive om nordnorsk.**"
-            ],
-            [
-              "Zweck",
-              "**for at**",
-              "damit",
-              "**Inga snakker langsomt for at Susanne skal forstå.**"
-            ],
-            [
-              "Folge",
-              "**så (at)**",
-              "sodass, so … dass",
-              "**Køen var så lang at hun måtte vente.**"
-            ],
-            [
-              "Gegensatz",
-              "**selv om**",
-              "obwohl",
-              "**Det var mørkt, selv om klokka bare var fire.**"
-            ],
-            [
-              "Vergleich",
-              "**som om**, **enn**",
-              "als ob, als",
-              "**Han lo som om han fortalte vitser.**"
-            ]
-          ]
+          "h": "s-Verben mit gegenseitiger Bedeutung",
+          "body": "Einige Verben bekommen mit **-s** die Bedeutung »einander, sich gegenseitig«. Das Subjekt steht immer im Plural:\n\n• **møte → møtes** (sich treffen): **Vi møtes i kantina klokka tolv.**\n• **se → sees/ses** (sich sehen): **Vi sees i morgen!**\n• **treffe → treffes** (sich treffen): **Når kan vi treffes?**\n• **snakke → snakkes**: **Vi snakkes!** (Wir hören uns!)\n• **høre → høres**: **Vi høres!** (Wir hören voneinander!)\n\nDie Form sieht aus wie das s-Passiv (Lektion 18), hat aber eine aktive, gegenseitige Bedeutung."
         },
         {
-          "h": "Wortstellung im Nebensatz: Subjekt – ikke – Verb",
-          "body": "Im Nebensatz steht das Verb nie am Ende. Satzadverbien wie **ikke**, **aldri**, **alltid**, **ofte**, **bare** stehen **vor** dem gebeugten Verb:\n\n• Hauptsatz: **Hun forsto ikke alt.**\n• Nebensatz: **… selv om hun ikke forsto alt.** (… obwohl sie nicht alles verstand.)\n• **… fordi jeg ikke er vant til dialekten.**\n\nTypischer Fehler deutscher Lernender: *fordi jeg er ikke vant til dialekten* (Hauptsatz-Stellung) oder *fordi jeg dialekten ikke vant er* (deutsche Stellung)."
+          "h": "Die Zeitformen",
+          "body": "Präsens und Infinitiv sind gleich: **vi møtes, vi sees, de treffes**. Im Präteritum sind vor allem **møttes** und **traffes** häufig: **De møttes på et kurs.** (Sie haben sich bei einem Kurs kennengelernt.)\n\nIm Perfekt und bei anderen Verben nimmt man meist **hverandre**: **Vi har ikke sett hverandre på lenge.** (Wir haben uns lange nicht gesehen.)\n\n**Vi snakkes!**, **Vi sees!** und **Vi høres!** sind feste Abschiedsformeln – sehr häufig am Telefon und in Nachrichten."
         },
         {
-          "h": "fordi oder for? så oder så at?",
-          "body": "• **fordi** (weil) leitet einen Nebensatz ein. **for** (denn) verbindet zwei Hauptsätze (Lektion 14): **Hun gikk hjem, for hun var sliten.**\n• **så** allein (also, deshalb) verbindet zwei Hauptsätze: **Det var lang kø, så hun måtte vente.** Mit **så … at** (so … dass) steht **så** vor einem Adjektiv oder Adverb: **Han snakket så fort at hun ikke forsto noe.**\n• **hvis** und **om** sind beide richtig; **hvis** ist im Bedingungssatz häufiger."
+          "h": "hverandre = einander",
+          "body": "Bei allen anderen Verben steht **hverandre** (einander). Es ist unveränderlich:\n\n• **De så på hverandre.** (Sie sahen einander an.)\n• **De hjelper hverandre med oppgavene.** (Sie helfen sich gegenseitig bei den Aufgaben.)\n• **Vi skriver til hverandre hver dag.** (Wir schreiben uns jeden Tag.)\n\nPräpositionen stehen davor: **med hverandre** (miteinander), **ved siden av hverandre** (nebeneinander), **fra hverandre** (auseinander). Genitiv: **hverandres**: **De låner hverandres klær.**\n\nAchtung: Wo das Deutsche »sich« sagt, musst du unterscheiden: **De vasker seg** (jeder sich selbst) – **De vasker hverandre** (einer den anderen). **seg** ist nur reflexiv, nie gegenseitig."
         }
       ],
       "drills": [
         {
-          "prompt": "Susanne var sliten ___ hun hadde sovet dårlig. (weil)",
-          "de": "Susanne war müde, weil sie schlecht geschlafen hatte.",
+          "prompt": "Susanne og studenten fra Italia ___ i kantina dagen etter. (møtes, preteritum)",
+          "de": "Susanne und der Student aus Italien trafen sich am nächsten Tag in der Kantine.",
           "answer": [
-            "fordi",
-            "siden"
+            "møttes"
           ],
-          "explain": "Grund: fordi (auch siden ist möglich)."
+          "explain": "Präteritum von møtes: møttes."
         },
         {
-          "prompt": "___ det regner i morgen, blir vi hjemme. (wenn, falls)",
-          "de": "Wenn es morgen regnet, bleiben wir zu Hause.",
+          "prompt": "Lykke til! Vi ___ i kveld! (se)",
+          "de": "Viel Glück! Wir sehen uns heute Abend!",
           "answer": [
-            "Hvis",
-            "Om"
+            "sees",
+            "ses"
           ],
-          "explain": "Bedingung: hvis oder om."
+          "explain": "Vi sees/ses = Wir sehen uns; beide Schreibweisen sind richtig."
         },
         {
-          "prompt": "Inga snakket langsomt ___ Susanne kunne forstå henne. (damit)",
-          "de": "Inga sprach langsam, damit Susanne sie verstehen konnte.",
+          "prompt": "Vi ___! Ring meg i morgen. (snakke)",
+          "de": "Wir hören uns! Ruf mich morgen an.",
           "answer": [
-            "for at",
-            "slik at",
-            "så"
+            "snakkes"
           ],
-          "explain": "Zweck: for at (damit). Im Alltag hört man auch slik at oder einfach så."
+          "explain": "Feste Abschiedsformel: Vi snakkes!"
         },
         {
-          "prompt": "Det var lang kø, ___ hun måtte vente i en time. (deshalb, sodass)",
-          "de": "Es war eine lange Schlange, sodass sie eine Stunde warten musste.",
+          "prompt": "Skal vi ___ i kantina klokka tolv? (møte, gegenseitig)",
+          "de": "Wollen wir uns um zwölf in der Kantine treffen?",
           "answer": [
-            "så",
-            "så at",
-            "slik at"
+            "møtes"
           ],
-          "explain": "Folge: så (at)."
+          "explain": "møtes = sich treffen; nach skal steht der Infinitiv."
         },
         {
-          "prompt": "Professoren snakket så fort ___ Susanne ikke forsto noe. (dass)",
-          "de": "Der Professor sprach so schnell, dass Susanne nichts verstand.",
+          "prompt": "Når kan vi ___ igjen? (treffe, gegenseitig)",
+          "de": "Wann können wir uns wieder treffen?",
           "answer": [
-            "at"
+            "treffes"
           ],
-          "explain": "so … dass = så … at."
+          "explain": "treffe + s = treffes (sich treffen); nach kan steht der Infinitiv."
         },
         {
-          "prompt": "Hun gikk på forelesningen ___ hun var forkjølet. (obwohl)",
-          "de": "Sie ging in die Vorlesung, obwohl sie erkältet war.",
+          "prompt": "Vi ___, Matthias! Jeg ringer deg i helga. (høre)",
+          "de": "Wir hören voneinander, Matthias! Ich rufe dich am Wochenende an.",
           "answer": [
-            "selv om"
+            "høres"
           ],
-          "explain": "Gegensatz: selv om (obwohl)."
+          "explain": "Feste Abschiedsformel: Vi høres!"
         },
         {
-          "prompt": "Han lo ___ han fortalte vitser hele tiden. (als ob)",
-          "de": "Er lachte, als ob er die ganze Zeit Witze erzählte.",
+          "prompt": "Inga og Susanne hjelper ___ med oppgavene. (einander)",
+          "de": "Inga und Susanne helfen sich gegenseitig bei den Aufgaben.",
           "answer": [
-            "som om"
+            "hverandre"
           ],
-          "explain": "Vergleich, nicht wirklich: som om (als ob). Kein Konjunktiv wie im Deutschen nötig."
+          "explain": "»sich gegenseitig« = hverandre, nicht seg."
         },
         {
-          "prompt": "Tromsø er mye mindre ___ Oslo. (als)",
-          "de": "Tromsø ist viel kleiner als Oslo.",
+          "prompt": "Inga og Susanne låner ofte ___ klær. (gegenseitig – Genitiv)",
+          "de": "Inga und Susanne leihen sich oft gegenseitig ihre Kleider.",
           "answer": [
-            "enn"
+            "hverandres"
           ],
-          "explain": "Vergleich nach dem Komparativ: enn."
+          "explain": "Genitiv: hverandres = des/der anderen."
         },
         {
-          "prompt": "Hun var glad, selv om hun ___. (ikke, forstå alt, preteritum)",
-          "de": "Sie war froh, obwohl sie nicht alles verstand.",
+          "prompt": "Studentene satt ved siden av ___ i forelesningen. (einander)",
+          "de": "Die Studierenden saßen in der Vorlesung nebeneinander.",
           "answer": [
-            "ikke forsto alt",
-            "ikke skjønte alt"
+            "hverandre"
           ],
-          "explain": "Im Nebensatz steht ikke vor dem Verb: selv om hun ikke forsto alt."
+          "explain": "ved siden av hverandre = nebeneinander."
         },
         {
-          "prompt": "Jeg spør Inga fordi jeg ___. (ikke, være vant til dialekten, presens)",
-          "de": "Ich frage Inga, weil ich den Dialekt nicht gewohnt bin.",
+          "prompt": "Susanne og Matthias har ikke sett ___ siden oktober. (einander)",
+          "de": "Susanne und Matthias haben sich seit Oktober nicht gesehen.",
           "answer": [
-            "ikke er vant til dialekten"
+            "hverandre"
           ],
-          "explain": "Nebensatz: Subjekt – ikke – Verb (fordi jeg ikke er …)."
+          "explain": "Im Perfekt nimmt man hverandre: har sett hverandre."
         },
         {
-          "prompt": "Du kan låne bøkene mine ___ du trenger dem. (wenn, falls)",
-          "de": "Du kannst meine Bücher ausleihen, wenn du sie brauchst.",
+          "prompt": "De to studentene så på ___ og lo. (einander)",
+          "de": "Die beiden Studierenden sahen einander an und lachten.",
           "answer": [
-            "hvis",
-            "om"
+            "hverandre"
           ],
-          "explain": "Bedingung: hvis oder om."
+          "explain": "se på hverandre = einander ansehen."
         }
       ]
     }
@@ -1021,10 +1040,10 @@
       "why": "Sie hatte schlecht geschlafen, weil sie so aufgeregt war."
     },
     {
-      "s": "Inga kommer fra Kautokeino og studerer biologi.",
-      "de": "Inga kommt aus Kautokeino und studiert Biologie.",
+      "s": "Susanne og Inga hadde hvert sitt rom.",
+      "de": "Susanne und Inga hatten jede ein eigenes Zimmer.",
       "a": true,
-      "why": "Inga ist eine 23-jährige Samin aus Kautokeino und studiert Biologie."
+      "why": "„De hadde hvert sitt eget rom.“"
     },
     {
       "s": "Rommet til Susanne var lite og ryddig.",
@@ -1214,12 +1233,11 @@
   ],
   "translate": [
     {
-      "de": "Als ich nach Tromsø kam, war es dunkel.",
+      "de": "Ist hier jemand, der Deutsch spricht?",
       "no": [
-        "Da jeg kom til Tromsø, var det mørkt.",
-        "Det var mørkt da jeg kom til Tromsø."
-      ],
-      "hint": "einmal in der Vergangenheit → da; danach Inversion"
+        "Er det noen her som snakker tysk?",
+        "Er det noen som snakker tysk her?"
+      ]
     },
     {
       "de": "Ingas Zimmer ist klein und ordentlich.",
@@ -1237,11 +1255,10 @@
       ]
     },
     {
-      "de": "Während Inga kochte, schrieb Susanne eine Liste.",
+      "de": "Inga hat ihr eigenes Zimmer.",
       "no": [
-        "Mens Inga lagde mat, skrev Susanne en liste.",
-        "Mens Inga laget mat, skrev Susanne en liste.",
-        "Susanne skrev en liste mens Inga lagde mat."
+        "Inga har sitt eget rom.",
+        "Inga har eget rom."
       ]
     },
     {
@@ -1252,33 +1269,38 @@
       ]
     },
     {
-      "de": "Sie ist eine Freundin von mir.",
+      "de": "Ich habe nichts verstanden.",
       "no": [
-        "Hun er en venninne av meg.",
-        "Hun er ei venninne av meg.",
-        "Hun er en venn av meg."
+        "Jeg forsto ingenting.",
+        "Jeg forsto ikke noe.",
+        "Jeg skjønte ingenting.",
+        "Jeg skjønte ikke noe.",
+        "Jeg har ikke forstått noe.",
+        "Jeg har ikke skjønt noe."
+      ],
+      "hint": "Mit Perfekt nur ikke … noe."
+    },
+    {
+      "de": "Wir sehen uns heute Abend!",
+      "no": [
+        "Vi sees i kveld!",
+        "Vi ses i kveld!"
       ]
     },
     {
-      "de": "Weißt du den Namen der Straße?",
+      "de": "Mein neues Zimmer ist voller Koffer.",
       "no": [
-        "Vet du navnet på gata?",
-        "Vet du navnet på gaten?"
+        "Det nye rommet mitt er fullt av kofferter.",
+        "Mitt nye rom er fullt av kofferter."
       ]
     },
     {
-      "de": "Ich lerne Norwegisch, damit ich mit Inga sprechen kann.",
+      "de": "Wir treffen uns um zwölf in der Kantine.",
       "no": [
-        "Jeg lærer norsk for at jeg skal kunne snakke med Inga.",
-        "Jeg lærer norsk for at jeg kan snakke med Inga.",
-        "Jeg lærer norsk for å kunne snakke med Inga."
-      ]
-    },
-    {
-      "de": "Sobald ich die Nachricht gelesen hatte, rief ich dich an.",
-      "no": [
-        "Så snart jeg hadde lest meldingen, ringte jeg deg.",
-        "Jeg ringte deg så snart jeg hadde lest meldingen."
+        "Vi møtes i kantina/kantinen klokka/klokken tolv.",
+        "Vi møtes klokka/klokken tolv i kantina/kantinen.",
+        "Vi treffes i kantina/kantinen klokka/klokken tolv.",
+        "Vi treffes klokka/klokken tolv i kantina/kantinen."
       ]
     },
     {
@@ -1343,14 +1365,14 @@
     13
   ],
   "writing": {
-    "prompt": "Schreibe eine E-Mail an Torunn, deine Lehrerin aus dem Sprachkurs in Oslo, über deinen ersten Tag an einer neuen Universität. Was hast du gemacht? Was hast du verstanden und was nicht? Verwende mindestens zwei Zeitkonjunktionen (da, når, mens, etter at, så snart) und selv om oder fordi.",
+    "prompt": "Schreibe eine E-Mail an Torunn, deine Lehrerin aus dem Sprachkurs in Oslo, über deinen ersten Tag an einer neuen Universität (90–110 Wörter). Was hast du gemacht? Wie wohnst du? Was hast du verstanden und was nicht? Verwende noe/noen, ingen oder ingenting, ein Adjektiv nach einem Possessiv (det nye rommet mitt) oder egen – und verabschiede dich mit Vi snakkes! oder Vi høres!",
     "minWords": 90,
     "useWords": [
-      "da",
-      "etter at",
-      "selv om",
+      "ingenting",
+      "eget",
+      "rommet mitt",
       "forelesningen",
-      "biblioteket"
+      "Vi snakkes"
     ],
     "checklist": [
       {
@@ -1362,30 +1384,33 @@
         ]
       },
       {
-        "de": "Eine Zeitkonjunktion",
+        "de": "noe/noen, ingen oder ingenting",
         "keywords": [
-          "da",
-          "etter at",
-          "så snart",
-          "mens"
+          "noe",
+          "noen",
+          "ingen",
+          "ingenting"
         ]
       },
       {
-        "de": "Was du (nicht) verstanden hast",
+        "de": "Adjektiv nach Possessiv oder egen",
         "keywords": [
-          "forsto",
-          "skjønte"
+          "rommet mitt",
+          "eget",
+          "egen",
+          "egne"
         ]
       },
       {
-        "de": "Ein Gegensatz oder Grund (selv om / fordi)",
+        "de": "Abschiedsformel (Vi snakkes / Vi sees / Vi høres)",
         "keywords": [
-          "selv om",
-          "fordi"
+          "Vi snakkes",
+          "Vi sees",
+          "Vi høres"
         ]
       }
     ],
-    "model": "Hei, Torunn!\nI går kveld landet jeg i Tromsø, og i dag hadde jeg min første dag på universitetet. Da jeg våknet, var det fortsatt mørkt. Etter at jeg hadde vært på informasjonsmøtet, hentet jeg studentkortet mitt og gikk til biblioteket. Der lånte jeg tre bøker om norske dialekter. Den første forelesningen var i nordisk språkvitenskap. Professoren snakket nordnorsk, og jeg forsto bare halvparten, selv om jeg hørte godt etter. Men professoren var veldig hyggelig. Han sa at jeg kommer til å forstå mer når jeg har bodd her en stund. Takk for alt du lærte meg i Oslo!\nHilsen Susanne",
-    "modelDe": "Hallo, Torunn!\nGestern Abend bin ich in Tromsø gelandet, und heute hatte ich meinen ersten Tag an der Universität. Als ich aufwachte, war es noch dunkel. Nachdem ich bei der Infoveranstaltung gewesen war, holte ich meinen Studentenausweis ab und ging in die Bibliothek. Dort lieh ich drei Bücher über norwegische Dialekte aus. Die erste Vorlesung war in Nordischer Sprachwissenschaft. Der Professor sprach Nordnorwegisch, und ich verstand nur die Hälfte, obwohl ich gut zuhörte. Aber der Professor war sehr nett. Er sagte, dass ich mehr verstehen werde, wenn ich eine Weile hier gewohnt habe. Danke für alles, was du mir in Oslo beigebracht hast!\nViele Grüße, Susanne"
+    "model": "Hei, Torunn!\nI går kveld landet jeg i Tromsø, og i dag hadde jeg min første dag på universitetet. Jeg deler leilighet med Inga, en hyggelig samisk jente, men jeg har mitt eget rom. Det nye rommet mitt er lite, men det har utsikt mot fjellene. Etter informasjonsmøtet hentet jeg studentkortet mitt og gikk til biblioteket. Den første forelesningen var i nordisk språkvitenskap. Professoren snakket nordnorsk, og jeg forsto bare halvparten, selv om jeg hørte godt etter. Men det gjør ingenting: Han var veldig hyggelig, og her er alle så uformelle. I morgen skal jeg møte noen andre utvekslingsstudenter. Takk for alt du lærte meg i Oslo!\nVi snakkes!\nHilsen Susanne",
+    "modelDe": "Hallo, Torunn!\nGestern Abend bin ich in Tromsø gelandet, und heute hatte ich meinen ersten Tag an der Universität. Ich teile mir eine Wohnung mit Inga, einer netten Samin, aber ich habe mein eigenes Zimmer. Mein neues Zimmer ist klein, aber es hat Blick auf die Berge. Nach der Infoveranstaltung habe ich meinen Studentenausweis abgeholt und bin in die Bibliothek gegangen. Die erste Vorlesung war in Nordischer Sprachwissenschaft. Der Professor sprach Nordnorwegisch, und ich habe nur die Hälfte verstanden, obwohl ich gut zugehört habe. Aber das macht nichts: Er war sehr nett, und hier sind alle so locker. Morgen treffe ich ein paar andere Austauschstudierende. Danke für alles, was du mir in Oslo beigebracht hast!\nWir hören uns!\nViele Grüße, Susanne"
   }
 }

@@ -1,24 +1,5 @@
 [
   {
-    "id": "w12_diskutere",
-    "no": "diskutere",
-    "de": "diskutieren",
-    "pos": "verb",
-    "vf": [
-      "diskuterer",
-      "diskuterte",
-      "diskutert",
-      "diskuter"
-    ],
-    "vg": "2",
-    "lesson": 12,
-    "wk": true,
-    "ex": {
-      "no": "De diskuterer hva de skal gjøre på søndag.",
-      "de": "Sie diskutieren, was sie am Sonntag machen sollen."
-    }
-  },
-  {
     "id": "w12_diskusjon",
     "no": "diskusjon",
     "de": "die Diskussion",
@@ -31,7 +12,6 @@
       "diskusjonene"
     ],
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Diskusjonen tok en hel time.",
       "de": "Die Diskussion dauerte eine ganze Stunde."
@@ -50,29 +30,9 @@
       "forslaga/forslagene"
     ],
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Susanne har tre forslag.",
       "de": "Susanne hat drei Vorschläge."
-    }
-  },
-  {
-    "id": "w12_foreslaa",
-    "no": "foreslå",
-    "de": "vorschlagen",
-    "pos": "verb",
-    "vf": [
-      "foreslår",
-      "foreslo",
-      "foreslått",
-      "foreslå"
-    ],
-    "vg": "sterk",
-    "lesson": 12,
-    "wk": true,
-    "ex": {
-      "no": "Jeg foreslår at vi tar bussen.",
-      "de": "Ich schlage vor, dass wir den Bus nehmen."
     }
   },
   {
@@ -91,7 +51,6 @@
       "enige"
     ],
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Jeg er helt enig med deg.",
       "de": "Ich bin ganz deiner Meinung."
@@ -113,7 +72,6 @@
       "uenige"
     ],
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Anna og Jonas er ofte uenige.",
       "de": "Anna und Jonas sind oft unterschiedlicher Meinung."
@@ -136,7 +94,6 @@
       "meningene"
     ],
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Etter min mening er parken finest.",
       "de": "Meiner Meinung nach ist der Park am schönsten."
@@ -160,7 +117,6 @@
     ],
     "vg": "2",
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Kan vi ikke bare stemme?",
       "de": "Können wir nicht einfach abstimmen?"
@@ -180,7 +136,6 @@
       "kompromissa/kompromissene"
     ],
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Vi må finne et kompromiss.",
       "de": "Wir müssen einen Kompromiss finden."
@@ -200,7 +155,6 @@
       "forskjellene"
     ],
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Hva er forskjellen på museene?",
       "de": "Was ist der Unterschied zwischen den Museen?"
@@ -223,7 +177,6 @@
       "poenga/poengene"
     ],
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Godt poeng!",
       "de": "Guter Punkt!"
@@ -242,7 +195,6 @@
     ],
     "vg": "sterk",
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Du overdriver, Jonas!",
       "de": "Du übertreibst, Jonas!"
@@ -261,30 +213,10 @@
       "ideene"
     ],
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Det er en god idé.",
       "de": "Das ist eine gute Idee."
     }
-  },
-  {
-    "id": "w12_passe",
-    "no": "passe",
-    "de": "passen",
-    "pos": "verb",
-    "vf": [
-      "passer",
-      "passet/passa",
-      "passet/passa",
-      "pass"
-    ],
-    "vg": "1",
-    "lesson": 12,
-    "ex": {
-      "no": "Det passer perfekt!",
-      "de": "Das passt perfekt!"
-    },
-    "note": "passe på = aufpassen."
   },
   {
     "id": "w12_kunst",
@@ -360,8 +292,8 @@
     ],
     "lesson": 12,
     "ex": {
-      "no": "Museet har tusenvis av malerier.",
-      "de": "Das Museum hat Tausende von Gemälden."
+      "no": "Munchmuseet har over tusen malerier.",
+      "de": "Das Munch-Museum hat über tausend Gemälde."
     }
   },
   {
@@ -406,24 +338,6 @@
     "ex": {
       "no": "Vigeland var billedhugger.",
       "de": "Vigeland war Bildhauer."
-    }
-  },
-  {
-    "id": "w12_sjokolade",
-    "no": "sjokolade",
-    "de": "die Schokolade",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "sjokolade",
-      "sjokoladen",
-      "sjokolader",
-      "sjokoladene"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Matthias har tatt med sveitsisk sjokolade.",
-      "de": "Matthias hat Schweizer Schokolade mitgebracht."
     }
   },
   {
@@ -514,29 +428,6 @@
     "ex": {
       "no": "Det nye bygget har tretten etasjer.",
       "de": "Das neue Gebäude hat dreizehn Stockwerke."
-    }
-  },
-  {
-    "id": "w12_topp",
-    "no": "topp",
-    "de": "die Spitze, der Gipfel",
-    "deAlt": [
-      "Spitze",
-      "Gipfel",
-      "oberstes Stockwerk"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "topp",
-      "toppen",
-      "topper",
-      "toppene"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Utsikten fra toppen er utrolig fin.",
-      "de": "Die Aussicht von oben ist unglaublich schön."
     }
   },
   {
@@ -775,24 +666,6 @@
     "note": "pent vær = schönes Wetter."
   },
   {
-    "id": "w12_interessant",
-    "no": "interessant",
-    "de": "interessant",
-    "pos": "adj",
-    "forms": [
-      "interessant",
-      "interessant",
-      "interessante",
-      "mer interessant",
-      "mest interessant"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Anna synes Munch er mer interessant.",
-      "de": "Anna findet Munch interessanter."
-    }
-  },
-  {
     "id": "w12_kjedelig",
     "no": "kjedelig",
     "de": "langweilig",
@@ -864,8 +737,8 @@
     ],
     "lesson": 12,
     "ex": {
-      "no": "Jonas er latere enn Ola.",
-      "de": "Jonas ist fauler als Ola."
+      "no": "Jonas er latere enn Henrik.",
+      "de": "Jonas ist fauler als Henrik."
     }
   },
   {
@@ -944,225 +817,6 @@
     }
   },
   {
-    "id": "w12_fodt",
-    "no": "født",
-    "de": "geboren",
-    "pos": "adj",
-    "forms": [
-      "født",
-      "født",
-      "fødte"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Munch ble født i 1863.",
-      "de": "Munch wurde 1863 geboren."
-    },
-    "note": "ble født = wurde geboren; Jeg er født i Freiburg = Ich bin in Freiburg geboren."
-  },
-  {
-    "id": "w12_rask",
-    "no": "rask",
-    "de": "schnell",
-    "pos": "adj",
-    "forms": [
-      "rask",
-      "raskt",
-      "raske",
-      "raskere",
-      "raskest"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Toget er raskere enn bussen.",
-      "de": "Der Zug ist schneller als der Bus."
-    }
-  },
-  {
-    "id": "w12_langsom",
-    "no": "langsom",
-    "de": "langsam",
-    "pos": "adj",
-    "forms": [
-      "langsom",
-      "langsomt",
-      "langsomme",
-      "langsommere",
-      "langsomst"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Snakk langsomt, er du snill!",
-      "de": "Sprich bitte langsam!"
-    }
-  },
-  {
-    "id": "w12_tydelig",
-    "no": "tydelig",
-    "de": "deutlich",
-    "pos": "adj",
-    "forms": [
-      "tydelig",
-      "tydelig",
-      "tydelige",
-      "tydeligere",
-      "tydeligst"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Torunn snakker veldig tydelig.",
-      "de": "Torunn spricht sehr deutlich."
-    }
-  },
-  {
-    "id": "w12_kraftig",
-    "no": "kraftig",
-    "de": "kräftig, heftig",
-    "deAlt": [
-      "kräftig",
-      "heftig",
-      "stark"
-    ],
-    "pos": "adj",
-    "forms": [
-      "kraftig",
-      "kraftig",
-      "kraftige",
-      "kraftigere",
-      "kraftigst"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Det regnet kraftig hele morgenen.",
-      "de": "Es regnete den ganzen Morgen heftig."
-    }
-  },
-  {
-    "id": "w12_perfekt",
-    "no": "perfekt",
-    "de": "perfekt",
-    "pos": "adj",
-    "forms": [
-      "perfekt",
-      "perfekt",
-      "perfekte"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Planen er perfekt.",
-      "de": "Der Plan ist perfekt."
-    }
-  },
-  {
-    "id": "w12_svaert",
-    "no": "svært",
-    "de": "sehr, äußerst",
-    "deAlt": [
-      "sehr",
-      "äußerst"
-    ],
-    "pos": "adv",
-    "lesson": 12,
-    "ex": {
-      "no": "Utstillingen var svært interessant.",
-      "de": "Die Ausstellung war äußerst interessant."
-    },
-    "note": "Etwas formeller als veldig."
-  },
-  {
-    "id": "w12_altfor",
-    "no": "altfor",
-    "de": "viel zu",
-    "pos": "adv",
-    "lesson": 12,
-    "ex": {
-      "no": "Det er altfor dyrt.",
-      "de": "Das ist viel zu teuer."
-    }
-  },
-  {
-    "id": "w12_temmelig",
-    "no": "temmelig",
-    "de": "ziemlich",
-    "pos": "adv",
-    "lesson": 12,
-    "ex": {
-      "no": "Filmen var temmelig kjedelig.",
-      "de": "Der Film war ziemlich langweilig."
-    },
-    "note": "Oft leicht negativ."
-  },
-  {
-    "id": "w12_noksaa",
-    "no": "nokså",
-    "de": "ziemlich",
-    "pos": "adv",
-    "lesson": 12,
-    "ex": {
-      "no": "Det er nokså langt til Bygdøy.",
-      "de": "Es ist ziemlich weit bis Bygdøy."
-    }
-  },
-  {
-    "id": "w12_utrolig",
-    "no": "utrolig",
-    "de": "unglaublich",
-    "pos": "adv",
-    "lesson": 12,
-    "ex": {
-      "no": "Utsikten er utrolig fin.",
-      "de": "Die Aussicht ist unglaublich schön."
-    },
-    "note": "Auch Adjektiv: en utrolig historie."
-  },
-  {
-    "id": "w12_helt",
-    "no": "helt",
-    "de": "ganz, völlig",
-    "deAlt": [
-      "ganz",
-      "völlig"
-    ],
-    "pos": "adv",
-    "lesson": 12,
-    "ex": {
-      "no": "Du har helt rett.",
-      "de": "Du hast ganz recht."
-    }
-  },
-  {
-    "id": "w12_kjempe",
-    "no": "kjempe-",
-    "de": "super-, riesig",
-    "deAlt": [
-      "super",
-      "riesig",
-      "Riesen-"
-    ],
-    "pos": "phrase",
-    "lesson": 12,
-    "ex": {
-      "no": "Bygget er kjempefint.",
-      "de": "Das Gebäude ist super schön."
-    },
-    "note": "Wird mit dem Adjektiv zusammengeschrieben: kjempefin, kjempegod."
-  },
-  {
-    "id": "w12_skikkelig",
-    "no": "skikkelig",
-    "de": "richtig (umgangssprachlich)",
-    "deAlt": [
-      "richtig",
-      "echt"
-    ],
-    "pos": "adv",
-    "lesson": 12,
-    "ex": {
-      "no": "Pizzaen var skikkelig god.",
-      "de": "Die Pizza war richtig gut."
-    }
-  },
-  {
     "id": "w12_visst",
     "no": "visst",
     "de": "angeblich, wohl",
@@ -1179,81 +833,6 @@
     }
   },
   {
-    "id": "w12_enn",
-    "no": "enn",
-    "de": "als (beim Vergleich)",
-    "deAlt": [
-      "als"
-    ],
-    "pos": "conj",
-    "lesson": 12,
-    "ex": {
-      "no": "Oslo er nærmere enn Paris.",
-      "de": "Oslo ist näher als Paris."
-    },
-    "note": "Nach dem Komparativ immer enn, nie som."
-  },
-  {
-    "id": "w12_like_som",
-    "no": "like … som",
-    "de": "genauso … wie",
-    "pos": "phrase",
-    "lesson": 12,
-    "ex": {
-      "no": "Han er like glad i museer som i parker.",
-      "de": "Er mag Museen genauso gern wie Parks."
-    }
-  },
-  {
-    "id": "w12_ikke_saa_som",
-    "no": "ikke så … som",
-    "de": "nicht so … wie",
-    "pos": "phrase",
-    "lesson": 12,
-    "ex": {
-      "no": "Bygdøy ligger ikke så sentralt som Bjørvika.",
-      "de": "Bygdøy liegt nicht so zentral wie Bjørvika."
-    }
-  },
-  {
-    "id": "w12_mer",
-    "no": "mer",
-    "de": "mehr",
-    "pos": "adv",
-    "lesson": 12,
-    "ex": {
-      "no": "Munch er mer kjent enn Vigeland.",
-      "de": "Munch ist bekannter als Vigeland."
-    },
-    "note": "mer + Adjektiv = Komparativ langer Adjektive."
-  },
-  {
-    "id": "w12_mest",
-    "no": "mest",
-    "de": "am meisten",
-    "pos": "adv",
-    "lesson": 12,
-    "ex": {
-      "no": "Hva har du mest lyst til?",
-      "de": "Worauf hast du am meisten Lust?"
-    }
-  },
-  {
-    "id": "w12_mindre",
-    "no": "mindre",
-    "de": "weniger; kleiner",
-    "deAlt": [
-      "weniger",
-      "kleiner"
-    ],
-    "pos": "adv",
-    "lesson": 12,
-    "ex": {
-      "no": "Jonas er mindre interessert i kunst enn Anna.",
-      "de": "Jonas interessiert sich weniger für Kunst als Anna."
-    }
-  },
-  {
     "id": "w12_mens",
     "no": "mens",
     "de": "während",
@@ -1265,28 +844,11 @@
     }
   },
   {
-    "id": "w12_i_hvert_fall",
-    "no": "i hvert fall",
-    "de": "jedenfalls, auf jeden Fall",
-    "deAlt": [
-      "jedenfalls",
-      "auf jeden Fall",
-      "zumindest"
-    ],
-    "pos": "phrase",
-    "lesson": 12,
-    "ex": {
-      "no": "Der blir vi i hvert fall ikke våte.",
-      "de": "Da werden wir jedenfalls nicht nass."
-    }
-  },
-  {
     "id": "w12_aerlig_talt",
     "no": "ærlig talt",
     "de": "ehrlich gesagt",
     "pos": "phrase",
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Ærlig talt liker jeg ikke museer.",
       "de": "Ehrlich gesagt mag ich keine Museen."
@@ -1301,7 +863,6 @@
     ],
     "pos": "phrase",
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Det spiller ingen rolle for meg.",
       "de": "Das ist mir egal."
@@ -1313,7 +874,6 @@
     "de": "ankommen auf",
     "pos": "phrase",
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Det kommer an på været.",
       "de": "Das kommt aufs Wetter an."
@@ -1325,7 +885,6 @@
     "de": "recht haben",
     "pos": "phrase",
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Du har rett, Anna.",
       "de": "Du hast recht, Anna."
@@ -1356,28 +915,6 @@
       "no": "Han fikk et atelier, og til gjengjeld fikk byen verkene hans.",
       "de": "Er bekam ein Atelier, und im Gegenzug bekam die Stadt seine Werke."
     }
-  },
-  {
-    "id": "w12_goy",
-    "no": "gøy",
-    "de": "lustig, toll (es macht Spaß)",
-    "deAlt": [
-      "lustig",
-      "toll",
-      "macht Spaß"
-    ],
-    "pos": "adj",
-    "forms": [
-      "gøy",
-      "gøy",
-      "gøy"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Det var veldig gøy på Bygdøy.",
-      "de": "Es hat auf Bygdøy großen Spaß gemacht."
-    },
-    "note": "Unveränderlich; meist in Det er gøy (Es macht Spaß)."
   },
   {
     "id": "w12_romantisk",
@@ -1551,7 +1088,6 @@
     ],
     "vg": "2",
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "Jeg skjønner hva du mener, men jeg er ikke enig.",
       "de": "Ich verstehe, was du meinst, aber ich bin nicht einverstanden."
@@ -1563,10 +1099,486 @@
     "de": "einerseits … andererseits",
     "pos": "phrase",
     "lesson": 12,
-    "wk": true,
     "ex": {
       "no": "På den ene siden er parken gratis, på den andre siden regner det.",
       "de": "Einerseits ist der Park kostenlos, andererseits regnet es."
     }
+  },
+  {
+    "id": "w12_folelse",
+    "no": "følelse",
+    "de": "das Gefühl",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "følelse",
+      "følelsen",
+      "følelser",
+      "følelsene"
+    ],
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Glede er en god følelse.",
+      "de": "Freude ist ein gutes Gefühl."
+    }
+  },
+  {
+    "id": "w12_glad_i",
+    "no": "være glad i",
+    "de": "gern haben, lieb haben",
+    "pos": "phrase",
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Matthias er glad i både museer og parker.",
+      "de": "Matthias mag sowohl Museen als auch Parks."
+    },
+    "note": "glad i = gern haben (Menschen und Dinge); glad allein = froh."
+  },
+  {
+    "id": "w12_forelsket",
+    "no": "forelsket",
+    "de": "verliebt",
+    "pos": "adj",
+    "forms": [
+      "forelsket",
+      "forelsket",
+      "forelskede"
+    ],
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Hun er forelsket i ham.",
+      "de": "Sie ist in ihn verliebt."
+    },
+    "note": "forelsket i = verliebt in"
+  },
+  {
+    "id": "w12_lei_seg",
+    "no": "være lei seg",
+    "de": "traurig sein; etwas bedauern",
+    "deAlt": [
+      "traurig sein",
+      "leidtun"
+    ],
+    "pos": "phrase",
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Ikke vær lei deg!",
+      "de": "Sei nicht traurig!"
+    }
+  },
+  {
+    "id": "w12_lei_av",
+    "no": "være lei av",
+    "de": "etwas satthaben",
+    "pos": "phrase",
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Jonas er lei av regn.",
+      "de": "Jonas hat den Regen satt."
+    }
+  },
+  {
+    "id": "w12_skuffet",
+    "no": "skuffet",
+    "de": "enttäuscht",
+    "pos": "adj",
+    "forms": [
+      "skuffet",
+      "skuffet",
+      "skuffede"
+    ],
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Jonas er skuffet fordi de ikke drar til Bygdøy.",
+      "de": "Jonas ist enttäuscht, weil sie nicht nach Bygdøy fahren."
+    },
+    "note": "skuffet over = enttäuscht von"
+  },
+  {
+    "id": "w12_stolt",
+    "no": "stolt",
+    "de": "stolz",
+    "pos": "adj",
+    "forms": [
+      "stolt",
+      "stolt",
+      "stolte"
+    ],
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Jeg er stolt av deg!",
+      "de": "Ich bin stolz auf dich!"
+    },
+    "note": "stolt av (nicht på!)"
+  },
+  {
+    "id": "w12_kjede_seg",
+    "no": "kjede seg",
+    "de": "sich langweilen",
+    "pos": "verb",
+    "vf": [
+      "kjeder seg",
+      "kjedet seg",
+      "kjedet seg",
+      "kjed deg"
+    ],
+    "vg": "1",
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Jonas kjeder seg aldri på museum.",
+      "de": "Jonas langweilt sich im Museum nie."
+    }
+  },
+  {
+    "id": "w12_humor",
+    "no": "humør",
+    "de": "die Laune, die Stimmung",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "humør",
+      "humøret"
+    ],
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Jonas er i dårlig humør om morgenen.",
+      "de": "Jonas ist morgens schlecht gelaunt."
+    },
+    "note": "i godt / dårlig humør = gut / schlecht gelaunt"
+  },
+  {
+    "id": "w12_grue_seg",
+    "no": "grue seg",
+    "de": "sich fürchten (vor), mit Bangen erwarten",
+    "pos": "verb",
+    "vf": [
+      "gruer seg",
+      "grudde seg",
+      "grudd seg",
+      "gru deg"
+    ],
+    "vg": "4",
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Jeg gruer meg til eksamen.",
+      "de": "Mir graut vor der Prüfung."
+    },
+    "note": "Das Gegenteil von glede seg; im Deutschen gibt es kein genaues Wort."
+  },
+  {
+    "id": "w12_bekymret",
+    "no": "bekymret",
+    "de": "besorgt",
+    "pos": "adj",
+    "forms": [
+      "bekymret",
+      "bekymret",
+      "bekymrede"
+    ],
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Jeg er bekymret for deg.",
+      "de": "Ich mache mir Sorgen um dich."
+    },
+    "note": "bekymret for = besorgt um"
+  },
+  {
+    "id": "w12_irritert",
+    "no": "irritert",
+    "de": "genervt, verärgert",
+    "pos": "adj",
+    "forms": [
+      "irritert",
+      "irritert",
+      "irriterte"
+    ],
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Anna blir irritert når Jonas ikke er seriøs.",
+      "de": "Anna ärgert sich, wenn Jonas nicht ernst ist."
+    }
+  },
+  {
+    "id": "w12_flau",
+    "no": "flau",
+    "de": "verlegen; peinlich berührt",
+    "pos": "adj",
+    "forms": [
+      "flau",
+      "flaut",
+      "flaue"
+    ],
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Så flaut!",
+      "de": "Wie peinlich!"
+    },
+    "note": "Jeg er flau = es ist mir peinlich; Det er flaut = das ist peinlich."
+  },
+  {
+    "id": "w12_lettet",
+    "no": "lettet",
+    "de": "erleichtert",
+    "pos": "adj",
+    "forms": [
+      "lettet",
+      "lettet",
+      "lettede"
+    ],
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Susanne er lettet når de endelig er enige.",
+      "de": "Susanne ist erleichtert, als sie sich endlich einig sind."
+    }
+  },
+  {
+    "id": "w12_ensom",
+    "no": "ensom",
+    "de": "einsam",
+    "pos": "adj",
+    "forms": [
+      "ensom",
+      "ensomt",
+      "ensomme"
+    ],
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Det er lett å føle seg ensom i en ny by.",
+      "de": "In einer neuen Stadt fühlt man sich leicht einsam."
+    },
+    "note": "Plural mit mm: ensomme."
+  },
+  {
+    "id": "w12_ok",
+    "no": "ok",
+    "de": "okay",
+    "pos": "interj",
+    "lesson": 12,
+    "ex": {
+      "no": "Ok, hva skal vi gjøre i morgen?",
+      "de": "Okay, was machen wir morgen?"
+    },
+    "note": "Auch »okei« geschrieben."
+  },
+  {
+    "id": "w12_ung",
+    "no": "ung",
+    "de": "jung",
+    "pos": "adj",
+    "forms": [
+      "ung",
+      "ungt",
+      "unge",
+      "yngre",
+      "yngst"
+    ],
+    "lesson": 12,
+    "ex": {
+      "no": "Anna er ett år yngre enn Jonas.",
+      "de": "Anna ist ein Jahr jünger als Jonas."
+    }
+  },
+  {
+    "id": "w12_tung",
+    "no": "tung",
+    "de": "schwer",
+    "pos": "adj",
+    "forms": [
+      "tung",
+      "tungt",
+      "tunge",
+      "tyngre",
+      "tyngst"
+    ],
+    "lesson": 12,
+    "ex": {
+      "no": "Den nye sekken er tyngre enn den gamle.",
+      "de": "Der neue Rucksack ist schwerer als der alte."
+    }
+  },
+  {
+    "id": "w12_faa_pron",
+    "no": "få",
+    "de": "wenige",
+    "pos": "pron",
+    "lesson": 12,
+    "ex": {
+      "no": "Når det regner, er det få folk i parken.",
+      "de": "Wenn es regnet, sind wenige Leute im Park."
+    },
+    "note": "få – færre – færrest. Nicht verwechseln mit dem Verb få (bekommen)."
+  },
+  {
+    "id": "w12_enda",
+    "no": "enda",
+    "de": "noch (beim Komparativ)",
+    "pos": "adv",
+    "lesson": 12,
+    "ex": {
+      "no": "Været blir enda verre i morgen.",
+      "de": "Das Wetter wird morgen noch schlechter."
+    },
+    "note": "enda + Komparativ = noch …: enda bedre. Zeitlich »noch« heißt ennå: Han er ikke her ennå."
+  },
+  {
+    "id": "w12_for_konj",
+    "no": "for",
+    "de": "denn",
+    "pos": "conj",
+    "lesson": 12,
+    "ex": {
+      "no": "Vi går på museum, for det regner.",
+      "de": "Wir gehen ins Museum, denn es regnet."
+    },
+    "note": "for = denn (Hauptsatz folgt); fordi = weil (Nebensatz)."
+  },
+  {
+    "id": "w12_saa_konj",
+    "no": "så",
+    "de": "also, deshalb",
+    "pos": "conj",
+    "lesson": 12,
+    "ex": {
+      "no": "Det regnet, så vi ble våte.",
+      "de": "Es regnete, deshalb wurden wir nass."
+    },
+    "note": "Nach så (deshalb) keine Inversion: så vi ble – nicht *så ble vi."
+  },
+  {
+    "id": "w12_baade_og",
+    "no": "både … og",
+    "de": "sowohl … als auch",
+    "pos": "conj",
+    "lesson": 12,
+    "ex": {
+      "no": "Fram har vært både i Arktis og i Antarktis.",
+      "de": "Die Fram war sowohl in der Arktis als auch in der Antarktis."
+    }
+  },
+  {
+    "id": "w12_enten_eller",
+    "no": "enten … eller",
+    "de": "entweder … oder",
+    "pos": "conj",
+    "lesson": 12,
+    "ex": {
+      "no": "Vi kan enten gå i parken eller på museum.",
+      "de": "Wir können entweder in den Park oder ins Museum gehen."
+    }
+  },
+  {
+    "id": "w12_verken_eller",
+    "no": "verken … eller",
+    "de": "weder … noch",
+    "pos": "conj",
+    "lesson": 12,
+    "ex": {
+      "no": "Matthias er verken sulten eller trøtt.",
+      "de": "Matthias ist weder hungrig noch müde."
+    }
+  },
+  {
+    "id": "w10_sentral",
+    "no": "sentral",
+    "de": "zentral",
+    "pos": "adj",
+    "forms": [
+      "sentral",
+      "sentralt",
+      "sentrale"
+    ],
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Huset ligger sentralt.",
+      "de": "Das Haus liegt zentral."
+    }
+  },
+  {
+    "id": "w15_telle",
+    "no": "telle",
+    "de": "zählen",
+    "pos": "verb",
+    "vf": [
+      "teller",
+      "talte",
+      "talt",
+      "tell"
+    ],
+    "vg": "uregelm",
+    "lesson": 12,
+    "note": "Unregelmäßig: telle – talte – talt.",
+    "ex": {
+      "no": "Ola teller til ti før han begynner å lete.",
+      "de": "Ola zählt bis zehn, bevor er anfängt zu suchen."
+    }
+  },
+  {
+    "id": "w16_baade",
+    "no": "både",
+    "de": "sowohl (… als auch)",
+    "pos": "conj",
+    "lesson": 12,
+    "note": "både … og = sowohl … als auch",
+    "ex": {
+      "no": "Mange samer snakker både samisk og norsk.",
+      "de": "Viele Samen sprechen sowohl Samisch als auch Norwegisch."
+    }
+  },
+  {
+    "id": "w17_i_morgen_tidlig",
+    "no": "i morgen tidlig",
+    "de": "morgen früh",
+    "pos": "adv",
+    "lesson": 12,
+    "ex": {
+      "no": "Jeg ringer ham i morgen tidlig.",
+      "de": "Ich rufe ihn morgen früh an."
+    }
+  },
+  {
+    "id": "w18_tilbake",
+    "no": "tilbake",
+    "de": "zurück",
+    "pos": "adv",
+    "lesson": 12,
+    "ex": {
+      "no": "Sola kommer tilbake i midten av januar.",
+      "de": "Die Sonne kommt Mitte Januar zurück."
+    }
+  },
+  {
+    "id": "w20_glede_seg_til",
+    "no": "glede seg til",
+    "de": "sich freuen auf",
+    "pos": "verb",
+    "vf": [
+      "gleder seg til",
+      "gledet seg til",
+      "gledet seg til",
+      "gled deg til"
+    ],
+    "vg": "1",
+    "lesson": 12,
+    "ex": {
+      "no": "Jeg gleder meg til å se hytta.",
+      "de": "Ich freue mich darauf, die Hütte zu sehen."
+    },
+    "note": "glede seg til = sich auf etwas Kommendes freuen; glede seg over = sich über etwas freuen."
   }
 ]

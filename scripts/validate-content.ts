@@ -101,6 +101,8 @@ for (const n of lessonsToCheck) {
       continue;
     }
     const W = `L${n}`;
+    const todo = JSON.stringify(L).match(/"_todo\w*":\s*"[^"]*/g);
+    if (todo) for (const t of todo) err(W, `unfinished: ${t.slice(0, 160)}`);
     if (L.n !== n) err(W, `n is ${L.n}`);
     if (L.level !== plan.level) err(W, `level ${L.level} ≠ plan ${plan.level}`);
     if (!LEVELS.includes(L.level)) err(W, 'bad level');
@@ -129,6 +131,8 @@ for (const n of lessonsToCheck) {
     for (const g of L.grammar ?? []) {
       const GW = `${W} ${g.id}`;
       if (!isStr(g.title) || !isStr(g.summary)) err(GW, 'title and summary required');
+      const pt = plan.grammar.find((x) => x.id === g.id);
+      if (pt && g.title !== pt.title) err(GW, `title "${g.title}" ≠ plan "${pt.title}"`);
       if (!Array.isArray(g.sections) || g.sections.length < 1) err(GW, 'at least one section');
       for (const s of g.sections ?? []) {
         if (!isStr(s.h) || !isStr(s.body)) err(GW, 'section needs h and body');
@@ -202,7 +206,8 @@ for (const n of lessonsToCheck) {
   if (words.length < 40) warn(vf, `only ${words.length} words`);
   for (const w of words) {
     const WW = `${vf} ${w.id ?? w.no}`;
-    if (!isStr(w.id) || !w.id.startsWith(`w${pad(n)}_`)) err(WW, `id must start with w${pad(n)}_`);
+    // Ids keep the lesson they were first written for (flash-card progress is stored by id), so the prefix may differ from n.
+    if (!isStr(w.id) || !/^w\d\d_/.test(w.id)) err(WW, 'id must look like wNN_word');
     if (allWordIds.has(w.id)) err(WW, `duplicate id (also in ${allWordIds.get(w.id)})`);
     allWordIds.set(w.id, vf);
     if (!isStr(w.no) || !isStr(w.de)) err(WW, 'no and de required');

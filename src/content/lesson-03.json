@@ -3,20 +3,20 @@
   "level": "A1",
   "title": "Hallo, Anna!",
   "titleDe": "Hallo, Anna!",
-  "place": "Oslo, Sagene (bei Familie Nygård) und im Supermarkt",
+  "place": "Oslo, Kringsjå: in Annas Studenten-WG und im Supermarkt",
   "goals": [
-    "Du kannst telefonieren und dich zum Kochen verabreden.",
-    "Du kannst im Supermarkt einkaufen und Lebensmittel beschreiben.",
-    "Du lernst, wie sich das Adjektiv nach Geschlecht und Zahl richtet: stor – stort – store.",
-    "Du lernst die Adjektive auf -ig und -sk und wann der Artikel wegfällt: Anna er medisinstudent.",
-    "Du kannst bis hundert zählen und Telefonnummern verstehen."
+    "Du kannst am Telefon eine Verabredung treffen und jemanden zum Kochen einladen.",
+    "Du kannst im Supermarkt einkaufen, von null bis zwanzig zählen und Preise verstehen: Det koster femten kroner.",
+    "Du kennst die wichtigsten Wendungen bei Tisch: Vær så god, Takk for maten, Vel bekomme.",
+    "Du lernst den unbestimmten Plural (poteter, egg, løker) und die Inversion: I kveld lager vi middag.",
+    "Du kannst Nebensätze mit at, fordi, når, hvis und om bilden – ohne das Verb ans Ende zu stellen."
   ],
   "text": {
     "id": "t03",
     "title": "Hallo, Anna!",
     "titleDe": "Hallo, Anna!",
     "kind": "dialog",
-    "intro": "Susanne ruft Anna Nygård an, die Tochter ihrer Vermieter. Die beiden kaufen im Laden an der Ecke ein und kochen dann in der Küche der Nygårds.",
+    "intro": "Susanne ruft ihre Tandempartnerin Anna Berg an, eine norwegische Medizinstudentin. Die beiden kaufen im Supermarkt ein und kochen in Annas Studenten-WG in Kringsjå. Dann kommt Annas Mitbewohner Henrik nach Hause.",
     "speakers": {
       "anna": {
         "name": "Anna",
@@ -26,8 +26,8 @@
         "name": "Susanne",
         "gender": "f"
       },
-      "per": {
-        "name": "Per",
+      "henrik": {
+        "name": "Henrik",
         "gender": "m"
       }
     },
@@ -39,103 +39,118 @@
       },
       {
         "s": "susanne",
-        "no": "Hallo, Anna! Det er Susanne. Hvor er du nå?",
-        "de": "Hallo, Anna! Hier ist Susanne. Wo bist du gerade?"
+        "no": "Hallo, Anna! Det er Susanne. Har du tid i kveld?",
+        "de": "Hallo, Anna! Hier ist Susanne. Hast du heute Abend Zeit?"
       },
       {
         "s": "anna",
-        "no": "Jeg er på lesesalen på universitetet, men jeg er snart ferdig. Hva skjer?",
-        "de": "Ich bin im Lesesaal an der Uni, aber ich bin bald fertig. Was gibt's?"
+        "no": "Ja! Nå er jeg på lesesalen, men klokka fem er jeg ferdig.",
+        "de": "Ja! Jetzt bin ich im Lesesaal, aber um fünf Uhr bin ich fertig."
       },
       {
         "s": "susanne",
-        "no": "Har du lyst til å lage middag sammen i kveld?",
-        "de": "Hast du Lust, heute Abend zusammen zu kochen?"
+        "no": "Har du lyst til å lage middag sammen? Først snakker vi norsk, og etterpå snakker vi tysk.",
+        "de": "Hast du Lust, zusammen zu kochen? Zuerst sprechen wir Norwegisch, und danach sprechen wir Deutsch."
       },
       {
         "s": "anna",
-        "no": "Ja, gjerne! Da lager vi middag til hele familien. Vi er fem personer.",
-        "de": "Ja, gern! Dann kochen wir für die ganze Familie. Wir sind fünf Personen."
+        "no": "Ja, gjerne! Kom til meg på Kringsjå. Vi har ikke mye plass, men det går fint.",
+        "de": "Ja, gern! Komm zu mir nach Kringsjå. Wir haben nicht viel Platz, aber das geht schon."
       },
       {
         "s": "susanne",
-        "no": "Fint! Hva lager vi?",
-        "de": "Schön! Was kochen wir?"
+        "no": "Supert! Hva lager vi?",
+        "de": "Super! Was kochen wir?"
       },
       {
         "s": "anna",
-        "no": "Fisk og poteter, kanskje? Det er en typisk norsk middag.",
-        "de": "Fisch und Kartoffeln vielleicht? Das ist ein typisch norwegisches Abendessen."
+        "no": "Fiskekaker med poteter og gulrøtter. Det er en typisk norsk middag. Når du kommer, går vi på butikken.",
+        "de": "Fischfrikadellen mit Kartoffeln und Karotten. Das ist ein typisch norwegisches Abendessen. Wenn du kommst, gehen wir in den Laden."
       },
       {
         "s": "susanne",
-        "no": "Supert! Da venter jeg ved butikken på hjørnet.",
-        "de": "Super! Dann warte ich am Laden an der Ecke."
+        "no": "Hva står på handlelista?",
+        "de": "Was steht auf der Einkaufsliste?"
       },
       {
         "s": "anna",
-        "no": "Her er handlelista: fisk, poteter, gulrøtter, brød og brunost.",
-        "de": "Hier ist die Einkaufsliste: Fisch, Kartoffeln, Karotten, Brot und Brunost."
+        "no": "Fiskekaker, poteter, gulrøtter, to løker og egg. Henrik spiser fire egg til frokost!",
+        "de": "Fischfrikadellen, Kartoffeln, Karotten, zwei Zwiebeln und Eier. Henrik isst vier Eier zum Frühstück!"
       },
       {
         "s": "susanne",
-        "no": "Se, her er fersk laks! Men den er dyr. Den koster nittini kroner.",
-        "de": "Schau, hier gibt es frischen Lachs! Aber der ist teuer. Er kostet neunundneunzig Kronen."
+        "no": "Hvem er Henrik?",
+        "de": "Wer ist Henrik?"
       },
       {
         "s": "anna",
-        "no": "Torsk er også god, og i dag er den på tilbud. En pakke koster sekstini kroner.",
-        "de": "Dorsch ist auch gut, und heute ist er im Angebot. Eine Packung kostet neunundsechzig Kronen."
+        "no": "Han bor også i kollektivet. Vi er fire studenter, og vi har bare ett kjøleskap!",
+        "de": "Er wohnt auch in der WG. Wir sind vier Studenten und haben nur einen Kühlschrank!"
       },
       {
         "s": "susanne",
-        "no": "Bra! Og vi trenger store poteter og fine gulrøtter.",
-        "de": "Gut! Und wir brauchen große Kartoffeln und schöne Karotten."
+        "no": "Se, poteter på tilbud! To kilo koster bare tjue kroner.",
+        "de": "Schau, Kartoffeln im Angebot! Zwei Kilo kosten nur zwanzig Kronen."
       },
       {
         "s": "anna",
-        "no": "Og et grovt brød til frokost. Og brunost, selvfølgelig!",
-        "de": "Und ein Vollkornbrot zum Frühstück. Und Brunost, natürlich!"
+        "no": "Og en pose gulrøtter koster tolv kroner. Vi tar to pakker fiskekaker fordi Henrik spiser mye.",
+        "de": "Und eine Tüte Karotten kostet zwölf Kronen. Wir nehmen zwei Packungen Fischfrikadellen, weil Henrik viel isst."
+      },
+      {
+        "s": "henrik",
+        "no": "Hei! Det lukter godt. Hva lager dere?",
+        "de": "Hallo! Das riecht gut. Was kocht ihr?"
+      },
+      {
+        "s": "anna",
+        "no": "Fiskekaker. Henrik, dette er Susanne. Vi er tandempartnere: Hun lærer norsk, og jeg lærer tysk.",
+        "de": "Fischfrikadellen. Henrik, das ist Susanne. Wir sind Tandempartnerinnen: Sie lernt Norwegisch, und ich lerne Deutsch."
+      },
+      {
+        "s": "henrik",
+        "no": "Hyggelig! Er det nok mat til tre?",
+        "de": "Freut mich! Reicht das Essen für drei?"
+      },
+      {
+        "s": "anna",
+        "no": "Ja, hvis du vasker opp etterpå.",
+        "de": "Ja, wenn du danach abspülst."
+      },
+      {
+        "s": "henrik",
+        "no": "Avtale!",
+        "de": "Abgemacht!"
+      },
+      {
+        "s": "anna",
+        "no": "Vær så god og forsyn dere!",
+        "de": "Bitte schön, greift zu!"
       },
       {
         "s": "susanne",
-        "no": "Brunost? Hva er det?",
-        "de": "Brunost? Was ist das?"
+        "no": "Mmm, det smaker godt! Men fiskekaker er jo ikke kaker!",
+        "de": "Mmm, das schmeckt gut! Aber »fiskekaker« sind doch keine Kuchen!"
       },
       {
-        "s": "anna",
-        "no": "Det er en brun, søt ost. Den er veldig norsk!",
-        "de": "Das ist ein brauner, süßer Käse. Er ist sehr norwegisch!"
-      },
-      {
-        "s": "susanne",
-        "no": "Dere har et stort og praktisk kjøkken! Hvor er kniven?",
-        "de": "Ihr habt eine große und praktische Küche! Wo ist das Messer?"
-      },
-      {
-        "s": "anna",
-        "no": "Der, i skuffen. Du skreller potetene, og jeg lager fisken.",
-        "de": "Da, in der Schublade. Du schälst die Kartoffeln, und ich mache den Fisch."
-      },
-      {
-        "s": "per",
-        "no": "Mmm, det lukter godt! Anna, du er medisinstudent, ikke kokk!",
-        "de": "Mmm, das riecht gut! Anna, du bist Medizinstudentin, nicht Köchin!"
-      },
-      {
-        "s": "anna",
-        "no": "Ikke i kveld, pappa. I kveld er jeg kokk!",
-        "de": "Heute Abend nicht, Papa. Heute Abend bin ich Köchin!"
+        "s": "henrik",
+        "no": "Kake eller ikke – jeg tar tre til!",
+        "de": "Kuchen oder nicht – ich nehme noch drei!"
       },
       {
         "s": "susanne",
-        "no": "Og etterpå spiser vi brunost til dessert?",
-        "de": "Und danach essen wir Brunost zum Nachtisch?"
+        "no": "Takk for maten, Anna!",
+        "de": "Danke für das Essen, Anna!"
       },
       {
-        "s": "per",
-        "no": "Nei, nei! Brunost spiser vi til frokost.",
-        "de": "Nein, nein! Brunost essen wir zum Frühstück."
+        "s": "anna",
+        "no": "Vel bekomme! Og nå snakker vi tysk, Susanne. Henrik, du vasker opp!",
+        "de": "Wohl bekomm’s! Und jetzt sprechen wir Deutsch, Susanne. Henrik, du spülst ab!"
+      },
+      {
+        "s": "henrik",
+        "no": "Avtale er avtale.",
+        "de": "Abgemacht ist abgemacht."
       }
     ],
     "glossary": [
@@ -144,24 +159,16 @@
         "de": "Hallo, hier ist Anna (am Telefon)"
       },
       {
-        "no": "Hvor er du nå?",
-        "de": "Wo bist du gerade?"
+        "no": "Har du tid i kveld?",
+        "de": "Hast du heute Abend Zeit?"
       },
       {
         "no": "på lesesalen",
         "de": "im Lesesaal"
       },
       {
-        "no": "på universitetet",
-        "de": "an der Universität"
-      },
-      {
-        "no": "snart ferdig",
-        "de": "bald fertig"
-      },
-      {
-        "no": "Hva skjer?",
-        "de": "Was gibt's? Was ist los?"
+        "no": "klokka fem er jeg ferdig",
+        "de": "um fünf Uhr bin ich fertig (Inversion: Verb vor dem Subjekt)"
       },
       {
         "no": "Har du lyst til å",
@@ -172,132 +179,140 @@
         "de": "das Abendessen kochen"
       },
       {
-        "no": "i kveld",
-        "de": "heute Abend"
+        "no": "Først snakker vi norsk",
+        "de": "Zuerst sprechen wir Norwegisch"
       },
       {
-        "no": "Da lager vi",
-        "de": "Dann kochen wir"
+        "no": "Kom til meg",
+        "de": "Komm zu mir"
       },
       {
-        "no": "til hele familien",
-        "de": "für die ganze Familie"
+        "no": "på Kringsjå",
+        "de": "in Kringsjå (Studentensiedlung im Norden von Oslo)"
       },
       {
-        "no": "fem personer",
-        "de": "fünf Personen"
+        "no": "Vi har ikke mye plass",
+        "de": "Wir haben nicht viel Platz"
       },
       {
-        "no": "Fisk og poteter",
-        "de": "Fisch und Kartoffeln"
+        "no": "det går fint",
+        "de": "das geht schon, das klappt"
+      },
+      {
+        "no": "Fiskekaker",
+        "de": "Fischfrikadellen (wörtlich: Fischkuchen)"
+      },
+      {
+        "no": "gulrøtter",
+        "de": "Karotten, Möhren (Plural von ei gulrot)"
       },
       {
         "no": "en typisk norsk middag",
         "de": "ein typisch norwegisches Abendessen"
       },
       {
+        "no": "Når du kommer",
+        "de": "Wenn du kommst"
+      },
+      {
+        "no": "går vi på butikken",
+        "de": "gehen wir in den Laden"
+      },
+      {
+        "no": "Hva står på handlelista?",
+        "de": "Was steht auf der Einkaufsliste?"
+      },
+      {
         "no": "Supert!",
         "de": "Super!"
       },
       {
-        "no": "ved butikken på hjørnet",
-        "de": "am Laden an der Ecke"
+        "no": "egg",
+        "de": "Eier (Plural ohne Endung: et egg – to egg)"
       },
       {
-        "no": "handlelista",
-        "de": "die Einkaufsliste"
+        "no": "i kollektivet",
+        "de": "in der WG (et kollektiv = die Wohngemeinschaft)"
       },
       {
-        "no": "gulrøtter",
-        "de": "Karotten, Möhren"
+        "no": "fire studenter",
+        "de": "vier Studenten"
       },
       {
-        "no": "brunost",
-        "de": "Brunost (brauner Molkenkäse)"
+        "no": "bare ett kjøleskap",
+        "de": "nur einen (einzigen) Kühlschrank (ett = betont: eins)"
       },
       {
-        "no": "Se",
-        "de": "Schau"
+        "no": "poteter på tilbud",
+        "de": "Kartoffeln im Angebot"
       },
       {
-        "no": "fersk laks",
-        "de": "frischer Lachs"
+        "no": "en pose gulrøtter",
+        "de": "eine Tüte Karotten"
       },
       {
-        "no": "nittini",
-        "de": "neunundneunzig"
+        "no": "to pakker fiskekaker",
+        "de": "zwei Packungen Fischfrikadellen"
       },
       {
-        "no": "Torsk",
-        "de": "Dorsch, Kabeljau"
+        "no": "fordi Henrik spiser mye",
+        "de": "weil Henrik viel isst (kein Verb am Ende!)"
       },
       {
-        "no": "på tilbud",
-        "de": "im Angebot"
+        "no": "Det lukter godt",
+        "de": "Das riecht gut"
       },
       {
-        "no": "En pakke",
-        "de": "eine Packung"
+        "no": "dette er Susanne",
+        "de": "das ist Susanne"
       },
       {
-        "no": "sekstini",
-        "de": "neunundsechzig"
+        "no": "tandempartnere",
+        "de": "Tandempartner(innen) (Plural von en tandempartner)"
       },
       {
-        "no": "store poteter",
-        "de": "große Kartoffeln"
+        "no": "Hyggelig!",
+        "de": "Freut mich! (kurz für: Hyggelig å hilse på deg!)"
       },
       {
-        "no": "fine gulrøtter",
-        "de": "schöne Karotten"
+        "no": "Er det nok mat til tre?",
+        "de": "Reicht das Essen für drei?"
       },
       {
-        "no": "et grovt brød",
-        "de": "ein Vollkornbrot (ein grobes Brot)"
+        "no": "hvis du vasker opp",
+        "de": "wenn du abspülst"
       },
       {
-        "no": "til frokost",
-        "de": "zum Frühstück"
+        "no": "Avtale!",
+        "de": "Abgemacht!"
       },
       {
-        "no": "en brun, søt ost",
-        "de": "ein brauner, süßer Käse"
+        "no": "Vær så god og forsyn dere!",
+        "de": "Bitte schön, greift zu! (So bittet man zu Tisch.)"
       },
       {
-        "no": "et stort og praktisk kjøkken",
-        "de": "eine große und praktische Küche"
+        "no": "det smaker godt",
+        "de": "das schmeckt gut"
       },
       {
-        "no": "kniven",
-        "de": "das Messer"
+        "no": "Kake eller ikke",
+        "de": "Kuchen oder nicht"
       },
       {
-        "no": "i skuffen",
-        "de": "in der Schublade"
+        "no": "jeg tar tre til",
+        "de": "ich nehme noch drei"
       },
       {
-        "no": "skreller potetene",
-        "de": "schälst die Kartoffeln"
+        "no": "Takk for maten",
+        "de": "Danke für das Essen (sagt man nach jeder Mahlzeit)"
       },
       {
-        "no": "lager fisken",
-        "de": "mache (koche) den Fisch"
+        "no": "Vel bekomme!",
+        "de": "Wohl bekomm’s! (Antwort auf »Takk for maten!«)"
       },
       {
-        "no": "det lukter godt",
-        "de": "das riecht gut"
-      },
-      {
-        "no": "medisinstudent",
-        "de": "Medizinstudent/in (ohne Artikel)"
-      },
-      {
-        "no": "ikke kokk",
-        "de": "nicht Koch/Köchin"
-      },
-      {
-        "no": "til dessert",
-        "de": "zum Nachtisch"
+        "no": "Avtale er avtale",
+        "de": "Abgemacht ist abgemacht"
       }
     ]
   },
@@ -427,474 +442,475 @@
     }
   ],
   "wk": {
-    "title": "I butikken",
-    "titleDe": "Im Laden",
+    "title": "Vel bekomme!",
+    "titleDe": "Wohl bekomm’s!",
     "phrases": [
       {
-        "no": "Har du handlelista?",
-        "de": "Hast du die Einkaufsliste?"
+        "no": "Middagen er ferdig! Kom og spis!",
+        "de": "Das Essen ist fertig! Kommt essen!",
+        "note": "»Kom og spis!« gilt für eine und für mehrere Personen."
       },
       {
-        "no": "Hvor er melka?",
-        "de": "Wo ist die Milch?"
+        "no": "Vær så god og forsyn dere!",
+        "de": "Bitte schön, greift zu!",
+        "note": "So bittet man zu Tisch. Ein »Guten Appetit« sagt man selten – »Vær så god« übernimmt diese Rolle."
       },
       {
-        "no": "Har dere fersk fisk?",
-        "de": "Habt ihr frischen Fisch?"
+        "no": "Kan du sende meg brødet?",
+        "de": "Kannst du mir das Brot reichen?",
+        "note": "sende heißt hier »reichen, weitergeben«. Wer reicht, sagt: »Vær så god.«"
       },
       {
-        "no": "Hva koster en kilo poteter?",
-        "de": "Was kostet ein Kilo Kartoffeln?"
+        "no": "Det lukter godt!",
+        "de": "Das riecht gut!"
       },
       {
-        "no": "Det koster tjueni kroner kiloen.",
-        "de": "Das kostet neunundzwanzig Kronen das Kilo."
+        "no": "Kan jeg smake?",
+        "de": "Darf ich probieren?"
       },
       {
-        "no": "Er det på tilbud?",
-        "de": "Ist das im Angebot?"
+        "no": "Det smaker godt!",
+        "de": "Das schmeckt gut! Lecker!"
       },
       {
-        "no": "en liter melk",
-        "de": "ein Liter Milch"
+        "no": "Mmm, nydelig!",
+        "de": "Mmm, köstlich!"
       },
       {
-        "no": "en pakke smør",
-        "de": "ein Päckchen Butter"
+        "no": "Ta gjerne mer!",
+        "de": "Nimm ruhig noch etwas!",
+        "note": "So bietet man Nachschlag an. gjerne macht die Aufforderung freundlich."
       },
       {
-        "no": "et brød",
-        "de": "ein Brot"
+        "no": "Ja takk, bare litt.",
+        "de": "Ja bitte, nur ein bisschen.",
+        "note": "»Ja takk« heißt »ja, bitte« – das »bitte« ist hier takk."
       },
       {
-        "no": "et kilo epler",
-        "de": "ein Kilo Äpfel",
-        "note": "kilo kann en oder et sein: en/et kilo."
+        "no": "Nei takk, jeg er mett.",
+        "de": "Nein danke, ich bin satt."
       },
       {
-        "no": "Det er ferskt.",
-        "de": "Das ist frisch."
+        "no": "Jeg spiser ikke kjøtt.",
+        "de": "Ich esse kein Fleisch."
       },
       {
-        "no": "Hvor er kassa?",
-        "de": "Wo ist die Kasse?"
+        "no": "Jeg er allergisk mot nøtter.",
+        "de": "Ich bin allergisch gegen Nüsse.",
+        "note": "mot = gegen"
       },
       {
-        "no": "Trenger du pose?",
-        "de": "Brauchst du eine Tüte?",
-        "note": "Das fragt man an der Kasse; Tüten kosten extra."
+        "no": "Skål for kokkene!",
+        "de": "Auf die Köche!",
+        "note": "»Skål!« = Prost! Beim Anstoßen schaut man sich in die Augen."
       },
       {
-        "no": "Nei takk, jeg har pose.",
-        "de": "Nein danke, ich habe eine Tüte."
+        "no": "Tusen takk for maten!",
+        "de": "Vielen Dank für das Essen!",
+        "note": "Kurz: »Takk for maten!« Das sagt man nach jeder Mahlzeit zu der Person, die gekocht oder eingeladen hat – auch zu Hause in der Familie."
       },
       {
-        "no": "Kan jeg betale med kort?",
-        "de": "Kann ich mit Karte zahlen?"
+        "no": "Vel bekomme!",
+        "de": "Wohl bekomm’s! Gern geschehen!",
+        "note": "Die Antwort auf »Takk for maten!«. Man schreibt auch »velbekomme«."
       },
       {
-        "no": "Ha en fin dag!",
-        "de": "Einen schönen Tag noch!"
+        "no": "Jeg vasker opp!",
+        "de": "Ich spüle ab!"
       }
     ]
   },
   "grammar": [
     {
-      "id": "g03_adjektiv",
-      "title": "Das Adjektiv: unbestimmte Form",
-      "titleNo": "adjektiv i ubestemt form",
-      "summary": "en stor bil – et stort hus – store biler: Neutrum -t, Plural -e. Vor dem Substantiv und nach være gleich.",
+      "id": "g03_flertall",
+      "title": "Der unbestimmte Plural",
+      "titleNo": "ubestemt flertall",
+      "summary": "Meist -er (biler, jenter); einsilbige Neutra ohne Endung (hus); Wörter auf -er bekommen -e (lærere); einige sind unregelmäßig (menn, bøker).",
       "sections": [
         {
-          "h": "Drei Formen",
-          "body": "Das Adjektiv richtet sich nach dem Substantiv: nach Geschlecht und Zahl. Es gibt nur drei Formen:\n\n• en-Wort und ei-Wort: **keine Endung** – **en stor bil, ei stor hytte**\n• et-Wort: **-t** – **et stort hus**\n• Plural: **-e** – **store biler, store hus**\n\nKeine Fälle, keine Endungen wie »-en, -em, -er« – viel einfacher als im Deutschen!",
+          "h": "Die Hauptregel: -er",
+          "body": "Die meisten Substantive bekommen im Plural **-er**, egal welches Geschlecht:\n\n• **en bil – biler**, **en kopp – kopper**\n• **ei jente – jenter**, **ei hytte – hytter**\n• **et hotell – hoteller**, **et stykke – stykker**\n\nEndet das Wort schon auf **-e**, kommt nur **-r** dazu: **en krone – kroner**, **en time – timer**, **en bolle – boller**.\n\nViel einfacher als im Deutschen: meist kein Umlaut (Ausnahmen wie **bøker** siehe unten) und nicht fünf verschiedene Endungen."
+        },
+        {
+          "h": "Einsilbige Neutra: keine Endung",
+          "body": "Neutra mit **einer Silbe** bleiben im Plural gleich:\n\n• **et hus – to hus**\n• **et barn – to barn**\n• **et glass – to glass**\n• **et egg – fire egg**\n• **et år – to år**\n• **et språk – mange språk**\n\nAchtung: Mehrsilbige Neutra bekommen meist **-er**: **et hotell – hoteller**, **et stykke – stykker**. Zusammengesetzte Wörter richten sich aber nach dem letzten Teil: **et kjøleskap – to kjøleskap** (wie **et skap – to skap**). Und **et kjøkken** bleibt im Plural ebenfalls **kjøkken**."
+        },
+        {
+          "h": "Wörter auf -er und unregelmäßige Pluralformen",
+          "body": "Personen und andere Wörter auf **-er** bekommen nur **-e**: **en lærer – lærere**, **en tysker – tyskere**, **en sveitser – sveitsere**, **en partner – partnere**.\n\nEinige wichtige Wörter sind unregelmäßig. Lerne sie auswendig:",
           "table": [
             [
-              "",
-              "en/ei-Wort",
-              "et-Wort",
-              "Plural"
-            ],
-            [
-              "stor (groß)",
-              "en **stor** bil",
-              "et **stort** hus",
-              "**store** biler"
-            ],
-            [
-              "fersk (frisch)",
-              "en **fersk** fisk",
-              "et **ferskt** brød",
-              "**ferske** poteter"
-            ],
-            [
-              "god (gut)",
-              "en **god** kake",
-              "et **godt** brød",
-              "**gode** venner"
-            ],
-            [
-              "fin (schön)",
-              "ei **fin** bok",
-              "et **fint** kjøkken",
-              "**fine** gulrøtter"
-            ]
-          ]
-        },
-        {
-          "h": "Nach være: dieselben Endungen",
-          "body": "Auch nach **være** (sein) bekommt das Adjektiv die Endung – im Deutschen nicht!\n\n• **Bilen er stor.** – Das Auto ist groß.\n• **Huset er stort.** – Das Haus ist groß.\n• **Potetene er store.** – Die Kartoffeln sind groß.\n\nTypischer Fehler: »Huset er stor« (falsch!). Frag dich immer: Ist das Wort, zu dem das Adjektiv gehört, ein et-Wort oder ein Plural?"
-        },
-        {
-          "h": "Kleine Besonderheiten",
-          "body": "• **god – godt**: nur ein t.\n• Auch ohne Artikel zählt das Geschlecht des Wortes: **Øl er dyrt** (et øl).\n• **Det er …** ohne Bezugswort bekommt -t: **Det er dyrt!** (Das ist teuer!)"
-        }
-      ],
-      "drills": [
-        {
-          "prompt": "Familien Nygård har et ___ hus. (stor)",
-          "de": "Familie Nygård hat ein großes Haus.",
-          "answer": [
-            "stort"
-          ],
-          "explain": "et hus ist ein Neutrum: stor + t = stort."
-        },
-        {
-          "prompt": "Laksen er ___. (fersk)",
-          "de": "Der Lachs ist frisch.",
-          "answer": [
-            "fersk"
-          ],
-          "explain": "laks ist maskulin: keine Endung."
-        },
-        {
-          "prompt": "Vi trenger ___ poteter. (stor)",
-          "de": "Wir brauchen große Kartoffeln.",
-          "answer": [
-            "store"
-          ],
-          "explain": "Plural: stor + e = store."
-        },
-        {
-          "prompt": "Kjøkkenet er ___. (stor)",
-          "de": "Die Küche ist groß.",
-          "answer": [
-            "stort"
-          ],
-          "explain": "et kjøkken ist ein Neutrum – auch nach være: stort."
-        },
-        {
-          "prompt": "Brødet er ___. (god)",
-          "de": "Das Brot ist gut.",
-          "answer": [
-            "godt"
-          ],
-          "explain": "et brød ist ein Neutrum: god – godt (nur ein t)."
-        },
-        {
-          "prompt": "Susanne kjøper ___ gulrøtter. (fin)",
-          "de": "Susanne kauft schöne Karotten.",
-          "answer": [
-            "fine"
-          ],
-          "explain": "Plural: fin + e = fine."
-        },
-        {
-          "prompt": "Susanne har ei ___ bok om norsk mat. (god)",
-          "de": "Susanne hat ein gutes Buch über norwegisches Essen.",
-          "answer": [
-            "god"
-          ],
-          "explain": "ei bok ist feminin: keine Endung, wie bei en-Wörtern."
-        },
-        {
-          "prompt": "Gulrøttene er ___. (søt)",
-          "de": "Die Karotten sind süß.",
-          "answer": [
-            "søte"
-          ],
-          "explain": "Plural, auch nach være: søt + e = søte."
-        },
-        {
-          "prompt": "Øl er ___ i Norge. (dyr)",
-          "de": "Bier ist in Norwegen teuer.",
-          "answer": [
-            "dyrt"
-          ],
-          "explain": "øl ist ein Neutrum (et øl): dyr + t = dyrt."
-        },
-        {
-          "prompt": "Anna kjøper et ___ brød. (grov)",
-          "de": "Anna kauft ein Vollkornbrot.",
-          "answer": [
-            "grovt"
-          ],
-          "explain": "et brød ist ein Neutrum: grov + t = grovt."
-        }
-      ]
-    },
-    {
-      "id": "g03_ig_sk",
-      "title": "Adjektive auf -ig und -sk",
-      "titleNo": "adjektiv på -ig og -sk",
-      "summary": "Adjektive auf -ig und mehrsilbige auf -sk (auch alle Nationalitäten) bekommen im Neutrum kein -t: et hyggelig møte, et norsk ord.",
-      "sections": [
-        {
-          "h": "-ig: kein -t im Neutrum",
-          "body": "Adjektive auf **-ig** bekommen im Neutrum **kein -t**. Im Plural bekommen sie wie immer **-e**:",
-          "table": [
-            [
-              "en/ei-Wort",
-              "et-Wort",
-              "Plural"
-            ],
-            [
-              "en **hyggelig** kveld",
-              "et **hyggelig** møte",
-              "**hyggelige** venner"
-            ],
-            [
-              "en **billig** fisk",
-              "et **billig** brød",
-              "**billige** poteter"
-            ],
-            [
-              "en **vanskelig** dag",
-              "et **vanskelig** språk",
-              "**vanskelige** ord"
-            ]
-          ]
-        },
-        {
-          "h": "-sk: kein -t bei mehrsilbigen Adjektiven und Nationalitäten",
-          "body": "Mehrsilbige Adjektive auf **-sk** und **alle Nationalitäten** bekommen im Neutrum ebenfalls **kein -t**:\n\n• **et praktisk kjøkken**, **et typisk måltid**\n• **et norsk ord**, **et tysk brød**, **et svensk hotell**\n\nPlural wie immer mit -e: **praktiske, norske, tyske**.\n\nAber: Die einsilbigen **fersk** (frisch) und **frisk** (gesund, frisch) bekommen ein -t: **et ferskt brød**, **et friskt barn**."
-        },
-        {
-          "h": "Adjektive, die schon auf -t enden",
-          "body": "• Endet das Adjektiv auf **Konsonant + t**, kommt nichts dazu: **et kort brev**, **et svart skjerf**.\n• Endet es auf **langen Vokal + t**, wird das t verdoppelt: **søt – et søtt eple**, **hvit – et hvitt hus**."
-        }
-      ],
-      "drills": [
-        {
-          "prompt": "Dere har et ___ kjøkken. (praktisk)",
-          "de": "Ihr habt eine praktische Küche.",
-          "answer": [
-            "praktisk"
-          ],
-          "explain": "Mehrsilbig auf -sk: kein -t im Neutrum."
-        },
-        {
-          "prompt": "Fisk og poteter er et ___ måltid. (norsk)",
-          "de": "Fisch und Kartoffeln sind ein norwegisches Gericht.",
-          "answer": [
-            "norsk"
-          ],
-          "explain": "Nationalitäten bekommen kein -t: et norsk måltid."
-        },
-        {
-          "prompt": "Mads jobber på et ___ hotell. (hyggelig)",
-          "de": "Mads arbeitet in einem netten Hotel.",
-          "answer": [
-            "hyggelig"
-          ],
-          "explain": "Adjektive auf -ig bekommen kein -t."
-        },
-        {
-          "prompt": "Brødet er ___. (fersk)",
-          "de": "Das Brot ist frisch.",
-          "answer": [
-            "ferskt"
-          ],
-          "explain": "fersk ist einsilbig: Es bekommt das -t (ferskt)."
-        },
-        {
-          "prompt": "Eplet er ___. (søt)",
-          "de": "Der Apfel ist süß.",
-          "answer": [
-            "søtt"
-          ],
-          "explain": "Langer Vokal + t: das t wird verdoppelt – søtt."
-        },
-        {
-          "prompt": "Susanne har et ___ skjerf. (svart)",
-          "de": "Susanne hat einen schwarzen Schal.",
-          "answer": [
-            "svart"
-          ],
-          "explain": "svart endet auf Konsonant + t: keine weitere Endung."
-        },
-        {
-          "prompt": "Er norsk et ___ språk? (vanskelig)",
-          "de": "Ist Norwegisch eine schwierige Sprache?",
-          "answer": [
-            "vanskelig"
-          ],
-          "explain": "Adjektive auf -ig bekommen kein -t."
-        },
-        {
-          "prompt": "Vi kjøper ___ poteter. (billig)",
-          "de": "Wir kaufen billige Kartoffeln.",
-          "answer": [
-            "billige"
-          ],
-          "explain": "Im Plural bekommen auch -ig-Adjektive ein -e."
-        },
-        {
-          "prompt": "«Kindergarten» er et ___ ord. (tysk)",
-          "de": "»Kindergarten« ist ein deutsches Wort.",
-          "answer": [
-            "tysk"
-          ],
-          "explain": "Nationalitäten bekommen im Neutrum kein -t."
-        },
-        {
-          "prompt": "Anna og Susanne er ___ jenter. (hyggelig)",
-          "de": "Anna und Susanne sind nette junge Frauen.",
-          "answer": [
-            "hyggelige"
-          ],
-          "explain": "Plural: hyggelig + e = hyggelige."
-        }
-      ]
-    },
-    {
-      "id": "g03_artikkel",
-      "title": "Wegfall des Artikels",
-      "titleNo": "substantiv uten artikkel",
-      "summary": "Kein Artikel bei Beruf, Nationalität und Religion nach være/bli (Anna er medisinstudent) und in vielen festen Wendungen (ha bil, ta buss).",
-      "sections": [
-        {
-          "h": "Beruf, Nationalität, Religion",
-          "body": "Nach **være** (sein) und **bli** (werden) steht bei Beruf, Nationalität und Religion **kein Artikel** – wie im Deutschen:\n\n• **Anna er medisinstudent.** – Anna ist Medizinstudentin.\n• **Matthias er ingeniør.** – Matthias ist Ingenieur.\n• **Hun er norsk.** / **Hun er nordmann.** – Sie ist Norwegerin.\n• **Han er katolikk.** – Er ist Katholik.\n\nAber: Steht ein Adjektiv davor, braucht man den Artikel – auch wie im Deutschen: **Torunn er en god lærer.** (eine gute Lehrerin)"
-        },
-        {
-          "h": "Feste Wendungen ohne Artikel",
-          "body": "In vielen festen Wendungen steht auf Norwegisch kein Artikel – manchmal wie im Deutschen (Zeit haben, Geburtstag haben), oft aber anders (ein Auto haben, den Bus nehmen). Lerne sie als Ganzes:",
-          "table": [
-            [
-              "Norwegisch",
+              "Singular",
+              "Plural",
               "Deutsch"
             ],
             [
-              "**Har du bil?**",
-              "Hast du ein Auto?"
+              "**en mann**",
+              "**menn**",
+              "Mann – Männer"
             ],
             [
-              "**Jeg tar buss.**",
-              "Ich nehme den Bus."
+              "**en nordmann**",
+              "**nordmenn**",
+              "Norweger"
             ],
             [
-              "**Har du tid?**",
-              "Hast du Zeit?"
+              "**ei bok**",
+              "**bøker**",
+              "Buch – Bücher"
             ],
             [
-              "**Hun har bursdag.**",
-              "Sie hat Geburtstag."
+              "**en bror**",
+              "**brødre**",
+              "Bruder – Brüder"
             ],
             [
-              "**Vi lager middag.**",
-              "Wir kochen das Abendessen."
+              "**et øye**",
+              "**øyne**",
+              "Auge – Augen"
             ],
             [
-              "**Trenger du pose?**",
-              "Brauchst du eine Tüte?"
+              "**en sko**",
+              "**sko**",
+              "Schuh – Schuhe"
+            ],
+            [
+              "**ei gulrot**",
+              "**gulrøtter**",
+              "Karotte – Karotten"
             ]
           ]
         }
       ],
       "drills": [
         {
-          "prompt": "Anna er ___. (Medizinstudentin)",
-          "de": "Anna ist Medizinstudentin.",
+          "prompt": "Susanne drikker to ___ kaffe. (kopp)",
+          "de": "Susanne trinkt zwei Tassen Kaffee.",
           "answer": [
-            "medisinstudent"
+            "kopper"
           ],
-          "explain": "Beruf nach være: kein Artikel."
+          "explain": "Hauptregel: en kopp – kopper."
         },
         {
-          "prompt": "Kari er ___. (Lehrerin)",
-          "de": "Kari ist Lehrerin.",
+          "prompt": "To kilo poteter koster tjue ___. (krone)",
+          "de": "Zwei Kilo Kartoffeln kosten zwanzig Kronen.",
           "answer": [
-            "lærer"
+            "kroner"
           ],
-          "explain": "Beruf nach være: kein Artikel."
+          "explain": "Wort auf -e: nur -r dazu: krone – kroner."
         },
         {
-          "prompt": "Matthias er ___. (Ingenieur)",
-          "de": "Matthias ist Ingenieur.",
+          "prompt": "Henrik spiser fire ___ til frokost. (egg)",
+          "de": "Henrik isst vier Eier zum Frühstück.",
           "answer": [
-            "ingeniør"
+            "egg"
           ],
-          "explain": "Beruf nach være: kein Artikel."
+          "explain": "et egg: einsilbiges Neutrum, keine Endung im Plural."
         },
         {
-          "prompt": "I kveld er Anna ___. (Köchin)",
-          "de": "Heute Abend ist Anna Köchin.",
+          "prompt": "Vi er fire ___ i kollektivet. (student)",
+          "de": "Wir sind vier Studenten in der WG.",
           "answer": [
-            "kokk"
+            "studenter"
           ],
-          "explain": "Beruf/Rolle nach være: kein Artikel."
+          "explain": "Hauptregel: en student – studenter."
         },
         {
-          "prompt": "Torunn er ___ god lærer.",
-          "de": "Torunn ist eine gute Lehrerin.",
+          "prompt": "Susanne og Anna er ___. (tandempartner)",
+          "de": "Susanne und Anna sind Tandempartnerinnen.",
           "answer": [
-            "en"
+            "tandempartnere"
           ],
-          "explain": "Mit Adjektiv braucht man den Artikel: en god lærer."
+          "explain": "Wörter auf -er bekommen nur -e: partner – partnere."
         },
         {
-          "prompt": "Elin er ___ hyggelig svenske.",
-          "de": "Elin ist eine nette Schwedin.",
+          "prompt": "Vi trenger to ___. (løk)",
+          "de": "Wir brauchen zwei Zwiebeln.",
           "answer": [
-            "en"
+            "løker"
           ],
-          "explain": "Mit Adjektiv braucht man den Artikel: en hyggelig svenske."
+          "explain": "Hauptregel: en løk – løker."
         },
         {
-          "prompt": "Susanne er ___. (Deutsche)",
-          "de": "Susanne ist Deutsche.",
+          "prompt": "Matthias og Mads er to ___. (mann)",
+          "de": "Matthias und Mads sind zwei Männer.",
           "answer": [
-            "tysk",
-            "tysker"
+            "menn"
           ],
-          "explain": "Nationalität nach være: kein Artikel."
+          "explain": "Unregelmäßig: en mann – menn."
         },
         {
-          "prompt": "Ola har ___ i dag. (Geburtstag)",
-          "de": "Ola hat heute Geburtstag.",
+          "prompt": "Susanne har mange ___ på norsk. (bok)",
+          "de": "Susanne hat viele Bücher auf Norwegisch.",
           "answer": [
-            "bursdag"
+            "bøker"
           ],
-          "explain": "Feste Wendung ohne Artikel: ha bursdag."
+          "explain": "Unregelmäßig: ei bok – bøker."
         },
         {
-          "prompt": "Mads har ikke ___ i dag. (Zeit)",
-          "de": "Mads hat heute keine Zeit.",
+          "prompt": "Vi trenger fire ___ vann. (glass)",
+          "de": "Wir brauchen vier Gläser Wasser.",
           "answer": [
-            "tid"
+            "glass"
           ],
-          "explain": "Feste Wendung ohne Artikel: ha tid."
+          "explain": "et glass: einsilbiges Neutrum, keine Endung."
         },
         {
-          "prompt": "Hun er ___. (Katholikin)",
-          "de": "Sie ist Katholikin.",
+          "prompt": "Jeg har to ___ og ei søster. (bror)",
+          "de": "Ich habe zwei Brüder und eine Schwester.",
           "answer": [
-            "katolikk"
+            "brødre"
           ],
-          "explain": "Religion nach være: kein Artikel."
+          "explain": "Unregelmäßig: en bror – brødre."
+        }
+      ]
+    },
+    {
+      "id": "g03_inversjon",
+      "title": "Inversion",
+      "titleNo": "inversjon",
+      "summary": "Steht etwas anderes als das Subjekt am Satzanfang, bleibt das Verb auf Platz 2 und das Subjekt kommt danach: I dag drikker jeg kaffe.",
+      "sections": [
+        {
+          "h": "Das Verb bleibt auf Platz 2",
+          "body": "Der Satz muss nicht mit dem Subjekt anfangen. Oft steht eine Zeit, ein Ort oder ein Objekt vorn. Dann bleibt das Verb auf **Platz 2**, und das Subjekt kommt **nach** dem Verb. Das nennt man Inversion:\n\n• **Jeg drikker kaffe i dag.** → **I dag drikker jeg kaffe.**\n• **Jeg bor her.** → **Her bor jeg.**\n• **Jeg drikker øl hjemme i Danmark.** → **Hjemme i Danmark drikker jeg øl.**",
+          "table": [
+            [
+              "1",
+              "2 (Verb)",
+              "Subjekt",
+              "Rest"
+            ],
+            [
+              "**I dag**",
+              "**drikker**",
+              "**jeg**",
+              "kaffe."
+            ],
+            [
+              "**Her**",
+              "**bor**",
+              "**jeg**",
+              "–"
+            ],
+            [
+              "**Nå**",
+              "**går**",
+              "**vi**",
+              "på kafé."
+            ],
+            [
+              "**Kaffe**",
+              "**drikker**",
+              "**Mads**",
+              "i Norge."
+            ]
+          ]
+        },
+        {
+          "h": "Genau wie im Deutschen",
+          "body": "Das kennst du schon: »Heute **trinke ich** Kaffee.« Norwegisch funktioniert genauso.\n\nTypischer Fehler (vor allem, wenn man Englisch im Kopf hat): »I dag jeg drikker kaffe« ist falsch. Richtig: **I dag drikker jeg kaffe.**"
+        },
+        {
+          "h": "Auch nach einem Nebensatz",
+          "body": "Ein ganzer Nebensatz kann auf Platz 1 stehen. Dann kommt danach sofort das Verb:\n\n• **Når det er fredag, spiser jeg kake.** – Wenn Freitag ist, esse ich Kuchen.\n• **Hvis jeg er sulten, kjøper jeg en bolle.** – Wenn ich Hunger habe, kaufe ich ein Hefebrötchen.\n\nAuch das ist wie im Deutschen: »…, **esse ich** Kuchen.«"
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "I dag ___ kaffe. (jeg + drikke)",
+          "de": "Heute trinke ich Kaffee.",
+          "answer": [
+            "drikker jeg"
+          ],
+          "explain": "»I dag« steht vorn, also Inversion: erst das Verb, dann das Subjekt."
+        },
+        {
+          "prompt": "Nå ___ på kafé. (vi + gå)",
+          "de": "Jetzt gehen wir ins Café.",
+          "answer": [
+            "går vi"
+          ],
+          "explain": "»Nå« steht auf Platz 1, das Verb auf Platz 2, dann das Subjekt."
+        },
+        {
+          "prompt": "Her ___. (jeg + bo)",
+          "de": "Hier wohne ich.",
+          "answer": [
+            "bor jeg"
+          ],
+          "explain": "Ort auf Platz 1 → Verb vor dem Subjekt."
+        },
+        {
+          "prompt": "Hjemme i Danmark ___ øl. (Mads + drikke)",
+          "de": "Zu Hause in Dänemark trinkt Mads Bier.",
+          "answer": [
+            "drikker Mads"
+          ],
+          "explain": "Ortsangabe vorn → Inversion: drikker Mads."
+        },
+        {
+          "prompt": "I Norge ___ du til alle. (man + si)",
+          "de": "In Norwegen sagt man zu allen du.",
+          "answer": [
+            "sier man"
+          ],
+          "explain": "»I Norge« auf Platz 1 → sier man."
+        },
+        {
+          "prompt": "Når det er fredag, ___ kake. (jeg + spise)",
+          "de": "Wenn Freitag ist, esse ich Kuchen.",
+          "answer": [
+            "spiser jeg"
+          ],
+          "explain": "Der Nebensatz ist Platz 1, danach kommt sofort das Verb."
+        },
+        {
+          "prompt": "I Danmark ___ billig. (øl + være)",
+          "de": "In Dänemark ist Bier billig.",
+          "answer": [
+            "er øl"
+          ],
+          "explain": "»I Danmark« vorn → Verb (er) vor dem Subjekt (øl)."
+        },
+        {
+          "prompt": "Klokka fem ___ ferdig. (jeg + være)",
+          "de": "Um fünf Uhr bin ich fertig.",
+          "answer": [
+            "er jeg"
+          ],
+          "explain": "Zeitangabe vorn → Inversion: er jeg."
+        },
+        {
+          "prompt": "Først ___ norsk. (vi + snakke)",
+          "de": "Zuerst sprechen wir Norwegisch.",
+          "answer": [
+            "snakker vi"
+          ],
+          "explain": "»Først« steht auf Platz 1 → Verb, dann Subjekt."
+        },
+        {
+          "prompt": "For 98 kroner ___ veldig sakte. (Matthias + drikke)",
+          "de": "Für 98 Kronen trinkt Matthias sehr langsam.",
+          "answer": [
+            "drikker Matthias"
+          ],
+          "explain": "»For 98 kroner« steht auf Platz 1 → Verb, dann Subjekt."
+        }
+      ]
+    },
+    {
+      "id": "g03_leddsetning",
+      "title": "Nebensatz",
+      "titleNo": "ordstilling i leddsetninger",
+      "summary": "Im Nebensatz steht das Verb NIE am Ende: … fordi jeg er sulten. Steht der Nebensatz vorn, folgt Inversion: Når du kommer, går vi.",
+      "sections": [
+        {
+          "h": "Kein Verb am Ende!",
+          "body": "Nebensätze beginnen mit einer Konjunktion wie **at** (dass), **fordi** (weil), **når** (wenn/wann), **hvis** (wenn, falls) oder **om** (ob). Danach kommt die normale Reihenfolge: **Subjekt – Verb – Rest**.\n\n• **Jeg spiser kake fordi det er fredag.**\n  Deutsch: … weil Freitag **ist**.\n• **Jeg vet at Elin kommer fra Göteborg.**\n  Deutsch: … dass Elin aus Göteborg **kommt**.\n\nDas ist der wichtigste Unterschied zum Deutschen: Das Verb wandert **nie** ans Ende. Typischer Fehler: »fordi det fredag er« (falsch!)."
+        },
+        {
+          "h": "Die wichtigsten Konjunktionen",
+          "body": "• **at** – dass: **Jeg vet at kaffen er god.**\n• **fordi** – weil: **Elin drikker vann fordi det er gratis.**\n• **når** – wenn (Zeit, immer wenn), wann: **Når det er fredag, spiser jeg kake.**\n• **hvis** – wenn, falls (Bedingung): **Hvis du vasker opp, får du mat.**\n• **om** – ob: **Torunn spør om Matthias forstår.**\n\nNach **vet** und **sier** kann **at** auch wegfallen: **Jeg vet (at) det er dyrt.**"
+        },
+        {
+          "h": "Nebensatz vorn: Komma und Inversion",
+          "body": "Ein Nebensatz kann auch am Satzanfang stehen. Dann ist er Platz 1 im ganzen Satz: Nach dem Komma kommt sofort das Verb, dann das Subjekt – genau wie im Deutschen.\n\n• **Når du kommer, går vi på butikken.** – Wenn du kommst, gehen wir in den Laden.\n• **Hvis du vasker opp, får du mat.** – Wenn du abspülst, bekommst du etwas zu essen.\n\nSteht der Nebensatz hinten, setzt man meist kein Komma: **Vi tar to pakker fordi Henrik spiser mye.** (Im Deutschen steht hier immer ein Komma.)\n\nWo **ikke** und andere kleine Adverbien im Nebensatz stehen, lernst du in Lektion 8."
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Susanne spiser kake fordi ___ fredag. (det + være)",
+          "de": "Susanne isst Kuchen, weil Freitag ist.",
+          "answer": [
+            "det er"
+          ],
+          "explain": "Im Nebensatz: Subjekt – Verb. Kein Verb am Ende wie im Deutschen."
+        },
+        {
+          "prompt": "Jeg vet at ___ fra Göteborg. (Elin + komme)",
+          "de": "Ich weiß, dass Elin aus Göteborg kommt.",
+          "answer": [
+            "Elin kommer"
+          ],
+          "explain": "Nach at: Subjekt – Verb, keine Inversion und kein Verb am Ende."
+        },
+        {
+          "prompt": "Vi lærer mye fordi ___ norsk hele tiden. (vi + snakke)",
+          "de": "Wir lernen viel, weil wir die ganze Zeit Norwegisch sprechen.",
+          "answer": [
+            "vi snakker"
+          ],
+          "explain": "Nebensatz: Subjekt vor dem Verb."
+        },
+        {
+          "prompt": "Torunn spør om ___ norsk. (Matthias + forstå)",
+          "de": "Torunn fragt, ob Matthias Norwegisch versteht.",
+          "answer": [
+            "Matthias forstår"
+          ],
+          "explain": "om (ob) leitet einen Nebensatz ein: Subjekt – Verb."
+        },
+        {
+          "prompt": "Vi tar to pakker fiskekaker fordi ___ mye. (Henrik + spise)",
+          "de": "Wir nehmen zwei Packungen Fischfrikadellen, weil Henrik viel isst.",
+          "answer": [
+            "Henrik spiser"
+          ],
+          "explain": "fordi: Subjekt – Verb – Rest. Deutsch: …, weil Henrik viel isst."
+        },
+        {
+          "prompt": "Anna sier at ___ fire studenter i kollektivet. (de + være)",
+          "de": "Anna sagt, dass sie vier Studenten in der WG sind.",
+          "answer": [
+            "de er"
+          ],
+          "explain": "Nach at: Subjekt – Verb. Das Verb bleibt vorn."
+        },
+        {
+          "prompt": "Når du kommer, ___ på butikken. (vi + gå)",
+          "de": "Wenn du kommst, gehen wir in den Laden.",
+          "answer": [
+            "går vi"
+          ],
+          "explain": "Der Nebensatz steht vorn (Platz 1), danach kommt sofort das Verb."
+        },
+        {
+          "prompt": "___ det er fredag, spiser Susanne kake. (immer wenn)",
+          "de": "Wenn Freitag ist, isst Susanne Kuchen.",
+          "answer": [
+            "Når"
+          ],
+          "explain": "når = wenn (zeitlich, immer wenn)."
+        },
+        {
+          "prompt": "Elin drikker vann ___ det er gratis. (weil)",
+          "de": "Elin trinkt Wasser, weil es gratis ist.",
+          "answer": [
+            "fordi"
+          ],
+          "explain": "fordi = weil."
+        },
+        {
+          "prompt": "Ja, ___ du vasker opp etterpå. (falls)",
+          "de": "Ja, wenn du danach abspülst.",
+          "answer": [
+            "hvis",
+            "om"
+          ],
+          "explain": "hvis = wenn/falls (Bedingung); om geht hier auch."
         }
       ]
     },
     {
       "id": "g03_tall",
-      "title": "Zahlen 21–100, Telefonnummern",
-      "titleNo": "tall og telefonnumre",
-      "summary": "tjueen, tjueto … tretti, førti … hundre. Zuerst der Zehner, dann die Einer – anders als im Deutschen! Telefonnummern liest man in Paaren.",
+      "title": "0–20",
+      "titleNo": "tall og priser",
+      "summary": "null bis tjue, en krone – to kroner: Hva koster det? Det koster femten kroner.",
       "sections": [
         {
-          "h": "Die Zehner",
-          "body": "Lerne zuerst die Zehner. Dann ist alles einfach:",
+          "h": "Die Zahlen von 0 bis 20",
+          "body": "Für 7 gibt es zwei Formen: **sju** und **syv**. Beide sind richtig; **sju** ist häufiger.",
           "table": [
             [
               "Zahl",
@@ -903,246 +919,277 @@
               "Norwegisch"
             ],
             [
+              "0",
+              "**null**",
+              "11",
+              "**elleve**"
+            ],
+            [
+              "1",
+              "**en / ett**",
+              "12",
+              "**tolv**"
+            ],
+            [
+              "2",
+              "**to**",
+              "13",
+              "**tretten**"
+            ],
+            [
+              "3",
+              "**tre**",
+              "14",
+              "**fjorten**"
+            ],
+            [
+              "4",
+              "**fire**",
+              "15",
+              "**femten**"
+            ],
+            [
+              "5",
+              "**fem**",
+              "16",
+              "**seksten**"
+            ],
+            [
+              "6",
+              "**seks**",
+              "17",
+              "**sytten**"
+            ],
+            [
+              "7",
+              "**sju / syv**",
+              "18",
+              "**atten**"
+            ],
+            [
+              "8",
+              "**åtte**",
+              "19",
+              "**nitten**"
+            ],
+            [
+              "9",
+              "**ni**",
               "20",
-              "**tjue**",
-              "60",
-              "**seksti**"
+              "**tjue**"
             ],
             [
-              "30",
-              "**tretti**",
-              "70",
-              "**sytti**"
-            ],
-            [
-              "40",
-              "**førti**",
-              "80",
-              "**åtti**"
-            ],
-            [
-              "50",
-              "**femti**",
-              "90",
-              "**nitti**"
-            ],
-            [
-              "100",
-              "**hundre / ett hundre**",
+              "10",
+              "**ti**",
               "",
               ""
             ]
           ]
         },
         {
-          "h": "Erst der Zehner, dann die Einer",
-          "body": "Norwegisch zählt heute wie Englisch: **erst der Zehner, dann die Einer**, in einem Wort:\n\n• 21 = **tjueen**, 22 = **tjueto**, 25 = **tjuefem**\n• 34 = **trettifire**, 47 = **førtisju**, 69 = **sekstini**, 99 = **nittini**\n\nAchtung, deutsche Gewohnheit: 69 ist nicht »ni-og-seksti«, sondern **sekstini**!\n\nEs gibt noch ein älteres System wie im Deutschen: **enogtjue** (einundzwanzig), **niogseksti**. Ältere Menschen sagen es manchmal noch. Richtig ist beides, aber das neue System (**tjueen**) ist heute Standard."
+          "h": "Aussprache und en/ett",
+          "body": "• **tjue** und **sju**: tj und sj klingen ähnlich wie »ch« in »ich« bzw. »sch«: etwa »chüe«, »schü«.\n• **tolv** spricht man »toll«, **seksten** »säisten«, **sytten** »sötten«, **atten** wie geschrieben.\n• **fire** hat zwei Silben: »fi-re«.\n\nDie Eins: Vor einem et-Wort heißt sie **ett**: **ett glass, ett år**. Vor einem en-Wort heißt sie **en**, vor einem ei-Wort **ei** (oder en): **en kopp, ei bok**. Beim Zählen sagt man **en**."
         },
         {
-          "h": "Telefonnummern",
-          "body": "Norwegische Telefonnummern haben acht Ziffern. Man liest sie meist **in Zweiergruppen**:\n\n• **22 85 50 50** = **tjueto åttifem femti femti**\n• **98 76 54 32** = **nittiåtte syttiseks femtifire trettito**\n\nEine Null am Anfang einer Gruppe liest man einzeln: **05** = **null fem**.\n\n• **Hva er telefonnummeret ditt?** – Wie ist deine Telefonnummer?"
+          "h": "Preise",
+          "body": "Die Währung ist die **krone** (kr): **en krone, to kroner**. Eine Krone hat hundert **øre**, aber Münzen mit øre gibt es heute nicht mehr.\n\n• **Hva koster det?** – Was kostet das?\n• **Det koster femten kroner.** – Das kostet fünfzehn Kronen.\n• **Det blir tjue kroner.** – Das macht zwanzig Kronen."
         }
       ],
       "drills": [
         {
-          "prompt": "Laksen koster ___ kroner. (99)",
-          "de": "Der Lachs kostet neunundneunzig Kronen.",
+          "prompt": "En kaffe koster ___ kroner. (20)",
+          "de": "Ein Kaffee kostet zwanzig Kronen.",
           "answer": [
-            "nittini",
-            "niognitti"
+            "tjue"
           ],
-          "explain": "Erst der Zehner, dann die Einer: nitti + ni = nittini."
+          "explain": "20 = tjue."
         },
         {
-          "prompt": "Torsken koster ___ kroner. (69)",
-          "de": "Der Dorsch kostet neunundsechzig Kronen.",
+          "prompt": "Vi er ___ i klassen. (12)",
+          "de": "Wir sind zwölf in der Klasse.",
           "answer": [
-            "sekstini",
-            "niogseksti"
+            "tolv"
           ],
-          "explain": "seksti + ni = sekstini (nicht umdrehen wie im Deutschen)."
+          "explain": "12 = tolv (gesprochen »toll«)."
         },
         {
-          "prompt": "Susanne er ___ år. (24)",
-          "de": "Susanne ist vierundzwanzig Jahre alt.",
+          "prompt": "En bolle koster ___ kroner. (18)",
+          "de": "Ein Hefebrötchen kostet achtzehn Kronen.",
           "answer": [
-            "tjuefire",
-            "fireogtjue"
+            "atten"
           ],
-          "explain": "tjue + fire = tjuefire. Das alte System (fireogtjue) ist auch richtig."
+          "explain": "18 = atten."
         },
         {
-          "prompt": "Matthias er ___ år. (26)",
-          "de": "Matthias ist sechsundzwanzig Jahre alt.",
+          "prompt": "Vi trenger ___ egg. (6)",
+          "de": "Wir brauchen sechs Eier.",
           "answer": [
-            "tjueseks",
-            "seksogtjue"
+            "seks"
           ],
-          "explain": "tjue + seks = tjueseks."
+          "explain": "6 = seks."
         },
         {
-          "prompt": "Bestemor Ingrid er ___ år. (80)",
-          "de": "Oma Ingrid ist achtzig Jahre alt.",
+          "prompt": "Vi har ___ timer norsk i dag. (4)",
+          "de": "Wir haben heute vier Stunden Norwegisch.",
           "answer": [
-            "åtti"
+            "fire"
           ],
-          "explain": "80 = åtti."
+          "explain": "4 = fire (zwei Silben: fi-re)."
         },
         {
-          "prompt": "Per er ___ år. (55)",
-          "de": "Per ist fünfundfünfzig Jahre alt.",
+          "prompt": "En agurk koster ___ kroner. (15)",
+          "de": "Eine Gurke kostet fünfzehn Kronen.",
           "answer": [
-            "femtifem",
-            "femogfemti"
+            "femten"
           ],
-          "explain": "femti + fem = femtifem."
+          "explain": "15 = femten."
         },
         {
-          "prompt": "En liter melk koster ___ kroner. (23)",
-          "de": "Ein Liter Milch kostet dreiundzwanzig Kronen.",
+          "prompt": "Elin tar ___ glass vann. (1)",
+          "de": "Elin nimmt ein Glas Wasser.",
           "answer": [
-            "tjuetre",
-            "treogtjue"
+            "ett",
+            "et"
           ],
-          "explain": "tjue + tre = tjuetre."
+          "explain": "Vor einem et-Wort heißt die Eins ett: ett glass."
         },
         {
-          "prompt": "Nummeret er 22 85 50 50: tjueto ___ femti femti. (85)",
-          "de": "Die Nummer ist 22 85 50 50: zweiundzwanzig, fünfundachtzig, fünfzig, fünfzig.",
+          "prompt": "En uke har ___ dager. (7)",
+          "de": "Eine Woche hat sieben Tage.",
           "answer": [
-            "åttifem",
-            "femogåtti"
+            "sju",
+            "syv"
           ],
-          "explain": "Telefonnummern liest man in Paaren: 85 = åttifem."
+          "explain": "7 = sju oder syv."
         },
         {
-          "prompt": "Brunosten koster ___ kroner. (75)",
-          "de": "Der Brunost kostet fünfundsiebzig Kronen.",
+          "prompt": "En te koster ___ kroner. (13)",
+          "de": "Ein Tee kostet dreizehn Kronen.",
           "answer": [
-            "syttifem",
-            "femogsytti"
+            "tretten"
           ],
-          "explain": "sytti + fem = syttifem."
+          "explain": "13 = tretten."
         },
         {
-          "prompt": "Vi trenger ___ gram smør. (100)",
-          "de": "Wir brauchen hundert Gramm Butter.",
+          "prompt": "Ni og åtte er ___.",
+          "de": "Neun und acht ist siebzehn.",
           "answer": [
-            "hundre",
-            "ett hundre",
-            "et hundre",
-            "etthundre"
+            "sytten"
           ],
-          "explain": "100 = hundre (oder ett hundre)."
+          "explain": "9 + 8 = 17: sytten (gesprochen »sötten«)."
         }
       ]
     }
   ],
   "tf": [
     {
-      "s": "Anna er på universitetet.",
-      "de": "Anna ist an der Universität.",
+      "s": "Anna er på lesesalen når Susanne ringer.",
+      "de": "Anna ist im Lesesaal, als Susanne anruft.",
       "a": true,
-      "why": "Sie sitzt im Lesesaal an der Uni: »Jeg er på lesesalen på universitetet.«"
+      "why": "Anna sagt: »Nå er jeg på lesesalen.«"
     },
     {
-      "s": "Susanne og Anna lager middag til hele familien.",
-      "de": "Susanne und Anna kochen für die ganze Familie.",
+      "s": "Anna og Susanne lager middag hos familien Nygård.",
+      "de": "Anna und Susanne kochen bei Familie Nygård.",
+      "a": false,
+      "why": "Sie kochen in Annas Studenten-WG in Kringsjå: »Kom til meg på Kringsjå.«"
+    },
+    {
+      "s": "Anna lærer tysk.",
+      "de": "Anna lernt Deutsch.",
       "a": true,
-      "why": "Anna sagt: »Da lager vi middag til hele familien.«"
+      "why": "»Vi er tandempartnere: Hun lærer norsk, og jeg lærer tysk.«"
     },
     {
-      "s": "Laksen er billig.",
-      "de": "Der Lachs ist billig.",
-      "a": false,
-      "why": "Der Lachs ist teuer: Er kostet neunundneunzig Kronen."
-    },
-    {
-      "s": "Torsken er på tilbud.",
-      "de": "Der Dorsch ist im Angebot.",
+      "s": "To kilo poteter koster tjue kroner.",
+      "de": "Zwei Kilo Kartoffeln kosten zwanzig Kronen.",
       "a": true,
-      "why": "»I dag er den på tilbud.« Eine Packung kostet neunundsechzig Kronen."
+      "why": "Die Kartoffeln sind im Angebot: »To kilo koster bare tjue kroner.«"
     },
     {
-      "s": "Susanne vet hva brunost er.",
-      "de": "Susanne weiß, was Brunost ist.",
+      "s": "En pose gulrøtter koster tjue kroner.",
+      "de": "Eine Tüte Karotten kostet zwanzig Kronen.",
       "a": false,
-      "why": "Sie fragt: »Brunost? Hva er det?«"
+      "why": "Eine Tüte Karotten kostet zwölf Kronen."
     },
     {
-      "s": "Per sier at brunost er til dessert.",
-      "de": "Per sagt, dass man Brunost zum Nachtisch isst.",
+      "s": "Susanne vasker opp etter middagen.",
+      "de": "Susanne spült nach dem Essen ab.",
       "a": false,
-      "why": "Per sagt: »Brunost spiser vi til frokost.«"
+      "why": "Henrik spült ab: Anna sagt »Henrik, du vasker opp!«"
     }
   ],
   "questions": [
     {
-      "q": "Hva lager Anna og Susanne til middag?",
-      "qDe": "Was kochen Anna und Susanne zum Abendessen?",
-      "answer": "De lager fisk og poteter.",
-      "answerDe": "Sie kochen Fisch und Kartoffeln.",
+      "q": "Hvor bor Anna?",
+      "qDe": "Wo wohnt Anna?",
+      "answer": "Hun bor i et kollektiv på Kringsjå.",
+      "answerDe": "Sie wohnt in einer WG in Kringsjå.",
       "keywords": [
         [
-          "fisk",
-          "torsk"
+          "kollektiv",
+          "kollektivet"
+        ],
+        [
+          "Kringsjå"
+        ]
+      ]
+    },
+    {
+      "q": "Hva lager Anna og Susanne til middag?",
+      "qDe": "Was kochen Anna und Susanne zum Abendessen?",
+      "answer": "De lager fiskekaker med poteter og gulrøtter.",
+      "answerDe": "Sie machen Fischfrikadellen mit Kartoffeln und Karotten.",
+      "keywords": [
+        [
+          "fiskekaker",
+          "fiskekake"
         ],
         [
           "poteter",
-          "potet"
+          "potet",
+          "gulrøtter",
+          "gulrot"
         ]
       ]
     },
     {
-      "q": "Hvor mange personer er de til middag?",
-      "qDe": "Wie viele Personen sind sie beim Abendessen?",
-      "answer": "De er fem personer.",
-      "answerDe": "Sie sind fünf Personen.",
+      "q": "Hvorfor kjøper de to pakker fiskekaker?",
+      "qDe": "Warum kaufen sie zwei Packungen Fischfrikadellen?",
+      "answer": "De kjøper to pakker fordi Henrik spiser mye.",
+      "answerDe": "Sie kaufen zwei Packungen, weil Henrik viel isst.",
       "keywords": [
         [
-          "fem",
-          "5"
-        ]
-      ]
-    },
-    {
-      "q": "Hva koster en pakke torsk?",
-      "qDe": "Was kostet eine Packung Dorsch?",
-      "answer": "En pakke torsk koster sekstini kroner.",
-      "answerDe": "Eine Packung Dorsch kostet neunundsechzig Kronen.",
-      "keywords": [
-        [
-          "sekstini",
-          "69",
-          "niogseksti"
+          "Henrik"
         ],
         [
-          "kroner",
-          "krone"
+          "mye"
         ]
       ]
     },
     {
-      "q": "Hva er brunost?",
-      "qDe": "Was ist Brunost?",
-      "answer": "Det er en brun, søt ost.",
-      "answerDe": "Das ist ein brauner, süßer Käse.",
+      "q": "Hva sier Susanne etter middagen?",
+      "qDe": "Was sagt Susanne nach dem Essen?",
+      "answer": "Hun sier «Takk for maten!».",
+      "answerDe": "Sie sagt »Takk for maten!« (Danke für das Essen!).",
       "keywords": [
         [
-          "ost"
-        ],
-        [
-          "søt",
-          "brun"
+          "takk for maten"
         ]
       ]
     }
   ],
   "find": [
     {
-      "de": "Was gibt's?",
+      "de": "Hast du heute Abend Zeit?",
       "answer": [
-        "Hva skjer"
+        "Har du tid i kveld"
+      ]
+    },
+    {
+      "de": "Wir haben nicht viel Platz.",
+      "answer": [
+        "Vi har ikke mye plass"
       ]
     },
     {
@@ -1153,83 +1200,84 @@
       ]
     },
     {
-      "de": "im Angebot",
+      "de": "nur einen Kühlschrank",
       "answer": [
-        "på tilbud"
+        "bare ett kjøleskap"
       ]
     },
     {
-      "de": "ein Vollkornbrot",
+      "de": "Abgemacht!",
       "answer": [
-        "et grovt brød"
+        "Avtale"
       ]
     },
     {
-      "de": "in der Schublade",
+      "de": "Bitte schön, greift zu!",
       "answer": [
-        "i skuffen"
-      ]
-    },
-    {
-      "de": "das riecht gut",
-      "answer": [
-        "det lukter godt"
+        "Vær så god og forsyn dere"
       ]
     }
   ],
   "translate": [
     {
-      "de": "Das Haus ist groß.",
+      "de": "Heute Abend kochen wir zusammen.",
       "no": [
-        "Huset er stort."
-      ]
-    },
-    {
-      "de": "Wir brauchen große Kartoffeln.",
-      "no": [
-        "Vi trenger store poteter."
-      ]
-    },
-    {
-      "de": "Anna ist Medizinstudentin.",
-      "no": [
-        "Anna er medisinstudent."
+        "I kveld lager vi middag sammen.",
+        "I kveld lager vi mat sammen.",
+        "Vi lager middag sammen i kveld.",
+        "Vi lager mat sammen i kveld."
       ],
-      "hint": "Beim Beruf kein Artikel."
+      "hint": "Fang mit »I kveld« an – dann kommt sofort das Verb."
     },
     {
-      "de": "Ein frisches Brot, bitte.",
+      "de": "Wir brauchen zwei Zwiebeln und vier Eier.",
       "no": [
-        "Et ferskt brød, takk."
+        "Vi trenger to løker og fire egg."
       ]
     },
     {
-      "de": "Ihr habt eine praktische Küche.",
+      "de": "Eine Tüte Karotten kostet zwölf Kronen.",
       "no": [
-        "Dere har et praktisk kjøkken."
+        "En pose gulrøtter koster tolv kroner.",
+        "En pose gulrøtter koster 12 kroner."
+      ]
+    },
+    {
+      "de": "Ich esse Kuchen, weil ich Hunger habe.",
+      "no": [
+        "Jeg spiser kake fordi jeg er sulten.",
+        "Jeg spiser kake, fordi jeg er sulten."
       ],
-      "hint": "kjøkken ist ein Neutrum."
+      "hint": "Hunger haben = være sulten. Das Verb steht im Nebensatz nicht am Ende."
     },
     {
-      "de": "Der Lachs ist teuer.",
+      "de": "Wenn du kommst, gehen wir in den Laden.",
       "no": [
-        "Laksen er dyr."
+        "Når du kommer, går vi på butikken.",
+        "Når du kommer, går vi i butikken.",
+        "Når du kommer, går vi til butikken."
       ]
     },
     {
-      "de": "Brunost ist ein typisch norwegischer Käse.",
+      "de": "Henrik und Anna sind Studenten.",
       "no": [
-        "Brunost er en typisk norsk ost."
+        "Henrik og Anna er studenter."
       ]
     },
     {
-      "de": "Ich bin vierundzwanzig Jahre alt.",
+      "de": "Ich weiß, dass Anna Deutsch lernt.",
       "no": [
-        "Jeg er tjuefire år.",
-        "Jeg er tjuefire år gammel.",
-        "Jeg er fireogtjue år.",
-        "Jeg er fireogtjue år gammel.",
-        "Jeg er 24 år."
+        "Jeg vet at Anna lærer tysk.",
+        "Jeg vet Anna lærer tysk."
+      ]
+    },
+    {
+      "de": "Danke für das Essen! – Wohl bekomm’s!",
+      "no": [
+        "Takk for maten! – Vel bekomme!",
+        "Takk for maten! – Velbekomme!",
+        "Tusen takk for maten! – Vel bekomme!",
+        "Tusen takk for maten! – Velbekomme!"
       ]
     }
   ],
@@ -1242,49 +1290,49 @@
       ]
     },
     {
-      "prompt": "De lager middag til hele ___.",
-      "de": "Sie kochen für die ganze Familie.",
+      "prompt": "Anna bor i et ___ på Kringsjå.",
+      "de": "Anna wohnt in einer WG in Kringsjå.",
       "answer": [
-        "familien"
+        "kollektiv"
       ]
     },
     {
-      "prompt": "Laksen er fersk, men den er ___.",
-      "de": "Der Lachs ist frisch, aber er ist teuer.",
+      "prompt": "De lager fiskekaker med ___ og gulrøtter.",
+      "de": "Sie machen Fischfrikadellen mit Kartoffeln und Karotten.",
       "answer": [
-        "dyr"
+        "poteter"
       ]
     },
     {
-      "prompt": "Brunost er en brun og ___ ost.",
-      "de": "Brunost ist ein brauner und süßer Käse.",
+      "prompt": "To kilo poteter koster bare ___ kroner.",
+      "de": "Zwei Kilo Kartoffeln kosten nur zwanzig Kronen.",
       "answer": [
-        "søt"
+        "tjue"
       ]
     },
     {
-      "prompt": "Per sier at brunost er til ___.",
-      "de": "Per sagt, dass man Brunost zum Frühstück isst.",
+      "prompt": "Etter middagen vasker Henrik ___.",
+      "de": "Nach dem Essen spült Henrik ab.",
       "answer": [
-        "frokost"
+        "opp"
       ]
     }
   ],
   "dictation": [
-    3,
-    6,
+    1,
+    10,
     11,
-    18
+    16
   ],
   "writing": {
-    "prompt": "Du möchtest mit einer Freundin kochen. Schreib ihr eine Nachricht: Lade sie ein, sag, was ihr kocht, und schreib eine kleine Einkaufsliste. Beschreibe die Lebensmittel mit Adjektiven (frisch, gut, billig, groß …).",
+    "prompt": "Du möchtest mit einer Freundin kochen. Schreib ihr eine Nachricht: Lade sie ein, sag, was ihr kocht und warum (fordi), und schreib eine kleine Einkaufsliste mit Preisen bis zwanzig Kronen.",
     "minWords": 30,
     "useWords": [
       "middag",
       "trenger",
-      "fersk",
-      "billig",
-      "handleliste"
+      "fordi",
+      "kroner",
+      "når"
     ],
     "checklist": [
       {
@@ -1296,26 +1344,30 @@
         ]
       },
       {
-        "de": "Einkaufsliste",
+        "de": "Einkaufsliste im Plural",
         "keywords": [
-          "handlelista",
-          "handleliste",
-          "trenger"
+          "poteter",
+          "tomater",
+          "løker",
+          "gulrøtter",
+          "egg"
         ]
       },
       {
-        "de": "Adjektive",
+        "de": "Begründung mit fordi",
         "keywords": [
-          "fersk",
-          "god",
-          "billig",
-          "dyr",
-          "stor",
-          "norsk"
+          "fordi"
+        ]
+      },
+      {
+        "de": "Preis",
+        "keywords": [
+          "kroner",
+          "koster"
         ]
       }
     ],
-    "model": "Hei Elin! Har du lyst til å lage middag sammen i kveld? Vi lager pasta med laks og en stor salat. Her er handlelista: fersk laks, pasta, tomater, en agurk og et godt brød. Laks er ikke billig, men den er veldig god. Vi trenger også melk og en norsk ost. Hilsen Susanne",
-    "modelDe": "Hallo Elin! Hast du Lust, heute Abend zusammen zu kochen? Wir machen Pasta mit Lachs und einen großen Salat. Hier ist die Einkaufsliste: frischer Lachs, Pasta, Tomaten, eine Gurke und ein gutes Brot. Lachs ist nicht billig, aber er ist sehr gut. Wir brauchen auch Milch und einen norwegischen Käse. Viele Grüße, Susanne"
+    "model": "Hei Elin! Har du lyst til å lage middag sammen i kveld? Jeg vil lage pasta med tomater fordi det er billig og godt. Vi trenger tre tomater, to løker og en pakke pasta. En pakke pasta koster tolv kroner, og tre tomater koster femten kroner. Når du kommer, går vi på butikken. Hilsen Susanne",
+    "modelDe": "Hallo Elin! Hast du Lust, heute Abend zusammen zu kochen? Ich möchte Pasta mit Tomaten machen, weil das billig und lecker ist. Wir brauchen drei Tomaten, zwei Zwiebeln und eine Packung Pasta. Eine Packung Pasta kostet zwölf Kronen, und drei Tomaten kosten fünfzehn Kronen. Wenn du kommst, gehen wir in den Laden. Viele Grüße, Susanne"
   }
 }

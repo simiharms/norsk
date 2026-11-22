@@ -3,13 +3,13 @@
   "level": "B2",
   "title": "Sankthans i Tromsø",
   "titleDe": "Mittsommer in Tromsø",
-  "place": "Tromsø, Telegrafbukta",
+  "place": "Tromsø",
   "goals": [
-    "Du kannst einen persönlichen Blogbeitrag verstehen und selbst einen schreiben.",
-    "Du kannst über Mittsommer, die Mitternachtssonne und ein ganzes Jahr in Norwegen erzählen.",
-    "Du drückst laufende Handlungen mit sitte/stå/ligge og … und mit holde på med å aus.",
-    "Du unterscheidest Partikelverben (stå opp, ta med) und feste Zusammensetzungen (oppgi, nedlagt).",
-    "Du weißt Grundlegendes über die Samen in Norwegen und kennst wichtige Computer- und Internetwörter."
+    "Du kannst einen persönlichen Blogbeitrag verstehen und selbst auf eine lange Zeit zurückblicken.",
+    "Du kannst über Mittsommer, die Mitternachtssonne und das Leben der Samen erzählen.",
+    "Du unterscheidest die vielen Bedeutungen der kleinen Wörter da, før, om, siden und så.",
+    "Du kennst die wichtigsten unregelmäßigen Verben mit allen Formen und weißt, wo du im Tab »Verben« den Rest findest.",
+    "Du verstehst und benutzt norwegische Redewendungen wie kjøpe katta i sekken, snakke rett fra levra oder slå to fluer i ett smekk."
   ],
   "text": {
     "id": "t23",
@@ -43,16 +43,16 @@
         "de": "Nach der Zeremonie joikte ihr Vater. „Er hat nicht über mich gejoikt – er hat mich gejoikt“, sagte Inga danach. Ich stand da und hörte zu, und mir kamen die Tränen."
       },
       {
-        "no": "Når jeg tenker tilbake på året, blir jeg nesten svimmel. I august satt jeg i et klasserom på Blindern og forsto nesten ingenting. Siden da har jeg reist med Bergensbanen og Hurtigruta, gått over Besseggen, feiret jul i mørketida og påske i snøstorm og kranglet med Matthias på Sørlandet. Og på 17. mai sto jeg på Karl Johan og ropte «Hurra!» sammen med tusenvis av nordmenn.",
-        "de": "Wenn ich an das Jahr zurückdenke, wird mir fast schwindelig. Im August saß ich in einem Klassenzimmer in Blindern und verstand fast nichts. Seitdem bin ich mit der Bergensbahn und der Hurtigrute gefahren, über den Besseggen gewandert, habe Weihnachten in der Polarnacht und Ostern im Schneesturm gefeiert und mich mit Matthias an der Südküste gestritten. Und am 17. Mai stand ich auf der Karl Johan und rief zusammen mit Tausenden von Norwegern „Hurra!“."
+        "no": "Når jeg tenker tilbake på året, blir jeg nesten svimmel. I august, da jeg satt i et klasserom på Blindern, forsto jeg nesten ingenting. Siden da har jeg reist med Bergensbanen og Hurtigruta, tatt båt gjennom Nærøyfjorden, feiret jul i mørketida og påske i snøstorm og kranglet med Matthias på Sørlandet. Og på 17. mai sto jeg på Karl Johan og ropte «Hurra!» sammen med tusenvis av nordmenn.",
+        "de": "Wenn ich an das Jahr zurückdenke, wird mir fast schwindelig. Im August, als ich in einem Klassenzimmer in Blindern saß, verstand ich fast nichts. Seitdem bin ich mit der Bergensbahn und der Hurtigrute gefahren, habe eine Bootsfahrt durch den Nærøyfjord gemacht, Weihnachten in der Polarnacht und Ostern im Schneesturm gefeiert und mich mit Matthias an der Südküste gestritten. Und am 17. Mai stand ich auf der Karl Johan und rief zusammen mit Tausenden von Norwegern „Hurra!“."
       },
       {
-        "no": "Jeg har lært mye mer enn språket. Jeg har lært å gå på tur i all slags vær, å spise brunost uten å klage og å si «takk for maten». Jeg har lært at nordmenn er stille på bussen, men varme når man først blir kjent med dem. Og jeg har lært at det ikke finnes dårlig vær, bare dårlige klær.",
-        "de": "Ich habe viel mehr gelernt als die Sprache. Ich habe gelernt, bei jedem Wetter wandern zu gehen, Brunost zu essen, ohne mich zu beklagen, und „takk for maten“ zu sagen. Ich habe gelernt, dass Norweger im Bus still sind, aber herzlich, wenn man sie erst einmal kennenlernt. Und ich habe gelernt, dass es kein schlechtes Wetter gibt, nur schlechte Kleidung."
+        "no": "Jeg har lært mye mer enn språket. Jeg har lært å gå på tur i all slags vær, å spise brunost uten å klage og å si «takk for maten». Jeg har lært at nordmenn er stille på bussen, men varme når man først blir kjent med dem – og at de gjerne snakker rett fra levra. Takket være en viss sjarmerende mann fra Hurtigruta vet jeg også at man ikke skal kjøpe katta i sekken. Og jeg har lært at det ikke finnes dårlig vær, bare dårlige klær.",
+        "de": "Ich habe viel mehr gelernt als die Sprache. Ich habe gelernt, bei jedem Wetter wandern zu gehen, Brunost zu essen, ohne mich zu beklagen, und „takk for maten“ zu sagen. Ich habe gelernt, dass Norweger im Bus still sind, aber herzlich, wenn man sie erst einmal kennenlernt – und dass sie gern frei von der Leber weg reden. Dank eines gewissen charmanten Mannes von der Hurtigrute weiß ich auch, dass man nicht die Katze im Sack kaufen sollte. Und ich habe gelernt, dass es kein schlechtes Wetter gibt, nur schlechte Kleidung."
       },
       {
-        "no": "Hva kommer jeg til å savne? Familien Nygård, som tok imot meg som en datter. Kveldene på kjøkkenet med Inga.",
-        "de": "Was werde ich vermissen? Familie Nygård, die mich wie eine Tochter aufgenommen hat. Die Abende in der Küche mit Inga."
+        "no": "Hva kommer jeg til å savne? Familien Nygård, som tok imot meg som en datter. Tandemkveldene med Anna og kveldene på kjøkkenet med Inga.",
+        "de": "Was werde ich vermissen? Familie Nygård, die mich wie eine Tochter aufgenommen hat. Die Tandemabende mit Anna und die Abende in der Küche mit Inga."
       },
       {
         "no": "Lyset – både nordlyset i vinter og midnattssola nå. Og lukta av sjø når jeg står opp om morgenen.",
@@ -231,6 +231,50 @@
       {
         "no": "fulgt med på",
         "de": "verfolgt"
+      },
+      {
+        "no": "før i slutten av juli",
+        "de": "(nicht) vor Ende Juli, erst Ende Juli"
+      },
+      {
+        "no": "da jeg satt",
+        "de": "als ich saß"
+      },
+      {
+        "no": "Siden da",
+        "de": "seitdem"
+      },
+      {
+        "no": "tatt båt gjennom Nærøyfjorden",
+        "de": "mit dem Boot durch den Nærøyfjord gefahren"
+      },
+      {
+        "no": "snakker rett fra levra",
+        "de": "reden frei von der Leber weg"
+      },
+      {
+        "no": "Takket være",
+        "de": "dank"
+      },
+      {
+        "no": "en viss sjarmerende mann",
+        "de": "ein gewisser charmanter Mann"
+      },
+      {
+        "no": "kjøpe katta i sekken",
+        "de": "die Katze im Sack kaufen"
+      },
+      {
+        "no": "Tandemkveldene",
+        "de": "die Tandemabende (Sprachtandem)"
+      },
+      {
+        "no": "Om noen dager",
+        "de": "in ein paar Tagen"
+      },
+      {
+        "no": "så snart",
+        "de": "sobald"
       }
     ]
   },
@@ -420,398 +464,706 @@
     }
   ],
   "wk": {
-    "title": "Noen datauttrykk",
-    "titleDe": "Einige Computerwörter",
+    "title": "Han kjøpte katta i sekken og ble sittende med skjegget i postkassen",
+    "titleDe": "Er kaufte die Katze im Sack und stand am Ende dumm da – norwegische Redewendungen",
     "phrases": [
       {
-        "no": "en datamaskin / en PC",
-        "de": "ein Computer",
-        "note": "PC spricht man [pe-se]; bestimmt: PC-en."
+        "no": "å kjøpe katta i sekken",
+        "de": "die Katze im Sack kaufen",
+        "note": "Genau wie im Deutschen: etwas kaufen oder auf etwas eingehen, ohne es vorher zu prüfen."
       },
       {
-        "no": "en bærbar PC",
-        "de": "ein Laptop",
-        "note": "Oft nur: en bærbar."
+        "no": "å bli sittende med skjegget i postkassen",
+        "de": "dumm dastehen, der Dumme sein",
+        "note": "Wörtlich: mit dem Bart im Briefkasten sitzen bleiben – man steckt in einer peinlichen Lage fest, meist weil man sich verrechnet hat."
       },
       {
-        "no": "et nettbrett",
-        "de": "ein Tablet"
+        "no": "å ikke se skogen for bare trær",
+        "de": "den Wald vor lauter Bäumen nicht sehen",
+        "note": "Wie im Deutschen: Han ser ikke skogen for bare trær."
       },
       {
-        "no": "et tastatur og en skjerm",
-        "de": "eine Tastatur und ein Bildschirm"
+        "no": "Det er ugler i mosen.",
+        "de": "Da ist etwas im Busch. / Da stimmt etwas nicht.",
+        "note": "Wörtlich: Es sind Eulen im Moos."
       },
       {
-        "no": "å logge inn / å logge ut",
-        "de": "sich einloggen / sich ausloggen",
-        "note": "Auch: logge på / logge av."
+        "no": "å gå som katta rundt den varme grøten",
+        "de": "um den heißen Brei herumreden",
+        "note": "Wörtlich: wie die Katze um den heißen Brei schleichen – fast wie im Deutschen, nur mit Katze."
       },
       {
-        "no": "Jeg har glemt passordet mitt.",
-        "de": "Ich habe mein Passwort vergessen."
+        "no": "å slå to fluer i ett smekk",
+        "de": "zwei Fliegen mit einer Klappe schlagen",
+        "note": "et smekk = ein Klaps, Schlag. ett mit Doppel-t, weil es „eins“ bedeutet."
       },
       {
-        "no": "et brukernavn",
-        "de": "ein Benutzername"
+        "no": "å snakke rett fra levra",
+        "de": "frei von der Leber weg reden",
+        "note": "Auch auf Norwegisch sitzt die Offenheit in der Leber: ei lever – levra."
       },
       {
-        "no": "å laste ned en app",
-        "de": "eine App herunterladen"
+        "no": "å være på bærtur",
+        "de": "auf dem Holzweg sein, völlig danebenliegen",
+        "note": "Wörtlich: auf Beerentour sein – man ist weit weg vom Thema oder von der richtigen Antwort."
       },
       {
-        "no": "å laste opp bilder",
-        "de": "Fotos hochladen"
+        "no": "å ta seg vann over hodet",
+        "de": "sich übernehmen",
+        "note": "Wörtlich: sich Wasser über den Kopf nehmen – mehr anfangen, als man schaffen kann."
       },
       {
-        "no": "å legge ut et innlegg",
-        "de": "einen Beitrag veröffentlichen (posten)"
+        "no": "å hoppe over der gjerdet er lavest",
+        "de": "den Weg des geringsten Widerstands gehen",
+        "note": "Wörtlich: dort über den Zaun springen, wo er am niedrigsten ist – es sich leicht machen."
       },
       {
-        "no": "å dele en lenke",
-        "de": "einen Link teilen"
+        "no": "å skjære alle over én kam",
+        "de": "alle über einen Kamm scheren",
+        "note": "Wie im Deutschen; der Akzent auf én zeigt: ein einziger Kamm."
       },
       {
-        "no": "Klikk på lenken!",
-        "de": "Klick auf den Link!"
+        "no": "å ha sommerfugler i magen",
+        "de": "Schmetterlinge im Bauch haben"
       },
       {
-        "no": "å lagre et dokument",
-        "de": "ein Dokument speichern"
+        "no": "Det er hipp som happ.",
+        "de": "Das ist gehupft wie gesprungen.",
+        "note": "= Es ist egal, beides kommt aufs Gleiche hinaus."
       },
       {
-        "no": "å slette en fil",
-        "de": "eine Datei löschen"
+        "no": "Det er gresk for meg.",
+        "de": "Das sind für mich böhmische Dörfer.",
+        "note": "Auch auf Deutsch: Das ist Chinesisch für mich."
       },
       {
-        "no": "å sende en e-post med vedlegg",
-        "de": "eine E-Mail mit Anhang schicken"
+        "no": "å ha bein i nesa",
+        "de": "sich durchsetzen können, sich nichts gefallen lassen",
+        "note": "Wörtlich: Knochen in der Nase haben. Ein Lob: Hun har bein i nesa."
       },
       {
-        "no": "å søke på nettet",
-        "de": "im Internet suchen"
+        "no": "å bite i det sure eplet",
+        "de": "in den sauren Apfel beißen"
       },
       {
-        "no": "PC-en har hengt seg opp.",
-        "de": "Der Computer hat sich aufgehängt."
+        "no": "Snakk om sola!",
+        "de": "Wenn man vom Teufel spricht …",
+        "note": "Wörtlich: Sprich von der Sonne (… dann scheint sie). Freundlich gemeint: Die Person, von der man gerade spricht, kommt herein."
       },
       {
-        "no": "Skjermen frøs.",
-        "de": "Der Bildschirm ist eingefroren."
-      },
-      {
-        "no": "Batteriet er nesten tomt – jeg må lade telefonen.",
-        "de": "Der Akku ist fast leer – ich muss das Handy laden."
-      },
-      {
-        "no": "Har dere trådløst nett her? Hva er passordet?",
-        "de": "Habt ihr hier WLAN? Wie ist das Passwort?",
-        "note": "Man sagt auch einfach wifi [vai-fai]."
-      },
-      {
-        "no": "å oppdatere appen",
-        "de": "die App aktualisieren"
-      },
-      {
-        "no": "å skrive en kommentar",
-        "de": "einen Kommentar schreiben"
+        "no": "å ha det som plommen i egget",
+        "de": "sich wie die Made im Speck fühlen, es richtig gut haben",
+        "note": "Wörtlich: es haben wie der Dotter im Ei (ei plomme = Eigelb, auch: Pflaume)."
       }
     ]
   },
   "grammar": [
     {
-      "id": "g23_ligge_staa_sitte",
-      "title": "ligge, stå, sitte + og + Verb",
-      "titleNo": "sitter og leser – står og venter",
-      "summary": "Für eine Handlung, die gerade andauert, nimmt Norwegisch oft ein Positionsverb + og + Verb: Hun sitter og leser = Sie liest (gerade).",
+      "id": "g23_smaaord",
+      "title": "Kleine Wörter mit vielschichtiger Bedeutung: da, før, om, siden, så",
+      "summary": "Die kleinen Wörter da, før, om, siden und så haben je nach Satz mehrere Bedeutungen – Zusammenhang und Wortstellung zeigen, welche gemeint ist.",
       "sections": [
         {
-          "h": "Positionsverb + og + Verb",
-          "body": "Das Deutsche hat keine eigene Verlaufsform; man sagt „Sie liest gerade“. Norwegisch sagt oft, **in welcher Haltung** jemand etwas tut, und verbindet zwei Verben mit **og**:\n\n• **Hun sitter og leser.** – Sie sitzt da und liest. / Sie liest gerade.\n• **Vi sto og ventet på bussen.** – Wir standen da und warteten auf den Bus.\n• **Han ligger og sover.** – Er schläft (gerade).\n\nWichtig: **Beide Verben stehen in derselben Zeitform.** Ein typischer Fehler ist *Hun satt og lese – richtig ist **Hun satt og leste**.",
-          "table": [
-            [
-              "Zeit",
-              "sitte",
-              "stå",
-              "ligge"
-            ],
-            [
-              "Präsens",
-              "**sitter og leser**",
-              "**står og venter**",
-              "**ligger og sover**"
-            ],
-            [
-              "Präteritum",
-              "**satt og leste**",
-              "**sto og ventet**",
-              "**lå og sov**"
-            ],
-            [
-              "Perfekt",
-              "**har sittet og lest**",
-              "**har stått og ventet**",
-              "**har ligget og sovet**"
-            ]
-          ]
+          "h": "da und før",
+          "body": "**da** hat vier Gesichter:\n\n• Konjunktion **als** (einmal in der Vergangenheit, Lektion 13): **Da jeg kom til Tromsø, var dagene korte.**\n• Adverb **dann, damals, in dem Fall** – am Satzanfang mit Inversion: **Da var jeg ung.** **Kommer du ikke? Da går jeg alene.**\n• Konjunktion **weil, da** (formell, = **siden**): **Da det regnet, ble vi inne.** – wie das deutsche „da“.\n• Partikel, die eine Aussage verstärkt: **Kom da!** (Komm schon!), **Ja da!** (Ja doch!), **Nei da!** (Aber nein!)\n\n**før** bedeutet:\n\n• Präposition **vor** (zeitlich): **før jul**, **før klokka åtte**\n• Konjunktion **bevor**: **Vi vasker hendene før vi spiser.**\n• Adverb **früher**: **Jeg bodde her før.** **Før var alt bedre!**\n• **ikke før** = **erst**: **Sola går ikke ned før i slutten av juli.** (Die Sonne geht erst Ende Juli unter.)\n\nAchtung: „vor zwei Jahren“ heißt **for to år siden**, nicht *før to år*!"
         },
         {
-          "h": "Welches Verb passt?",
-          "body": "Das Positionsverb beschreibt die echte Körperhaltung: **Hun sitter og skriver** (am Schreibtisch), **Han står og lager mat** (am Herd), **Jeg lå og tenkte på deg** (im Bett). Bei Bewegung nimmt man **gå**: **Han går og tenker på henne** (er denkt ständig an sie).\n\n• Satzadverbien stehen im Hauptsatz nach dem ersten Verb: **Hun sitter ikke og leser – hun sover.**\n• Im Nebensatz stehen sie vor dem ersten Verb: **…fordi han alltid sitter og ser på mobilen.**"
+          "h": "om",
+          "body": "• **ob**: **Jeg vet ikke om hun kommer.** (Lektion 19: indirekte Fragen)\n• **wenn, falls** (= **hvis**): **Om du vil, kan vi gå på kino.**\n• **über**: **en bok om Norge**, **Vi snakket om deg.**\n• **in** (Zeitpunkt in der Zukunft): **om en uke** (in einer Woche), **om to timer**\n• **regelmäßig**: **om morgenen** (morgens), **om sommeren** (im Sommer)\n• in festen Verbverbindungen: **be om** (bitten um), **handle om** (handeln von), **drømme om** (träumen von)\n\nVergleiche: **om en uke** (in einer Woche, von jetzt an) – **i en uke** (eine Woche lang) – **for en uke siden** (vor einer Woche)."
         },
         {
-          "h": "holde på med å",
-          "body": "**holde på med å** + Infinitiv = gerade dabei sein: **Jeg holder på med å pakke.** (Ich bin gerade beim Packen.) Mit Substantiv: **Hva holder du på med?** – **Jeg holder på med masteroppgaven.**\n\nAchtung: **holde på å** ohne **med** heißt oft „beinahe“, vor allem in der Vergangenheit: **Jeg holdt på å falle.** (Ich wäre fast gefallen.)"
+          "h": "siden",
+          "body": "• Präposition **seit** – mit Perfekt, wo das Deutsche Präsens hat: **Jeg har bodd her siden august.** (Ich wohne seit August hier.)\n• Konjunktion **weil, da**: **Siden det regner, blir vi hjemme.**\n• in **for … siden** = **vor**: **for to år siden** (vor zwei Jahren)\n• Adverb **später, seitdem**: **Vi snakkes siden!** (Bis später!) **Siden da har jeg ikke sett ham.** (Seitdem habe ich ihn nicht gesehen.)"
+        },
+        {
+          "h": "så",
+          "body": "• **so** (Grad): **så fint!**, **så mye**, **ikke så stor som** (Lektion 12)\n• **dann** (Adverb, mit Inversion): **Først spiser vi, så går vi en tur.** **Og så?**\n• **also, deshalb** (Konjunktion, **ohne** Inversion): **Det regnet, så vi ble hjemme.**\n• **so dass, damit**: **Han snakket så høyt at alle hørte det.** **Ta med paraply, så du ikke blir våt.**\n• **sah**: Präteritum von **se**: **Jeg så nordlyset.**\n• **säen**: **å så** (sår – sådde – sådd): **Bonden sår korn om våren.**\n\nAchte auf die Wortstellung: **Så gikk vi hjem.** (Dann gingen wir nach Hause: Adverb, Inversion) – **…, så vi gikk hjem.** (…, also gingen wir nach Hause: Konjunktion, keine Inversion)"
         }
       ],
       "drills": [
         {
-          "prompt": "Inga sitter og ___ til eksamen. (lese, Präsens)",
-          "de": "Inga sitzt da und lernt für die Prüfung.",
+          "prompt": "___ jeg kom til Tromsø i november, var dagene allerede korte. (als)",
+          "de": "Als ich im November nach Tromsø kam, waren die Tage schon kurz.",
           "answer": [
-            "leser"
+            "Da"
           ],
-          "explain": "Beide Verben im Präsens: sitter og leser."
+          "explain": "Einmalige Handlung in der Vergangenheit: da = als."
         },
         {
-          "prompt": "I går sto vi og ___ på bussen i en halv time. (vente)",
-          "de": "Gestern standen wir eine halbe Stunde da und warteten auf den Bus.",
+          "prompt": "Kommer du ikke? ___ går jeg alene. (in dem Fall)",
+          "de": "Kommst du nicht? Dann gehe ich allein.",
           "answer": [
-            "ventet",
-            "venta"
+            "Da"
           ],
-          "explain": "sto ist Präteritum, also auch ventet (oder venta)."
+          "explain": "da = dann, in dem Fall; danach Inversion: går jeg."
         },
         {
-          "prompt": "Matthias ___ og sov da jeg kom hjem. (ligge, Präteritum)",
-          "de": "Matthias lag da und schlief, als ich nach Hause kam.",
+          "prompt": "Vi må være hjemme ___ klokka elleve. (vor)",
+          "de": "Wir müssen vor elf Uhr zu Hause sein.",
           "answer": [
-            "lå"
+            "før"
           ],
-          "explain": "ligge – lå – ligget; dazu passt sov im Präteritum."
+          "explain": "før + Zeitangabe = vor."
         },
         {
-          "prompt": "Vi ___ og så på midnattssola til klokka to. (sitte, Präteritum)",
-          "de": "Wir saßen da und schauten bis zwei Uhr die Mitternachtssonne an.",
+          "prompt": "Husk å vaske hendene ___ du spiser! (bevor)",
+          "de": "Denk daran, dir die Hände zu waschen, bevor du isst!",
           "answer": [
-            "satt"
+            "før"
           ],
-          "explain": "sitte – satt – sittet; satt og så (beide Präteritum)."
+          "explain": "før als Konjunktion = bevor; danach Nebensatz-Wortstellung."
         },
         {
-          "prompt": "Susanne har ___ og skrevet på bloggen hele kvelden. (sitte, Perfekt)",
-          "de": "Susanne hat den ganzen Abend an ihrem Blog geschrieben.",
+          "prompt": "Jeg vet ikke ___ Matthias kommer i kveld. (ob)",
+          "de": "Ich weiß nicht, ob Matthias heute Abend kommt.",
           "answer": [
-            "sittet"
+            "om"
           ],
-          "explain": "Perfekt: har sittet og skrevet – beide Verben als Partizip."
+          "explain": "Indirekte Ja/Nein-Frage: om = ob."
         },
         {
-          "prompt": "Han lå på sofaen og ___ på musikk. (høre)",
-          "de": "Er lag auf dem Sofa und hörte Musik.",
+          "prompt": "Susanne skal skrive masteroppgave ___ dialekter i Nord-Norge. (über)",
+          "de": "Susanne wird eine Masterarbeit über Dialekte in Nordnorwegen schreiben.",
           "answer": [
-            "hørte"
+            "om"
           ],
-          "explain": "lå ist Präteritum, also auch hørte."
+          "explain": "om = über (ein Thema)."
         },
         {
-          "prompt": "Barna står rundt bålet og ___. (synge)",
-          "de": "Die Kinder stehen ums Feuer und singen.",
+          "prompt": "Hun reiser hjem til Freiburg ___ en uke. (in)",
+          "de": "Sie fährt in einer Woche nach Hause nach Freiburg.",
           "answer": [
-            "synger"
+            "om"
           ],
-          "explain": "står (Präsens) og synger (Präsens)."
+          "explain": "om + Zeitraum = in (Zukunft); i en uke hieße „eine Woche lang“."
         },
         {
-          "prompt": "Når jeg kommer hjem, ___ Inga alltid og leser i stua. (sitte)",
-          "de": "Wenn ich nach Hause komme, sitzt Inga immer im Wohnzimmer und liest.",
+          "prompt": "Inga har bodd i Tromsø ___ hun var nitten. (seit)",
+          "de": "Inga wohnt seit ihrem neunzehnten Lebensjahr in Tromsø.",
           "answer": [
-            "sitter"
+            "siden"
           ],
-          "explain": "Nach dem Nebensatz Inversion: Verb vor dem Subjekt; Präsens wie leser."
+          "explain": "siden = seit; dazu Perfekt (har bodd), wo das Deutsche Präsens hat."
         },
         {
-          "prompt": "Jeg holder på ___ å pakke kofferten. (Präposition)",
-          "de": "Ich bin gerade dabei, den Koffer zu packen.",
+          "prompt": "Matthias begynte å lære norsk for ett år ___. (vor einem Jahr)",
+          "de": "Matthias hat vor einem Jahr angefangen, Norwegisch zu lernen.",
           "answer": [
-            "med"
+            "siden"
           ],
-          "explain": "holde på med å + Infinitiv = gerade dabei sein."
+          "explain": "for … siden = vor (Zeitraum in der Vergangenheit)."
         },
         {
-          "prompt": "Hva holder du på ___ for tiden? (Präposition)",
-          "de": "Womit bist du zurzeit beschäftigt?",
+          "prompt": "Ha det bra – vi snakkes ___! (später)",
+          "de": "Mach’s gut – bis später!",
           "answer": [
-            "med"
+            "siden"
           ],
-          "explain": "Hva holder du på med? – die Präposition steht am Ende der Frage."
+          "explain": "Vi snakkes siden! = Bis später! (siden = später)."
         },
         {
-          "prompt": "Jeg ___ på å glemme passordet! (holde, Präteritum)",
-          "de": "Ich hätte fast das Passwort vergessen!",
-          "answer": [
-            "holdt"
-          ],
-          "explain": "holdt på å (ohne med) = beinahe."
-        },
-        {
-          "prompt": "Hun satt og ___ på mobilen da Matthias ringte. (se)",
-          "de": "Sie saß da und schaute aufs Handy, als Matthias anrief.",
+          "prompt": "Det regnet hele dagen, ___ vi ble inne. (deshalb)",
+          "de": "Es regnete den ganzen Tag, deshalb blieben wir drinnen.",
           "answer": [
             "så"
           ],
-          "explain": "satt (Präteritum) og så (Präteritum von se)."
+          "explain": "så als Konjunktion = also, deshalb – danach keine Inversion: så vi ble."
+        },
+        {
+          "prompt": "I vinter ___ vi nordlyset nesten hver uke. (se, Präteritum)",
+          "de": "Diesen Winter sahen wir das Nordlicht fast jede Woche.",
+          "answer": [
+            "så"
+          ],
+          "explain": "se – så – sett: så ist auch das Präteritum von se."
         }
-      ]
+      ],
+      "titleNo": "småord: da, før, om, siden, så"
     },
     {
-      "id": "g23_sammensatte_verb",
-      "title": "Zusammengesetzte Verben",
-      "titleNo": "sammensatte verb",
-      "summary": "Partikelverben (stå opp, ta med) sind trennbar wie im Deutschen, aber die Partikel steht direkt hinter dem Verb und wandert nicht ans Satzende; daneben gibt es feste Zusammensetzungen (oppgi, nedlagt).",
+      "id": "g23_uregelmessige_verb",
+      "title": "Liste der unregelmäßigen Verben",
+      "titleNo": "sterke og uregelmessige verb",
+      "summary": "Starke Verben wechseln den Stammvokal und haben im Präteritum keine Endung – fast wie im Deutschen. Hier stehen die Ablautreihen und eine Liste der wichtigsten unregelmäßigen Verben; alle Verben des Kurses findest du im Tab »Verben«.",
       "sections": [
         {
-          "h": "Partikelverben: stå opp, ta med, finne ut",
-          "body": "Wie im Deutschen (aufstehen, mitnehmen) gibt es Verben mit einer Partikel. Die Partikel ist **betont**: **stå opp**, **ta med**, **gi opp**, **finne ut**, **legge ut**, **sette opp**.\n\nDer große Unterschied: Die Partikel wandert **nicht ans Satzende**. Sie steht direkt nach dem Verb, auch im Nebensatz:\n\n• **Jeg står opp klokka sju.** – Ich stehe um sieben auf.\n• **Hun tar med kameraet.** – Sie nimmt die Kamera mit.\n• **…fordi han sto opp så tidlig.** – …weil er so früh aufstand.\n• **Vi har funnet ut at …** – Wir haben herausgefunden, dass …\n\nSatzadverbien wie **ikke** stehen vor der Partikel: **Vi gir ikke opp.** Ein unbetontes Objektpronomen steht zwischen Verb und Partikel: **Ta det med!** Ein Substantiv steht dahinter: **Ta med kameraet!**"
-        },
-        {
-          "h": "Feste Zusammensetzungen",
-          "body": "Daneben gibt es **feste Zusammensetzungen**: Die Partikel steht **vorne** und bildet mit dem Verb ein Wort. Sie sind oft formeller oder haben eine andere Bedeutung:\n\n• **legge ned** (hinlegen; auch: schließen) – **nedlegge** (stilllegen, formell)\n• **gi opp** (aufgeben) – **oppgi** (angeben: **Oppgi passordet ditt.**; formell auch: **oppgi håpet**, die Hoffnung aufgeben)\n• **finne opp** (erfinden) – **oppfinne** (erfinden, formell) → **en oppfinnelse** (Erfindung)\n• **ta opp** (aufheben, aufnehmen, ansprechen) – **oppta** (in Anspruch nehmen) → **opptatt** (beschäftigt, besetzt)\n\nLerne die beiden Formen als eigene Vokabeln – die Bedeutung ist nicht immer dieselbe."
-        },
-        {
-          "h": "Als Adjektiv und Substantiv",
-          "body": "Wird aus einem Partikelverb ein **Partizip als Adjektiv** oder ein **Substantiv**, nimmt man meist die feste Form mit der Partikel vorne:\n\n• **Butikken er nedlagt.** (Das Geschäft ist geschlossen worden.) – **en nedlagt fabrikk**\n• **Alt gikk etter oppsatt plan.** (Alles lief nach Plan.)\n• **Toalettet er opptatt.** (Die Toilette ist besetzt.)\n• **laste ned → en nedlasting**, **melde seg på → en påmelding**\n\nMit **bli** und im Perfekt bleibt dagegen meist das Partikelverb: **Butikken ble lagt ned i fjor.** **Hun har lagt ut et nytt innlegg.**",
+          "h": "Starke Verben: Vokalwechsel statt Endung",
+          "body": "Starke Verben bilden das Präteritum ohne Endung, nur mit einem anderen Vokal – genau wie im Deutschen (singen – sang – gesungen). Das Partizip Perfekt endet meist auf **-et** oder **-t**: **drikke – drakk – har drukket**, **skrive – skrev – har skrevet**.\n\nViele Verben folgen festen Mustern (Ablautreihen). Wenn du das Muster kennst, lernst du neue Verben leichter. Oft sind es sogar dieselben Verben wie im Deutschen: **finne – fant – funnet** (finden – fand – gefunden).",
           "table": [
             [
-              "Partikelverb",
-              "Partizip / Adjektiv",
-              "Substantiv"
+              "Muster",
+              "Infinitiv",
+              "Präteritum",
+              "Perfekt"
             ],
             [
-              "**legge ned**",
-              "**nedlagt**",
-              "**en nedleggelse**"
+              "i – a – u",
+              "**drikke** (trinken)",
+              "**drakk**",
+              "**har drukket**"
             ],
             [
-              "**laste ned**",
-              "**nedlastet**",
-              "**en nedlasting**"
+              "i – a – u",
+              "**finne** (finden)",
+              "**fant**",
+              "**har funnet**"
             ],
             [
-              "**ta opp**",
-              "**opptatt**",
-              "**et opptak**"
+              "i – e/ei – e/i",
+              "**skrive** (schreiben)",
+              "**skrev**",
+              "**har skrevet**"
             ],
             [
-              "**melde seg på**",
-              "**påmeldt**",
-              "**en påmelding**"
+              "i – e/ei – e/i",
+              "**bite** (beißen)",
+              "**bet / beit**",
+              "**har bitt**"
             ],
             [
-              "**finne opp**",
-              "**oppfunnet**",
-              "**en oppfinnelse**"
+              "y – øy – ø",
+              "**fly** (fliegen)",
+              "**fløy**",
+              "**har fløyet**"
+            ],
+            [
+              "e – a – å",
+              "**bære** (tragen)",
+              "**bar**",
+              "**har båret**"
+            ],
+            [
+              "e – a – å",
+              "**stjele** (stehlen)",
+              "**stjal**",
+              "**har stjålet**"
+            ],
+            [
+              "a – o – a",
+              "**fare** (fahren, eilen)",
+              "**for**",
+              "**har fart**"
+            ],
+            [
+              "a – o – a",
+              "**dra** (fahren, ziehen)",
+              "**dro**",
+              "**har dratt**"
             ]
           ]
+        },
+        {
+          "h": "Unregelmäßige schwache Verben",
+          "body": "Einige Verben haben eine Endung (**-te**, **-de**, **-t**) und wechseln trotzdem den Vokal – wie im Deutschen **bringen – brachte**:\n\n• **selge – solgte – har solgt** (verkaufen)\n• **fortelle – fortalte – har fortalt** (erzählen)\n• **legge – la – har lagt** (legen; Präteritum ganz ohne Endung)\n• **sette – satte – har satt** (setzen, stellen)\n• **gjøre – gjorde – har gjort** (machen, tun)\n• **spørre – spurte – har spurt** (fragen)\n\nAchtung: **legge/ligge** und **sette/sitte** sind wie im Deutschen Paare: **Jeg la nøkkelen på bordet. Nøkkelen lå på bordet.** (legte – lag)"
+        },
+        {
+          "h": "Die wichtigsten unregelmäßigen Verben",
+          "body": "Hier stehen die wichtigsten starken und unregelmäßigen Verben des Kurses auf einen Blick (Perfekt immer mit **har**: **har drukket**, **har gått**). Das Präsens und der Imperativ sind fast immer regelmäßig (siehe unten).\n\nIm Tab **»Verben«** der App findest du jedes Verb des Kurses mit allen Formen – auch die regelmäßigen – und kannst sie dort üben.",
+          "table": [
+            [
+              "Infinitiv",
+              "Präteritum",
+              "Perfekt",
+              "Deutsch"
+            ],
+            [
+              "**be**",
+              "**ba / bad**",
+              "**bedt**",
+              "bitten"
+            ],
+            [
+              "**bite**",
+              "**bet / beit**",
+              "**bitt**",
+              "beißen"
+            ],
+            [
+              "**bli**",
+              "**ble / blei**",
+              "**blitt**",
+              "werden"
+            ],
+            [
+              "**brekke**",
+              "**brakk**",
+              "**brukket**",
+              "brechen"
+            ],
+            [
+              "**bære**",
+              "**bar**",
+              "**båret**",
+              "tragen"
+            ],
+            [
+              "**dra**",
+              "**dro**",
+              "**dratt**",
+              "fahren, ziehen"
+            ],
+            [
+              "**drikke**",
+              "**drakk**",
+              "**drukket**",
+              "trinken"
+            ],
+            [
+              "**falle**",
+              "**falt**",
+              "**falt**",
+              "fallen"
+            ],
+            [
+              "**finne**",
+              "**fant**",
+              "**funnet**",
+              "finden"
+            ],
+            [
+              "**fly**",
+              "**fløy**",
+              "**fløyet**",
+              "fliegen"
+            ],
+            [
+              "**forsvinne**",
+              "**forsvant**",
+              "**forsvunnet**",
+              "verschwinden"
+            ],
+            [
+              "**fortelle**",
+              "**fortalte**",
+              "**fortalt**",
+              "erzählen"
+            ],
+            [
+              "**fryse**",
+              "**frøs**",
+              "**frosset**",
+              "frieren"
+            ],
+            [
+              "**få**",
+              "**fikk**",
+              "**fått**",
+              "bekommen"
+            ],
+            [
+              "**gi**",
+              "**ga / gav**",
+              "**gitt**",
+              "geben"
+            ],
+            [
+              "**gjøre**",
+              "**gjorde**",
+              "**gjort**",
+              "machen, tun"
+            ],
+            [
+              "**gråte**",
+              "**gråt**",
+              "**grått**",
+              "weinen"
+            ],
+            [
+              "**gå**",
+              "**gikk**",
+              "**gått**",
+              "gehen"
+            ],
+            [
+              "**ha**",
+              "**hadde**",
+              "**hatt**",
+              "haben"
+            ],
+            [
+              "**hete**",
+              "**het**",
+              "**hett**",
+              "heißen"
+            ],
+            [
+              "**hjelpe**",
+              "**hjalp**",
+              "**hjulpet**",
+              "helfen"
+            ],
+            [
+              "**holde**",
+              "**holdt**",
+              "**holdt**",
+              "halten"
+            ],
+            [
+              "**komme**",
+              "**kom**",
+              "**kommet**",
+              "kommen"
+            ],
+            [
+              "**la**",
+              "**lot**",
+              "**latt**",
+              "lassen"
+            ],
+            [
+              "**le**",
+              "**lo**",
+              "**ledd**",
+              "lachen"
+            ],
+            [
+              "**legge**",
+              "**la**",
+              "**lagt**",
+              "legen"
+            ],
+            [
+              "**ligge**",
+              "**lå**",
+              "**ligget**",
+              "liegen"
+            ],
+            [
+              "**løpe**",
+              "**løp**",
+              "**løpt**",
+              "laufen"
+            ],
+            [
+              "**se**",
+              "**så**",
+              "**sett**",
+              "sehen"
+            ],
+            [
+              "**selge**",
+              "**solgte**",
+              "**solgt**",
+              "verkaufen"
+            ],
+            [
+              "**sette**",
+              "**satte**",
+              "**satt**",
+              "setzen, stellen"
+            ],
+            [
+              "**si**",
+              "**sa**",
+              "**sagt**",
+              "sagen"
+            ],
+            [
+              "**sitte**",
+              "**satt**",
+              "**sittet**",
+              "sitzen"
+            ],
+            [
+              "**skjære**",
+              "**skar**",
+              "**skåret**",
+              "schneiden"
+            ],
+            [
+              "**skrive**",
+              "**skrev / skreiv**",
+              "**skrevet**",
+              "schreiben"
+            ],
+            [
+              "**slippe**",
+              "**slapp**",
+              "**sluppet**",
+              "loslassen; davonkommen"
+            ],
+            [
+              "**slå**",
+              "**slo**",
+              "**slått**",
+              "schlagen"
+            ],
+            [
+              "**sove**",
+              "**sov**",
+              "**sovet**",
+              "schlafen"
+            ],
+            [
+              "**spørre**",
+              "**spurte**",
+              "**spurt**",
+              "fragen"
+            ],
+            [
+              "**stjele**",
+              "**stjal**",
+              "**stjålet**",
+              "stehlen"
+            ],
+            [
+              "**stå**",
+              "**sto / stod**",
+              "**stått**",
+              "stehen"
+            ],
+            [
+              "**synge**",
+              "**sang**",
+              "**sunget**",
+              "singen"
+            ],
+            [
+              "**ta**",
+              "**tok**",
+              "**tatt**",
+              "nehmen"
+            ],
+            [
+              "**treffe**",
+              "**traff**",
+              "**truffet**",
+              "treffen"
+            ],
+            [
+              "**trekke**",
+              "**trakk**",
+              "**trukket**",
+              "ziehen"
+            ],
+            [
+              "**velge**",
+              "**valgte**",
+              "**valgt**",
+              "wählen"
+            ],
+            [
+              "**vinne**",
+              "**vant**",
+              "**vunnet**",
+              "gewinnen"
+            ],
+            [
+              "**vite**",
+              "**visste**",
+              "**visst**",
+              "wissen"
+            ],
+            [
+              "**være**",
+              "**var**",
+              "**vært**",
+              "sein"
+            ]
+          ]
+        },
+        {
+          "h": "Das Präsens ist (fast) immer regelmäßig",
+          "body": "Auch bei starken Verben ist das Präsens einfach: Infinitiv + **-r**: **drikker, skriver, bærer, sover**. Nur wenige Verben sind auch im Präsens unregelmäßig: **er, gjør, sier, spør, vet** und die Modalverben (**kan, vil, skal, må, tør**).\n\nLerne neue Verben deshalb immer mit drei Formen: **bære – bar – båret**."
         }
       ],
       "drills": [
         {
-          "prompt": "Matthias sto ___ klokka fire for å fotografere fjellene. (aufstehen)",
-          "de": "Matthias stand um vier Uhr auf, um die Berge zu fotografieren.",
+          "prompt": "Jeg ___ alle koffertene opp trappa. (bære, Präteritum)",
+          "de": "Ich trug alle Koffer die Treppe hinauf.",
           "answer": [
-            "opp"
+            "bar"
           ],
-          "explain": "stå opp: Die Partikel steht direkt nach dem Verb."
+          "explain": "bære – bar – båret (Muster e – a – å), wie tragen – trug."
         },
         {
-          "prompt": "Husk å ta ___ solkrem på turen! (mitnehmen)",
-          "de": "Denk daran, Sonnencreme auf die Tour mitzunehmen!",
+          "prompt": "Matthias ___ en fin plass ved bålet. (finne, Präteritum)",
+          "de": "Matthias fand einen schönen Platz am Feuer.",
           "answer": [
-            "med"
+            "fant"
           ],
-          "explain": "ta med + Substantiv: ta med solkrem."
+          "explain": "finne – fant – funnet (i – a – u), wie finden – fand – gefunden."
         },
         {
-          "prompt": "Vi har funnet ___ at det ikke er wifi på stranda. (herausfinden)",
-          "de": "Wir haben herausgefunden, dass es am Strand kein WLAN gibt.",
+          "prompt": "Inga ___ meg en sovemaske. (gi, Präteritum)",
+          "de": "Inga gab mir eine Schlafmaske.",
           "answer": [
-            "ut"
+            "ga",
+            "gav"
           ],
-          "explain": "finne ut = herausfinden; im Perfekt: har funnet ut."
+          "explain": "gi – ga (auch gav) – gitt."
         },
         {
-          "prompt": "Ikke gi ___ – du klarer det! (aufgeben)",
-          "de": "Gib nicht auf – du schaffst das!",
+          "prompt": "Jeg har ___ dette innlegget på mobilen. (skrive, Perfekt)",
+          "de": "Ich habe diesen Beitrag auf dem Handy geschrieben.",
           "answer": [
-            "opp"
+            "skrevet"
           ],
-          "explain": "gi opp = aufgeben (Partikelverb)."
+          "explain": "skrive – skrev – har skrevet."
         },
         {
-          "prompt": "Susanne har ___ et nytt innlegg på bloggen. (legge ut, Perfekt)",
-          "de": "Susanne hat einen neuen Beitrag auf dem Blog veröffentlicht.",
+          "prompt": "I mørketida ___ jeg nesten ti timer hver natt. (sove, Präteritum)",
+          "de": "In der Polarnacht schlief ich fast zehn Stunden jede Nacht.",
           "answer": [
-            "lagt ut"
+            "sov"
           ],
-          "explain": "legge – la – lagt; die Partikel ut folgt direkt: har lagt ut."
+          "explain": "sove – sov – har sovet. Präteritum und Imperativ sehen gleich aus: sov!"
         },
         {
-          "prompt": "Jeg skal ___ bildene i morgen. (hochladen)",
-          "de": "Ich lade die Fotos morgen hoch.",
+          "prompt": "Alle ___ da Matthias falt i sanden. (le, Präteritum)",
+          "de": "Alle lachten, als Matthias in den Sand fiel.",
           "answer": [
-            "laste opp"
+            "lo"
           ],
-          "explain": "laste opp = hochladen; nach skal der Infinitiv mit Partikel."
+          "explain": "le – lo – har ledd (lachen – lachte – gelacht)."
         },
         {
-          "prompt": "Vennligst ___ brukernavn og passord. (angeben)",
-          "de": "Bitte gib Benutzername und Passwort an.",
+          "prompt": "Hun ___ mobilen på steinen og så på sola. (legge, Präteritum)",
+          "de": "Sie legte das Handy auf den Stein und schaute in die Sonne.",
           "answer": [
-            "oppgi"
+            "la"
           ],
-          "explain": "oppgi (feste Zusammensetzung) = angeben; gi opp hieße „aufgeben“."
+          "explain": "legge – la – lagt. Nicht verwechseln mit ligge – lå – ligget (liegen)."
         },
         {
-          "prompt": "Vet du hvem som ___ telefonen? (erfinden, Präteritum)",
-          "de": "Weißt du, wer das Telefon erfunden hat?",
+          "prompt": "Inga ___ meg mye om samisk kultur. (fortelle, Präteritum)",
+          "de": "Inga erzählte mir viel über die samische Kultur.",
           "answer": [
-            "fant opp",
-            "oppfant"
+            "fortalte"
           ],
-          "explain": "finne opp oder (formeller) oppfinne – beides heißt erfinden."
+          "explain": "fortelle – fortalte – fortalt: Endung -te und Vokalwechsel e → a."
         },
         {
-          "prompt": "Den gamle fabrikken er ___. (stilllegen: legge ned, Partizip)",
-          "de": "Die alte Fabrik ist stillgelegt.",
+          "prompt": "Måkene ___ over stranda. (fly, Präteritum)",
+          "de": "Die Möwen flogen über den Strand.",
           "answer": [
-            "nedlagt",
-            "lagt ned"
+            "fløy"
           ],
-          "explain": "Als Adjektiv nimmt man meist die feste Form: nedlagt (nach er geht auch: lagt ned)."
+          "explain": "fly – fløy – har fløyet (Muster y – øy – ø)."
         },
         {
-          "prompt": "Jeg kan ikke snakke nå, jeg er ___. (beschäftigt)",
-          "de": "Ich kann jetzt nicht reden, ich bin beschäftigt.",
+          "prompt": "Noen har ___ sykkelen min! (stjele, Perfekt)",
+          "de": "Jemand hat mein Fahrrad gestohlen!",
           "answer": [
-            "opptatt"
+            "stjålet"
           ],
-          "explain": "opptatt (von oppta) = beschäftigt, besetzt."
+          "explain": "stjele – stjal – har stjålet (e – a – å), wie bære – bar – båret."
         },
         {
-          "prompt": "Alt gikk etter ___ plan. (sette opp, Partizip)",
-          "de": "Alles lief nach Plan.",
+          "prompt": "Vi ___ sanger rundt bålet hele kvelden. (synge, Präteritum)",
+          "de": "Wir sangen den ganzen Abend Lieder am Feuer.",
           "answer": [
-            "oppsatt"
+            "sang"
           ],
-          "explain": "Feste Form als Adjektiv: sette opp → oppsatt."
+          "explain": "synge – sang – sunget (y – a – u), wie singen – sang – gesungen."
         },
         {
-          "prompt": "Har du kameraet? – Ja, jeg har tatt ___ med. (es: kameraet)",
-          "de": "Hast du die Kamera? – Ja, ich habe sie mitgenommen.",
+          "prompt": "Susanne ___ Inga for første gang i november. (treffe, Präteritum)",
+          "de": "Susanne traf Inga im November zum ersten Mal.",
           "answer": [
-            "det"
+            "traff"
           ],
-          "explain": "et kamera → det; das unbetonte Pronomen steht vor der Partikel: tatt det med."
+          "explain": "treffe – traff – truffet (e – a – u), wie treffen – traf – getroffen."
         }
       ]
     }
@@ -830,10 +1182,10 @@
       "why": "Seit etwa dem 20. Mai geht die Sonne in Tromsø gar nicht unter – erst Ende Juli wieder."
     },
     {
-      "s": "Inga har lånt Susanne en sovemaske.",
-      "de": "Inga hat Susanne eine Schlafmaske geliehen.",
+      "s": "Susanne mener at nordmenn gjerne snakker rett fra levra.",
+      "de": "Susanne meint, dass Norweger gern frei von der Leber weg reden.",
       "a": true,
-      "why": "„Heldigvis har Inga lånt meg en sovemaske.“"
+      "why": "„… og at de gjerne snakker rett fra levra.“ – sie sagen offen, was sie denken."
     },
     {
       "s": "Matthias sang med ved bålet.",
@@ -969,15 +1321,15 @@
       ]
     },
     {
-      "de": "die Schlafmaske",
+      "de": "frei von der Leber weg reden",
       "answer": [
-        "sovemaske"
+        "snakker rett fra levra"
       ]
     },
     {
-      "de": "unsichtbar (Plural)",
+      "de": "die Katze im Sack kaufen",
       "answer": [
-        "usynlige"
+        "kjøpe katta i sekken"
       ]
     },
     {
@@ -1014,94 +1366,96 @@
   ],
   "translate": [
     {
-      "de": "Ich sitze am Strand und schaue aufs Meer.",
+      "de": "Als ich nach Tromsø kam, war es fast dunkel.",
       "no": [
-        "Jeg sitter på stranda og ser på havet.",
-        "Jeg sitter på stranden og ser på havet.",
-        "Jeg sitter på stranda og ser utover havet.",
-        "Jeg sitter på stranden og ser utover havet.",
-        "Jeg sitter på stranda og ser ut på havet."
-      ]
-    },
-    {
-      "de": "Wir standen eine halbe Stunde da und warteten auf den Bus.",
-      "no": [
-        "Vi sto og ventet på bussen i en halv time.",
-        "Vi sto og venta på bussen i en halv time.",
-        "Vi stod og ventet på bussen i en halv time.",
-        "Vi sto og ventet en halv time på bussen."
+        "Da jeg kom til Tromsø, var det nesten mørkt."
       ],
-      "hint": "stå + og + Verb, beide im Präteritum."
+      "hint": "einmal in der Vergangenheit: da"
     },
     {
-      "de": "Im Juni geht die Sonne in Tromsø nicht unter.",
+      "de": "Ich weiß nicht, ob er kommt.",
       "no": [
-        "I juni går ikke sola ned i Tromsø.",
-        "I juni går sola ikke ned i Tromsø.",
-        "Sola går ikke ned i Tromsø i juni.",
-        "Solen går ikke ned i Tromsø i juni.",
-        "I Tromsø går ikke sola ned i juni."
+        "Jeg vet ikke om han kommer."
       ]
     },
     {
-      "de": "Gestern ist Matthias um vier Uhr aufgestanden.",
+      "de": "In einer Woche fahre ich nach Hause.",
       "no": [
-        "I går sto Matthias opp klokka fire.",
-        "I går sto Matthias opp klokken fire.",
-        "Matthias sto opp klokka fire i går."
+        "Om en uke reiser jeg hjem.",
+        "Jeg reiser hjem om en uke.",
+        "Om ei uke reiser jeg hjem.",
+        "Jeg reiser hjem om ei uke.",
+        "Om en uke drar jeg hjem.",
+        "Jeg drar hjem om en uke."
+      ]
+    },
+    {
+      "de": "Seit Mai ist die Sonne nicht untergegangen.",
+      "no": [
+        "Siden mai har sola ikke gått ned.",
+        "Sola har ikke gått ned siden mai.",
+        "Siden mai har ikke sola gått ned.",
+        "Siden mai har solen ikke gått ned.",
+        "Solen har ikke gått ned siden mai."
       ],
-      "hint": "Abgeschlossene Zeit (i går) → Präteritum."
+      "hint": "siden + Perfekt"
     },
     {
-      "de": "Vergiss nicht, die Kamera mitzunehmen!",
+      "de": "Vor einem Jahr verstand ich fast nichts.",
       "no": [
-        "Ikke glem å ta med kameraet!",
-        "Glem ikke å ta med kameraet!",
-        "Husk å ta med kameraet!",
-        "Ikke glem å ta kameraet med!"
+        "For ett år siden forsto jeg nesten ingenting.",
+        "For ett år siden forstod jeg nesten ingenting.",
+        "For et år siden forsto jeg nesten ingenting.",
+        "For et år siden forstod jeg nesten ingenting.",
+        "For ett år siden skjønte jeg nesten ingenting."
       ]
     },
     {
-      "de": "Ich bin gerade dabei, die Koffer zu packen.",
+      "de": "Es regnete, also blieben wir zu Hause.",
       "no": [
-        "Jeg holder på med å pakke koffertene.",
-        "Jeg holder på å pakke koffertene."
+        "Det regnet, så vi ble hjemme.",
+        "Det regna, så vi ble hjemme."
+      ],
+      "hint": "så als Konjunktion: keine Inversion"
+    },
+    {
+      "de": "Wir sahen die Mitternachtssonne.",
+      "no": [
+        "Vi så midnattssola.",
+        "Vi så midnattssolen."
       ]
     },
     {
-      "de": "Sie hat einen neuen Beitrag auf ihrem Blog veröffentlicht.",
+      "de": "Ich habe einen langen Brief geschrieben.",
       "no": [
-        "Hun har lagt ut et nytt innlegg på bloggen sin.",
-        "Hun har lagt ut et nytt innlegg på bloggen."
+        "Jeg har skrevet et langt brev."
       ]
     },
     {
-      "de": "Was werde ich vermissen?",
+      "de": "Er hat die Katze im Sack gekauft.",
       "no": [
-        "Hva kommer jeg til å savne?",
-        "Hva vil jeg savne?"
+        "Han har kjøpt katta i sekken.",
+        "Han kjøpte katta i sekken.",
+        "Han har kjøpt katten i sekken.",
+        "Han kjøpte katten i sekken."
       ]
     },
     {
-      "de": "Die alte Fabrik ist stillgelegt.",
+      "de": "So schlägst du zwei Fliegen mit einer Klappe.",
       "no": [
-        "Den gamle fabrikken er nedlagt.",
-        "Den gamle fabrikken er lagt ned."
-      ]
-    },
-    {
-      "de": "Ich habe mein Passwort vergessen.",
-      "no": [
-        "Jeg har glemt passordet mitt."
+        "Da slår du to fluer i ett smekk.",
+        "Slik slår du to fluer i ett smekk.",
+        "Så slår du to fluer i ett smekk.",
+        "Sånn slår du to fluer i ett smekk."
       ]
     }
   ],
   "summary": [
     {
-      "prompt": "Susanne sitter på en stein og ___ på havet.",
-      "de": "Susanne sitzt auf einem Stein und schaut aufs Meer.",
+      "prompt": "Susanne sitter på en stein i Telegrafbukta og ___ det siste innlegget til bloggen sin.",
+      "de": "Susanne sitzt auf einem Stein in der Telegrafbukta und schreibt den letzten Beitrag für ihren Blog.",
       "answer": [
-        "ser"
+        "skriver"
       ]
     },
     {
@@ -1147,29 +1501,21 @@
     12
   ],
   "writing": {
-    "prompt": "Schreib einen Blogbeitrag: Wo sitzt du gerade, und was passiert um dich herum? Schau dann zurück: Was hast du in letzter Zeit erlebt und gelernt, und was wirst du vermissen? Verwende mindestens zweimal sitte/stå/ligge og … und ein paar Computerwörter.",
+    "prompt": "Schreib einen Blogbeitrag zum Abschluss einer langen Zeit, zum Beispiel eines Jahres im Ausland: Wo bist du gerade? Schau zurück (Da jeg kom …, Siden da …), erzähle, was du gelernt hast und was du vermissen wirst, und was du vorhast (om en uke …). Verwende mindestens eine Redewendung aus der Wörterkiste.",
     "minWords": 140,
     "useWords": [
-      "sitter og",
-      "innlegg",
+      "da jeg",
+      "siden",
+      "om en",
       "savne",
-      "funnet ut",
-      "laste opp"
+      "to fluer i ett smekk"
     ],
     "checklist": [
       {
-        "de": "Wo du bist und was gerade passiert (sitte/stå/ligge og …)",
+        "de": "Ein Rückblick mit da oder siden",
         "keywords": [
-          "sitter og",
-          "står og",
-          "ligger og"
-        ]
-      },
-      {
-        "de": "Ein Rückblick: was du gelernt hast",
-        "keywords": [
-          "lært",
-          "lærte"
+          "da jeg",
+          "siden"
         ]
       },
       {
@@ -1180,16 +1526,28 @@
         ]
       },
       {
-        "de": "Ein Computerwort",
+        "de": "Ein Plan für die Zukunft mit om",
         "keywords": [
-          "innlegg",
-          "laste opp",
-          "blogg",
-          "lenke"
+          "om en",
+          "om noen",
+          "om to"
+        ]
+      },
+      {
+        "de": "Eine Redewendung",
+        "keywords": [
+          "to fluer i ett smekk",
+          "katta i sekken",
+          "rett fra levra",
+          "på bærtur",
+          "vann over hodet",
+          "ugler i mosen",
+          "sommerfugler i magen",
+          "plommen i egget"
         ]
       }
     ],
-    "model": "Hei, alle sammen!\nAkkurat nå sitter jeg på balkongen og ser på fjorden. Klokka er elleve om kvelden, men det er fortsatt lyst. Naboen står og griller, og katten ligger og sover i sola.\nDette er det siste innlegget mitt fra Norge. Om en uke flytter jeg hjem igjen, og jeg holder allerede på med å pakke. Når jeg ser tilbake, har jeg lært utrolig mye. Jeg har lært å snakke norsk uten å være redd for å gjøre feil, og jeg har funnet ut at nordmenn er mye hyggeligere enn jeg trodde.\nHva kommer jeg til å savne? Turene i fjellet, de lange, lyse kveldene og vennene mine. Men jeg kommer ikke til å savne prisene på øl! Nå gleder jeg meg til å se familien min igjen.\nI morgen skal jeg laste opp noen bilder fra den siste turen. Følg med!\nHilsen fra meg",
-    "modelDe": "Hallo zusammen!\nGerade sitze ich auf dem Balkon und schaue auf den Fjord. Es ist elf Uhr abends, aber es ist immer noch hell. Der Nachbar steht am Grill, und die Katze liegt in der Sonne und schläft.\nDas ist mein letzter Beitrag aus Norwegen. In einer Woche ziehe ich wieder nach Hause, und ich bin schon dabei zu packen. Wenn ich zurückblicke, habe ich unglaublich viel gelernt. Ich habe gelernt, Norwegisch zu sprechen, ohne Angst vor Fehlern zu haben, und ich habe herausgefunden, dass die Norweger viel netter sind, als ich dachte.\nWas werde ich vermissen? Die Wanderungen in den Bergen, die langen, hellen Abende und meine Freunde. Aber die Bierpreise werde ich nicht vermissen! Jetzt freue ich mich darauf, meine Familie wiederzusehen.\nMorgen lade ich ein paar Fotos von der letzten Tour hoch. Bleibt dran!\nViele Grüße von mir"
+    "model": "Hei, alle sammen!\nAkkurat nå sitter jeg på balkongen og ser på fjorden. Klokka er elleve om kvelden, men det er fortsatt lyst. Dette er det siste innlegget mitt fra Norge, for om en uke flytter jeg hjem igjen.\nDa jeg kom hit i fjor høst, kunne jeg nesten ikke et ord norsk. Siden da har jeg lært utrolig mye. Jeg har lært å snakke uten å være redd for å gjøre feil, og jeg har funnet ut at nordmenn er mye hyggeligere enn jeg trodde. Noen ganger tok jeg meg vann over hodet – som da jeg meldte meg på tre kurs samtidig – men det gikk bra til slutt.\nHva kommer jeg til å savne? Turene i fjellet, de lange, lyse kveldene og vennene mine. Men prisene på øl kommer jeg ikke til å savne!\nI morgen skal jeg gå en siste tur og ta bilder til bloggen. Da slår jeg to fluer i ett smekk.\nHilsen fra meg",
+    "modelDe": "Hallo zusammen!\nGerade sitze ich auf dem Balkon und schaue auf den Fjord. Es ist elf Uhr abends, aber es ist immer noch hell. Das ist mein letzter Beitrag aus Norwegen, denn in einer Woche ziehe ich wieder nach Hause.\nAls ich letzten Herbst hierherkam, konnte ich fast kein Wort Norwegisch. Seitdem habe ich unglaublich viel gelernt. Ich habe gelernt zu sprechen, ohne Angst vor Fehlern zu haben, und ich habe herausgefunden, dass die Norweger viel netter sind, als ich dachte. Manchmal habe ich mich übernommen – zum Beispiel, als ich mich für drei Kurse gleichzeitig angemeldet habe –, aber am Ende ging alles gut.\nWas werde ich vermissen? Die Wanderungen in den Bergen, die langen, hellen Abende und meine Freunde. Aber die Bierpreise werde ich nicht vermissen!\nMorgen mache ich eine letzte Wanderung und fotografiere für den Blog. Dann schlage ich zwei Fliegen mit einer Klappe.\nViele Grüße von mir"
   }
 }

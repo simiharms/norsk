@@ -3,13 +3,13 @@
   "level": "A1",
   "title": "Typisk norsk?",
   "titleDe": "Typisch norwegisch?",
-  "place": "Oslo, hos familien Nygård",
+  "place": "Oslo, bei Familie Nygård",
   "goals": [
-    "Du kannst über typisch norwegische Dinge sprechen: brunost, matpakke, tur, kos und dugnad.",
-    "Du kannst alle Formen der Personalpronomen verwenden, auch als Objekt: meg, deg, ham, henne, oss, dem.",
-    "Du kannst mit den und det auf Dinge verweisen und weißt, wann det „es“ ohne Bezug ist.",
-    "Du kannst reflexive Verben benutzen: Jeg gleder meg. Sett deg!",
-    "Du kennst Adjektive wie blå – blått, ny – nytt und die Regeln für Doppelkonsonanten (grønn – grønt, dum – dumme)."
+    "Du kannst über typisch norwegische Dinge sprechen: brunost, matpakke, tur, kos und dugnad – und verstehst eine kurze Trollgeschichte.",
+    "Du kannst einkaufen gehen: nach Preisen fragen und beim Kleiderkauf nach Größe, Farbe und Umkleidekabine fragen.",
+    "Du kannst alle Formen der Personalpronomen verwenden (meg, deg, ham, henne, oss, dem) und mit den und det auf Dinge verweisen.",
+    "Du kannst Adjektive auch nach være und bli angleichen: Huset er stort, skoene er nye – mit blå – blått und grønn – grønt.",
+    "Du kannst reflexive Verben benutzen: Jeg gleder meg. Sett deg!"
   ],
   "text": {
     "id": "t05",
@@ -29,10 +29,6 @@
       "o": {
         "name": "Ola",
         "gender": "m"
-      },
-      "a": {
-        "name": "Anna",
-        "gender": "f"
       },
       "p": {
         "name": "Per",
@@ -60,7 +56,7 @@
         "de": "Braunkäse! Er ist süß und braun. Und der Käsehobel ist eine norwegische Erfindung."
       },
       {
-        "s": "a",
+        "s": "p",
         "no": "Og matpakka! Vi smører brødskiver om morgenen og spiser dem til lunsj.",
         "de": "Und das Lunchpaket! Wir schmieren morgens Brote und essen sie mittags."
       },
@@ -76,8 +72,8 @@
       },
       {
         "s": "o",
-        "no": "Selvfølgelig! Mamma blir sur hvis vi ikke gjør det.",
-        "de": "Natürlich! Mama wird sauer, wenn wir das nicht machen."
+        "no": "Selvfølgelig! Mamma blir sur hvis vi går med sko inne.",
+        "de": "Natürlich! Mama wird sauer, wenn wir drinnen Schuhe tragen."
       },
       {
         "s": "s",
@@ -85,14 +81,14 @@
         "de": "Was ist eigentlich „kos“?"
       },
       {
-        "s": "a",
+        "s": "k",
         "no": "Kos er når vi har det hyggelig sammen, med stearinlys og en kopp kakao.",
         "de": "Kos ist, wenn wir es zusammen gemütlich haben, mit Kerzen und einer Tasse Kakao."
       },
       {
-        "s": "p",
-        "no": "Og dugnad er når alle naboene jobber sammen gratis, for eksempel i hagen.",
-        "de": "Und Dugnad ist, wenn alle Nachbarn gemeinsam ohne Bezahlung arbeiten, zum Beispiel im Garten."
+        "s": "o",
+        "no": "Og dugnad er når alle naboene jobber sammen gratis, for eksempel i hagen. Det er ikke kos!",
+        "de": "Und Dugnad ist, wenn alle Nachbarn zusammen ohne Bezahlung arbeiten, zum Beispiel im Garten. Das ist nicht gemütlich!"
       },
       {
         "s": "p",
@@ -189,10 +185,6 @@
         "de": "morgens"
       },
       {
-        "no": "dem",
-        "de": "sie (Objekt, Plural)"
-      },
-      {
         "no": "til lunsj",
         "de": "zum Mittagessen (meist kalt)"
       },
@@ -231,6 +223,14 @@
       {
         "no": "hvis",
         "de": "wenn, falls"
+      },
+      {
+        "no": "går med sko inne",
+        "de": "drinnen (im Haus) Schuhe tragen"
+      },
+      {
+        "no": "inne",
+        "de": "drinnen, im Haus"
       },
       {
         "no": "egentlig",
@@ -452,76 +452,90 @@
     }
   ],
   "wk": {
-    "title": "Hjemme hos familien",
-    "titleDe": "Zu Hause bei der Familie",
+    "title": "På handletur",
+    "titleDe": "Beim Einkaufen",
     "phrases": [
       {
-        "no": "Velkommen hjem!",
-        "de": "Willkommen zu Hause!"
+        "no": "Skal vi ta en handletur i byen i morgen?",
+        "de": "Wollen wir morgen in der Stadt einkaufen gehen?",
+        "note": "en handletur: ein Einkauf, ein Einkaufsbummel – für Lebensmittel und für Kleidung."
       },
       {
-        "no": "Hei, jeg er hjemme!",
-        "de": "Hallo, ich bin wieder da!"
+        "no": "Har du handlelista?",
+        "de": "Hast du die Einkaufsliste?"
       },
       {
-        "no": "Føl deg som hjemme!",
-        "de": "Fühl dich wie zu Hause!"
+        "no": "Hva koster en kilo poteter?",
+        "de": "Was kostet ein Kilo Kartoffeln?"
       },
       {
-        "no": "Sett deg!",
-        "de": "Setz dich!"
+        "no": "Det koster tjueni kroner kiloen.",
+        "de": "Das kostet neunundzwanzig Kronen das Kilo.",
+        "note": "Preis pro Einheit mit der bestimmten Form: kiloen, literen, stykket."
       },
       {
-        "no": "Ta av deg skoene, er du snill.",
-        "de": "Zieh bitte die Schuhe aus.",
-        "note": "In Norwegen zieht man drinnen fast immer die Schuhe aus."
+        "no": "Er det på tilbud?",
+        "de": "Ist das im Angebot?"
       },
       {
-        "no": "Frokosten er klar!",
-        "de": "Das Frühstück ist fertig!"
+        "no": "en liter melk og en pakke smør",
+        "de": "ein Liter Milch und ein Päckchen Butter"
       },
       {
-        "no": "Vær så god!",
-        "de": "Bitte schön! / Greift zu!",
-        "note": "Wenn man etwas reicht oder zum Essen bittet."
+        "no": "Kan jeg hjelpe deg?",
+        "de": "Kann ich dir helfen?",
+        "note": "In Norwegen duzt man sich auch im Geschäft (auf Deutsch: Kann ich Ihnen helfen?)."
       },
       {
-        "no": "Kan du sende meg brunosten?",
-        "de": "Kannst du mir den Braunkäse reichen?"
+        "no": "Nei takk, jeg ser meg bare litt rundt.",
+        "de": "Nein danke, ich schaue mich nur ein bisschen um.",
+        "note": "se seg rundt: reflexiv wie im Deutschen „sich umschauen“."
       },
       {
-        "no": "Jeg dekker på bordet.",
-        "de": "Ich decke den Tisch."
+        "no": "Jeg ser etter ei jakke.",
+        "de": "Ich suche eine Jacke.",
+        "note": "se etter = suchen (im Laden, nach etwas Bestimmtem)."
       },
       {
-        "no": "Hvem tar oppvasken?",
-        "de": "Wer spült ab?"
+        "no": "Hvilken størrelse bruker du?",
+        "de": "Welche Größe trägst du?",
+        "note": "bruke = hier: (eine Größe) tragen. hvilken (welcher) kommt in Lektion 7."
       },
       {
-        "no": "Det er din tur.",
-        "de": "Du bist dran.",
-        "note": "din = dein (Possessivpronomen, Lektion 13)."
+        "no": "Jeg bruker medium.",
+        "de": "Ich trage M.",
+        "note": "Größen: small, medium, large – oder mit Zahl: størrelse trettiåtte."
       },
       {
-        "no": "Kan du hjelpe meg med middagen?",
-        "de": "Kannst du mir beim Abendessen helfen?",
-        "note": "middag = die warme Hauptmahlzeit, meist am späten Nachmittag."
+        "no": "Kan jeg prøve den?",
+        "de": "Kann ich sie anprobieren?",
+        "note": "prøve = anprobieren. den für en- und ei-Wörter (jakka, genseren), det für et-Wörter (skjerfet)."
       },
       {
-        "no": "Kos deg!",
-        "de": "Viel Spaß! / Mach es dir schön!"
+        "no": "Hvor er prøverommet?",
+        "de": "Wo ist die Umkleidekabine?"
       },
       {
-        "no": "Så koselig!",
-        "de": "Wie gemütlich! / Wie schön!"
+        "no": "Den passer fint!",
+        "de": "Die passt gut!"
       },
       {
-        "no": "Jeg legger meg nå. God natt!",
-        "de": "Ich gehe jetzt ins Bett. Gute Nacht!"
+        "no": "Den er litt for stor.",
+        "de": "Die ist ein bisschen zu groß.",
+        "note": "for vor einem Adjektiv = zu: for stor, for dyr."
       },
       {
-        "no": "Sov godt!",
-        "de": "Schlaf gut!"
+        "no": "Har du den i en annen farge?",
+        "de": "Hast du die in einer anderen Farbe?"
+      },
+      {
+        "no": "Trenger du pose?",
+        "de": "Brauchst du eine Tüte?",
+        "note": "Das fragt man an der Kasse; Tüten kosten extra."
+      },
+      {
+        "no": "Kan jeg betale med kort?",
+        "de": "Kann ich mit Karte zahlen?"
       }
     ]
   },
@@ -624,8 +638,8 @@
           "explain": "Objektform: han → ham (han ist auch erlaubt)."
         },
         {
-          "prompt": "Anna er på kjøkkenet. Susanne snakker med ___. (hun)",
-          "de": "Anna ist in der Küche. Susanne spricht mit ihr.",
+          "prompt": "Kari er på kjøkkenet. Susanne snakker med ___. (hun)",
+          "de": "Kari ist in der Küche. Susanne spricht mit ihr.",
           "answer": [
             "henne"
           ],
@@ -640,8 +654,8 @@
           "explain": "Nach med: vi → oss."
         },
         {
-          "prompt": "Ola og Anna, jeg ser ___ i morgen! (dere)",
-          "de": "Ola und Anna, ich sehe euch morgen!",
+          "prompt": "Elin og Mads, jeg ser ___ i morgen! (dere)",
+          "de": "Elin und Mads, ich sehe euch morgen!",
           "answer": [
             "dere"
           ],
@@ -683,13 +697,13 @@
     },
     {
       "id": "g05_den_det",
-      "title": "Die 3. Person: den und det",
+      "title": "Gebrauch des Personalpronomens der 3. Person",
       "titleNo": "den og det",
       "summary": "Dinge sind den (en- und ei-Wörter) oder det (et-Wörter); det ist außerdem das „es“ ohne Bezug: Det regner.",
       "sections": [
         {
           "h": "den oder det? Das norwegische Geschlecht entscheidet",
-          "body": "Für Dinge und Tiere sagst du nicht han oder hun, sondern **den** oder **det**:\n\n• en- und ei-Wörter → **den**: **Brunosten er søt. Den er fra Gudbrandsdalen.** **Matpakka? Den er i sekken.**\n• et-Wörter → **det**: **Trollet er stort. Det har tre hoder.**\n• Plural → **de**: **Skoene? De står i gangen.**\n\nDas deutsche Geschlecht hilft nicht: **et troll** (der Troll) ist **det**, **ei matpakke** (das Lunchpaket) ist **den**.",
+          "body": "Für Dinge und Tiere sagst du nicht han oder hun, sondern **den** oder **det** (nur Haustiere mit Namen sind meist **han** oder **hun**):\n\n• en- und ei-Wörter → **den**: **Brunosten er søt. Den er fra Gudbrandsdalen.** **Matpakka? Den er på bordet.**\n• et-Wörter → **det**: **Trollet er stort. Det har tre hoder.**\n• Plural → **de**: **Skoene? De står i gangen.**\n\nDas deutsche Geschlecht hilft nicht: **et troll** (der Troll) ist **det**, **ei matpakke** (das Lunchpaket) ist **den**.",
           "table": [
             [
               "Nomen",
@@ -725,7 +739,7 @@
         },
         {
           "h": "det als „es“ ohne Bezug",
-          "body": "Wie deutsch „es“ steht **det** als formales Subjekt, vor allem bei Wetter, Zeit und Stimmung:\n\n• **Det regner.** – Es regnet.\n• **Det er kaldt i dag.** – Es ist kalt heute.\n• **Det er hyggelig her.** – Es ist gemütlich hier.\n\n**det** stellt auch Personen und Dinge vor, sogar im Plural: **Det er Anna.** – Das ist Anna. **Det er naboene.** – Das sind die Nachbarn. Darum heißt es vor einem Nomen nach **er** meist **det**, egal welches Geschlecht: **Ostehøvelen? Det er en norsk oppfinnelse.**\n\nUnd **det** kann für einen ganzen Satz stehen: **Mamma blir sur hvis vi ikke gjør det.** **Det vet jeg ikke.**"
+          "body": "Wie deutsch „es“ steht **det** als formales Subjekt, vor allem bei Wetter, Zeit und Stimmung:\n\n• **Det regner.** – Es regnet.\n• **Det er kaldt i dag.** – Es ist kalt heute.\n• **Det er hyggelig her.** – Es ist gemütlich hier.\n\n**det** stellt auch Personen und Dinge vor, sogar im Plural: **Det er Anna.** – Das ist Anna. **Det er naboene.** – Das sind die Nachbarn. Darum heißt es vor einem Nomen nach **er** meist **det**, egal welches Geschlecht: **Ostehøvelen? Det er en norsk oppfinnelse.**\n\nUnd **det** kann für einen ganzen Satz stehen: **Alle tar av seg skoene. Det er typisk norsk.** **Det vet jeg ikke.**"
         }
       ],
       "drills": [
@@ -746,8 +760,8 @@
           "explain": "et troll → det (auch wenn es im Deutschen „der Troll“ heißt)."
         },
         {
-          "prompt": "Hvor er matpakka? – ___ er i sekken.",
-          "de": "Wo ist das Lunchpaket? – Es ist im Rucksack.",
+          "prompt": "Hvor er matpakka? – ___ er på bordet.",
+          "de": "Wo ist das Lunchpaket? – Es ist auf dem Tisch.",
           "answer": [
             "Den"
           ],
@@ -813,13 +827,13 @@
     },
     {
       "id": "g05_blaa",
-      "title": "Adjektive wie blå, grå, ny",
+      "title": "blå, grå, ny",
       "titleNo": "adjektiv på trykksterk vokal",
       "summary": "Adjektive auf betonten Vokal bekommen im Neutrum -tt (blå – blått, ny – nytt); god und rød bekommen nur ein t (godt, rødt).",
       "sections": [
         {
           "h": "Neutrum mit -tt",
-          "body": "Endet ein Adjektiv auf einen betonten Vokal, bekommt es im Neutrum **-tt**:\n\n• **et blått pledd** – eine blaue Decke\n• **Trollet er stort og grått.** – Der Troll ist groß und grau.\n• **et nytt skjerf** – ein neuer Schal\n• **Norge er et fritt land.** – Norwegen ist ein freies Land.\n\nBei en- und ei-Wörtern bleibt die Grundform: **en blå bil, ei ny jakke, himmelen er blå**.",
+          "body": "Endet ein Adjektiv auf einen betonten Vokal, bekommt es im Neutrum **-tt**:\n\n• **et blått pledd** – eine blaue Decke\n• **Trollet er stort og grått.** – Der Troll ist groß und grau.\n• **et nytt skjerf** – ein neuer Schal\n• **Norge er et fritt land.** – Norwegen ist ein freies Land.\n\nBei en- und ei-Wörtern bleibt die Grundform: **en blå bil, ei ny jakke, fjorden er blå**.",
           "table": [
             [
               "en/ei",
@@ -926,12 +940,12 @@
           "explain": "Plural: blå bleibt meist blå (blåe ist auch richtig)."
         },
         {
-          "prompt": "Himmelen er ___ i dag. (blå)",
-          "de": "Der Himmel ist heute blau.",
+          "prompt": "Fjorden er ___ i dag. (blå)",
+          "de": "Der Fjord ist heute blau.",
           "answer": [
             "blå"
           ],
-          "explain": "en himmel: maskulin, also Grundform blå."
+          "explain": "en fjord: maskulin, also Grundform blå."
         },
         {
           "prompt": "Familien Nygård har et ___ hus. (rød)",
@@ -942,12 +956,141 @@
           "explain": "et hus: Neutrum; rød → rødt."
         },
         {
-          "prompt": "Bestemor har ___ hår. (grå)",
-          "de": "Oma hat graue Haare.",
+          "prompt": "Bestemor har et ___ skjerf. (grå)",
+          "de": "Oma hat einen grauen Schal.",
           "answer": [
             "grått"
           ],
-          "explain": "hår ist ein et-Wort (et hår, Singular als Sammelbegriff): grått."
+          "explain": "et skjerf: Neutrum; grå → grått."
+        }
+      ]
+    },
+    {
+      "id": "g05_predikativ",
+      "title": "In prädikativer Stellung",
+      "titleNo": "adjektiv i predikativ stilling",
+      "summary": "Nach være und bli richtet sich das Adjektiv nach dem Subjekt: Bilen er ny, huset er nytt, bilene er nye – im Deutschen bleibt es immer gleich.",
+      "sections": [
+        {
+          "h": "Anders als im Deutschen: Endungen auch nach være",
+          "body": "Im Deutschen hat das Adjektiv nach „sein“ nie eine Endung: „das Haus ist groß, die Häuser sind groß“. Im Norwegischen richtet es sich auch hier nach dem Subjekt – genau wie vor dem Nomen (Lektion 4):\n\n• en-Wort: **Bilen er ny.** – Das Auto ist neu.\n• ei-Wort: **Hytta er ny.** – Die Hütte ist neu.\n• et-Wort: **Huset er nytt.** – Das Haus ist neu.\n• Plural: **Bilene er nye.** – Die Autos sind neu.\n\nAlso: Neutrum **-t**, Plural **-e** – auch wenn kein Nomen folgt.",
+          "table": [
+            [
+              "Subjekt",
+              "Adjektiv",
+              "Deutsch"
+            ],
+            [
+              "**Brunosten** (en)",
+              "er **søt**",
+              "Der Braunkäse ist süß."
+            ],
+            [
+              "**Matpakka** (ei)",
+              "er **klar**",
+              "Das Lunchpaket ist fertig."
+            ],
+            [
+              "**Trollet** (et)",
+              "er **stort**",
+              "Der Troll ist groß."
+            ],
+            [
+              "**Skoene** (Plural)",
+              "er **nye**",
+              "Die Schuhe sind neu."
+            ]
+          ]
+        },
+        {
+          "h": "Personen, du, dere und det",
+          "body": "Bei Personen zählt nur, ob es eine oder mehrere sind: **Ola er sterk. Ola og Per er sterke.**\n\n• **du** ist Singular: **Du er snill.** – Du bist lieb.\n• **dere** ist Plural, auch bei nur zwei Leuten: **Dere er snille.** – Ihr seid lieb.\n• **vi** und **de** sind Plural: **Vi er klare!** – Wir sind fertig!\n\nIst **det** das Subjekt, steht das Adjektiv im **Neutrum**:\n\n• **Det er kaldt i dag.** – Es ist kalt heute.\n• **Det er fint å bo her.** – Es ist schön, hier zu wohnen."
+        },
+        {
+          "h": "Auch nach bli – und die bekannten Sonderfälle",
+          "body": "Nach **bli** (werden) gilt dieselbe Regel: **Mamma blir sur. Trollet blir stort. Alle blir glade.**\n\nDie Sonderfälle kennst du schon, sie gelten auch hier:\n\n• **-ig** und mehrsilbige **-sk** ohne -t (Lektion 4): **Huset er billig. Kjøkkenet er praktisk.**\n• betonter Vokal mit **-tt**: **Pleddet er blått. Huset er nytt.**\n\nTypische Fehler: ✗ Huset er stor. ✗ Skoene er ny. Richtig: **Huset er stort. Skoene er nye.**"
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Brunosten er ___. (søt)",
+          "de": "Der Braunkäse ist süß.",
+          "answer": [
+            "søt"
+          ],
+          "explain": "en brunost: maskulin, also die Grundform ohne Endung."
+        },
+        {
+          "prompt": "Huset i Sagene er ___. (gammel)",
+          "de": "Das Haus in Sagene ist alt.",
+          "answer": [
+            "gammelt"
+          ],
+          "explain": "et hus: Neutrum – auch nach er bekommt gammel ein -t."
+        },
+        {
+          "prompt": "Hytta er ___. (ny)",
+          "de": "Die Hütte ist neu.",
+          "answer": [
+            "ny"
+          ],
+          "explain": "ei hytte: feminin, Grundform wie bei en-Wörtern."
+        },
+        {
+          "prompt": "Skoene i gangen er ___. (ny)",
+          "de": "Die Schuhe im Flur sind neu.",
+          "answer": [
+            "nye"
+          ],
+          "explain": "Plural: ny → nye. Im Deutschen „sind neu“ ohne Endung."
+        },
+        {
+          "prompt": "Det er ___ i dag. (kald)",
+          "de": "Es ist kalt heute.",
+          "answer": [
+            "kaldt"
+          ],
+          "explain": "det als formales Subjekt: Neutrum, kald + t."
+        },
+        {
+          "prompt": "Det er ___ å bo i Oslo. (fin)",
+          "de": "Es ist schön, in Oslo zu wohnen.",
+          "answer": [
+            "fint"
+          ],
+          "explain": "det + Infinitiv: Das Adjektiv steht im Neutrum."
+        },
+        {
+          "prompt": "Er dere ___? Vi går nå! (klar)",
+          "de": "Seid ihr fertig? Wir gehen jetzt!",
+          "answer": [
+            "klare"
+          ],
+          "explain": "dere ist Plural: klar + e."
+        },
+        {
+          "prompt": "Du er så ___, Ola! (snill)",
+          "de": "Du bist so lieb, Ola!",
+          "answer": [
+            "snill"
+          ],
+          "explain": "du = eine Person im Singular: Grundform."
+        },
+        {
+          "prompt": "Kjøkkenet er ___. (praktisk)",
+          "de": "Die Küche ist praktisch.",
+          "answer": [
+            "praktisk"
+          ],
+          "explain": "Mehrsilbig auf -sk: kein -t, auch nicht nach er."
+        },
+        {
+          "prompt": "Alle blir ___ når bestemor kommer. (glad)",
+          "de": "Alle freuen sich, wenn Oma kommt.",
+          "answer": [
+            "glade"
+          ],
+          "explain": "Nach bli wie nach være: alle ist Plural → glade."
         }
       ]
     },
@@ -1058,8 +1201,8 @@
           "explain": "3. Person Plural: seg."
         },
         {
-          "prompt": "Jeg ___ i sofaen. (sette seg, Präsens)",
-          "de": "Ich setze mich auf das Sofa.",
+          "prompt": "Jeg ___ ved bordet. (sette seg, Präsens)",
+          "de": "Ich setze mich an den Tisch.",
           "answer": [
             "setter meg"
           ],
@@ -1085,13 +1228,13 @@
     },
     {
       "id": "g05_dobbelkonsonant",
-      "title": "Rechtschreibung: Doppelkonsonanten",
+      "title": "Vereinfachung von Doppelkonsonanten",
       "titleNo": "dobbel konsonant",
-      "summary": "Ein Doppelkonsonant wird vor einem weiteren Konsonanten vereinfacht (grønn – grønt), und m wird am Wortende nie verdoppelt (dum – dumme).",
+      "summary": "Ein Doppelkonsonant am Wortende wird vor einem weiteren Konsonanten vereinfacht: grønn – grønt, snill – snilt. Ausnahme: full – fullt.",
       "sections": [
         {
           "h": "Vor einem Konsonanten: nur einer",
-          "body": "Ein Doppelkonsonant zeigt, dass der Vokal davor kurz ist. Kommt ein weiterer Konsonant dazu, oft das **-t** im Neutrum, schreibt man nur einen:\n\n• **grønn – grønt – grønne**: **et grønt eple**\n• **tynn – tynt – tynne**: **et tynt pledd**\n• **trygg – trygt – trygge**: **Det er trygt her.**\n\nGenauso bei Verben: **kjenne – kjente**, **glemme – glemte**.",
+          "body": "Ein Doppelkonsonant zeigt, dass der Vokal davor kurz ist. Kommt ein weiterer Konsonant dazu, oft das **-t** im Neutrum, schreibt man nur einen:\n\n• **grønn – grønt**: **et grønt eple**\n• **tynn – tynt**: **et tynt pledd**\n• **trygg – trygt**: **Det er trygt her.**\n• **snill – snilt**: **Så snilt av deg!**\n\nFolgt eine Endung mit Vokal, etwa das Plural-**e**, bleibt der Doppelkonsonant: **grønne, tynne, trygge, snille**.",
           "table": [
             [
               "en/ei",
@@ -1114,9 +1257,14 @@
               "**trygge**"
             ],
             [
-              "**dum**",
-              "**dumt**",
-              "**dumme**"
+              "**stygg**",
+              "**stygt**",
+              "**stygge**"
+            ],
+            [
+              "**snill**",
+              "**snilt**",
+              "**snille**"
             ],
             [
               "**full**",
@@ -1126,8 +1274,12 @@
           ]
         },
         {
-          "h": "m am Wortende: nie doppelt",
-          "body": "Ein **m** wird am Wortende nie verdoppelt, auch nach kurzem Vokal. Kommt eine Endung mit Vokal dazu, erscheint das Doppel-m:\n\n• **dum – dumt – dumme**\n• **et rom – rommet – rom – rommene**\n• **et program – programmet**\n• **komme – Kom!**, **glemme – Glem!** (Imperativ)\n\nEine Ausnahme ist **full – fullt** (mit Doppel-l): **Glasset er fullt.** Andere Wörter auf -ll folgen der Hauptregel: **snill – snilt**."
+          "h": "Die Ausnahme: full – fullt",
+          "body": "Bei **-ll** schwankt die Regel: **full** behält das Doppel-l (**Glasset er fullt.**), **snill** folgt der Hauptregel (**snilt**). Lerne **fullt** einfach als Ausnahme."
+        },
+        {
+          "h": "Auch bei Verben – anders als im Deutschen",
+          "body": "Das Deutsche behält den Doppelkonsonanten: „kennen – kannte – gekannt“. Das Norwegische vereinfacht ihn, sobald ein Konsonant folgt: **kjenne – kjente – kjent**, **begynne – begynte**.\n\nDie Vergangenheitsformen lernst du in Lektion 7. Das Wort **kjent** (bekannt) kennst du aber schon: **Troll er kjente figurer.**"
         }
       ],
       "drills": [
@@ -1145,7 +1297,7 @@
           "answer": [
             "grønne"
           ],
-          "explain": "Plural: Vokal folgt, also bleibt nn: grønne."
+          "explain": "Plural: Ein Vokal folgt, also bleibt nn: grønne."
         },
         {
           "prompt": "Kari har et ___ pledd. (tynn)",
@@ -1156,6 +1308,14 @@
           "explain": "Neutrum: tynn + t → tynt."
         },
         {
+          "prompt": "Brødskivene er ___. (tynn)",
+          "de": "Die Brotscheiben sind dünn.",
+          "answer": [
+            "tynne"
+          ],
+          "explain": "Plural: tynn + e → tynne, das nn bleibt."
+        },
+        {
           "prompt": "Det er ___ å bo i Norge. (trygg)",
           "de": "Es ist sicher, in Norwegen zu wohnen.",
           "answer": [
@@ -1164,28 +1324,28 @@
           "explain": "Neutrum nach det: trygg + t → trygt."
         },
         {
-          "prompt": "Det er et ___ spørsmål. (dum)",
-          "de": "Das ist eine dumme Frage.",
+          "prompt": "Trollet er stort og ___. (stygg)",
+          "de": "Der Troll ist groß und hässlich.",
           "answer": [
-            "dumt"
+            "stygt"
           ],
-          "explain": "et spørsmål: Neutrum, dum + t → dumt."
+          "explain": "et troll: Neutrum, stygg + t → stygt."
         },
         {
-          "prompt": "Ola og Anna er ikke ___. (dum)",
-          "de": "Ola und Anna sind nicht dumm.",
+          "prompt": "Så ___ av deg! (snill)",
+          "de": "Wie lieb von dir!",
           "answer": [
-            "dumme"
+            "snilt"
           ],
-          "explain": "Plural: dum + e → dumme (jetzt mit Doppel-m)."
+          "explain": "det-Satz ohne Nomen: Neutrum, snill + t → snilt."
         },
         {
-          "prompt": "Susanne bor i ___ ved siden av kjøkkenet. (rom, bestimmte Form)",
-          "de": "Susanne wohnt im Zimmer neben der Küche.",
+          "prompt": "Er det ___? (sann)",
+          "de": "Ist das wahr?",
           "answer": [
-            "rommet"
+            "sant"
           ],
-          "explain": "et rom – rommet: Vor der Endung wird m verdoppelt."
+          "explain": "Neutrum nach det: sann + t → sant."
         },
         {
           "prompt": "Glasset er ___. (full)",
@@ -1193,23 +1353,7 @@
           "answer": [
             "fullt"
           ],
-          "explain": "Ausnahme: full behält das Doppel-l: fullt."
-        },
-        {
-          "prompt": "___ hit, Ola! (komme, Imperativ)",
-          "de": "Komm her, Ola!",
-          "answer": [
-            "Kom"
-          ],
-          "explain": "Am Wortende kein Doppel-m: kom."
-        },
-        {
-          "prompt": "Ola ser på ___ på TV. (program, bestimmte Form)",
-          "de": "Ola sieht sich die Sendung im Fernsehen an.",
-          "answer": [
-            "programmet"
-          ],
-          "explain": "et program – programmet."
+          "explain": "Die Ausnahme: full behält das Doppel-l – fullt."
         }
       ]
     }
@@ -1444,8 +1588,8 @@
       ]
     },
     {
-      "prompt": "Bestemor forteller en historie. Til slutt blir trollet til ___.",
-      "de": "Oma erzählt eine Geschichte. Am Ende wird der Troll zu Stein.",
+      "prompt": "Bestemor forteller en historie: Sola kommer opp, og trollet blir til ___.",
+      "de": "Oma erzählt eine Geschichte: Die Sonne geht auf, und der Troll wird zu Stein.",
       "answer": [
         "stein"
       ]
@@ -1490,7 +1634,7 @@
         ]
       }
     ],
-    "model": "Hei Anna! Hva er typisk tysk? Brød! I Tyskland har vi mange slags brød. Det er godt og mørkt. Og så er det julemarkedet. Det er veldig koselig. Mange tyskere sorterer også søppel, og de er stolte av det. Kanskje går noen med sokker i sandaler, men ikke jeg! Jeg gleder meg til du kommer på besøk. Hilsen Susanne",
-    "modelDe": "Hallo Anna! Was ist typisch deutsch? Brot! In Deutschland haben wir viele Sorten Brot. Es ist gut und dunkel. Und dann gibt es den Weihnachtsmarkt. Der ist sehr gemütlich. Viele Deutsche trennen auch Müll, und sie sind stolz darauf. Vielleicht tragen manche Socken in Sandalen, aber ich nicht! Ich freue mich auf deinen Besuch. Viele Grüße, Susanne"
+    "model": "Hei Anna! Hva er typisk tysk? Brød! I Tyskland er brødet grovt og ferskt. Og så er det kaffe og kake om søndagen. Det er veldig koselig. Mange tyskere sorterer søppel, og det er også typisk. Kanskje går noen med sokker i sandaler, men ikke jeg! Jeg gleder meg til torsdag. Ha det bra! Susanne",
+    "modelDe": "Hallo Anna! Was ist typisch deutsch? Brot! In Deutschland ist das Brot kernig und frisch. Und dann gibt es sonntags Kaffee und Kuchen. Das ist sehr gemütlich. Viele Deutsche trennen Müll, und das ist auch typisch. Vielleicht tragen manche Socken in Sandalen, aber ich nicht! Ich freue mich auf Donnerstag. Mach’s gut! Susanne"
   }
 }

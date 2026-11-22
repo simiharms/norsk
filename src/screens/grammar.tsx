@@ -2,7 +2,7 @@ import { useState } from 'preact/hooks';
 import { DrillSet } from '../components/exercises.tsx';
 import { Item, RichText, Table, TopBar } from '../components/ui.tsx';
 import { lessonByN, lessons } from '../lib/content.ts';
-import { lessonSteps, stepDone } from '../lib/progress.ts';
+import { lessonSteps, planOf, stepDone } from '../lib/progress.ts';
 import { go } from '../lib/router.ts';
 import { getState, useAppState } from '../lib/store.ts';
 
@@ -14,6 +14,7 @@ export function GrammarTopicPage({ n, id }: { n: number; id: string }) {
   const [finished, setFinished] = useState<number | null>(null);
   if (!L || !g) return <TopBar title="Nicht gefunden" backTo={`lektion/${n}`} />;
   const stepId = `L${n}:${g.id}`;
+  const cat = planOf(n)?.grammar.find((t) => t.id === g.id)?.cat;
   const prev = getState().done[stepId];
   const next = lessonSteps(L).find((st) => st.id !== stepId && !stepDone(getState(), st));
 
@@ -22,7 +23,9 @@ export function GrammarTopicPage({ n, id }: { n: number; id: string }) {
       <TopBar title={g.title} backTo={true} />
       <main class="page">
         <div class="card">
-          <div class="small muted">Leksjon {n} · Grammatik</div>
+          <div class="small muted">
+            Leksjon {n} · Grammatik{cat ? ` · ${cat}` : ''}
+          </div>
           <h2>{g.title}</h2>
           {g.titleNo && <div class="muted no-em">{g.titleNo}</div>}
           <p class="small">{g.summary}</p>

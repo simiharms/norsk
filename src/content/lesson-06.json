@@ -3,258 +3,226 @@
   "level": "A2",
   "title": "Gratulerer med dagen!",
   "titleDe": "Herzlichen Glückwunsch zum Geburtstag!",
-  "place": "Oslo, Aker brygge",
+  "place": "Oslo, Kringsjå und Aker brygge",
   "goals": [
-    "Du kannst im Präteritum erzählen, was gestern passiert ist: feiret, kjøpte, prøvde, bodde.",
-    "Du kannst gratulieren, dich für ein Geschenk bedanken und ein Geburtstagslied singen.",
-    "Du kennst alle vier Formen des Substantivs: en bil – bilen – biler – bilene.",
-    "Du kannst Substantive auf -er (lærer – lærerne) und Adjektive auf -el, -en, -er (gammel – gamle) richtig bilden.",
-    "Du kannst einen kurzen Tagebucheintrag über ein Fest schreiben."
+    "Du kannst gratulieren, ein Geschenk überreichen, dich bedanken und das norwegische Geburtstagslied singen.",
+    "Du kannst im Präsens erzählen, wie ein Geburtstag gefeiert wird, und mit at wiedergeben, was jemand sagt, glaubt oder hofft.",
+    "Du kennst alle vier Formen des Substantivs (en bil – bilen – biler – bilene), auch bei Wörtern auf -er (lærer – lærerne).",
+    "Du kannst liten (lita, lite, små) und Adjektive auf -el, -en, -er und -t richtig bilden: gammel – gamle, søt – søtt.",
+    "Du weißt, warum man rom, aber rommet schreibt."
   ],
   "text": {
     "id": "t06",
     "title": "Gratulerer med dagen!",
     "titleDe": "Herzlichen Glückwunsch zum Geburtstag!",
     "kind": "prose",
-    "intro": "Anna hatte gestern ihren 25. Geburtstag. Heute schreibt Susanne in ihr Tagebuch, wie gefeiert wurde: morgens bei Familie Nygård, abends mit Freunden an der Aker Brygge.",
+    "intro": "Heute wird Anna 25. Susanne erzählt, wie der Tag verläuft: früh am Morgen in Annas Studenten-WG in Kringsjå und am Abend mit Freunden in einem Restaurant an der Aker Brygge.",
     "lines": [
       {
-        "no": "Kjære dagbok! I går var en stor dag: Anna fylte tjuefem år.",
-        "de": "Liebes Tagebuch! Gestern war ein großer Tag: Anna ist fünfundzwanzig geworden."
+        "no": "I dag fyller Anna tjuefem år. Tidlig om morgenen sitter jeg på T-banen til Kringsjå. Jeg har med en tysk sjokoladekake. Oppskriften er gammel og kommer fra mamma. Jeg håper at Anna liker kaka.",
+        "de": "Heute wird Anna fünfundzwanzig. Früh am Morgen sitze ich in der U-Bahn nach Kringsjå. Ich habe einen deutschen Schokoladenkuchen dabei. Das Rezept ist alt und kommt von Mama. Ich hoffe, dass Anna den Kuchen mag."
       },
       {
-        "no": "Jeg våknet allerede klokka seks. I familien Nygård feirer man nemlig bursdager tidlig om morgenen.",
-        "de": "Ich bin schon um sechs Uhr aufgewacht. In der Familie Nygård feiert man Geburtstage nämlich früh am Morgen."
+        "no": "Anna bor i et kollektiv sammen med Henrik. Han åpner døra, og Jonas, kjæresten til Anna, er allerede der. «Hysj! Anna sover ennå», hvisker Henrik.",
+        "de": "Anna wohnt mit Henrik in einer WG. Er öffnet die Tür, und Jonas, Annas Freund, ist schon da. „Psst! Anna schläft noch“, flüstert Henrik."
       },
       {
-        "no": "Kari pyntet frokostbordet med små norske flagg, og Per tente lys på kaka. Så samlet vi oss stille i gangen.",
-        "de": "Kari schmückte den Frühstückstisch mit kleinen norwegischen Fähnchen, und Per zündete die Kerzen auf dem Kuchen an. Dann versammelten wir uns leise im Flur."
+        "no": "Vi pynter kjøkkenet med små norske flagg og tenner tjuefem lys på kaka. Så går vi stille til rommet til Anna, og Henrik banker på.",
+        "de": "Wir schmücken die Küche mit kleinen norwegischen Fähnchen und zünden fünfundzwanzig Kerzen auf dem Kuchen an. Dann gehen wir leise zu Annas Zimmer, und Henrik klopft an."
       },
       {
-        "no": "Ola banket på døra, og vi sang «Hurra for deg som fyller ditt år». Anna åpnet døra i pyjamas og smilte.",
-        "de": "Ola klopfte an die Tür, und wir sangen „Hurra for deg som fyller ditt år“. Anna öffnete die Tür im Schlafanzug und lächelte."
+        "no": "Rommet er lite, så vi står tett sammen i døra og synger «Hurra for deg som fyller ditt år». Anna våkner og ser på oss. Så ler hun. «Er dere gale?» sier hun. «Det er jo midt på natta!»",
+        "de": "Das Zimmer ist klein, also stehen wir dicht gedrängt in der Tür und singen „Hurra for deg som fyller ditt år“. Anna wacht auf und sieht uns an. Dann lacht sie. „Seid ihr verrückt?“, sagt sie. „Es ist doch mitten in der Nacht!“"
       },
       {
-        "no": "Så pakket Anna opp gavene. Kari og Per kjøpte en ny sykkel til henne, og bestemor Ingrid strikket en vakker genser med gamle norske mønstre.",
-        "de": "Dann packte Anna die Geschenke aus. Kari und Per hatten ihr ein neues Fahrrad gekauft, und Oma Ingrid hatte einen schönen Pullover mit alten norwegischen Mustern gestrickt."
+        "no": "Så pakker hun opp gavene. Fra Jonas får hun en vakker blå genser med et gammelt norsk mønster. Hun prøver den med en gang, og den passer perfekt.",
+        "de": "Dann packt sie die Geschenke aus. Von Jonas bekommt sie einen schönen blauen Pullover mit einem alten norwegischen Muster. Sie probiert ihn sofort an, und er passt perfekt."
       },
       {
-        "no": "Ola kjøpte en enkel gave: to kinobilletter. Jeg bakte en tysk sjokoladekake.",
-        "de": "Ola hatte ein einfaches Geschenk gekauft: zwei Kinokarten. Ich hatte einen deutschen Schokoladenkuchen gebacken."
+        "no": "Henrik har en liten gave: to kinobilletter. Han sier at billettene er til Anna og Jonas. Til frokost spiser vi sjokoladekake, og Anna sier at kaka er nydelig.",
+        "de": "Henrik hat ein kleines Geschenk: zwei Kinokarten. Er sagt, dass die Karten für Anna und Jonas sind. Zum Frühstück essen wir Schokoladenkuchen, und Anna sagt, dass der Kuchen köstlich ist."
       },
       {
-        "no": "Anna likte gavene veldig godt. Hun prøvde genseren med en gang og syklet en tur rundt kvartalet. Per spiste tre stykker sjokoladekake!",
-        "de": "Anna gefielen die Geschenke sehr gut. Sie probierte den Pullover sofort an und fuhr mit dem Fahrrad eine Runde um den Block. Per aß drei Stück Schokoladenkuchen!"
+        "no": "Om kvelden inviterer Anna oss til middag på en restaurant på Aker brygge. Matthias, Elin og Mads kommer også. Vi får et bord ute ved sjøen. Det er en mild kveld, og vakre seilbåter seiler forbi.",
+        "de": "Am Abend lädt Anna uns zum Essen in ein Restaurant an der Aker Brygge ein. Matthias, Elin und Mads kommen auch. Wir bekommen einen Tisch draußen am Wasser. Es ist ein milder Abend, und schöne Segelboote segeln vorbei."
       },
       {
-        "no": "Om kvelden inviterte Anna noen venner til en restaurant på Aker brygge: kjæresten Jonas, Matthias, Elin, Mads og meg.",
-        "de": "Am Abend lud Anna ein paar Freunde in ein Restaurant an der Aker Brygge ein: ihren Freund Jonas, Matthias, Elin, Mads und mich."
+        "no": "Alle er sultne. Vi bestiller fiskesuppe og ferske reker. Matthias studerer menyen lenge og sukker over prisene, men kelneren er hyggelig og anbefaler en rimelig hvitvin.",
+        "de": "Alle haben Hunger. Wir bestellen Fischsuppe und frische Garnelen. Matthias studiert lange die Speisekarte und seufzt über die Preise, aber der Kellner ist nett und empfiehlt einen preiswerten Weißwein."
       },
       {
-        "no": "Vi bestilte et bord ute ved sjøen. Det var en mild kveld, kveldssola skinte over fjorden, og vakre seilbåter seilte forbi.",
-        "de": "Wir hatten einen Tisch draußen am Wasser bestellt. Es war ein milder Abend, die Abendsonne schien über den Fjord, und schöne Segelboote segelten vorbei."
+        "no": "Elin og Mads gir Anna et hvitt skjerf og et søtt kort med en hilsen på svensk og dansk. Matthias har med ei lita eske sjokolade fra Sveits. Han sier at sveitsisk sjokolade er nummer én i verden. Jeg tror at han tuller.",
+        "de": "Elin und Mads schenken Anna einen weißen Schal und eine niedliche Karte mit einem Gruß auf Schwedisch und Dänisch. Matthias hat eine kleine Schachtel Schokolade aus der Schweiz dabei. Er sagt, dass Schweizer Schokolade die Nummer eins auf der Welt ist. Ich glaube, dass er Witze macht."
       },
       {
-        "no": "Alle var sultne. Vi bestilte fiskesuppe, ferske reker og hvitvin.",
-        "de": "Alle hatten Hunger. Wir bestellten Fischsuppe, frische Garnelen und Weißwein."
+        "no": "Til dessert serverer kelnerne en bløtkake med et lite norsk flagg på toppen, og alle gjestene på restauranten synger for Anna. Hun blir rød i ansiktet, men hun smiler.",
+        "de": "Zum Nachtisch servieren die Kellner eine Sahnetorte mit einem kleinen norwegischen Fähnchen obendrauf, und alle Gäste im Restaurant singen für Anna. Sie wird rot im Gesicht, aber sie lächelt."
       },
       {
-        "no": "Matthias studerte menyen lenge og sukket over prisene. Men kelneren var hyggelig og anbefalte en rimelig vin.",
-        "de": "Matthias studierte lange die Speisekarte und seufzte über die Preise. Aber der Kellner war nett und empfahl einen preiswerten Wein."
-      },
-      {
-        "no": "Etterpå serverte kelneren en stor bløtkake med tjuefem lys, og alle gjestene klappet.",
-        "de": "Danach servierte der Kellner eine große Sahnetorte mit fünfundzwanzig Kerzen, und alle Gäste klatschten."
-      },
-      {
-        "no": "Vi pratet og danset til langt på natt. Matthias ventet sammen med meg på trikken.",
-        "de": "Wir plauderten und tanzten bis spät in die Nacht. Matthias wartete mit mir auf die Straßenbahn."
-      },
-      {
-        "no": "I dag er jeg trøtt, men glad. Anna ringte i morges og takket for kaka. Neste år vil jeg også feire bursdag i Norge!",
-        "de": "Heute bin ich müde, aber froh. Anna hat heute Morgen angerufen und sich für den Kuchen bedankt. Nächstes Jahr will ich auch in Norwegen Geburtstag feiern!"
+        "no": "Sent på kvelden venter Matthias sammen med meg på trikken. «For en dag!» sier han. Jeg er trøtt, men glad, og jeg er sikker på at Anna har en fin bursdag.",
+        "de": "Spät am Abend wartet Matthias mit mir auf die Straßenbahn. „Was für ein Tag!“, sagt er. Ich bin müde, aber froh, und ich bin sicher, dass Anna einen schönen Geburtstag hat."
       }
     ],
     "glossary": [
       {
-        "no": "Kjære dagbok",
-        "de": "liebes Tagebuch"
+        "no": "fyller Anna tjuefem år",
+        "de": "wird Anna fünfundzwanzig (Jahre alt)"
       },
       {
-        "no": "var",
-        "de": "war (Präteritum von være, Lektion 8)"
+        "no": "Tidlig om morgenen",
+        "de": "früh am Morgen"
       },
       {
-        "no": "fylte tjuefem år",
-        "de": "wurde fünfundzwanzig (Jahre alt)"
+        "no": "T-banen",
+        "de": "die U-Bahn (Oslos Metro)"
       },
       {
-        "no": "nemlig",
-        "de": "nämlich"
+        "no": "har med",
+        "de": "habe dabei, bringe mit"
       },
       {
-        "no": "frokostbordet",
-        "de": "der Frühstückstisch"
+        "no": "Oppskriften",
+        "de": "das Rezept"
       },
       {
-        "no": "flagg",
-        "de": "Fahnen, Fähnchen"
+        "no": "håper",
+        "de": "hoffe"
       },
       {
-        "no": "tente lys",
-        "de": "zündete Kerzen an"
+        "no": "et kollektiv",
+        "de": "eine Wohngemeinschaft, eine WG"
       },
       {
-        "no": "samlet vi oss",
-        "de": "versammelten wir uns"
+        "no": "kjæresten til Anna",
+        "de": "Annas (fester) Freund"
       },
       {
-        "no": "gangen",
-        "de": "der Flur"
+        "no": "Hysj",
+        "de": "psst!"
       },
       {
-        "no": "banket på",
-        "de": "klopfte an"
+        "no": "små",
+        "de": "kleine (Plural von liten)"
       },
       {
-        "no": "sang",
-        "de": "sangen (Präteritum von synge)"
+        "no": "rommet til Anna",
+        "de": "Annas Zimmer"
+      },
+      {
+        "no": "banker på",
+        "de": "klopft an"
+      },
+      {
+        "no": "lite",
+        "de": "klein (Neutrum von liten)"
+      },
+      {
+        "no": "tett sammen",
+        "de": "dicht beieinander"
       },
       {
         "no": "Hurra for deg som fyller ditt år",
-        "de": "Hurra für dich, der du Geburtstag hast (das norwegische Geburtstagslied)"
+        "de": "„Hurra für dich, der du Geburtstag hast“ – das norwegische Geburtstagslied"
       },
       {
         "no": "ditt",
         "de": "dein (Possessivpronomen, Lektion 13)"
       },
       {
-        "no": "i pyjamas",
-        "de": "im Schlafanzug"
+        "no": "ser på oss",
+        "de": "sieht uns an"
       },
       {
-        "no": "pyjamas",
-        "de": "der Schlafanzug"
+        "no": "ler",
+        "de": "lacht"
       },
       {
-        "no": "pakket Anna opp gavene",
-        "de": "packte Anna die Geschenke aus (pakke opp = auspacken)"
+        "no": "gale",
+        "de": "verrückt (Plural)"
       },
       {
-        "no": "strikket",
-        "de": "strickte"
+        "no": "midt på natta",
+        "de": "mitten in der Nacht"
       },
       {
-        "no": "mønstre",
-        "de": "Muster (Plural)"
+        "no": "pakker hun opp",
+        "de": "packt sie aus (pakke opp = auspacken)"
       },
       {
-        "no": "kinobilletter",
-        "de": "Kinokarten"
+        "no": "mønster",
+        "de": "Muster"
+      },
+      {
+        "no": "prøver den",
+        "de": "probiert ihn an"
       },
       {
         "no": "med en gang",
         "de": "sofort"
       },
       {
-        "no": "syklet en tur",
-        "de": "fuhr eine Runde Fahrrad"
+        "no": "passer perfekt",
+        "de": "passt perfekt"
       },
       {
-        "no": "rundt kvartalet",
-        "de": "um den Block"
+        "no": "nydelig",
+        "de": "köstlich, wunderbar"
+      },
+      {
+        "no": "til middag",
+        "de": "zum (Abend-)Essen"
       },
       {
         "no": "Aker brygge",
         "de": "Hafen- und Restaurantviertel am Oslofjord"
       },
       {
-        "no": "stykker",
-        "de": "Stücke"
-      },
-      {
-        "no": "kjæresten",
-        "de": "der (feste) Freund, hier: ihr Freund"
-      },
-      {
         "no": "ved sjøen",
         "de": "am Wasser, am Meer"
       },
       {
-        "no": "mild",
-        "de": "mild"
-      },
-      {
-        "no": "kveldssola",
-        "de": "die Abendsonne"
-      },
-      {
-        "no": "skinte",
-        "de": "schien"
-      },
-      {
-        "no": "seilbåter",
-        "de": "Segelboote"
-      },
-      {
-        "no": "seilte forbi",
-        "de": "segelten vorbei"
-      },
-      {
         "no": "sultne",
-        "de": "hungrig (Plural)"
+        "de": "hungrig (Plural von sulten)"
       },
       {
-        "no": "reker",
-        "de": "Garnelen, Krabben"
+        "no": "sukker over prisene",
+        "de": "seufzt über die Preise"
       },
       {
-        "no": "sukket over prisene",
-        "de": "seufzte über die Preise"
+        "no": "hilsen",
+        "de": "Gruß"
       },
       {
-        "no": "kelneren",
-        "de": "der Kellner"
+        "no": "eske",
+        "de": "Schachtel"
       },
       {
-        "no": "anbefalte",
-        "de": "empfahl"
+        "no": "nummer én i verden",
+        "de": "die Nummer eins auf der Welt"
       },
       {
-        "no": "rimelig",
-        "de": "preiswert, günstig"
+        "no": "tuller",
+        "de": "macht Witze, scherzt"
       },
       {
-        "no": "gjestene",
-        "de": "die Gäste"
+        "no": "på toppen",
+        "de": "obendrauf"
       },
       {
-        "no": "klappet",
-        "de": "klatschten"
+        "no": "blir rød i ansiktet",
+        "de": "wird rot im Gesicht"
       },
       {
-        "no": "pratet",
-        "de": "plauderten"
+        "no": "Sent på kvelden",
+        "de": "spät am Abend"
       },
       {
-        "no": "til langt på natt",
-        "de": "bis spät in die Nacht"
+        "no": "For en dag",
+        "de": "Was für ein Tag!"
       },
       {
-        "no": "trikken",
-        "de": "die Straßenbahn"
-      },
-      {
-        "no": "glad",
-        "de": "froh"
-      },
-      {
-        "no": "i morges",
-        "de": "heute Morgen (vorbei)"
-      },
-      {
-        "no": "morges",
-        "de": "i morges = heute Morgen (schon vorbei)"
+        "no": "sikker på at",
+        "de": "sicher, dass"
       }
     ]
   },
@@ -267,8 +235,8 @@
       "intro": "Zwei Lieder, die in Norwegen fast jedes Kind kennt: das Geburtstagslied und ein alter Kinderreim.",
       "lines": [
         {
-          "no": "På bursdager i Norge synger man nesten alltid «Hurra for deg som fyller ditt år». Margrethe Munthe (1860–1931) skrev teksten. Hun var lærer og skrev mange sanger for barn.",
-          "de": "An Geburtstagen singt man in Norwegen fast immer „Hurra for deg som fyller ditt år“. Margrethe Munthe (1860–1931) hat den Text geschrieben. Sie war Lehrerin und schrieb viele Lieder für Kinder."
+          "no": "På bursdager i Norge synger man nesten alltid «Hurra for deg som fyller ditt år». Teksten er av Margrethe Munthe (1860–1931), en norsk lærer og forfatter. Mange sanger for barn er av henne.",
+          "de": "An Geburtstagen singt man in Norwegen fast immer „Hurra for deg som fyller ditt år“. Der Text ist von Margrethe Munthe (1860–1931), einer norwegischen Lehrerin und Schriftstellerin. Viele Kinderlieder sind von ihr."
         },
         {
           "no": "Ofte står barna i ring rundt bursdagsbarnet. De bukker, nikker, neier og danser, akkurat som i teksten:",
@@ -305,8 +273,12 @@
           "de": "fast immer"
         },
         {
-          "no": "skrev",
-          "de": "schrieb (Präteritum von skrive)"
+          "no": "Teksten er av",
+          "de": "der Text ist von"
+        },
+        {
+          "no": "forfatter",
+          "de": "Schriftstellerin, Autorin"
         },
         {
           "no": "teksten",
@@ -445,6 +417,11 @@
         "note": "Wörtlich: „Gratuliere mit dem Tag!“ – die übliche Geburtstagsformel."
       },
       {
+        "no": "Gratulerer så mye!",
+        "de": "Herzlichen Glückwunsch!",
+        "note": "Passt zu jedem Anlass: Geburtstag, Prüfung, neue Stelle …"
+      },
+      {
         "no": "Gratulerer med tjuefemårsdagen!",
         "de": "Herzlichen Glückwunsch zum fünfundzwanzigsten Geburtstag!"
       },
@@ -477,6 +454,11 @@
         "de": "Wie lieb von dir!"
       },
       {
+        "no": "Jeg håper at du liker den.",
+        "de": "Ich hoffe, dass es dir gefällt.",
+        "note": "Das sagt man, wenn man ein Geschenk überreicht. den = gaven (en gave)."
+      },
+      {
         "no": "Tusen takk for gaven!",
         "de": "Vielen Dank für das Geschenk!"
       },
@@ -506,20 +488,15 @@
         "de": "Viel Glück!"
       },
       {
-        "no": "God bedring!",
-        "de": "Gute Besserung!"
-      },
-      {
-        "no": "Takk for sist!",
-        "de": "Danke für das letzte Mal!",
-        "note": "Typisch norwegisch: Man bedankt sich beim nächsten Treffen noch einmal für das letzte Zusammensein."
+        "no": "Er du syk? God bedring!",
+        "de": "Bist du krank? Gute Besserung!"
       }
     ]
   },
   "grammar": [
     {
       "id": "g06_bestemt",
-      "title": "Die bestimmte Form des Substantivs",
+      "title": "Der bestimmte Artikel und alle Formen des Substantivs",
       "titleNo": "bestemt form av substantivet",
       "summary": "Der bestimmte Artikel wird ans Nomen angehängt: bilen, boka, huset; im Plural bilene, bøkene, husene (husa).",
       "sections": [
@@ -584,21 +561,21 @@
         },
         {
           "h": "Wann steht die bestimmte Form?",
-          "body": "Meistens wie im Deutschen: wenn klar ist, welches Ding gemeint ist. **Anna pakket opp gavene.** – Anna packte die Geschenke aus.\n\nAuch bei Orten im Haus und in der Stadt, wo das Deutsche „im, in der, am“ sagt: **i gangen** (im Flur), **på kjøkkenet** (in der Küche), **ved sjøen** (am Wasser), **på trikken** (in der Straßenbahn).\n\nIn den Antworten der Übungen gilt bei ei-Wörtern immer auch die Form auf **-en**: **boka** oder **boken**."
+          "body": "Meistens wie im Deutschen: wenn klar ist, welches Ding gemeint ist. **Anna pakker opp gavene.** – Anna packt die Geschenke aus.\n\nAuch bei Orten im Haus und in der Stadt, wo das Deutsche „im, in der, am“ sagt: **i gangen** (im Flur), **på kjøkkenet** (in der Küche), **ved sjøen** (am Wasser), **på trikken** (in der Straßenbahn).\n\nIn den Antworten der Übungen gilt bei ei-Wörtern immer auch die Form auf **-en**: **boka** oder **boken**."
         }
       ],
       "drills": [
         {
-          "prompt": "Anna pakket opp ___. (gave, bestimmt Plural)",
-          "de": "Anna packte die Geschenke aus.",
+          "prompt": "Anna pakker opp ___. (gave, bestimmt Plural)",
+          "de": "Anna packt die Geschenke aus.",
           "answer": [
             "gavene"
           ],
           "explain": "en gave – gaven – gaver – gavene."
         },
         {
-          "prompt": "Per tente lys på ___. (kake, bestimmt Singular)",
-          "de": "Per zündete die Kerzen auf dem Kuchen an.",
+          "prompt": "Vi tenner lys på ___. (kake, bestimmt Singular)",
+          "de": "Wir zünden die Kerzen auf dem Kuchen an.",
           "answer": [
             "kaka",
             "kaken"
@@ -606,8 +583,8 @@
           "explain": "ei kake – kaka (auch: kaken)."
         },
         {
-          "prompt": "Ola banket på ___. (dør, bestimmt Singular)",
-          "de": "Ola klopfte an die Tür.",
+          "prompt": "Henrik banker på ___. (dør, bestimmt Singular)",
+          "de": "Henrik klopft an die Tür.",
           "answer": [
             "døra",
             "døren"
@@ -615,41 +592,41 @@
           "explain": "ei dør – døra (auch: døren)."
         },
         {
-          "prompt": "___ var veldig god. (suppe, bestimmt Singular)",
-          "de": "Die Suppe war sehr gut.",
+          "prompt": "___ er veldig god. (fiskesuppe, bestimmt Singular)",
+          "de": "Die Fischsuppe ist sehr gut.",
           "answer": [
-            "Suppa",
-            "Suppen"
+            "Fiskesuppa",
+            "Fiskesuppen"
           ],
-          "explain": "ei suppe – suppa (auch: suppen); das -e fällt weg."
+          "explain": "ei fiskesuppe – fiskesuppa (auch: fiskesuppen); das -e fällt weg."
         },
         {
-          "prompt": "Anna bestilte ___ ved sjøen. (bord, bestimmt Singular)",
-          "de": "Anna bestellte den Tisch am Wasser.",
+          "prompt": "Kaka står på ___. (bord, bestimmt Singular)",
+          "de": "Der Kuchen steht auf dem Tisch.",
           "answer": [
             "bordet"
           ],
           "explain": "et bord – bordet."
         },
         {
-          "prompt": "Matthias studerte ___ lenge. (meny, bestimmt Singular)",
-          "de": "Matthias studierte lange die Speisekarte.",
+          "prompt": "Matthias studerer ___ lenge. (meny, bestimmt Singular)",
+          "de": "Matthias studiert lange die Speisekarte.",
           "answer": [
             "menyen"
           ],
-          "explain": "en meny – menyen."
+          "explain": "en meny – menyen: betonter Vokal am Ende, nur -en."
         },
         {
-          "prompt": "___ seilte forbi. (båt, bestimmt Plural)",
-          "de": "Die Boote segelten vorbei.",
+          "prompt": "___ seiler forbi. (båt, bestimmt Plural)",
+          "de": "Die Boote segeln vorbei.",
           "answer": [
             "Båtene"
           ],
           "explain": "en båt – båten – båter – båtene."
         },
         {
-          "prompt": "___ hadde bursdag i går. (jente, bestimmt Singular)",
-          "de": "Das Mädchen hatte gestern Geburtstag.",
+          "prompt": "___ har bursdag i dag. (jente, bestimmt Singular)",
+          "de": "Das Mädchen hat heute Geburtstag.",
           "answer": [
             "Jenta",
             "Jenten"
@@ -657,8 +634,8 @@
           "explain": "ei jente – jenta (auch: jenten)."
         },
         {
-          "prompt": "Ola leste ___ på trikken. (bok, bestimmt Singular)",
-          "de": "Ola las das Buch in der Straßenbahn.",
+          "prompt": "Susanne leser ___ på T-banen. (bok, bestimmt Singular)",
+          "de": "Susanne liest das Buch in der U-Bahn.",
           "answer": [
             "boka",
             "boken"
@@ -666,8 +643,8 @@
           "explain": "ei bok – boka (auch: boken)."
         },
         {
-          "prompt": "___ på Aker brygge er moderne. (hus, bestimmt Plural)",
-          "de": "Die Häuser an der Aker Brygge sind modern.",
+          "prompt": "___ på Aker brygge er store. (hus, bestimmt Plural)",
+          "de": "Die Häuser an der Aker Brygge sind groß.",
           "answer": [
             "Husene",
             "Husa"
@@ -732,7 +709,7 @@
         },
         {
           "h": "Typische Fehler",
-          "body": "• ✗ lærerer, ✗ lærerene – richtig: **lærere, lærerne**.\n• Das gilt auch für Nationalitäten auf -er: **en tysker – tyskere**, **en sveitser – sveitsere**, **en østerriker – østerrikere**.\n• Nicht jedes Wort auf -r gehört dazu: **en ingeniør – ingeniører**, **en tur – turer**.\n• Unregelmäßig sind **en søster – søstre** und **en bror – brødre** (Lektion 2)."
+          "body": "• ✗ lærerer, ✗ lærerene – richtig: **lærere, lærerne**.\n• Das gilt auch für Nationalitäten auf -er: **en tysker – tyskere**, **en sveitser – sveitsere**, **en østerriker – østerrikere**.\n• Nicht jedes Wort auf -r gehört dazu: **en ingeniør – ingeniører**, **en tur – turer**.\n• Unregelmäßig ist **en bror – brødre** (Lektion 3). Bei **en søster – søstre** fällt das e weg."
         }
       ],
       "drills": [
@@ -753,8 +730,8 @@
           "explain": "lærer + ne = lærerne."
         },
         {
-          "prompt": "Anna prøvde ___ med en gang. (genser, bestimmt Singular)",
-          "de": "Anna probierte den Pullover sofort an.",
+          "prompt": "Anna prøver ___ med en gang. (genser, bestimmt Singular)",
+          "de": "Anna probiert den Pullover sofort an.",
           "answer": [
             "genseren"
           ],
@@ -769,8 +746,8 @@
           "explain": "genser + e = gensere."
         },
         {
-          "prompt": "___ anbefalte en rimelig vin. (kelner, bestimmt Singular)",
-          "de": "Der Kellner empfahl einen preiswerten Wein.",
+          "prompt": "___ anbefaler en rimelig hvitvin. (kelner, bestimmt Singular)",
+          "de": "Der Kellner empfiehlt einen preiswerten Weißwein.",
           "answer": [
             "Kelneren"
           ],
@@ -785,8 +762,8 @@
           "explain": "kelner + e = kelnere."
         },
         {
-          "prompt": "Vi kjøpte brød hos ___. (baker, bestimmt Singular)",
-          "de": "Wir kauften Brot beim Bäcker.",
+          "prompt": "Vi kjøper brød hos ___. (baker, bestimmt Singular)",
+          "de": "Wir kaufen Brot beim Bäcker.",
           "answer": [
             "bakeren"
           ],
@@ -819,8 +796,144 @@
       ]
     },
     {
+      "id": "g06_liten",
+      "title": "liten",
+      "titleNo": "adjektivet liten",
+      "summary": "liten ist unregelmäßig: en liten gave, ei lita eske, et lite flagg, små flagg – auch nach være: Rommet er lite.",
+      "sections": [
+        {
+          "h": "Vier Formen – und ein ganz neues Wort im Plural",
+          "body": "Das deutsche „klein“ ändert nur die Endung. **liten** hat dagegen für jedes Geschlecht eine eigene Form, und der Plural ist ein ganz anderes Wort: **små**.\n\nBei ei-Wörtern ist auch **liten** richtig (**en liten hytte**). In den Übungen gilt immer beides.",
+          "table": [
+            [
+              "Geschlecht",
+              "Form",
+              "Beispiel",
+              "Deutsch"
+            ],
+            [
+              "en-Wort",
+              "**liten**",
+              "**en liten gave**",
+              "ein kleines Geschenk"
+            ],
+            [
+              "ei-Wort",
+              "**lita**",
+              "**ei lita eske**",
+              "eine kleine Schachtel"
+            ],
+            [
+              "et-Wort",
+              "**lite**",
+              "**et lite flagg**",
+              "ein kleines Fähnchen"
+            ],
+            [
+              "Plural",
+              "**små**",
+              "**små flagg**",
+              "kleine Fähnchen"
+            ]
+          ]
+        },
+        {
+          "h": "Vor dem Nomen und nach være",
+          "body": "Dieselben Formen gelten vor dem Nomen und nach **være** oder **bli** (wie in Lektion 5):\n\n• **Gaven er liten.** – Das Geschenk ist klein.\n• **Hytta er lita.** – Die Hütte ist klein.\n• **Rommet er lite.** – Das Zimmer ist klein.\n• **Barna er små.** – Die Kinder sind klein.\n\n**små** bekommt nie ein -e: ✗ småe. Und ✗ et liten hus ist ein typischer Fehler – richtig: **et lite hus**."
+        },
+        {
+          "h": "lite, litt und lille",
+          "body": "Verwechsle nicht:\n\n• **et lite hus** – ein kleines Haus (Adjektiv)\n• **litt** – ein bisschen: **Jeg snakker litt norsk.**\n\nIn der Anrede und vor Namen steht **lille**: **Bæ, bæ, lille lam** (im Lied dieser Lektion). Die bestimmte Form **den lille gaven, de små barna** lernst du in Lektion 9."
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Henrik har en ___ gave til Anna. (liten)",
+          "de": "Henrik hat ein kleines Geschenk für Anna.",
+          "answer": [
+            "liten"
+          ],
+          "explain": "en gave: maskulin → liten."
+        },
+        {
+          "prompt": "Matthias har med ei ___ eske sjokolade. (liten)",
+          "de": "Matthias hat eine kleine Schachtel Schokolade dabei.",
+          "answer": [
+            "lita",
+            "liten"
+          ],
+          "explain": "ei eske: feminin → lita (en liten eske ist auch richtig)."
+        },
+        {
+          "prompt": "På bløtkaka står et ___ norsk flagg. (liten)",
+          "de": "Auf der Sahnetorte steht ein kleines norwegisches Fähnchen.",
+          "answer": [
+            "lite"
+          ],
+          "explain": "et flagg: Neutrum → lite."
+        },
+        {
+          "prompt": "Vi pynter kjøkkenet med ___ flagg. (liten)",
+          "de": "Wir schmücken die Küche mit kleinen Fähnchen.",
+          "answer": [
+            "små"
+          ],
+          "explain": "Plural → små, eine ganz eigene Form."
+        },
+        {
+          "prompt": "Rommet til Anna er ___. (liten)",
+          "de": "Annas Zimmer ist klein.",
+          "answer": [
+            "lite"
+          ],
+          "explain": "Auch nach være: et rom → lite."
+        },
+        {
+          "prompt": "Hytta er ___, men koselig. (liten)",
+          "de": "Die Hütte ist klein, aber gemütlich.",
+          "answer": [
+            "lita",
+            "liten"
+          ],
+          "explain": "ei hytte → lita (auch: liten)."
+        },
+        {
+          "prompt": "I kollektivet er det tre ___ rom. (liten)",
+          "de": "In der WG gibt es drei kleine Zimmer.",
+          "answer": [
+            "små"
+          ],
+          "explain": "tre rom ist Plural → små."
+        },
+        {
+          "prompt": "Skoene er for ___. (liten)",
+          "de": "Die Schuhe sind zu klein.",
+          "answer": [
+            "små"
+          ],
+          "explain": "skoene: Plural → små."
+        },
+        {
+          "prompt": "Susanne bor på en ___ hybel på Sagene. (liten)",
+          "de": "Susanne wohnt in einem kleinen Zimmer in Sagene.",
+          "answer": [
+            "liten"
+          ],
+          "explain": "en hybel: maskulin → liten."
+        },
+        {
+          "prompt": "Det er et ___ problem. (liten)",
+          "de": "Das ist ein kleines Problem.",
+          "answer": [
+            "lite"
+          ],
+          "explain": "et problem: Neutrum → lite."
+        }
+      ]
+    },
+    {
       "id": "g06_el_en_er",
-      "title": "Adjektive auf -el, -en und -er",
+      "title": "Adjektive auf -el, -en, -er",
       "titleNo": "adjektiv på -el, -en og -er",
       "summary": "Im Plural fällt das e der Endsilbe weg, und Doppelkonsonanten werden vereinfacht: gammel – gamle, sulten – sultne, vakker – vakre.",
       "sections": [
@@ -867,7 +980,7 @@
         },
         {
           "h": "Beispiele aus dem Text",
-          "body": "• **en vakker genser** – **vakre seilbåter**\n• **gamle norske mønstre**\n• **en enkel gave** – **enkle gaver**\n• **Alle var sultne.** – Alle hatten Hunger.\n\nVorsicht, **liten** ist unregelmäßig: **en liten gave, et lite hus, små gaver**.\n\nTypischer Fehler: ✗ gammele, ✗ vakkere, ✗ sultene. Richtig: **gamle, vakre, sultne**."
+          "body": "• **en vakker blå genser** – **vakre seilbåter**\n• **Oppskriften er gammel.** – **et gammelt norsk mønster** – Plural: **gamle oppskrifter**\n• **Ola er sulten.** – **Alle er sultne.**\n• **en enkel gave** – **enkle gaver**\n\nVorsicht: **liten** folgt dieser Regel nicht (siehe oben): **små gaver**.\n\nTypischer Fehler: ✗ gammele, ✗ vakkere, ✗ sultene. Richtig: **gamle, vakre, sultne**."
         }
       ],
       "drills": [
@@ -888,8 +1001,8 @@
           "explain": "et troll: Neutrum, gammel + t."
         },
         {
-          "prompt": "Etter turen var vi veldig ___. (sulten)",
-          "de": "Nach der Wanderung hatten wir großen Hunger.",
+          "prompt": "Etter turen er vi veldig ___. (sulten)",
+          "de": "Nach der Wanderung haben wir großen Hunger.",
           "answer": [
             "sultne"
           ],
@@ -901,11 +1014,11 @@
           "answer": [
             "sulten"
           ],
-          "explain": "Ola: maskulin Singular, Grundform."
+          "explain": "Ola: eine Person im Singular, Grundform."
         },
         {
-          "prompt": "Det var en ___ kveld ved sjøen. (vakker)",
-          "de": "Es war ein schöner Abend am Wasser.",
+          "prompt": "Det er en ___ kveld ved sjøen. (vakker)",
+          "de": "Es ist ein schöner Abend am Wasser.",
           "answer": [
             "vakker"
           ],
@@ -920,16 +1033,16 @@
           "explain": "Plural: vakker → vakre."
         },
         {
-          "prompt": "Været var ___ i går. (vakker)",
-          "de": "Das Wetter war gestern schön.",
+          "prompt": "Været er ___ i dag. (vakker)",
+          "de": "Das Wetter ist heute schön.",
           "answer": [
             "vakkert"
           ],
           "explain": "et vær: Neutrum, vakker + t."
         },
         {
-          "prompt": "Mads kjøpte to ___ gaver. (enkel)",
-          "de": "Mads kaufte zwei einfache Geschenke.",
+          "prompt": "Mads kjøper to ___ gaver. (enkel)",
+          "de": "Mads kauft zwei einfache Geschenke.",
           "answer": [
             "enkle"
           ],
@@ -954,275 +1067,540 @@
       ]
     },
     {
-      "id": "g06_preteritum",
-      "title": "Präteritum der regelmäßigen Verben",
-      "titleNo": "preteritum av svake verb",
-      "summary": "Regelmäßige Verben bilden das Präteritum mit -et, -te, -de oder -dde – mit einer einzigen Form für alle Personen.",
+      "id": "g06_t",
+      "title": "Adjektive auf -t",
+      "titleNo": "adjektiv på -t",
+      "summary": "Endet ein Adjektiv schon auf -t, kommt im Neutrum kein zweites dazu (et kort brev); nach langem Vokal wird das t verdoppelt (søt – søtt).",
       "sections": [
         {
-          "h": "Eine Form für alle Personen",
-          "body": "Mit dem Präteritum erzählst du, was zu einer bestimmten Zeit in der Vergangenheit passiert ist: **I går feiret vi Anna.** – Gestern haben wir Anna gefeiert.\n\nWie im Präsens gibt es nur eine Form für alle Personen: **jeg kjøpte, du kjøpte, hun kjøpte, vi kjøpte, de kjøpte**. Im Deutschen ändert sich die Endung (ich kaufte, du kauftest), im Norwegischen nie.\n\nAnders als im Deutschen ist das Präteritum auch im Gespräch ganz normal: **Hva spiste du i går? – Jeg spiste fiskesuppe.** Ein Deutscher würde hier eher „Ich habe … gegessen“ sagen."
+          "h": "Konsonant + t: keine Endung",
+          "body": "Normalerweise bekommt das Adjektiv im Neutrum ein **-t** (Lektion 4: **et stort hus**). Endet es schon auf **Konsonant + t**, kommt nichts dazu:\n\n• **et kort brev** – ein kurzer Brief\n• **et svart skjerf** – ein schwarzer Schal\n• **et interessant program** – eine interessante Sendung\n• **et kjent sted** – ein bekannter Ort\n\nDer Plural bekommt wie immer **-e**: **korte, svarte, interessante, kjente**."
         },
         {
-          "h": "Die vier Klassen",
-          "body": "Welche Klasse ein Verb hat, siehst du dem Infinitiv nicht immer sicher an. Lerne das Präteritum deshalb mit jedem Verb mit (in der Vokabelliste steht es immer dabei). Faustregeln:\n\n• **-et**: oft nach zwei Konsonanten: **snakke – snakket, pakke – pakket, pynte – pyntet, åpne – åpnet**. Im Bokmål ist auch **-a** richtig: **snakka, pakka**.\n• **-te**: oft nach einem einzelnen Konsonanten: **spise – spiste, kjøpe – kjøpte, lese – leste, bake – bakte**; außerdem alle Verben auf **-ere**: **studere – studerte, invitere – inviterte**.\n• **-de**: nach **v**, **g** und Diphthong: **prøve – prøvde, leve – levde, eie – eide**.\n• **-dde**: Verben, die auf einen betonten Vokal enden: **bo – bodde, tro – trodde, bety – betydde**.",
+          "h": "Langer Vokal + t: tt",
+          "body": "Steht vor dem **t** ein langer Vokal, wird das t im Neutrum verdoppelt, und der Vokal wird kurz gesprochen (**hvitt** etwa wie „witt“):\n\n• **søt – et søtt kort** – eine niedliche Karte\n• **hvit – et hvitt skjerf** – ein weißer Schal\n• **våt – Pleddet er vått.** – Die Decke ist nass.\n\nIm Plural bleibt es bei einem t: **søte, hvite, våte**.",
           "table": [
             [
-              "Klasse",
-              "Infinitiv",
-              "Präteritum"
+              "en/ei",
+              "et",
+              "Plural"
             ],
             [
-              "1: -et",
-              "**snakke, vaske, feire**",
-              "**snakket, vasket, feiret**"
+              "**kort**",
+              "**kort**",
+              "**korte**"
             ],
             [
-              "2: -te",
-              "**spise, kjøpe, lese**",
-              "**spiste, kjøpte, leste**"
+              "**svart**",
+              "**svart**",
+              "**svarte**"
             ],
             [
-              "3: -de",
-              "**prøve, leve**",
-              "**prøvde, levde**"
+              "**interessant**",
+              "**interessant**",
+              "**interessante**"
             ],
             [
-              "4: -dde",
-              "**bo, tro**",
-              "**bodde, trodde**"
+              "**søt**",
+              "**søtt**",
+              "**søte**"
+            ],
+            [
+              "**hvit**",
+              "**hvitt**",
+              "**hvite**"
+            ],
+            [
+              "**våt**",
+              "**vått**",
+              "**våte**"
+            ],
+            [
+              "**lett**",
+              "**lett**",
+              "**lette**"
+            ],
+            [
+              "**trøtt**",
+              "**trøtt**",
+              "**trøtte**"
             ]
           ]
         },
         {
-          "h": "Gut zu wissen",
-          "body": "• Ein Doppelkonsonant wird vor **-te** vereinfacht (Lektion 5): **tenne – tente, glemme – glemte, kjenne – kjente**.\n• **være – var** und **ha – hadde** sind unregelmäßig, genauso wie die starken Verben (**synge – sang**). Sie kommen in Lektion 8.\n• Achte auf die Wortstellung: Auch im Präteritum steht das Verb auf Platz 2: **I går fylte Anna tjuefem år.**"
+          "h": "Schon -tt: bleibt",
+          "body": "Adjektive auf **-tt** ändern sich im Neutrum nicht:\n\n• **lett**: **Det er et lett spørsmål.**\n• **trøtt**: **Barnet er trøtt.**\n• **mett**: **Jeg er mett.** – Ich bin satt.\n\nPlural: **lette, trøtte, mette**: **Etter middagen er alle mette.**"
+        },
+        {
+          "h": "Überblick: Wann kommt kein -t dazu?",
+          "body": "Zusammen mit Lektion 4 hast du jetzt alle Fälle, in denen das Neutrum kein zusätzliches **-t** bekommt:\n\n• **-ig**: **et hyggelig møte, et billig brød**\n• mehrsilbig auf **-sk** und alle Nationalitäten: **et praktisk kjøkken, et norsk ord**\n• Konsonant + **t** oder **-tt**: **et kort brev, et lett spørsmål**\n\nNur nach langem Vokal + t heißt es **-tt**: **et søtt kort**."
         }
       ],
       "drills": [
         {
-          "prompt": "I går ___ Anna tjuefem år. (fylle, Präteritum)",
-          "de": "Gestern wurde Anna fünfundzwanzig.",
+          "prompt": "Elin og Mads gir Anna et ___ skjerf. (hvit)",
+          "de": "Elin und Mads schenken Anna einen weißen Schal.",
           "answer": [
-            "fylte"
+            "hvitt"
           ],
-          "explain": "Klasse 2: fylle – fylte (ll wird vor -te zu l)."
+          "explain": "Langer Vokal + t: im Neutrum tt – hvitt."
         },
         {
-          "prompt": "Kari ___ frokostbordet med flagg. (pynte, Präteritum)",
-          "de": "Kari schmückte den Frühstückstisch mit Fähnchen.",
+          "prompt": "Kortet er veldig ___. (søt)",
+          "de": "Die Karte ist sehr niedlich.",
           "answer": [
-            "pyntet",
-            "pynta"
+            "søtt"
           ],
-          "explain": "Klasse 1: pynte – pyntet."
+          "explain": "et kort: Neutrum; søt → søtt."
         },
         {
-          "prompt": "Om kvelden ___ vi fiskesuppe. (spise, Präteritum)",
-          "de": "Am Abend aßen wir Fischsuppe.",
+          "prompt": "Anna har ___ sokker. (hvit)",
+          "de": "Anna hat weiße Socken.",
           "answer": [
-            "spiste"
+            "hvite"
           ],
-          "explain": "Klasse 2: spise – spiste."
+          "explain": "Plural: nur ein t – hvite."
         },
         {
-          "prompt": "Kari og Per ___ en ny sykkel til Anna. (kjøpe, Präteritum)",
-          "de": "Kari und Per kauften Anna ein neues Fahrrad.",
+          "prompt": "Susanne skriver et ___ brev til mamma. (kort)",
+          "de": "Susanne schreibt einen kurzen Brief an Mama.",
           "answer": [
-            "kjøpte"
+            "kort"
           ],
-          "explain": "Klasse 2: kjøpe – kjøpte."
+          "explain": "kort endet auf Konsonant + t: kein zweites t."
         },
         {
-          "prompt": "Jeg ___ en tysk sjokoladekake. (bake, Präteritum)",
-          "de": "Ich backte einen deutschen Schokoladenkuchen.",
+          "prompt": "Trolltunga er et ___ sted. (kjent)",
+          "de": "Trolltunga ist ein bekannter Ort.",
           "answer": [
-            "bakte"
+            "kjent"
           ],
-          "explain": "Klasse 2: bake – bakte."
+          "explain": "kjent endet auf Konsonant + t: keine Endung im Neutrum."
         },
         {
-          "prompt": "Anna ___ genseren med en gang. (prøve, Präteritum)",
-          "de": "Anna probierte den Pullover sofort an.",
+          "prompt": "Det er et ___ program på TV i kveld. (interessant)",
+          "de": "Heute Abend kommt eine interessante Sendung im Fernsehen.",
           "answer": [
-            "prøvde"
+            "interessant"
           ],
-          "explain": "Klasse 3: prøve – prøvde."
+          "explain": "interessant endet auf -nt: keine Endung im Neutrum."
         },
         {
-          "prompt": "Matthias ___ menyen lenge. (studere, Präteritum)",
-          "de": "Matthias studierte lange die Speisekarte.",
+          "prompt": "Det regner, og pleddet er ___. (våt)",
+          "de": "Es regnet, und die Decke ist nass.",
           "answer": [
-            "studerte"
+            "vått"
           ],
-          "explain": "Verben auf -ere: -erte."
+          "explain": "et pledd: Neutrum; langer Vokal + t → vått."
         },
         {
-          "prompt": "Før ___ Elin i Göteborg. (bo, Präteritum)",
-          "de": "Früher wohnte Elin in Göteborg.",
+          "prompt": "Spørsmålet er ___. (lett)",
+          "de": "Die Frage ist leicht.",
           "answer": [
-            "bodde"
+            "lett"
           ],
-          "explain": "Klasse 4: bo – bodde; Inversion nach „Før“."
+          "explain": "lett endet schon auf -tt: bleibt."
         },
         {
-          "prompt": "Jeg ___ at Matthias var sulten. (tro, Präteritum)",
-          "de": "Ich dachte, dass Matthias Hunger hatte.",
+          "prompt": "Barnet er ___ etter bursdagen. (trøtt)",
+          "de": "Das Kind ist nach dem Geburtstag müde.",
           "answer": [
-            "trodde"
+            "trøtt"
           ],
-          "explain": "Klasse 4: tro – trodde."
+          "explain": "trøtt endet auf -tt: auch im Neutrum trøtt."
         },
         {
-          "prompt": "Etter middagen ___ vi til langt på natt. (danse, Präteritum)",
-          "de": "Nach dem Essen tanzten wir bis spät in die Nacht.",
+          "prompt": "Etter middagen er alle ___. (mett)",
+          "de": "Nach dem Abendessen sind alle satt.",
           "answer": [
-            "danset",
-            "dansa"
+            "mette"
           ],
-          "explain": "Klasse 1: danse – danset."
+          "explain": "Plural: -e wie immer – mette."
+        }
+      ]
+    },
+    {
+      "id": "g06_at",
+      "title": "at",
+      "titleNo": "subjunksjonen at",
+      "summary": "at (dass) leitet ein, was jemand sagt, glaubt oder hofft – mit normaler Wortstellung und ohne Komma: Hun sier at hun kommer.",
+      "sections": [
+        {
+          "h": "at = dass",
+          "body": "Mit **at** gibst du wieder, was jemand sagt, denkt, weiß oder hofft – vor allem nach **si, tro, vite, håpe, mene** und **være sikker på**:\n\n• **Anna sier at kaka er nydelig.** – Anna sagt, dass der Kuchen köstlich ist.\n• **Jeg tror at han tuller.** – Ich glaube, dass er Witze macht.\n• **Jeg håper at Anna liker kaka.** – Ich hoffe, dass Anna den Kuchen mag.\n• **Jeg er sikker på at Anna har en fin bursdag.** – Ich bin sicher, dass Anna einen schönen Geburtstag hat."
+        },
+        {
+          "h": "Wortstellung: kein Verb am Ende",
+          "body": "Im Deutschen steht das Verb im dass-Satz am Ende. Im Norwegischen bleibt die Reihenfolge wie im Hauptsatz: **Subjekt – Verb – Rest**.\n\nAußerdem steht vor **at** kein Komma – anders als vor „dass“.\n\n(Wo **ikke** im at-Satz steht, lernst du in Lektion 8.)",
+          "table": [
+            [
+              "Deutsch",
+              "Norwegisch"
+            ],
+            [
+              "Sie sagt, dass sie heute **kommt**.",
+              "**Hun sier at hun kommer i dag.**"
+            ],
+            [
+              "Ich glaube, dass Anna sich **freut**.",
+              "**Jeg tror at Anna blir glad.**"
+            ],
+            [
+              "Ich hoffe, dass du den Kuchen **magst**.",
+              "**Jeg håper at du liker kaka.**"
+            ]
+          ]
+        },
+        {
+          "h": "at weglassen – und at oder å?",
+          "body": "Nach **si, tro, vite, håpe** (und **synes**, Lektion 7) lässt man **at** oft weg. Die Wortstellung ändert sich dabei nicht – anders als im Deutschen („Ich glaube, es regnet“):\n\n• **Jeg tror at det regner.** = **Jeg tror det regner.**\n\nVerwechsle **at** und **å** nicht:\n\n• **at** [at] = dass, danach ein ganzer Satz: **Jeg håper at du kommer.**\n• **å** [o] = zu, danach ein Infinitiv: **Jeg håper å komme.**"
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Anna sier ___ kaka er nydelig.",
+          "de": "Anna sagt, dass der Kuchen köstlich ist.",
+          "answer": [
+            "at"
+          ],
+          "explain": "at = dass: Es leitet ein, was jemand sagt."
+        },
+        {
+          "prompt": "Jeg håper ___ du liker gaven. (at oder å?)",
+          "de": "Ich hoffe, dass dir das Geschenk gefällt.",
+          "answer": [
+            "at"
+          ],
+          "explain": "Ein ganzer Satz mit Subjekt und Verb folgt: at."
+        },
+        {
+          "prompt": "Jeg håper ___ komme i kveld. (at oder å?)",
+          "de": "Ich hoffe, heute Abend zu kommen.",
+          "answer": [
+            "å"
+          ],
+          "explain": "Vor einem Infinitiv steht å (zu), nicht at."
+        },
+        {
+          "prompt": "Det er fint ___ bo i Oslo. (at oder å?)",
+          "de": "Es ist schön, in Oslo zu wohnen.",
+          "answer": [
+            "å"
+          ],
+          "explain": "bo ist ein Infinitiv: å."
+        },
+        {
+          "prompt": "Henrik sier at ___ sulten. (han, være)",
+          "de": "Henrik sagt, dass er Hunger hat.",
+          "answer": [
+            "han er"
+          ],
+          "explain": "Im at-Satz: Subjekt – Verb, wie im Hauptsatz (nicht ✗ at han sulten er)."
+        },
+        {
+          "prompt": "Jeg tror at ___ glad. (Anna, bli)",
+          "de": "Ich glaube, dass Anna sich freut.",
+          "answer": [
+            "Anna blir"
+          ],
+          "explain": "Subjekt – Verb: at Anna blir glad. Im Deutschen steht das Verb am Ende."
+        },
+        {
+          "prompt": "Matthias sier at ___ fra Sveits. (sjokoladen, være)",
+          "de": "Matthias sagt, dass die Schokolade aus der Schweiz ist.",
+          "answer": [
+            "sjokoladen er"
+          ],
+          "explain": "Kein Verb am Ende: at sjokoladen er fra Sveits."
+        },
+        {
+          "prompt": "Elin sier at ___ fra Göteborg. (hun, komme)",
+          "de": "Elin sagt, dass sie aus Göteborg kommt.",
+          "answer": [
+            "hun kommer"
+          ],
+          "explain": "Das Verb steht direkt nach dem Subjekt, nicht am Ende."
+        },
+        {
+          "prompt": "Vet du ___ Anna er medisinstudent?",
+          "de": "Weißt du, dass Anna Medizinstudentin ist?",
+          "answer": [
+            "at"
+          ],
+          "explain": "Nach vite: at = dass."
+        }
+      ]
+    },
+    {
+      "id": "g06_m",
+      "title": "-m im Auslaut",
+      "titleNo": "m i utlyd",
+      "summary": "Am Wortende steht nie mm – auch nach kurzem Vokal: et rom, dum. Folgt eine Endung mit Vokal, wird das m verdoppelt: rommet, dumme.",
+      "sections": [
+        {
+          "h": "Am Wortende nur ein m",
+          "body": "Im Deutschen zeigt ein Doppel-m am Wortende den kurzen Vokal: Kamm, Lamm, dumm, Programm. Im Norwegischen steht am Wortende **nie mm**, auch wenn der Vokal kurz ist:",
+          "table": [
+            [
+              "Norwegisch",
+              "Deutsch"
+            ],
+            [
+              "**en kam**",
+              "der Kamm"
+            ],
+            [
+              "**et lam**",
+              "das Lamm"
+            ],
+            [
+              "**dum**",
+              "dumm"
+            ],
+            [
+              "**et program**",
+              "das Programm, die Sendung"
+            ],
+            [
+              "**tom**",
+              "leer"
+            ],
+            [
+              "**et rom**",
+              "das Zimmer, der Raum"
+            ]
+          ]
+        },
+        {
+          "h": "Vor einer Endung mit Vokal: mm",
+          "body": "Kommt eine Endung mit Vokal dazu, erscheint das Doppel-m – so bleibt der Vokal kurz:\n\n• **et rom – rommet – rom – rommene** (auch: romma)\n• **et lam – lammet**, **en kam – kammen**, **et program – programmet**\n• **dum – dumme**, **tom – tomme**\n\nVor einem Konsonanten bleibt es bei einem m, wie bei grønn – grønt (Lektion 5): **dumt, tomt**.\n\nAuch beim Imperativ steht am Ende nur ein m: **komme – Kom!**, **glemme – Glem!**"
+        },
+        {
+          "h": "Langer Vokal: immer nur ein m",
+          "body": "Ist der Vokal lang, gibt es nie ein Doppel-m, auch nicht vor einer Endung: **et problem – problemet**, **et system – systemet**.\n\nTypischer Fehler: ✗ romet, ✗ dume. Mit einem m würde man den Vokal lang lesen. Richtig: **rommet, dumme**."
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Anna sover på ___. (rom, bestimmt Singular)",
+          "de": "Anna schläft in ihrem Zimmer.",
+          "answer": [
+            "rommet"
+          ],
+          "explain": "et rom – rommet: vor der Endung wird m verdoppelt."
+        },
+        {
+          "prompt": "___ i kollektivet er små. (rom, bestimmt Plural)",
+          "de": "Die Zimmer in der WG sind klein.",
+          "answer": [
+            "Rommene",
+            "Romma"
+          ],
+          "explain": "et rom – rommene (auch: romma): Doppel-m vor der Endung."
+        },
+        {
+          "prompt": "Bæ, bæ, lille ___! (Lamm)",
+          "de": "Mäh, mäh, kleines Lamm!",
+          "answer": [
+            "lam"
+          ],
+          "explain": "Am Wortende nie mm: lam."
+        },
+        {
+          "prompt": "___ har mye ull. (lam, bestimmt Singular)",
+          "de": "Das Lamm hat viel Wolle.",
+          "answer": [
+            "Lammet"
+          ],
+          "explain": "et lam – lammet."
+        },
+        {
+          "prompt": "Det er et ___ spørsmål. (dum)",
+          "de": "Das ist eine dumme Frage.",
+          "answer": [
+            "dumt"
+          ],
+          "explain": "et spørsmål: Neutrum; vor -t nur ein m – dumt."
+        },
+        {
+          "prompt": "Spørsmålene er ikke ___. (dum)",
+          "de": "Die Fragen sind nicht dumm.",
+          "answer": [
+            "dumme"
+          ],
+          "explain": "Plural: dum + e → dumme, jetzt mit Doppel-m."
+        },
+        {
+          "prompt": "Glasset er ___. (tom)",
+          "de": "Das Glas ist leer.",
+          "answer": [
+            "tomt"
+          ],
+          "explain": "et glass: Neutrum; tom + t → tomt."
+        },
+        {
+          "prompt": "___ hit, Henrik! (komme, Imperativ)",
+          "de": "Komm her, Henrik!",
+          "answer": [
+            "Kom"
+          ],
+          "explain": "Am Wortende kein Doppel-m: kom."
+        },
+        {
+          "prompt": "Henrik ser på ___ på TV. (program, bestimmt Singular)",
+          "de": "Henrik sieht sich die Sendung im Fernsehen an.",
+          "answer": [
+            "programmet"
+          ],
+          "explain": "et program – programmet."
+        },
+        {
+          "prompt": "Hva er ___? (problem, bestimmt Singular)",
+          "de": "Was ist das Problem?",
+          "answer": [
+            "problemet"
+          ],
+          "explain": "Langes e: nur ein m – problemet."
         }
       ]
     }
   ],
   "tf": [
     {
-      "s": "Anna fylte tjuefem år i går.",
-      "de": "Anna ist gestern fünfundzwanzig geworden.",
+      "s": "Anna fyller tjuefem år i dag.",
+      "de": "Anna wird heute fünfundzwanzig.",
       "a": true,
-      "why": "„I går var en stor dag: Anna fylte tjuefem år.“"
+      "why": "„I dag fyller Anna tjuefem år.“"
     },
     {
-      "s": "Familien Nygård feiret Anna bare om kvelden.",
-      "de": "Familie Nygård feierte Anna nur am Abend.",
+      "s": "Susanne tar bussen til Kringsjå.",
+      "de": "Susanne fährt mit dem Bus nach Kringsjå.",
       "a": false,
-      "why": "Die Familie feierte schon früh am Morgen; Susanne wachte um sechs Uhr auf."
+      "why": "Sie fährt mit der U-Bahn: „jeg sitter på T-banen til Kringsjå“."
     },
     {
-      "s": "Kari og Per kjøpte en ny sykkel til Anna.",
-      "de": "Kari und Per kauften Anna ein neues Fahrrad.",
-      "a": true,
-      "why": "„Kari og Per kjøpte en ny sykkel til henne.“"
-    },
-    {
-      "s": "Bestemor Ingrid kjøpte en genser i en butikk.",
-      "de": "Oma Ingrid kaufte einen Pullover in einem Geschäft.",
+      "s": "Anna bor hos familien Nygård.",
+      "de": "Anna wohnt bei Familie Nygård.",
       "a": false,
-      "why": "Sie hat den Pullover selbst gestrickt."
+      "why": "Sie wohnt mit Henrik in einer WG in Kringsjå."
     },
     {
-      "s": "Om kvelden spiste vennene på en restaurant på Aker brygge.",
-      "de": "Am Abend aßen die Freunde in einem Restaurant an der Aker Brygge.",
-      "a": true,
-      "why": "Anna lud ihre Freunde in ein Restaurant an der Aker Brygge ein."
-    },
-    {
-      "s": "Matthias likte prisene på restauranten.",
-      "de": "Matthias gefielen die Preise im Restaurant.",
+      "s": "Rommet til Anna er stort.",
+      "de": "Annas Zimmer ist groß.",
       "a": false,
-      "why": "Er seufzte über die Preise."
+      "why": "„Rommet er lite“ – darum stehen alle dicht gedrängt in der Tür."
     },
     {
-      "s": "Susanne er trøtt dagen etter.",
-      "de": "Susanne ist am Tag danach müde.",
+      "s": "Jonas gir Anna en genser.",
+      "de": "Jonas schenkt Anna einen Pullover.",
       "a": true,
-      "why": "„I dag er jeg trøtt, men glad.“"
+      "why": "„Fra Jonas får hun en vakker blå genser …“"
+    },
+    {
+      "s": "Matthias liker prisene på restauranten.",
+      "de": "Matthias gefallen die Preise im Restaurant.",
+      "a": false,
+      "why": "Er seufzt über die Preise: „sukker over prisene“."
+    },
+    {
+      "s": "Elin og Mads gir Anna et hvitt skjerf.",
+      "de": "Elin und Mads schenken Anna einen weißen Schal.",
+      "a": true,
+      "why": "„Elin og Mads gir Anna et hvitt skjerf og et søtt kort …“"
     }
   ],
   "questions": [
     {
-      "q": "Hvordan feiret familien Anna om morgenen?",
-      "qDe": "Wie feierte die Familie Anna am Morgen?",
-      "answer": "De pyntet frokostbordet, tente lys og sang for henne.",
-      "answerDe": "Sie schmückten den Frühstückstisch, zündeten Kerzen an und sangen für sie.",
-      "keywords": [
-        [
-          "pyntet",
-          "pynta",
-          "flagg",
-          "lys",
-          "tente"
-        ],
-        [
-          "sang",
-          "synge",
-          "bursdagssang"
-        ]
-      ]
-    },
-    {
-      "q": "Hva strikket bestemor Ingrid til Anna?",
-      "qDe": "Was strickte Oma Ingrid für Anna?",
-      "answer": "Hun strikket en vakker genser.",
-      "answerDe": "Sie strickte einen schönen Pullover.",
-      "keywords": [
-        [
-          "genser",
-          "genseren"
-        ]
-      ]
-    },
-    {
-      "q": "Hva bakte Susanne?",
-      "qDe": "Was backte Susanne?",
-      "answer": "Hun bakte en tysk sjokoladekake.",
-      "answerDe": "Sie backte einen deutschen Schokoladenkuchen.",
+      "q": "Hva har Susanne med til Anna?",
+      "qDe": "Was bringt Susanne für Anna mit?",
+      "answer": "Hun har med en tysk sjokoladekake.",
+      "answerDe": "Sie bringt einen deutschen Schokoladenkuchen mit.",
       "keywords": [
         [
           "sjokoladekake",
-          "kake"
+          "sjokoladekaka",
+          "kake",
+          "kaka"
         ]
       ]
     },
     {
-      "q": "Hvorfor sukket Matthias på restauranten?",
-      "qDe": "Warum seufzte Matthias im Restaurant?",
-      "answer": "Han sukket fordi prisene var høye.",
-      "answerDe": "Er seufzte, weil die Preise hoch waren.",
+      "q": "Hvem bor Anna sammen med?",
+      "qDe": "Mit wem wohnt Anna zusammen?",
+      "answer": "Hun bor sammen med Henrik i et kollektiv på Kringsjå.",
+      "answerDe": "Sie wohnt mit Henrik in einer WG in Kringsjå.",
       "keywords": [
         [
-          "prisene",
-          "priser",
-          "pris",
-          "dyrt",
-          "dyr",
-          "dyre"
-        ]
-      ]
-    },
-    {
-      "q": "Hva serverte kelneren etter maten?",
-      "qDe": "Was servierte der Kellner nach dem Essen?",
-      "answer": "Han serverte en stor bløtkake med tjuefem lys.",
-      "answerDe": "Er servierte eine große Sahnetorte mit fünfundzwanzig Kerzen.",
-      "keywords": [
-        [
-          "bløtkake",
-          "kake"
+          "Henrik"
         ],
         [
-          "lys"
+          "kollektiv",
+          "kollektivet",
+          "Kringsjå"
+        ]
+      ]
+    },
+    {
+      "q": "Hva sier Anna om kaka?",
+      "qDe": "Was sagt Anna über den Kuchen?",
+      "answer": "Hun sier at kaka er nydelig.",
+      "answerDe": "Sie sagt, dass der Kuchen köstlich ist.",
+      "keywords": [
+        [
+          "nydelig",
+          "god",
+          "deilig"
+        ]
+      ]
+    },
+    {
+      "q": "Hva får Anna fra Henrik?",
+      "qDe": "Was bekommt Anna von Henrik?",
+      "answer": "Hun får to kinobilletter.",
+      "answerDe": "Sie bekommt zwei Kinokarten.",
+      "keywords": [
+        [
+          "kinobilletter",
+          "kinobillett",
+          "billetter",
+          "billett"
+        ]
+      ]
+    },
+    {
+      "q": "Hvor spiser vennene om kvelden?",
+      "qDe": "Wo essen die Freunde am Abend?",
+      "answer": "De spiser på en restaurant på Aker brygge.",
+      "answerDe": "Sie essen in einem Restaurant an der Aker Brygge.",
+      "keywords": [
+        [
+          "restaurant",
+          "restauranten"
+        ],
+        [
+          "Aker brygge",
+          "brygge"
         ]
       ]
     }
   ],
   "find": [
     {
-      "de": "wurde fünfundzwanzig (Jahre alt)",
+      "de": "flüstert",
       "answer": [
-        "fylte tjuefem år"
+        "hvisker"
       ]
     },
     {
-      "de": "schmückte",
+      "de": "dicht beieinander",
       "answer": [
-        "pyntet"
+        "tett sammen"
       ]
     },
     {
-      "de": "zündete Kerzen an",
+      "de": "mitten in der Nacht",
       "answer": [
-        "tente lys"
+        "midt på natta"
       ]
     },
     {
@@ -1232,156 +1610,155 @@
       ]
     },
     {
+      "de": "er passt perfekt",
+      "answer": [
+        "den passer perfekt"
+      ]
+    },
+    {
       "de": "am Wasser",
       "answer": [
         "ved sjøen"
       ]
     },
     {
-      "de": "seufzte über die Preise",
+      "de": "seufzt über die Preise",
       "answer": [
-        "sukket over prisene"
+        "sukker over prisene"
       ]
     },
     {
-      "de": "bis spät in die Nacht",
+      "de": "er macht Witze",
       "answer": [
-        "til langt på natt"
-      ]
-    },
-    {
-      "de": "heute Morgen (vorbei)",
-      "answer": [
-        "i morges"
+        "han tuller"
       ]
     }
   ],
   "translate": [
     {
-      "de": "Gestern haben wir Anna gefeiert.",
+      "de": "Heute wird Anna fünfundzwanzig.",
       "no": [
-        "I går feiret vi Anna.",
-        "Vi feiret Anna i går.",
-        "I går feira vi Anna.",
-        "Vi feira Anna i går."
+        "I dag fyller Anna tjuefem år.",
+        "Anna fyller tjuefem år i dag.",
+        "I dag fyller Anna tjuefem.",
+        "Anna fyller tjuefem i dag."
       ],
-      "hint": "Präteritum, nicht Perfekt."
+      "hint": "fylle år"
     },
     {
-      "de": "Ich kaufte ein kleines Geschenk.",
+      "de": "Das Zimmer ist klein.",
       "no": [
-        "Jeg kjøpte en liten gave."
-      ]
-    },
-    {
-      "de": "Anna öffnete die Tür und lächelte.",
-      "no": [
-        "Anna åpnet døra og smilte.",
-        "Anna åpnet døren og smilte.",
-        "Anna åpna døra og smilte."
-      ]
-    },
-    {
-      "de": "Wir hatten großen Hunger.",
-      "no": [
-        "Vi var veldig sultne.",
-        "Vi var kjempesultne."
+        "Rommet er lite."
       ],
-      "hint": "„hungrig sein“ = være sulten"
+      "hint": "et rom"
     },
     {
-      "de": "Die Lehrer wohnten in Oslo.",
+      "de": "Ich hoffe, dass du den Kuchen magst.",
       "no": [
-        "Lærerne bodde i Oslo."
+        "Jeg håper at du liker kaka.",
+        "Jeg håper at du liker kaken.",
+        "Jeg håper du liker kaka.",
+        "Jeg håper du liker kaken."
       ]
     },
     {
-      "de": "Der Kellner empfahl die Fischsuppe.",
+      "de": "Die Kellner sind nett.",
       "no": [
-        "Kelneren anbefalte fiskesuppa.",
-        "Kelneren anbefalte fiskesuppen."
+        "Kelnerne er hyggelige.",
+        "Kelnerne er snille."
       ]
     },
     {
-      "de": "Sie probierte den Pullover sofort an.",
+      "de": "Wir haben Hunger.",
       "no": [
-        "Hun prøvde genseren med en gang.",
-        "Hun prøvde genseren med det samme."
+        "Vi er sultne."
+      ],
+      "hint": "sulten sein"
+    },
+    {
+      "de": "Er sagt, dass die Fischsuppe gut ist.",
+      "no": [
+        "Han sier at fiskesuppa er god.",
+        "Han sier at fiskesuppen er god.",
+        "Han sier fiskesuppa er god.",
+        "Han sier fiskesuppen er god."
       ]
     },
     {
-      "de": "Die Segelboote waren schön.",
+      "de": "Sie bekommt einen weißen Schal und eine niedliche Karte.",
       "no": [
-        "Seilbåtene var vakre.",
-        "Seilbåtene var fine."
+        "Hun får et hvitt skjerf og et søtt kort."
+      ],
+      "hint": "et skjerf, et kort"
+    },
+    {
+      "de": "Die Hütte ist klein, aber die Zimmer sind groß.",
+      "no": [
+        "Hytta er lita, men rommene er store.",
+        "Hytta er liten, men rommene er store.",
+        "Hytta er lita, men romma er store.",
+        "Hytten er liten, men rommene er store."
       ]
     }
   ],
   "summary": [
     {
-      "prompt": "I går ___ Anna tjuefem år.",
-      "de": "Gestern wurde Anna fünfundzwanzig.",
+      "prompt": "I dag ___ Anna tjuefem år.",
+      "de": "Heute wird Anna fünfundzwanzig.",
       "answer": [
-        "fylte"
+        "fyller"
       ]
     },
     {
-      "prompt": "Om morgenen ___ familien Anna med flagg, lys og sang.",
-      "de": "Am Morgen feierte die Familie Anna mit Fähnchen, Kerzen und Gesang.",
+      "prompt": "Anna bor i et kollektiv på Kringsjå sammen med ___.",
+      "de": "Anna wohnt mit Henrik in einer WG in Kringsjå.",
       "answer": [
-        "feiret",
-        "feira"
-      ],
-      "hint": "Präteritum"
+        "Henrik"
+      ]
     },
     {
-      "prompt": "Bestemor Ingrid ___ en vakker genser.",
-      "de": "Oma Ingrid strickte einen schönen Pullover.",
+      "prompt": "Vennene synger for Anna, og hun pakker opp ___.",
+      "de": "Die Freunde singen für Anna, und sie packt die Geschenke aus.",
       "answer": [
-        "strikket",
-        "strikka"
+        "gavene"
       ],
-      "hint": "Präteritum"
+      "hint": "gave, bestimmt Plural"
     },
     {
-      "prompt": "Om kvelden ___ vennene på en restaurant på Aker brygge.",
-      "de": "Am Abend aßen die Freunde in einem Restaurant an der Aker Brygge.",
+      "prompt": "Om kvelden spiser de på en ___ på Aker brygge.",
+      "de": "Am Abend essen sie in einem Restaurant an der Aker Brygge.",
       "answer": [
-        "spiste"
-      ],
-      "hint": "spise, Präteritum"
+        "restaurant"
+      ]
     },
     {
-      "prompt": "Etterpå ___ kelneren en bløtkake med tjuefem lys.",
-      "de": "Danach servierte der Kellner eine Sahnetorte mit fünfundzwanzig Kerzen.",
+      "prompt": "Matthias sier ___ sveitsisk sjokolade er nummer én i verden.",
+      "de": "Matthias sagt, dass Schweizer Schokolade die Nummer eins auf der Welt ist.",
       "answer": [
-        "serverte"
-      ],
-      "hint": "Präteritum"
+        "at"
+      ]
     }
   ],
   "dictation": [
-    0,
-    5,
-    9,
-    12
+    2,
+    4,
+    10
   ],
   "writing": {
-    "prompt": "Schreib einen Tagebucheintrag im Präteritum über deinen letzten Geburtstag oder ein anderes Fest: Wie habt ihr gefeiert? Was habt ihr gekauft, gegessen, gemacht? Wie hat dir ein Geschenk gefallen?",
-    "minWords": 50,
+    "prompt": "Eine Freundin oder ein Freund hat heute Geburtstag. Schreib im Präsens einen kurzen Tagebucheintrag: Wer hat Geburtstag, wie feiert ihr, was schenkst du? Benutze mindestens einen at-Satz (Jeg håper at …, Jeg tror at …) und eine Form von liten.",
+    "minWords": 55,
     "useWords": [
-      "feiret",
-      "kjøpte",
-      "spiste",
-      "likte",
-      "gaven"
+      "gratulerer",
+      "gave",
+      "håper at",
+      "tror at",
+      "liten"
     ],
     "checklist": [
       {
-        "de": "Wie ihr gefeiert habt",
+        "de": "Ein Glückwunsch",
         "keywords": [
-          "feiret",
-          "feira"
+          "gratulerer"
         ]
       },
       {
@@ -1393,20 +1770,25 @@
         ]
       },
       {
-        "de": "Was ihr gegessen habt",
+        "de": "Ein at-Satz",
         "keywords": [
-          "spiste",
-          "bestilte"
+          "håper at",
+          "tror at",
+          "sier at",
+          "sikker på at"
         ]
       },
       {
-        "de": "Wie es dir gefallen hat",
+        "de": "Eine Form von liten",
         "keywords": [
-          "likte"
+          "liten",
+          "lita",
+          "lite",
+          "små"
         ]
       }
     ],
-    "model": "Kjære dagbok! I går hadde jeg bursdag. Jeg fylte førti år. Om morgenen vekket barna meg med sang, og vi spiste frokost sammen. De pyntet bordet med blomster og flagg. Barna kjøpte en vakker, blå genser til meg. Jeg likte gaven veldig godt. Om kvelden feiret vi på en restaurant i byen. Vi bestilte fisk og hvitvin, og etterpå spiste vi en stor bløtkake. Vi pratet til langt på natt. Det var en fin dag!",
-    "modelDe": "Liebes Tagebuch! Gestern hatte ich Geburtstag. Ich bin vierzig geworden. Am Morgen weckten mich die Kinder mit einem Lied, und wir frühstückten zusammen. Sie hatten den Tisch mit Blumen und Fähnchen geschmückt. Die Kinder kauften mir einen schönen blauen Pullover. Das Geschenk gefiel mir sehr gut. Am Abend feierten wir in einem Restaurant in der Stadt. Wir bestellten Fisch und Weißwein, und danach aßen wir eine große Sahnetorte. Wir plauderten bis spät in die Nacht. Es war ein schöner Tag!"
+    "model": "Kjære dagbok! I dag har Lena bursdag. Hun fyller førti år. Om morgenen ringer jeg til henne og synger «Hurra for deg som fyller ditt år». Jeg har en liten gave til henne: ei lita bok om Norge og et søtt kort. Jeg håper at hun liker gaven. Om kvelden spiser vi på en restaurant i byen. Jeg tror at det blir en fin kveld. Gratulerer med dagen, Lena!",
+    "modelDe": "Liebes Tagebuch! Heute hat Lena Geburtstag. Sie wird vierzig. Am Morgen rufe ich sie an und singe „Hurra for deg som fyller ditt år“. Ich habe ein kleines Geschenk für sie: ein kleines Buch über Norwegen und eine niedliche Karte. Ich hoffe, dass ihr das Geschenk gefällt. Am Abend essen wir in einem Restaurant in der Stadt. Ich glaube, dass es ein schöner Abend wird. Herzlichen Glückwunsch zum Geburtstag, Lena!"
   }
 }

@@ -6,7 +6,7 @@ import { splitWords } from '../src/lib/norsk.ts';
 
 const only = process.argv.slice(2).map(Number).filter((n) => n > 0);
 // Names and very common words that need no entry.
-const SKIP = new Set(['susanne', 'matthias', 'anna', 'torunn', 'elin', 'mads', 'kari', 'per', 'ola', 'ingrid', 'bamse', 'jonas', 'arne', 'inga', 'erik', 'nygård', 'haugen', 'steiner', 'becker', 'lindqvist', 'kjær', 'eira', 'hansen',
+const SKIP = new Set(['susanne', 'matthias', 'anna', 'torunn', 'elin', 'mads', 'kari', 'per', 'ola', 'ingrid', 'bamse', 'jonas', 'arne', 'inga', 'erik', 'nygård', 'haugen', 'steiner', 'becker', 'lindqvist', 'kjær', 'eira', 'hansen', 'berg', 'henrik',
   // names that only ever open a sentence
   'champs-élysées', 'frammuseet', 'galdhøpiggen', 'matterhorn', 'dinner', 'musevisa', 'bergenstoget', 'undsets', 'kristin', 'ntnu', 'margrethe', 'hedda']);
 

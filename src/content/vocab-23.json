@@ -54,49 +54,6 @@
     }
   },
   {
-    "id": "w23_lav",
-    "no": "lav",
-    "de": "niedrig",
-    "deAlt": [
-      "tief"
-    ],
-    "pos": "adj",
-    "forms": [
-      "lav",
-      "lavt",
-      "lave",
-      "lavere",
-      "lavest"
-    ],
-    "lesson": 23,
-    "ex": {
-      "no": "Om natta står sola lavt på himmelen.",
-      "de": "In der Nacht steht die Sonne tief am Himmel."
-    }
-  },
-  {
-    "id": "w23_innlegg",
-    "no": "innlegg",
-    "de": "der Beitrag",
-    "deAlt": [
-      "der Post"
-    ],
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "innlegg",
-      "innlegget",
-      "innlegg",
-      "innlegga/innleggene"
-    ],
-    "lesson": 23,
-    "wk": true,
-    "ex": {
-      "no": "Dette er det siste innlegget på bloggen min.",
-      "de": "Das ist der letzte Beitrag auf meinem Blog."
-    }
-  },
-  {
     "id": "w23_blogg",
     "no": "blogg",
     "de": "der Blog",
@@ -109,7 +66,6 @@
       "bloggene"
     ],
     "lesson": 23,
-    "wk": true,
     "ex": {
       "no": "Susanne skriver blogg på norsk.",
       "de": "Susanne schreibt einen Blog auf Norwegisch."
@@ -164,22 +120,6 @@
     "ex": {
       "no": "Ingen ser ut til å være trøtt.",
       "de": "Niemand scheint müde zu sein."
-    }
-  },
-  {
-    "id": "w23_morke",
-    "no": "mørke",
-    "de": "die Dunkelheit",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "mørke",
-      "mørket"
-    ],
-    "lesson": 23,
-    "ex": {
-      "no": "Om sommeren venter man forgjeves på mørket.",
-      "de": "Im Sommer wartet man vergeblich auf die Dunkelheit."
     }
   },
   {
@@ -361,24 +301,6 @@
     }
   },
   {
-    "id": "w23_staa_opp",
-    "no": "stå opp",
-    "de": "aufstehen",
-    "pos": "verb",
-    "vf": [
-      "står opp",
-      "sto/stod opp",
-      "stått opp",
-      "stå opp"
-    ],
-    "vg": "sterk",
-    "lesson": 23,
-    "ex": {
-      "no": "I går sto Matthias opp klokka fire.",
-      "de": "Gestern stand Matthias um vier Uhr auf."
-    }
-  },
-  {
     "id": "w23_bachelorgrad",
     "no": "bachelorgrad",
     "de": "der Bachelorabschluss",
@@ -474,28 +396,6 @@
     "ex": {
       "no": "Onkelen til Inga driver med reindrift.",
       "de": "Ingas Onkel betreibt Rentierzucht."
-    }
-  },
-  {
-    "id": "w23_drive_med",
-    "no": "drive med",
-    "de": "betreiben",
-    "deAlt": [
-      "sich beschäftigen mit",
-      "machen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "driver med",
-      "drev/dreiv med",
-      "drevet med",
-      "driv med"
-    ],
-    "vg": "sterk",
-    "lesson": 23,
-    "ex": {
-      "no": "Hva driver du med i fritida?",
-      "de": "Was machst du in deiner Freizeit?"
     }
   },
   {
@@ -638,17 +538,6 @@
     "note": "klage på noe = sich über etwas beschweren."
   },
   {
-    "id": "w23_daarlig_vaer",
-    "no": "det finnes ikke dårlig vær, bare dårlige klær",
-    "de": "es gibt kein schlechtes Wetter, nur schlechte Kleidung",
-    "pos": "phrase",
-    "lesson": 23,
-    "ex": {
-      "no": "Ta på deg regnjakka! Det finnes ikke dårlig vær, bare dårlige klær.",
-      "de": "Zieh die Regenjacke an! Es gibt kein schlechtes Wetter, nur schlechte Kleidung."
-    }
-  },
-  {
     "id": "w23_ta_imot",
     "no": "ta imot",
     "de": "empfangen",
@@ -718,43 +607,6 @@
     }
   },
   {
-    "id": "w23_gi_opp",
-    "no": "gi opp",
-    "de": "aufgeben",
-    "pos": "verb",
-    "vf": [
-      "gir opp",
-      "ga/gav opp",
-      "gitt opp",
-      "gi opp"
-    ],
-    "vg": "sterk",
-    "lesson": 23,
-    "ex": {
-      "no": "Vi gir ikke opp.",
-      "de": "Wir geben nicht auf."
-    }
-  },
-  {
-    "id": "w23_laste_opp",
-    "no": "laste opp",
-    "de": "hochladen",
-    "pos": "verb",
-    "vf": [
-      "laster opp",
-      "lastet/lasta opp",
-      "lastet/lasta opp",
-      "last opp"
-    ],
-    "vg": "1",
-    "lesson": 23,
-    "wk": true,
-    "ex": {
-      "no": "Jeg laster opp bildene i morgen.",
-      "de": "Ich lade die Fotos morgen hoch."
-    }
-  },
-  {
     "id": "w23_folge_med",
     "no": "følge med",
     "de": "verfolgen",
@@ -789,29 +641,9 @@
       "oversettelsesappene"
     ],
     "lesson": 23,
-    "wk": true,
     "ex": {
       "no": "Mamma bruker en oversettelsesapp.",
       "de": "Mama benutzt eine Übersetzungs-App."
-    }
-  },
-  {
-    "id": "w23_app",
-    "no": "app",
-    "de": "die App",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "app",
-      "appen",
-      "apper",
-      "appene"
-    ],
-    "lesson": 23,
-    "wk": true,
-    "ex": {
-      "no": "Du kan laste ned appen gratis.",
-      "de": "Du kannst die App kostenlos herunterladen."
     }
   },
   {
@@ -920,23 +752,6 @@
     }
   },
   {
-    "id": "w23_offentlig",
-    "no": "offentlig",
-    "de": "öffentlich",
-    "pos": "adj",
-    "forms": [
-      "offentlig",
-      "offentlig",
-      "offentlige"
-    ],
-    "lesson": 23,
-    "ex": {
-      "no": "I Kautokeino kan man bruke samisk i kontakt med det offentlige.",
-      "de": "In Kautokeino kann man im Kontakt mit den Behörden Samisch benutzen."
-    },
-    "note": "det offentlige = die Behörden, der Staat."
-  },
-  {
     "id": "w23_sameting",
     "no": "sameting",
     "de": "das Samenparlament",
@@ -1026,24 +841,6 @@
     "ex": {
       "no": "Det er valg hvert fjerde år.",
       "de": "Alle vier Jahre gibt es eine Wahl."
-    }
-  },
-  {
-    "id": "w23_stat",
-    "no": "stat",
-    "de": "der Staat",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "stat",
-      "staten",
-      "stater",
-      "statene"
-    ],
-    "lesson": 23,
-    "ex": {
-      "no": "Staten betaler for skolen.",
-      "de": "Der Staat bezahlt die Schule."
     }
   },
   {
@@ -1157,28 +954,6 @@
       "no": "Inga er stolt av bakgrunnen sin.",
       "de": "Inga ist stolz auf ihre Herkunft."
     }
-  },
-  {
-    "id": "w23_beklage",
-    "no": "beklage",
-    "de": "bedauern",
-    "deAlt": [
-      "sich entschuldigen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "beklager",
-      "beklaget/beklaga",
-      "beklaget/beklaga",
-      "beklag"
-    ],
-    "vg": "1",
-    "lesson": 23,
-    "ex": {
-      "no": "Beklager, jeg kommer litt for sent.",
-      "de": "Entschuldigung, ich komme etwas zu spät."
-    },
-    "note": "Beklager! = Tut mir leid! / Entschuldigung!"
   },
   {
     "id": "w23_paa_vegne_av",
@@ -1317,27 +1092,6 @@
     "note": "Formeller: oppfinne."
   },
   {
-    "id": "w23_sette_opp",
-    "no": "sette opp",
-    "de": "aufstellen",
-    "deAlt": [
-      "aufbauen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "setter opp",
-      "satte opp",
-      "satt opp",
-      "sett opp"
-    ],
-    "vg": "uregelm",
-    "lesson": 23,
-    "ex": {
-      "no": "Vi satte opp teltet på stranda.",
-      "de": "Wir bauten das Zelt am Strand auf."
-    }
-  },
-  {
     "id": "w23_oppsatt",
     "no": "oppsatt",
     "de": "geplant, festgelegt",
@@ -1389,319 +1143,396 @@
     }
   },
   {
-    "id": "w23_baerbar",
-    "no": "bærbar",
-    "de": "tragbar",
-    "pos": "adj",
-    "forms": [
-      "bærbar",
-      "bærbart",
-      "bærbare"
-    ],
-    "lesson": 23,
-    "wk": true,
-    "ex": {
-      "no": "Susanne skriver på en bærbar PC.",
-      "de": "Susanne schreibt auf einem Laptop."
-    },
-    "note": "en bærbar (PC) = ein Laptop."
-  },
-  {
-    "id": "w23_tastatur",
-    "no": "tastatur",
-    "de": "die Tastatur",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "tastatur",
-      "tastaturet",
-      "tastaturer",
-      "tastaturene"
-    ],
-    "lesson": 23,
-    "wk": true,
-    "ex": {
-      "no": "Det norske tastaturet har æ, ø og å.",
-      "de": "Die norwegische Tastatur hat æ, ø und å."
-    }
-  },
-  {
-    "id": "w23_logge_inn",
-    "no": "logge inn",
-    "de": "sich einloggen",
-    "deAlt": [
-      "sich anmelden"
-    ],
+    "id": "w23_grille",
+    "no": "grille",
+    "de": "grillen",
     "pos": "verb",
     "vf": [
-      "logger inn",
-      "logget/logga inn",
-      "logget/logga inn",
-      "logg inn"
+      "griller",
+      "grillet",
+      "grillet",
+      "grill"
     ],
     "vg": "1",
     "lesson": 23,
-    "wk": true,
     "ex": {
-      "no": "Logg inn med brukernavn og passord.",
-      "de": "Log dich mit Benutzername und Passwort ein."
-    },
-    "note": "Auch: logge på; ausloggen = logge ut / logge av."
-  },
-  {
-    "id": "w23_passord",
-    "no": "passord",
-    "de": "das Passwort",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "passord",
-      "passordet",
-      "passord",
-      "passorda/passordene"
-    ],
-    "lesson": 23,
-    "wk": true,
-    "ex": {
-      "no": "Jeg har glemt passordet mitt.",
-      "de": "Ich habe mein Passwort vergessen."
+      "no": "På stranda sitter folk og griller.",
+      "de": "Am Strand sitzen Leute und grillen."
     }
   },
   {
-    "id": "w23_brukernavn",
-    "no": "brukernavn",
-    "de": "der Benutzername",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "brukernavn",
-      "brukernavnet",
-      "brukernavn",
-      "brukernavna/brukernavnene"
-    ],
-    "lesson": 23,
-    "wk": true,
-    "ex": {
-      "no": "Brukernavnet mitt er susanne24.",
-      "de": "Mein Benutzername ist susanne24."
-    }
-  },
-  {
-    "id": "w23_laste_ned",
-    "no": "laste ned",
-    "de": "herunterladen",
-    "pos": "verb",
-    "vf": [
-      "laster ned",
-      "lastet/lasta ned",
-      "lastet/lasta ned",
-      "last ned"
-    ],
-    "vg": "1",
-    "lesson": 23,
-    "wk": true,
-    "ex": {
-      "no": "Har du lastet ned appen?",
-      "de": "Hast du die App heruntergeladen?"
-    }
-  },
-  {
-    "id": "w23_lenke",
-    "no": "lenke",
-    "de": "der Link",
+    "id": "w23_blant",
+    "no": "blant",
+    "de": "unter (inmitten von)",
     "deAlt": [
-      "die Kette"
+      "unter anderem"
     ],
+    "pos": "prep",
+    "lesson": 23,
+    "ex": {
+      "no": "Sametinget arbeider blant annet med språk og kultur.",
+      "de": "Das Samenparlament arbeitet unter anderem an Sprache und Kultur."
+    },
+    "note": "blant annet = unter anderem (abgekürzt: bl.a.)."
+  },
+  {
+    "id": "w23_kjope_katta_i_sekken",
+    "no": "kjøpe katta i sekken",
+    "de": "die Katze im Sack kaufen",
+    "pos": "phrase",
+    "ex": {
+      "no": "Han kjøpte katta i sekken da han kjøpte den gamle bilen.",
+      "de": "Er hat mit dem alten Auto die Katze im Sack gekauft."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_skjegget_i_postkassen",
+    "no": "bli sittende med skjegget i postkassen",
+    "de": "dumm dastehen, der Dumme sein",
+    "pos": "phrase",
+    "ex": {
+      "no": "Hvis vi ikke bestiller nå, blir vi sittende med skjegget i postkassen.",
+      "de": "Wenn wir nicht jetzt buchen, stehen wir am Ende dumm da."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_skogen_for_traer",
+    "no": "ikke se skogen for bare trær",
+    "de": "den Wald vor lauter Bäumen nicht sehen",
+    "pos": "phrase",
+    "ex": {
+      "no": "Han ser ikke skogen for bare trær.",
+      "de": "Er sieht den Wald vor lauter Bäumen nicht."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_ugler_i_mosen",
+    "no": "det er ugler i mosen",
+    "de": "da ist etwas im Busch",
+    "pos": "phrase",
+    "ex": {
+      "no": "Ola er så stille i dag – det er ugler i mosen.",
+      "de": "Ola ist heute so still – da ist etwas im Busch."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_katta_rundt_groten",
+    "no": "gå som katta rundt den varme grøten",
+    "de": "um den heißen Brei herumreden",
+    "pos": "phrase",
+    "ex": {
+      "no": "Ikke gå som katta rundt den varme grøten – si det rett ut!",
+      "de": "Red nicht um den heißen Brei herum – sag es gerade heraus!"
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_to_fluer",
+    "no": "slå to fluer i ett smekk",
+    "de": "zwei Fliegen mit einer Klappe schlagen",
+    "pos": "phrase",
+    "ex": {
+      "no": "Hvis jeg går til butikken på vei hjem, slår jeg to fluer i ett smekk.",
+      "de": "Wenn ich auf dem Heimweg einkaufen gehe, schlage ich zwei Fliegen mit einer Klappe."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_rett_fra_levra",
+    "no": "snakke rett fra levra",
+    "de": "frei von der Leber weg reden",
+    "pos": "phrase",
+    "ex": {
+      "no": "Bestemor snakker alltid rett fra levra.",
+      "de": "Oma redet immer frei von der Leber weg."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_paa_baertur",
+    "no": "være på bærtur",
+    "de": "auf dem Holzweg sein",
+    "pos": "phrase",
+    "ex": {
+      "no": "Svaret ditt er helt på bærtur.",
+      "de": "Deine Antwort liegt völlig daneben."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_vann_over_hodet",
+    "no": "ta seg vann over hodet",
+    "de": "sich übernehmen",
+    "pos": "phrase",
+    "ex": {
+      "no": "Med tre jobber har hun tatt seg vann over hodet.",
+      "de": "Mit drei Jobs hat sie sich übernommen."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_gjerdet_lavest",
+    "no": "hoppe over der gjerdet er lavest",
+    "de": "den Weg des geringsten Widerstands gehen",
+    "pos": "phrase",
+    "ex": {
+      "no": "Han hopper alltid over der gjerdet er lavest.",
+      "de": "Er geht immer den Weg des geringsten Widerstands."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_over_en_kam",
+    "no": "skjære alle over én kam",
+    "de": "alle über einen Kamm scheren",
+    "pos": "phrase",
+    "ex": {
+      "no": "Man kan ikke skjære alle nordmenn over én kam.",
+      "de": "Man kann nicht alle Norweger über einen Kamm scheren."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_sommerfugler",
+    "no": "ha sommerfugler i magen",
+    "de": "Schmetterlinge im Bauch haben",
+    "pos": "phrase",
+    "ex": {
+      "no": "Susanne hadde sommerfugler i magen da Matthias kom.",
+      "de": "Susanne hatte Schmetterlinge im Bauch, als Matthias kam."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_hipp_som_happ",
+    "no": "hipp som happ",
+    "de": "gehupft wie gesprungen",
+    "pos": "phrase",
+    "ex": {
+      "no": "Om vi tar buss eller tog, er hipp som happ.",
+      "de": "Ob wir den Bus oder den Zug nehmen, ist gehupft wie gesprungen."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_gresk_for_meg",
+    "no": "det er gresk for meg",
+    "de": "das sind für mich böhmische Dörfer",
+    "pos": "phrase",
+    "ex": {
+      "no": "Matematikk er gresk for meg.",
+      "de": "Mathematik ist für mich ein Buch mit sieben Siegeln."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_bein_i_nesa",
+    "no": "ha bein i nesa",
+    "de": "sich durchsetzen können",
+    "pos": "phrase",
+    "ex": {
+      "no": "Inga har bein i nesa.",
+      "de": "Inga kann sich durchsetzen."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_sure_eplet",
+    "no": "bite i det sure eplet",
+    "de": "in den sauren Apfel beißen",
+    "pos": "phrase",
+    "ex": {
+      "no": "Nå må vi bare bite i det sure eplet.",
+      "de": "Jetzt müssen wir einfach in den sauren Apfel beißen."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_snakk_om_sola",
+    "no": "snakk om sola!",
+    "de": "wenn man vom Teufel spricht!",
+    "pos": "phrase",
+    "ex": {
+      "no": "Snakk om sola – der kommer Anna!",
+      "de": "Wenn man vom Teufel spricht – da kommt Anna!"
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_plommen_i_egget",
+    "no": "ha det som plommen i egget",
+    "de": "sich wie die Made im Speck fühlen",
+    "pos": "phrase",
+    "ex": {
+      "no": "På hytta har Bamse det som plommen i egget.",
+      "de": "Auf der Hütte fühlt sich Bamse wie die Made im Speck."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_katt",
+    "no": "katt",
+    "de": "die Katze",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "katt",
+      "katten",
+      "katter",
+      "kattene"
+    ],
+    "ex": {
+      "no": "Naboens katt ligger og sover i sola.",
+      "de": "Die Katze des Nachbarn liegt in der Sonne und schläft."
+    },
+    "note": "Umgangssprachlich und in Redewendungen oft feminin: katta.",
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_ugle",
+    "no": "ugle",
+    "de": "die Eule",
     "pos": "noun",
     "gender": "f",
     "forms": [
-      "lenke",
-      "lenka/lenken",
-      "lenker",
-      "lenkene"
+      "ugle",
+      "ugla",
+      "ugler",
+      "uglene"
     ],
-    "lesson": 23,
-    "wk": true,
     "ex": {
-      "no": "Kan du sende meg lenka?",
-      "de": "Kannst du mir den Link schicken?"
+      "no": "Om natta hørte vi en ugle i skogen.",
+      "de": "Nachts hörten wir eine Eule im Wald."
     },
-    "note": "Auch: die Kette."
-  },
-  {
-    "id": "w23_klikke",
-    "no": "klikke",
-    "de": "klicken",
-    "pos": "verb",
-    "vf": [
-      "klikker",
-      "klikket/klikka",
-      "klikket/klikka",
-      "klikk"
-    ],
-    "vg": "1",
     "lesson": 23,
-    "wk": true,
-    "ex": {
-      "no": "Klikk på lenka for å se bildene.",
-      "de": "Klick auf den Link, um die Fotos zu sehen."
-    }
+    "wk": true
   },
   {
-    "id": "w23_lagre",
-    "no": "lagre",
-    "de": "speichern",
-    "pos": "verb",
-    "vf": [
-      "lagrer",
-      "lagret/lagra",
-      "lagret/lagra",
-      "lagre"
-    ],
-    "vg": "1",
-    "lesson": 23,
-    "wk": true,
-    "ex": {
-      "no": "Husk å lagre dokumentet!",
-      "de": "Denk daran, das Dokument zu speichern!"
-    }
-  },
-  {
-    "id": "w23_slette",
-    "no": "slette",
-    "de": "löschen",
-    "pos": "verb",
-    "vf": [
-      "sletter",
-      "slettet/sletta",
-      "slettet/sletta",
-      "slett"
-    ],
-    "vg": "1",
-    "lesson": 23,
-    "wk": true,
-    "ex": {
-      "no": "Jeg slettet bildet ved en feil.",
-      "de": "Ich habe das Foto aus Versehen gelöscht."
-    }
-  },
-  {
-    "id": "w23_fil",
-    "no": "fil",
-    "de": "die Datei",
+    "id": "w23_mose",
+    "no": "mose",
+    "de": "das Moos",
     "pos": "noun",
     "gender": "m",
     "forms": [
-      "fil",
-      "filen",
-      "filer",
-      "filene"
+      "mose",
+      "mosen"
     ],
-    "lesson": 23,
-    "wk": true,
     "ex": {
-      "no": "Filen er for stor til å sende.",
-      "de": "Die Datei ist zu groß zum Verschicken."
-    }
+      "no": "Steinene var dekket av mose.",
+      "de": "Die Steine waren mit Moos bedeckt."
+    },
+    "lesson": 23,
+    "wk": true
   },
   {
-    "id": "w23_vedlegg",
-    "no": "vedlegg",
-    "de": "der Anhang",
+    "id": "w23_flue",
+    "no": "flue",
+    "de": "die Fliege",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "flue",
+      "flua",
+      "fluer",
+      "fluene"
+    ],
+    "ex": {
+      "no": "Det er mange fluer på hytta om sommeren.",
+      "de": "Im Sommer gibt es viele Fliegen auf der Hütte."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_gjerde",
+    "no": "gjerde",
+    "de": "der Zaun",
     "pos": "noun",
     "gender": "n",
     "forms": [
-      "vedlegg",
-      "vedlegget",
-      "vedlegg",
-      "vedlegga/vedleggene"
+      "gjerde",
+      "gjerdet",
+      "gjerder",
+      "gjerda/gjerdene"
     ],
-    "lesson": 23,
-    "wk": true,
     "ex": {
-      "no": "Jeg sender bildene som vedlegg.",
-      "de": "Ich schicke die Fotos als Anhang."
-    }
-  },
-  {
-    "id": "w23_henge_seg_opp",
-    "no": "henge seg opp",
-    "de": "sich aufhängen (Computer)",
-    "pos": "verb",
-    "vf": [
-      "henger seg opp",
-      "hengte seg opp",
-      "hengt seg opp",
-      "heng deg opp"
-    ],
-    "vg": "2",
-    "lesson": 23,
-    "wk": true,
-    "ex": {
-      "no": "PC-en har hengt seg opp igjen.",
-      "de": "Der Computer hat sich schon wieder aufgehängt."
-    }
-  },
-  {
-    "id": "w23_traadlos",
-    "no": "trådløs",
-    "de": "kabellos",
-    "deAlt": [
-      "drahtlos"
-    ],
-    "pos": "adj",
-    "forms": [
-      "trådløs",
-      "trådløst",
-      "trådløse"
-    ],
-    "lesson": 23,
-    "wk": true,
-    "ex": {
-      "no": "Har dere trådløst nett her?",
-      "de": "Habt ihr hier WLAN?"
+      "no": "Bamse hoppet over gjerdet.",
+      "de": "Bamse sprang über den Zaun."
     },
-    "note": "trådløst nett = WLAN; im Alltag oft einfach wifi."
-  },
-  {
-    "id": "w23_oppdatere",
-    "no": "oppdatere",
-    "de": "aktualisieren",
-    "deAlt": [
-      "updaten"
-    ],
-    "pos": "verb",
-    "vf": [
-      "oppdaterer",
-      "oppdaterte",
-      "oppdatert",
-      "oppdater"
-    ],
-    "vg": "2",
     "lesson": 23,
-    "wk": true,
-    "ex": {
-      "no": "Du må oppdatere appen.",
-      "de": "Du musst die App aktualisieren."
-    }
+    "wk": true
   },
   {
-    "id": "w23_kommentar",
-    "no": "kommentar",
-    "de": "der Kommentar",
+    "id": "w23_lever",
+    "no": "lever",
+    "de": "die Leber",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "lever",
+      "levra",
+      "levrer",
+      "levrene"
+    ],
+    "ex": {
+      "no": "Han snakker rett fra levra.",
+      "de": "Er redet frei von der Leber weg."
+    },
+    "note": "Auch: en lever – leveren.",
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_sommerfugl",
+    "no": "sommerfugl",
+    "de": "der Schmetterling",
     "pos": "noun",
     "gender": "m",
     "forms": [
-      "kommentar",
-      "kommentaren",
-      "kommentarer",
-      "kommentarene"
+      "sommerfugl",
+      "sommerfuglen",
+      "sommerfugler",
+      "sommerfuglene"
     ],
-    "lesson": 23,
-    "wk": true,
     "ex": {
-      "no": "Anna skrev en hyggelig kommentar under innlegget.",
-      "de": "Anna schrieb einen netten Kommentar unter den Beitrag."
-    }
+      "no": "I juni er det mange sommerfugler i hagen.",
+      "de": "Im Juni gibt es viele Schmetterlinge im Garten."
+    },
+    "lesson": 23,
+    "wk": true
+  },
+  {
+    "id": "w23_takket_vaere",
+    "no": "takket være",
+    "de": "dank",
+    "pos": "prep",
+    "ex": {
+      "no": "Takket være Inga har jeg lært mye om samisk kultur.",
+      "de": "Dank Inga habe ich viel über die samische Kultur gelernt."
+    },
+    "lesson": 23
   }
 ]

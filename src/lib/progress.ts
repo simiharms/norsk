@@ -32,7 +32,10 @@ export function lessonSteps(L: Lesson): Step[] {
   return [
     { id: `L${n}:text`, kind: 'text', title: 'Text lesen und hören', sub: L.text.title, route: r('text') },
     { id: `L${n}:vocab`, kind: 'vocab', title: 'Neue Wörter lernen', sub: `${wordsOfLesson(n).length} Wörter`, route: r('woerter') },
-    ...L.grammar.map((g): Step => ({ id: `L${n}:${g.id}`, kind: 'grammar', title: g.title, sub: 'Grammatik', route: r(`grammatik/${g.id}`) })),
+    ...L.grammar.map((g): Step => {
+      const cat = planOf(n)?.grammar.find((t) => t.id === g.id)?.cat;
+      return { id: `L${n}:${g.id}`, kind: 'grammar', title: g.title, sub: cat ? `Grammatik · ${cat}` : 'Grammatik', route: r(`grammatik/${g.id}`) };
+    }),
     { id: `L${n}:ex`, kind: 'ex', title: 'Übungen zum Text', sub: 'Richtig/falsch, Fragen, Übersetzen', route: r('uebungen') },
     { id: `L${n}:wk`, kind: 'wk', title: `Wörterkiste: ${L.wk.title}`, sub: L.wk.titleDe, route: r('woerterkiste') },
     ...L.extra.map((x): Step => ({ id: `L${n}:${x.id}`, kind: 'extra', title: x.title, sub: 'Landeskunde', route: r(`lesen/${x.id}`) })),

@@ -12,7 +12,6 @@
       "øla/ølene"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "En øl koster 98 kroner.",
       "de": "Ein Bier kostet 98 Kronen."
@@ -32,7 +31,6 @@
       "bløtkakene"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Susanne spiser et stykke bløtkake.",
       "de": "Susanne isst ein Stück Sahnetorte."
@@ -55,7 +53,6 @@
       "kafeene"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Nå går vi på kafé.",
       "de": "Jetzt gehen wir ins Café."
@@ -75,7 +72,6 @@
       "kafeteriaene"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Vi spiser på kafeteriaen.",
       "de": "Wir essen in der Cafeteria."
@@ -97,7 +93,6 @@
       "diskene"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "På en kafé bestiller man ved disken.",
       "de": "In einem Café bestellt man an der Theke."
@@ -114,7 +109,6 @@
       "kaffen"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "En kaffe, takk!",
       "de": "Einen Kaffee, bitte!"
@@ -131,7 +125,6 @@
       "teen"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "En te med melk, takk.",
       "de": "Einen Tee mit Milch, bitte."
@@ -148,7 +141,6 @@
       "melka"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Jeg drikker kaffe med melk.",
       "de": "Ich trinke Kaffee mit Milch."
@@ -167,7 +159,6 @@
       "vanna/vannene"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Vann er gratis.",
       "de": "Wasser ist gratis."
@@ -187,7 +178,6 @@
       "glassa/glassene"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Elin tar et glass vann.",
       "de": "Elin nimmt ein Glas Wasser."
@@ -207,7 +197,6 @@
       "koppene"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Susanne drikker to kopper kaffe.",
       "de": "Susanne trinkt zwei Tassen Kaffee."
@@ -226,7 +215,6 @@
       "stykkene"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Et stykke kake, takk.",
       "de": "Ein Stück Kuchen, bitte."
@@ -248,10 +236,9 @@
       "kakene"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
-      "no": "Når det er fredag, spiser jeg kake.",
-      "de": "Wenn Freitag ist, esse ich Kuchen."
+      "no": "Jeg spiser alltid kake på fredager.",
+      "de": "Freitags esse ich immer Kuchen."
     }
   },
   {
@@ -271,7 +258,6 @@
       "bollene"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Mads kjøper to boller.",
       "de": "Mads kauft zwei Hefebrötchen."
@@ -294,7 +280,6 @@
       "kronene"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Det koster femten kroner.",
       "de": "Das kostet fünfzehn Kronen."
@@ -318,7 +303,6 @@
       "korta/kortene"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Betaler du med kort?",
       "de": "Zahlst du mit Karte?"
@@ -361,7 +345,6 @@
       "ekspeditørene"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Ekspeditøren spør: «Hva skal det være?»",
       "de": "Die Verkäuferin fragt: »Was darf es sein?«"
@@ -443,24 +426,6 @@
     }
   },
   {
-    "id": "w02_dag",
-    "no": "dag",
-    "de": "der Tag",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "dag",
-      "dagen",
-      "dager",
-      "dagene"
-    ],
-    "lesson": 2,
-    "ex": {
-      "no": "En uke har sju dager.",
-      "de": "Eine Woche hat sieben Tage."
-    }
-  },
-  {
     "id": "w02_fredag",
     "no": "fredag",
     "de": "der Freitag",
@@ -516,100 +481,6 @@
     }
   },
   {
-    "id": "w02_barn",
-    "no": "barn",
-    "de": "das Kind",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "barn",
-      "barnet",
-      "barn",
-      "barna"
-    ],
-    "lesson": 2,
-    "ex": {
-      "no": "Familien Nygård har to barn.",
-      "de": "Familie Nygård hat zwei Kinder."
-    },
-    "note": "Plural ohne Endung: to barn."
-  },
-  {
-    "id": "w02_bror",
-    "no": "bror",
-    "de": "der Bruder",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "bror",
-      "broren",
-      "brødre",
-      "brødrene"
-    ],
-    "lesson": 2,
-    "ex": {
-      "no": "Han har to brødre.",
-      "de": "Er hat zwei Brüder."
-    },
-    "note": "Plural unregelmäßig: brødre."
-  },
-  {
-    "id": "w02_soster",
-    "no": "søster",
-    "de": "die Schwester",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "søster",
-      "søstera/søsteren",
-      "søstre",
-      "søstrene"
-    ],
-    "lesson": 2,
-    "ex": {
-      "no": "Ola har ei søster, Anna.",
-      "de": "Ola hat eine Schwester, Anna."
-    }
-  },
-  {
-    "id": "w02_oye",
-    "no": "øye",
-    "de": "das Auge",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "øye",
-      "øyet",
-      "øyne",
-      "øynene"
-    ],
-    "lesson": 2,
-    "ex": {
-      "no": "Elin har blå øyne.",
-      "de": "Elin hat blaue Augen."
-    },
-    "note": "Plural unregelmäßig: øyne."
-  },
-  {
-    "id": "w02_sko",
-    "no": "sko",
-    "de": "der Schuh",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "sko",
-      "skoen",
-      "sko",
-      "skoene"
-    ],
-    "lesson": 2,
-    "ex": {
-      "no": "Ola har tre par sko.",
-      "de": "Ola hat drei Paar Schuhe."
-    },
-    "note": "Plural ohne Endung: to sko."
-  },
-  {
     "id": "w02_venn",
     "no": "venn",
     "de": "der Freund, die Freundin",
@@ -645,7 +516,6 @@
     ],
     "vg": "sterk",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Mads drikker kaffe i Norge.",
       "de": "Mads trinkt in Norwegen Kaffee."
@@ -664,7 +534,6 @@
     ],
     "vg": "2",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Susanne spiser bløtkake.",
       "de": "Susanne isst Sahnetorte."
@@ -683,7 +552,6 @@
     ],
     "vg": "sterk",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Jeg tar en øl, takk.",
       "de": "Ich nehme ein Bier, bitte."
@@ -702,7 +570,6 @@
     ],
     "vg": "2",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Mads kjøper en kaffe.",
       "de": "Mads kauft einen Kaffee."
@@ -722,7 +589,6 @@
     ],
     "vg": "2",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Susanne betaler med kort.",
       "de": "Susanne zahlt mit Karte."
@@ -744,7 +610,6 @@
     ],
     "vg": "1",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Hva koster det?",
       "de": "Was kostet das?"
@@ -764,7 +629,6 @@
     ],
     "vg": "sterk",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Det blir tjue kroner.",
       "de": "Das macht zwanzig Kronen."
@@ -827,7 +691,6 @@
     ],
     "vg": "sterk",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Kan jeg få en kaffe?",
       "de": "Kann ich einen Kaffee haben?"
@@ -846,7 +709,6 @@
     ],
     "vg": "2",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Vi bestiller ved disken.",
       "de": "Wir bestellen an der Theke."
@@ -881,7 +743,6 @@
       "sultne"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Jeg er sulten.",
       "de": "Ich habe Hunger."
@@ -899,7 +760,6 @@
       "tørste"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Er du tørst?",
       "de": "Hast du Durst?"
@@ -919,7 +779,6 @@
       "dyrest"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "98 kroner? Det er dyrt!",
       "de": "98 Kronen? Das ist teuer!"
@@ -942,7 +801,6 @@
       "billigst"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "I Danmark er øl billig.",
       "de": "In Dänemark ist Bier billig."
@@ -964,7 +822,6 @@
       "gratis"
     ],
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Vann er gratis.",
       "de": "Wasser ist gratis."
@@ -988,28 +845,6 @@
     }
   },
   {
-    "id": "w02_god",
-    "no": "god",
-    "de": "gut",
-    "deAlt": [
-      "lecker"
-    ],
-    "pos": "adj",
-    "forms": [
-      "god",
-      "godt",
-      "gode",
-      "bedre",
-      "best"
-    ],
-    "lesson": 2,
-    "ex": {
-      "no": "Torunn er en god lærer.",
-      "de": "Torunn ist eine gute Lehrerin."
-    },
-    "note": "Bei Essen auch »lecker«: Kaka er god."
-  },
-  {
     "id": "w02_endelig",
     "no": "endelig",
     "de": "endlich",
@@ -1026,7 +861,6 @@
     "de": "gern",
     "pos": "adv",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Ja, gjerne!",
       "de": "Ja, gern!"
@@ -1191,77 +1025,11 @@
     }
   },
   {
-    "id": "w02_at",
-    "no": "at",
-    "de": "dass",
-    "pos": "conj",
-    "lesson": 2,
-    "ex": {
-      "no": "Jeg vet at det er dyrt.",
-      "de": "Ich weiß, dass es teuer ist."
-    }
-  },
-  {
-    "id": "w02_fordi",
-    "no": "fordi",
-    "de": "weil",
-    "pos": "conj",
-    "lesson": 2,
-    "ex": {
-      "no": "Jeg spiser kake fordi det er fredag.",
-      "de": "Ich esse Kuchen, weil Freitag ist."
-    },
-    "note": "Kein Verb am Ende: fordi det er fredag."
-  },
-  {
-    "id": "w02_naar",
-    "no": "når",
-    "de": "wenn (zeitlich), wann",
-    "deAlt": [
-      "wenn",
-      "wann"
-    ],
-    "pos": "conj",
-    "lesson": 2,
-    "ex": {
-      "no": "Når det er fredag, spiser jeg kake.",
-      "de": "Wenn Freitag ist, esse ich Kuchen."
-    },
-    "note": "Auch Fragewort: Når kommer du? = Wann kommst du?"
-  },
-  {
-    "id": "w02_hvis",
-    "no": "hvis",
-    "de": "wenn, falls",
-    "deAlt": [
-      "wenn",
-      "falls"
-    ],
-    "pos": "conj",
-    "lesson": 2,
-    "ex": {
-      "no": "Hvis du er sulten, er det boller der borte.",
-      "de": "Falls du Hunger hast, gibt es dort drüben Hefebrötchen."
-    }
-  },
-  {
-    "id": "w02_om",
-    "no": "om",
-    "de": "ob",
-    "pos": "conj",
-    "lesson": 2,
-    "ex": {
-      "no": "Torunn spør om Matthias forstår.",
-      "de": "Torunn fragt, ob Matthias versteht."
-    }
-  },
-  {
     "id": "w02_takk",
     "no": "takk",
     "de": "danke",
     "pos": "interj",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "En kaffe, takk!",
       "de": "Einen Kaffee, bitte!"
@@ -1274,7 +1042,6 @@
     "de": "vielen Dank",
     "pos": "phrase",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Tusen takk for kaffen!",
       "de": "Vielen Dank für den Kaffee!"
@@ -1290,7 +1057,6 @@
     ],
     "pos": "phrase",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Vær så god, her er kaffen.",
       "de": "Bitte schön, hier ist der Kaffee."
@@ -1307,7 +1073,6 @@
     ],
     "pos": "phrase",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Kan jeg få et glass vann?",
       "de": "Kann ich ein Glas Wasser haben?"
@@ -1319,7 +1084,6 @@
     "de": "was darf es sein",
     "pos": "phrase",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Hei! Hva skal det være?",
       "de": "Hallo! Was darf es sein?"
@@ -1335,7 +1099,6 @@
     ],
     "pos": "interj",
     "lesson": 2,
-    "wk": true,
     "ex": {
       "no": "Skål, alle sammen!",
       "de": "Prost, alle zusammen!"
@@ -1394,6 +1157,7 @@
     "de": "danke für das letzte Mal",
     "pos": "phrase",
     "lesson": 2,
+    "wk": true,
     "ex": {
       "no": "Hei, Elin! Takk for sist!",
       "de": "Hallo, Elin! Danke für das letzte Mal!"
@@ -1469,21 +1233,6 @@
       "no": "Vann koster null kroner.",
       "de": "Wasser kostet null Kronen."
     }
-  },
-  {
-    "id": "w02_en_tall",
-    "no": "en",
-    "de": "eins",
-    "alt": [
-      "ett"
-    ],
-    "pos": "num",
-    "lesson": 2,
-    "ex": {
-      "no": "Jeg har en bror.",
-      "de": "Ich habe einen Bruder."
-    },
-    "note": "Vor et-Wörtern: ett (ett glass, ett år)."
   },
   {
     "id": "w02_to",
@@ -1716,5 +1465,801 @@
       "de": "Das ist teuer, sogar für einen Schweizer!"
     },
     "note": "Vor Adjektiven auch »zu«: for sent = zu spät, for lenge = zu lange. Als Konjunktion: for = denn."
+  },
+  {
+    "id": "w02_trott",
+    "no": "trøtt",
+    "de": "müde",
+    "pos": "adj",
+    "forms": [
+      "trøtt",
+      "trøtt",
+      "trøtte"
+    ],
+    "lesson": 2,
+    "wk": true,
+    "ex": {
+      "no": "Elin er litt trøtt i dag.",
+      "de": "Elin ist heute ein bisschen müde."
+    },
+    "note": "Endet schon auf -tt: kein weiteres -t im Neutrum."
+  },
+  {
+    "id": "w02_bit",
+    "no": "bit",
+    "de": "das Stückchen",
+    "deAlt": [
+      "der Bissen",
+      "das Stück"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "bit",
+      "biten",
+      "biter",
+      "bitene"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Ta en bit, Matthias!",
+      "de": "Probier mal ein Stück, Matthias!"
+    }
+  },
+  {
+    "id": "w02_krem",
+    "no": "krem",
+    "de": "die Sahne (geschlagen)",
+    "deAlt": [
+      "die Sahne",
+      "die Schlagsahne",
+      "die Creme"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "krem",
+      "kremen",
+      "kremer",
+      "kremene"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Bløtkake har mye krem.",
+      "de": "Sahnetorte hat viel Sahne."
+    },
+    "note": "Geschlagene Sahne; flüssige Sahne heißt fløte."
+  },
+  {
+    "id": "w02_stresse",
+    "no": "stresse",
+    "de": "sich stressen",
+    "deAlt": [
+      "hetzen",
+      "gestresst sein"
+    ],
+    "pos": "verb",
+    "vf": [
+      "stresser",
+      "stresset",
+      "stresset",
+      "stress"
+    ],
+    "vg": "1",
+    "lesson": 2,
+    "ex": {
+      "no": "Ikke stress, Matthias!",
+      "de": "Mach dir keinen Stress, Matthias!"
+    },
+    "note": "Ikke stress! = Mach dir keinen Stress! Das Adjektiv heißt stresset."
+  },
+  {
+    "id": "w04_hvordan",
+    "no": "hvordan",
+    "de": "wie",
+    "pos": "adv",
+    "lesson": 2,
+    "wk": true,
+    "ex": {
+      "no": "Hvordan har du det, Elin?",
+      "de": "Wie geht es dir, Elin?"
+    }
+  },
+  {
+    "id": "w02_vaer",
+    "no": "vær",
+    "de": "das Wetter",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "vær",
+      "været"
+    ],
+    "lesson": 2,
+    "wk": true,
+    "ex": {
+      "no": "Fint vær i dag, ikke sant?",
+      "de": "Schönes Wetter heute, oder?"
+    },
+    "note": "Nicht verwechseln mit dem Imperativ vær (von være): Vær så god!"
+  },
+  {
+    "id": "w04_hit",
+    "no": "hit",
+    "de": "hierher",
+    "deAlt": [
+      "her"
+    ],
+    "pos": "adv",
+    "lesson": 2,
+    "ex": {
+      "no": "Kom hit, alle sammen!",
+      "de": "Kommt her, alle zusammen!"
+    },
+    "note": "Richtung: hit (hierher); Ort: her (hier)."
+  },
+  {
+    "id": "w04_slappe_av",
+    "no": "slappe av",
+    "de": "sich entspannen",
+    "pos": "verb",
+    "vf": [
+      "slapper av",
+      "slappet av",
+      "slappet av",
+      "slapp av"
+    ],
+    "vg": "1",
+    "lesson": 2,
+    "ex": {
+      "no": "Slapp av og spis en kake til!",
+      "de": "Entspann dich und iss noch ein Stück Kuchen!"
+    }
+  },
+  {
+    "id": "w04_sjenert",
+    "no": "sjenert",
+    "de": "schüchtern",
+    "pos": "adj",
+    "forms": [
+      "sjenert",
+      "sjenert",
+      "sjenerte"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Ikke vær så sjenert!",
+      "de": "Sei nicht so schüchtern!"
+    },
+    "note": "Endet schon auf -t: kein weiteres -t im Neutrum."
+  },
+  {
+    "id": "w04_glemme",
+    "no": "glemme",
+    "de": "vergessen",
+    "pos": "verb",
+    "vf": [
+      "glemmer",
+      "glemte",
+      "glemt",
+      "glem"
+    ],
+    "vg": "2",
+    "lesson": 2,
+    "ex": {
+      "no": "Ikke glem å betale!",
+      "de": "Vergiss nicht zu bezahlen!"
+    },
+    "note": "Imperativ glem: kein Doppel-m am Wortende."
+  },
+  {
+    "id": "w04_aapne",
+    "no": "åpne",
+    "de": "öffnen",
+    "deAlt": [
+      "aufmachen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "åpner",
+      "åpnet",
+      "åpnet",
+      "åpne"
+    ],
+    "vg": "1",
+    "lesson": 2,
+    "ex": {
+      "no": "Åpne vinduet, er du snill!",
+      "de": "Öffne bitte das Fenster!"
+    }
+  },
+  {
+    "id": "w04_vindu",
+    "no": "vindu",
+    "de": "das Fenster",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "vindu",
+      "vinduet",
+      "vinduer",
+      "vinduene"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Huset har store vinduer.",
+      "de": "Das Haus hat große Fenster."
+    }
+  },
+  {
+    "id": "w04_vaer_saa_snill",
+    "no": "vær så snill",
+    "de": "bitte",
+    "deAlt": [
+      "sei so lieb"
+    ],
+    "pos": "phrase",
+    "lesson": 2,
+    "ex": {
+      "no": "Vær så snill og snakk sakte!",
+      "de": "Sprich bitte langsam!"
+    },
+    "note": "Auch nachgestellt: …, er du snill."
+  },
+  {
+    "id": "w04_bli_med",
+    "no": "bli med",
+    "de": "mitkommen",
+    "deAlt": [
+      "mitmachen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "blir med",
+      "ble med",
+      "blitt med",
+      "bli med"
+    ],
+    "vg": "sterk",
+    "lesson": 2,
+    "ex": {
+      "no": "Vil dere bli med?",
+      "de": "Wollt ihr mitkommen?"
+    }
+  },
+  {
+    "id": "w04_alltid",
+    "no": "alltid",
+    "de": "immer",
+    "pos": "adv",
+    "lesson": 2,
+    "ex": {
+      "no": "Matthias vil alltid vite alt.",
+      "de": "Matthias will immer alles wissen."
+    }
+  },
+  {
+    "id": "w04_aldri",
+    "no": "aldri",
+    "de": "nie",
+    "deAlt": [
+      "niemals"
+    ],
+    "pos": "adv",
+    "lesson": 2,
+    "ex": {
+      "no": "Elin drikker aldri kaffe.",
+      "de": "Elin trinkt nie Kaffee."
+    }
+  },
+  {
+    "id": "w04_dessverre",
+    "no": "dessverre",
+    "de": "leider",
+    "pos": "adv",
+    "lesson": 2,
+    "ex": {
+      "no": "I morgen kan jeg dessverre ikke.",
+      "de": "Morgen kann ich leider nicht."
+    }
+  },
+  {
+    "id": "w04_jo",
+    "no": "jo",
+    "de": "ja, doch",
+    "deAlt": [
+      "doch"
+    ],
+    "pos": "adv",
+    "lesson": 2,
+    "ex": {
+      "no": "Han er jo ingeniør.",
+      "de": "Er ist ja Ingenieur."
+    },
+    "note": "Als Antwort auf eine verneinte Frage = doch: Kommer du ikke? – Jo!"
+  },
+  {
+    "id": "w02_flaske",
+    "no": "flaske",
+    "de": "die Flasche",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "flaske",
+      "flaska",
+      "flasker",
+      "flaskene"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Elin kjøper ei flaske vann.",
+      "de": "Elin kauft eine Flasche Wasser."
+    }
+  },
+  {
+    "id": "w02_i_morgen",
+    "no": "i morgen",
+    "de": "morgen",
+    "pos": "adv",
+    "lesson": 2,
+    "ex": {
+      "no": "I morgen skal jeg ikke jobbe.",
+      "de": "Morgen arbeite ich nicht."
+    },
+    "note": "i morgen = morgen; i dag = heute; i kveld = heute Abend."
+  },
+  {
+    "id": "w03_skje",
+    "no": "skje",
+    "de": "geschehen, passieren",
+    "deAlt": [
+      "geschehen",
+      "passieren",
+      "los sein"
+    ],
+    "pos": "verb",
+    "vf": [
+      "skjer",
+      "skjedde",
+      "skjedd",
+      ""
+    ],
+    "vg": "4",
+    "lesson": 2,
+    "ex": {
+      "no": "Hva skjer?",
+      "de": "Was gibt's? / Was ist los?"
+    }
+  },
+  {
+    "id": "w03_se",
+    "no": "se",
+    "de": "sehen",
+    "deAlt": [
+      "schauen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "ser",
+      "så",
+      "sett",
+      "se"
+    ],
+    "vg": "sterk",
+    "lesson": 2,
+    "ex": {
+      "no": "Se, her er fersk laks!",
+      "de": "Schau, hier gibt es frischen Lachs!"
+    }
+  },
+  {
+    "id": "w03_lang",
+    "no": "lang",
+    "de": "lang",
+    "pos": "adj",
+    "forms": [
+      "lang",
+      "langt",
+      "lange",
+      "lengre",
+      "lengst"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Norge har en lang kyst.",
+      "de": "Norwegen hat eine lange Küste."
+    }
+  },
+  {
+    "id": "w03_der",
+    "no": "der",
+    "de": "da, dort",
+    "deAlt": [
+      "da",
+      "dort"
+    ],
+    "pos": "adv",
+    "lesson": 2,
+    "ex": {
+      "no": "Kniven er der, i skuffen.",
+      "de": "Das Messer ist da, in der Schublade."
+    }
+  },
+  {
+    "id": "w04_hel",
+    "no": "hel",
+    "de": "ganz",
+    "pos": "adj",
+    "forms": [
+      "hel",
+      "helt",
+      "hele"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Jeg må jobbe hele helgen.",
+      "de": "Ich muss das ganze Wochenende arbeiten."
+    },
+    "note": "hele + bestimmte Form: hele dagen, hele helgen."
+  },
+  {
+    "id": "w04_lenge",
+    "no": "lenge",
+    "de": "lange",
+    "pos": "adv",
+    "lesson": 2,
+    "ex": {
+      "no": "Hvor lenge skal vi gå?",
+      "de": "Wie lange wandern wir?"
+    },
+    "note": "Nur für Zeit; „lang“ (Länge) = lang."
+  },
+  {
+    "id": "w04_kunne",
+    "no": "kunne",
+    "de": "können",
+    "pos": "verb",
+    "vf": [
+      "kan",
+      "kunne",
+      "kunnet",
+      ""
+    ],
+    "vg": "modal",
+    "lesson": 2,
+    "ex": {
+      "no": "Jeg kan ikke komme i morgen.",
+      "de": "Ich kann morgen nicht kommen."
+    }
+  },
+  {
+    "id": "w04_skulle",
+    "no": "skulle",
+    "de": "sollen",
+    "deAlt": [
+      "vorhaben",
+      "werden"
+    ],
+    "pos": "verb",
+    "vf": [
+      "skal",
+      "skulle",
+      "skullet",
+      ""
+    ],
+    "vg": "modal",
+    "lesson": 2,
+    "ex": {
+      "no": "I morgen skal jeg gå på tur.",
+      "de": "Morgen gehe ich wandern."
+    },
+    "note": "skal drückt meist einen Plan oder die Zukunft aus."
+  },
+  {
+    "id": "w05_natt",
+    "no": "natt",
+    "de": "die Nacht",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "natt",
+      "natta",
+      "netter",
+      "nettene"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Om natta er det mørkt.",
+      "de": "Nachts ist es dunkel."
+    },
+    "note": "om natta = nachts; Plural mit Umlaut: netter."
+  },
+  {
+    "id": "w05_passe",
+    "no": "passe",
+    "de": "passen",
+    "pos": "verb",
+    "vf": [
+      "passer",
+      "passet",
+      "passet",
+      "pass"
+    ],
+    "vg": "1",
+    "lesson": 2,
+    "wk": true,
+    "ex": {
+      "no": "Den passer fint!",
+      "de": "Die passt gut!"
+    },
+    "note": "passe = (in der Größe) passen. passe på = aufpassen. Sånn passe. = Es geht so (passe hier: mittelmäßig)."
+  },
+  {
+    "id": "w06_kveld",
+    "no": "kveld",
+    "de": "der Abend",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "kveld",
+      "kvelden",
+      "kvelder",
+      "kveldene"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Om kvelden spiser vi på en restaurant.",
+      "de": "Am Abend essen wir in einem Restaurant."
+    },
+    "note": "om kvelden = am Abend; i kveld = heute Abend."
+  },
+  {
+    "id": "w07_selv",
+    "no": "selv",
+    "de": "selbst",
+    "pos": "adv",
+    "lesson": 2,
+    "ex": {
+      "no": "Vann tar man selv.",
+      "de": "Wasser holt man sich selbst."
+    },
+    "deAlt": [
+      "sogar",
+      "selber"
+    ],
+    "note": "Vor einem Nomen auch »sogar«: selv for en sveitser = sogar für einen Schweizer."
+  },
+  {
+    "id": "w07_takk_i_like_maate",
+    "no": "takk i like måte",
+    "de": "danke, gleichfalls",
+    "pos": "phrase",
+    "lesson": 2,
+    "wk": true,
+    "ex": {
+      "no": "God helg! – Takk i like måte!",
+      "de": "Schönes Wochenende! – Danke, gleichfalls!"
+    }
+  },
+  {
+    "id": "w07_sist",
+    "no": "sist",
+    "de": "letzte(r, s), zuletzt",
+    "pos": "adv",
+    "lesson": 2,
+    "wk": true,
+    "ex": {
+      "no": "Lenge siden sist!",
+      "de": "Lange nicht gesehen!"
+    },
+    "note": "sist fredag = letzten Freitag (auch: forrige fredag). Takk for sist = Danke für das letzte Mal."
+  },
+  {
+    "id": "w08_ikke_saa_verst",
+    "no": "ikke så verst",
+    "de": "gar nicht so schlecht",
+    "pos": "phrase",
+    "lesson": 2,
+    "ex": {
+      "no": "Kaffen her er ikke så verst.",
+      "de": "Der Kaffee hier ist gar nicht so schlecht."
+    },
+    "note": "Typisch norwegisches Understatement – oft ein Lob!"
+  },
+  {
+    "id": "w08_morgen",
+    "no": "morgen",
+    "de": "der Morgen",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "morgen",
+      "morgenen",
+      "morgener",
+      "morgenene"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Om morgenen drikker Per kaffe.",
+      "de": "Morgens trinkt Per Kaffee."
+    },
+    "note": "i morgen = morgen (Tag); om morgenen = morgens; i morges = heute früh"
+  },
+  {
+    "id": "w12_daarlig",
+    "no": "dårlig",
+    "de": "schlecht",
+    "pos": "adj",
+    "forms": [
+      "dårlig",
+      "dårlig",
+      "dårlige",
+      "verre/dårligere",
+      "verst/dårligst"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Det er dårlig vær i dag.",
+      "de": "Heute ist schlechtes Wetter."
+    },
+    "note": "dårlig – verre – verst (schlimmer, wenn es schon schlecht ist) oder dårligere – dårligst (weniger gut)."
+  },
+  {
+    "id": "w10_fare",
+    "no": "fare",
+    "de": "die Gefahr",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "fare",
+      "faren",
+      "farer",
+      "farene"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Det er ingen fare.",
+      "de": "Es besteht keine Gefahr."
+    },
+    "note": "Ingen fare! = Keine Sorge! Kein Problem! (wörtlich: keine Gefahr)."
+  },
+  {
+    "id": "w10_borte",
+    "no": "borte",
+    "de": "weg, verschwunden",
+    "deAlt": [
+      "weg",
+      "fort",
+      "verschwunden",
+      "drüben"
+    ],
+    "pos": "adv",
+    "lesson": 2,
+    "ex": {
+      "no": "Nøkkelen er borte!",
+      "de": "Der Schlüssel ist weg!"
+    },
+    "note": "Ort/Zustand (wo?). Richtung: bort."
+  },
+  {
+    "id": "w14_like_seg",
+    "no": "like seg",
+    "de": "sich wohlfühlen",
+    "pos": "verb",
+    "vf": [
+      "liker seg",
+      "likte seg",
+      "likt seg",
+      "lik deg"
+    ],
+    "vg": "2",
+    "lesson": 2,
+    "ex": {
+      "no": "Susanne liker seg i Oslo.",
+      "de": "Susanne fühlt sich in Oslo wohl."
+    }
+  },
+  {
+    "id": "w15_ingen",
+    "no": "ingen",
+    "de": "niemand; kein",
+    "deAlt": [
+      "niemand",
+      "kein",
+      "keine"
+    ],
+    "pos": "pron",
+    "lesson": 2,
+    "note": "ingen = ikke noen: Det er ingen her. = Det er ikke noen her. Mit Modalverb nur ikke … noen: Jeg kan ikke se noen.",
+    "ex": {
+      "no": "Det er ingen her.",
+      "de": "Hier ist niemand."
+    }
+  },
+  {
+    "id": "w16_vi_sees",
+    "no": "vi sees",
+    "de": "wir sehen uns",
+    "alt": [
+      "vi ses"
+    ],
+    "pos": "phrase",
+    "lesson": 2,
+    "note": "Auch: vi ses. Feste Abschiedsformel.",
+    "ex": {
+      "no": "Ha det, vi sees i kveld!",
+      "de": "Tschüss, wir sehen uns heute Abend!"
+    }
+  },
+  {
+    "id": "w17_hele_tiden",
+    "no": "hele tiden",
+    "de": "die ganze Zeit",
+    "pos": "phrase",
+    "lesson": 2,
+    "ex": {
+      "no": "Matthias spør hele tiden.",
+      "de": "Matthias fragt die ganze Zeit."
+    }
+  },
+  {
+    "id": "w18_saann",
+    "no": "sånn",
+    "de": "so ein, solch; so (Adverb, gesprochen)",
+    "pos": "pron",
+    "forms": [
+      "sånn",
+      "sånt",
+      "sånne"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Jeg vil også ha en sånn kake!",
+      "de": "Ich will auch so einen Kuchen!"
+    }
+  },
+  {
+    "id": "w18_i_like_maate",
+    "no": "i like måte",
+    "de": "gleichfalls",
+    "pos": "phrase",
+    "lesson": 2,
+    "ex": {
+      "no": "– God jul! – Takk, i like måte!",
+      "de": "– Frohe Weihnachten! – Danke, gleichfalls!"
+    }
+  },
+  {
+    "id": "w21_sees",
+    "no": "sees",
+    "de": "sich sehen",
+    "pos": "verb",
+    "vf": [
+      "sees/ses",
+      "sås",
+      "setts",
+      ""
+    ],
+    "vg": "sterk",
+    "alt": [
+      "ses"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Vi sees på hytta i påsken!",
+      "de": "Wir sehen uns an Ostern auf der Hütte!"
+    },
+    "note": "Meist im Präsens: Vi sees! = Bis bald! Für andere Zeiten: se hverandre."
+  },
+  {
+    "id": "w22_skaal_for",
+    "no": "skål for",
+    "de": "Prost auf",
+    "pos": "phrase",
+    "lesson": 2,
+    "ex": {
+      "no": "Skål for Norge!",
+      "de": "Prost auf Norwegen!"
+    }
   }
 ]

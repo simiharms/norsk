@@ -1,559 +1,631 @@
 {
   "n": 20,
   "level": "B2",
-  "title": "Hyttetur og påskekos – eller omvendt",
-  "titleDe": "Hüttenausflug und Ostergemütlichkeit – oder umgekehrt",
-  "place": "Gudbrandsdalen (Hütte der Familie Nygård)",
+  "title": "Biltur og krangel på Sørlandskysten",
+  "titleDe": "Autofahrt und Streit an der Südküste",
+  "place": "Kristiansand – Lillesand – Mandal – Stavanger",
   "goals": [
-    "Du kannst über unwirkliche Situationen sprechen: Hvis jeg hadde tid, ville jeg …",
-    "Du kannst sagen, was gewesen wäre, wenn … (Hvis vi hadde hørt …, hadde vi …), und Wünsche äußern (Jeg skulle ønske …).",
-    "Du lernst Präposition + å + Infinitiv oder at-Satz: Jeg gleder meg til å … / Hun er redd for at …",
-    "Du verstehst den Wetterbericht und kannst über das Wetter in den Bergen sprechen.",
-    "Du erfährst etwas über norwegische Osterbräuche, Osterkrimis und norwegische Literatur."
+    "Du kannst von einer Autofahrt erzählen und die wichtigsten Wörter rund um Auto und Verkehr verwenden.",
+    "Du drückst Unwirkliches und Wünsche aus: Hvis du hadde hørt på meg, hadde vi rukket ferja. Jeg skulle ønske at det var sommer.",
+    "Du verbindest Präpositionen mit Infinitiv oder at-Satz: uten å si noe, i stedet for å kjøre, redd for at bilen ikke starter.",
+    "Du erkennst und bildest das Partizip Präsens (en sovende baby, kom gående), Verbalsubstantive (kjøring, løsning, opplevelse) und zusammengesetzte Substantive (fartsgrense, kystvei).",
+    "Du erfährst etwas über Sørlandet, Stavanger und den Preikestolen."
   ],
   "text": {
     "id": "t20",
-    "title": "Hyttetur og påskekos – eller omvendt",
-    "titleDe": "Hüttenausflug und Ostergemütlichkeit – oder umgekehrt",
+    "title": "Biltur og krangel på Sørlandskysten",
+    "titleDe": "Autofahrt und Streit an der Südküste",
     "kind": "prose",
-    "intro": "Ostern auf der Hütte der Familie Nygård im Gudbrandsdal. Am Abend des Ostermontags schreibt Susanne in ihr Tagebuch, wie die Tage verlaufen sind – erst Sonne und Gemütlichkeit, dann Schneesturm und Stromausfall.",
+    "intro": "Im März, kurz vor Ostern, mieten Susanne und Matthias ein Auto und fahren ein langes Wochenende die Südküste entlang – von Kristiansand bis Stavanger. Es ist noch kalt, die Ferienorte sind leer, und es wird eine Reise mit Hindernissen.",
     "lines": [
       {
-        "no": "Andre påskedag, sent på kvelden. Alle har lagt seg, og jeg sitter ved peisen med dagboka mi. Denne påsken glemmer jeg aldri – på godt og vondt.",
-        "de": "Ostermontag, spät am Abend. Alle sind schlafen gegangen, und ich sitze mit meinem Tagebuch am Kamin. Dieses Osterfest werde ich nie vergessen – im Guten wie im Schlechten."
+        "no": "Det var Matthias som hadde foreslått turen. «En langhelg på Sørlandet i mars, bare du og jeg og en leiebil – før turistene kommer,» hadde han skrevet. Susanne hadde sagt ja med en gang. Hun hadde lest mye om de hvite trehusene og den vakre skjærgården.",
+        "de": "Matthias war es gewesen, der die Reise vorgeschlagen hatte. „Ein langes Wochenende an der Südküste im März, nur du und ich und ein Mietwagen – bevor die Touristen kommen“, hatte er geschrieben. Susanne hatte sofort Ja gesagt. Sie hatte viel über die weißen Holzhäuser und die schönen Schären gelesen."
       },
       {
-        "no": "Jeg hadde gledet meg til å se hytta i flere uker. Anna og jeg tok toget fra Trondheim på onsdag, og Per hentet oss på stasjonen i Vinstra. Resten av familien hadde kjørt fra Oslo, med Matthias klemt inn i baksetet mellom bestemor Ingrid og Bamse.",
-        "de": "Ich hatte mich schon seit Wochen darauf gefreut, die Hütte zu sehen. Anna und ich sind am Mittwoch mit dem Zug von Trondheim gefahren, und Per hat uns am Bahnhof in Vinstra abgeholt. Der Rest der Familie war mit dem Auto von Oslo gekommen, Matthias eingeklemmt auf der Rückbank zwischen Oma Ingrid und Bamse."
+        "no": "De møttes på flyplassen i Kristiansand fredag morgen. Matthias hadde bestilt en liten elbil for flere uker siden, og han hadde selvfølgelig tatt med sitt eget papirkart, selv om bilen hadde GPS. «Et papirkart går aldri tom for strøm,» sa han. Susanne himlet med øynene, men hun smilte.",
+        "de": "Sie trafen sich am Freitagmorgen am Flughafen in Kristiansand. Matthias hatte schon vor mehreren Wochen ein kleines Elektroauto gebucht, und natürlich hatte er seine eigene Papierkarte mitgebracht, obwohl das Auto ein Navi hatte. „Einer Papierkarte geht nie der Strom aus“, sagte er. Susanne verdrehte die Augen, aber sie lächelte."
       },
       {
-        "no": "Hytta er en gammel tømmerhytte med torvtak, helt for seg selv på fjellet. Det er strøm her, men ikke innlagt vann, så vi måtte hente vann i bøtter hver morgen. Det var selvfølgelig Ola som alltid «glemte» det.",
-        "de": "Die Hütte ist eine alte Blockhütte mit Grasdach, ganz für sich allein im Gebirge. Es gibt hier Strom, aber kein fließendes Wasser, deshalb mussten wir jeden Morgen Wasser in Eimern holen. Natürlich war es Ola, der das immer „vergaß“."
+        "no": "Den første dagen kjørte de østover til Lillesand. Den lille byen var overraskende stille: Sommerhusene sto tomme, og det blåste en iskald vind fra havet. Men de hvite husene lå skinnende i vårsola, og det var en fin opplevelse å ha byen nesten for seg selv. Om ettermiddagen kjørte de vestover mot Mandal, Norges sørligste by.",
+        "de": "Am ersten Tag fuhren sie ostwärts nach Lillesand. Das kleine Städtchen war überraschend still: Die Ferienhäuser standen leer, und vom Meer her wehte ein eiskalter Wind. Aber die weißen Häuser leuchteten in der Frühlingssonne, und es war ein schönes Erlebnis, die Stadt fast für sich allein zu haben. Am Nachmittag fuhren sie westwärts nach Mandal, der südlichsten Stadt Norwegens."
       },
       {
-        "no": "De tre første dagene var som klippet ut av et postkort: blå himmel, strålende sol og perfekt skiføre. Vi gikk lange turer på ski, og i pausene satt vi i snøen med appelsiner og Kvikk Lunsj. Ola påsto at det er forbudt å gå på påsketur uten Kvikk Lunsj i sekken. Matthias, som vokste opp med alpinski i Sveits, fikk en lang forelesning av Per om at langrenn er den eneste ekte skisporten. Han var tydelig uenig, men for høflig til å si det.",
-        "de": "Die ersten drei Tage waren wie aus einer Postkarte ausgeschnitten: blauer Himmel, strahlende Sonne und perfekter Skischnee. Wir machten lange Skitouren, und in den Pausen saßen wir mit Orangen und Kvikk Lunsj im Schnee. Ola behauptete, es sei verboten, an Ostern ohne Kvikk Lunsj im Rucksack auf Tour zu gehen. Matthias, der in der Schweiz mit Alpinski aufgewachsen ist, musste sich von Per einen langen Vortrag darüber anhören, dass Langlauf die einzige echte Skisportart sei. Er war offensichtlich anderer Meinung, aber zu höflich, um es zu sagen."
+        "no": "Allerede på veien dit begynte problemene. Matthias kjørte nøyaktig sytti der fartsgrensen var sytti, og bremset før hver eneste sving. Bak dem vokste en lang kø av irriterte bilister. «Kan du ikke kjøre litt fortere?» spurte Susanne. «Jeg kjører etter reglene,» svarte Matthias uten å se på henne. Etter en time var hun lei av kjøringen hans.",
+        "de": "Schon auf dem Weg dorthin begannen die Probleme. Matthias fuhr genau siebzig, wo siebzig erlaubt war, und bremste vor jeder einzelnen Kurve. Hinter ihnen wuchs eine lange Schlange gereizter Autofahrer. „Kannst du nicht ein bisschen schneller fahren?“, fragte Susanne. „Ich fahre nach den Regeln“, antwortete Matthias, ohne sie anzusehen. Nach einer Stunde hatte sie seine Fahrweise satt."
       },
       {
-        "no": "Om kveldene var det påskekrim. Vi så en krimserie på TV, og bestemor visste hvem morderen var lenge før politiet. Til frokost leste vi krimhistorien på melkekartongen, og Kari lå på sofaen med en tykk kriminalroman i stedet for å gå på ski. «Påske uten krim er som jul uten ribbe,» sa hun. Aldri før har jeg kost meg så mye uten å gjøre noe som helst.",
-        "de": "Abends gab es Osterkrimis. Wir sahen eine Krimiserie im Fernsehen, und Oma wusste lange vor der Polizei, wer der Mörder war. Zum Frühstück lasen wir die Krimigeschichte auf der Milchtüte, und Kari lag mit einem dicken Kriminalroman auf dem Sofa, statt Ski zu fahren. „Ostern ohne Krimi ist wie Weihnachten ohne Schweinerippe“, sagte sie. Noch nie habe ich es so genossen, überhaupt nichts zu tun."
+        "no": "I Mandal var stranda Sjøsanden tom. «Hvis det var juli, ville jeg bade,» sa Susanne og trakk lua ned over ørene. «Hvis det var juli, ville hele Norge være her,» svarte Matthias tørt.",
+        "de": "In Mandal war der Strand Sjøsanden leer. „Wenn jetzt Juli wäre, würde ich baden“, sagte Susanne und zog die Mütze über die Ohren. „Wenn jetzt Juli wäre, wäre ganz Norwegen hier“, antwortete Matthias trocken."
       },
       {
-        "no": "På langfredag kveld sjekket Matthias værmeldingen på telefonen. «Det er meldt sterk kuling og mye snø fra lørdag ettermiddag,» sa han. Per bare lo: «Værmeldingen tar alltid feil på fjellet. Hvis vi hørte på den hele tiden, ville vi aldri komme oss ut av hytta!» Så på lørdag morgen dro vi av gårde mot en topp i nærheten, alle unntatt bestemor og Kari.",
-        "de": "Am Karfreitagabend schaute Matthias auf dem Handy nach dem Wetterbericht. „Ab Samstagnachmittag sind stürmischer Wind und viel Schnee angesagt“, sagte er. Per lachte nur: „Der Wetterbericht liegt in den Bergen immer daneben. Wenn wir ständig darauf hören würden, kämen wir nie aus der Hütte heraus!“ Also brachen wir am Samstagmorgen zu einem Gipfel in der Nähe auf, alle außer Oma und Kari."
+        "no": "Neste morgen ville de ta ferja ut til en øy i skjærgården. Veien ned til kaia var så smal at Matthias måtte rygge inn på en møteplass for hver møtende bil. GPS-en viste én vei, kartet hans en annen, og de kranglet så lenge om kartet at de kom fram akkurat idet ferja la fra kai.",
+        "de": "Am nächsten Morgen wollten sie die Fähre zu einer Insel in den Schären nehmen. Die Straße hinunter zum Kai war so schmal, dass Matthias bei jedem entgegenkommenden Auto in eine Ausweichstelle zurücksetzen musste. Das Navi zeigte einen Weg, seine Karte einen anderen, und sie stritten so lange über die Karte, dass sie genau in dem Moment ankamen, als die Fähre ablegte."
       },
       {
-        "no": "Ved tolvtiden ble himmelen grå, og vinden økte. Snart snødde det så tett at vi ikke kunne se skisporet foran oss. Per ville fortsette, men Matthias tok fram Kvikk Lunsj-papiret og leste høyt fra fjellvettreglene: «Vend i tide, det er ingen skam å snu.»",
-        "de": "Gegen zwölf Uhr wurde der Himmel grau, und der Wind nahm zu. Bald schneite es so dicht, dass wir die Skispur vor uns nicht sehen konnten. Per wollte weiter, aber Matthias holte das Kvikk-Lunsj-Papier hervor und las aus den Fjellvettregeln vor: „Kehr rechtzeitig um, es ist keine Schande umzukehren.“"
+        "no": "«Hvis du hadde hørt på meg, hadde vi rukket ferja,» sa Matthias. «Og hvis du hadde kjørt litt fortere, hadde vi kommet i tide!» svarte Susanne. «Jeg skulle ønske at jeg hadde tatt bussen.» «Og jeg skulle ønske at du kunne lese et kart,» mumlet Matthias. Hadde de bare stått opp en halvtime tidligere!",
+        "de": "„Wenn du auf mich gehört hättest, hätten wir die Fähre erwischt“, sagte Matthias. „Und wenn du ein bisschen schneller gefahren wärst, wären wir rechtzeitig gekommen!“, antwortete Susanne. „Ich wünschte, ich hätte den Bus genommen.“ „Und ich wünschte, du könntest eine Karte lesen“, murmelte Matthias. Wären sie doch nur eine halbe Stunde früher aufgestanden!"
       },
       {
-        "no": "Vi snudde. Etter to lange timer i motvind var vi tilbake på hytta, våte, slitne og sure. Kari hadde vært redd for at vi skulle gå oss vill.",
-        "de": "Wir kehrten um. Nach zwei langen Stunden im Gegenwind waren wir zurück in der Hütte, nass, müde und schlecht gelaunt. Kari hatte Angst gehabt, dass wir uns verirren würden."
+        "no": "Etter det ville Susanne kjøre selv. Det virket som en god løsning – i ti minutter. Da blinket det i en fotoboks. Matthias sa ingenting, men smilet hans sa mer enn tusen ord. Så surret telefonen hennes. «Erik,» leste Matthias på skjermen. «Dere snakker visst fortsatt sammen.» «Det er da ikke din sak hvem jeg snakker med!» svarte Susanne skarpt.",
+        "de": "Danach wollte Susanne selbst fahren. Das schien eine gute Lösung zu sein – zehn Minuten lang. Dann wurde sie geblitzt. Matthias sagte nichts, aber sein Lächeln sagte mehr als tausend Worte. Dann summte ihr Handy. „Erik“, las Matthias auf dem Bildschirm. „Ihr redet also immer noch miteinander.“ „Das geht dich doch nichts an, mit wem ich rede!“, antwortete Susanne scharf."
       },
       {
-        "no": "Om kvelden gikk strømmen, og Ola oppdaget til sin store skrekk at mobilen hans nesten var tom. Ikke noe internett, ingen TV, ingen påskekrim! Vi tente stearinlys, fyrte i peisen og laget suppe på den gamle vedovnen. Etter å ha spist fortalte bestemor Ingrid om trollet som skal ha bodd i fjellet bak hytta. «Det var faktisk bedre enn TV,» innrømmet Ola etterpå.",
-        "de": "Am Abend fiel der Strom aus, und Ola stellte zu seinem großen Schrecken fest, dass sein Handy fast leer war. Kein Internet, kein Fernsehen, kein Osterkrimi! Wir zündeten Kerzen an, heizten den Kamin ein und kochten Suppe auf dem alten Holzofen. Nach dem Essen erzählte Oma Ingrid von dem Troll, der angeblich im Berg hinter der Hütte gewohnt hat. „Das war tatsächlich besser als Fernsehen“, gab Ola hinterher zu."
+        "no": "Resten av veien til Stavanger snakket de ikke med hverandre. Susanne stirret på veien, og Matthias stirret ut av vinduet.",
+        "de": "Den Rest der Strecke bis Stavanger sprachen sie nicht miteinander. Susanne starrte auf die Straße, und Matthias starrte aus dem Fenster."
       },
       {
-        "no": "På første påskedag skinte sola igjen, men nå lå det nesten en meter nysnø rundt hytta. Ola tryglet Per om å kjøre ham ned i bygda for å lade mobilen, men bilen satt fast i en snøfonn etter bare femti meter. Vi måkte og dyttet i over en time, mens Bamse hoppet rundt oss og trodde at alt var en lek. Til slutt var det Matthias som fant løsningen: Han la granbar under hjulene, og bilen kom løs. Per sa ikke så mye resten av dagen.",
-        "de": "Am Ostersonntag schien wieder die Sonne, aber jetzt lag fast ein Meter Neuschnee um die Hütte. Ola bettelte Per an, ihn ins Dorf hinunterzufahren, damit er sein Handy aufladen konnte, aber das Auto blieb schon nach fünfzig Metern in einer Schneewehe stecken. Wir schaufelten und schoben über eine Stunde lang, während Bamse um uns herumsprang und dachte, alles sei ein Spiel. Am Ende war es Matthias, der die Lösung fand: Er legte Fichtenzweige unter die Räder, und das Auto kam frei. Per sagte den Rest des Tages nicht mehr viel."
+        "no": "Neste morgen gikk de opp til Preikestolen. Stien var bratt og steinete, og høyere oppe lå det fortsatt snø og is. Matthias hadde med seg brodder til dem begge. Det var ikke mange folk på stien: noen pesende turister, et par løpende ungdommer og en far med en sovende baby på ryggen. Etter to timer sto de på det flate fjellplatået, rundt seks hundre meter over Lysefjorden. Susanne ble stående helt stille.",
+        "de": "Am nächsten Morgen stiegen sie zum Preikestolen hinauf. Der Pfad war steil und steinig, und weiter oben lagen noch Schnee und Eis. Matthias hatte für sie beide Spikes dabei. Es waren nicht viele Leute auf dem Pfad: ein paar keuchende Touristen, zwei laufende Jugendliche und ein Vater mit einem schlafenden Baby auf dem Rücken. Nach zwei Stunden standen sie auf dem flachen Felsplateau, rund sechshundert Meter über dem Lysefjord. Susanne blieb ganz still stehen."
       },
       {
-        "no": "Hvis vi hadde hørt på Matthias, ville vi ha blitt inne på lørdag, og vi hadde sluppet å fryse. Men da hadde vi heller ikke fått høre bestemors trollhistorie, og Ola hadde aldri oppdaget at det går an å ha det gøy uten mobil. Jeg skulle ønske at påsken varte en uke til! Om bare Matthias ikke alltid hadde rett …",
-        "de": "Wenn wir auf Matthias gehört hätten, wären wir am Samstag drinnen geblieben, und wir hätten nicht frieren müssen. Aber dann hätten wir auch Omas Trollgeschichte nicht zu hören bekommen, und Ola hätte nie entdeckt, dass man auch ohne Handy Spaß haben kann. Ich wünschte, Ostern würde noch eine Woche dauern! Wenn Matthias doch bloß nicht immer recht hätte …"
+        "no": "Matthias kom gående bort til henne. «Jeg har vært dum,» sa han. «Du har rett, jeg kjører som en bestefar. Og hvem du skriver med, er din egen sak.» Susanne satte seg på en stein. «Og du hadde rett om kartet. Uten broddene dine hadde jeg måttet snu halvveis.» Hun tok fram telefonen og viste ham svaret hun hadde sendt Erik: «Takk, men nei takk. Lykke til videre.»",
+        "de": "Matthias kam zu ihr herübergegangen. „Ich war dumm“, sagte er. „Du hast recht, ich fahre wie ein Großvater. Und mit wem du schreibst, ist deine eigene Sache.“ Susanne setzte sich auf einen Stein. „Und du hattest recht mit der Karte. Ohne deine Spikes hätte ich auf halbem Weg umkehren müssen.“ Sie holte ihr Handy heraus und zeigte ihm die Antwort, die sie Erik geschickt hatte: „Danke, aber nein danke. Alles Gute weiterhin.“"
       },
       {
-        "no": "Per sier at dette var den verste påsken noensinne. Jeg synes det var omvendt: Det var den beste påsken jeg noen gang har hatt.",
-        "de": "Per sagt, das sei das schlimmste Osterfest aller Zeiten gewesen. Ich finde, es war umgekehrt: Es war das schönste Osterfest, das ich je erlebt habe."
+        "no": "Matthias så lenge på henne, og så begynte de begge å le. «Vi er visst ikke så flinke til å krangle,» sa han.",
+        "de": "Matthias sah sie lange an, und dann fingen beide an zu lachen. „Wir können wohl nicht besonders gut streiten“, sagte er."
+      },
+      {
+        "no": "«Nei,» svarte Susanne, «men vi er ganske flinke til å bli venner igjen.» De satt der lenge, tett inntil hverandre, og så utover fjorden. Det var en god følelse.",
+        "de": "„Nein“, antwortete Susanne, „aber wir können ziemlich gut wieder Freunde werden.“ Sie saßen lange dort, dicht aneinander, und schauten über den Fjord. Es war ein gutes Gefühl."
+      },
+      {
+        "no": "«Vi sees på hytta i påsken?» spurte Matthias da de skiltes på flyplassen dagen etter. «Vi sees,» sa Susanne og smilte. «Og der er det heldigvis ikke du som kjører.»",
+        "de": "„Sehen wir uns an Ostern auf der Hütte?“, fragte Matthias, als sie sich am nächsten Tag am Flughafen trennten. „Wir sehen uns“, sagte Susanne und lächelte. „Und dort fährst zum Glück nicht du.“"
       }
     ],
     "glossary": [
       {
-        "no": "Andre påskedag",
-        "de": "Ostermontag"
+        "no": "Sørlandskysten",
+        "de": "die Küste von Sørlandet (Südnorwegen)"
       },
       {
-        "no": "har lagt seg",
-        "de": "sind schlafen gegangen"
+        "no": "foreslått",
+        "de": "vorgeschlagen"
       },
       {
-        "no": "ved peisen",
-        "de": "am Kamin"
+        "no": "langhelg",
+        "de": "langes Wochenende"
       },
       {
-        "no": "dagboka",
-        "de": "das Tagebuch"
+        "no": "leiebil",
+        "de": "Mietwagen"
       },
       {
-        "no": "på godt og vondt",
-        "de": "im Guten wie im Schlechten"
+        "no": "før turistene kommer",
+        "de": "bevor die Touristen kommen"
       },
       {
-        "no": "gledet meg til",
-        "de": "mich gefreut auf"
+        "no": "med en gang",
+        "de": "sofort"
       },
       {
-        "no": "klemt inn",
-        "de": "eingeklemmt"
+        "no": "skjærgården",
+        "de": "die Schären (Inseln vor der Küste)"
       },
       {
-        "no": "baksetet",
-        "de": "die Rückbank"
+        "no": "møttes",
+        "de": "trafen sich"
       },
       {
-        "no": "tømmerhytte",
-        "de": "Blockhütte"
+        "no": "elbil",
+        "de": "Elektroauto"
       },
       {
-        "no": "torvtak",
-        "de": "Grasdach, Torfdach"
+        "no": "sitt eget papirkart",
+        "de": "seine eigene Papierkarte"
       },
       {
-        "no": "helt for seg selv",
-        "de": "ganz für sich allein"
+        "no": "går aldri tom for strøm",
+        "de": "geht nie der Strom aus"
       },
       {
-        "no": "innlagt vann",
-        "de": "fließendes Wasser"
+        "no": "himlet med øynene",
+        "de": "verdrehte die Augen"
       },
       {
-        "no": "bøtter",
-        "de": "Eimer"
+        "no": "østover",
+        "de": "ostwärts"
       },
       {
-        "no": "klippet ut av et postkort",
-        "de": "aus einer Postkarte ausgeschnitten"
+        "no": "overraskende",
+        "de": "überraschend"
       },
       {
-        "no": "skiføre",
-        "de": "Schneeverhältnisse zum Skifahren"
+        "no": "Sommerhusene sto tomme",
+        "de": "die Ferienhäuser standen leer"
       },
       {
-        "no": "påsto",
-        "de": "behauptete"
+        "no": "en iskald vind",
+        "de": "ein eiskalter Wind"
       },
       {
-        "no": "alpinski",
-        "de": "Alpinski"
+        "no": "lå skinnende i vårsola",
+        "de": "leuchteten in der Frühlingssonne"
       },
       {
-        "no": "forelesning",
-        "de": "Vorlesung; hier: langer Vortrag"
+        "no": "en fin opplevelse",
+        "de": "ein schönes Erlebnis"
       },
       {
-        "no": "langrenn",
-        "de": "Langlauf"
+        "no": "for seg selv",
+        "de": "für sich (allein)"
       },
       {
-        "no": "tydelig uenig",
-        "de": "offensichtlich anderer Meinung"
+        "no": "vestover",
+        "de": "westwärts"
       },
       {
-        "no": "morderen",
-        "de": "der Mörder"
+        "no": "sørligste",
+        "de": "südlichste"
       },
       {
-        "no": "melkekartongen",
-        "de": "die Milchtüte"
+        "no": "nøyaktig",
+        "de": "genau"
       },
       {
-        "no": "ribbe",
-        "de": "Schweinerippe mit Kruste (Weihnachtsessen)"
+        "no": "fartsgrensen",
+        "de": "das Tempolimit"
       },
       {
-        "no": "kost meg",
-        "de": "es mir gemütlich gemacht, genossen"
+        "no": "bremset",
+        "de": "bremste"
       },
       {
-        "no": "noe som helst",
-        "de": "überhaupt etwas"
+        "no": "vokste",
+        "de": "wuchs (vokse = wachsen)"
       },
       {
-        "no": "Det er meldt",
-        "de": "es ist angesagt"
+        "no": "irriterte bilister",
+        "de": "gereizte Autofahrer"
       },
       {
-        "no": "sterk kuling",
-        "de": "stürmischer Wind (Windstärke 8)"
+        "no": "uten å se på henne",
+        "de": "ohne sie anzusehen"
       },
       {
-        "no": "tar alltid feil",
-        "de": "liegt immer daneben"
+        "no": "lei av kjøringen hans",
+        "de": "seine Fahrweise satt"
       },
       {
-        "no": "dro vi av gårde",
-        "de": "brachen wir auf"
+        "no": "Hvis det var juli, ville jeg bade",
+        "de": "Wenn jetzt Juli wäre, würde ich baden"
       },
       {
-        "no": "Ved tolvtiden",
-        "de": "gegen zwölf Uhr"
+        "no": "trakk lua ned over ørene",
+        "de": "zog die Mütze über die Ohren"
       },
       {
-        "no": "fjellvettreglene",
-        "de": "die Fjellvettregeln (Verhaltensregeln für Touren im Gebirge)"
+        "no": "tørt",
+        "de": "trocken"
       },
       {
-        "no": "Vend i tide",
-        "de": "Kehr rechtzeitig um"
+        "no": "rygge",
+        "de": "zurücksetzen, rückwärtsfahren"
       },
       {
-        "no": "gå oss vill",
-        "de": "uns verirren"
+        "no": "møteplass",
+        "de": "Ausweichstelle"
       },
       {
-        "no": "gikk strømmen",
-        "de": "fiel der Strom aus"
+        "no": "møtende bil",
+        "de": "entgegenkommendes Auto"
       },
       {
-        "no": "til sin store skrekk",
-        "de": "zu seinem großen Schrecken"
+        "no": "idet",
+        "de": "in dem Moment, als"
       },
       {
-        "no": "fyrte i peisen",
-        "de": "heizten den Kamin ein"
+        "no": "la fra kai",
+        "de": "legte ab"
       },
       {
-        "no": "skal ha bodd",
-        "de": "soll gewohnt haben, angeblich gewohnt hat"
+        "no": "hadde vi rukket ferja",
+        "de": "hätten wir die Fähre erwischt (rekke – rakk – rukket)"
       },
       {
-        "no": "tryglet Per om å",
-        "de": "bettelte Per an, zu …"
+        "no": "hadde vi kommet i tide",
+        "de": "wären wir rechtzeitig gekommen"
       },
       {
-        "no": "sluppet å fryse",
-        "de": "nicht frieren müssen"
+        "no": "Jeg skulle ønske at",
+        "de": "Ich wünschte, dass"
       },
       {
-        "no": "det går an",
-        "de": "es ist möglich, es geht"
+        "no": "Hadde de bare stått opp",
+        "de": "Wären sie doch nur aufgestanden"
       },
       {
-        "no": "an",
-        "de": "(nur in: det går an = es geht, es ist möglich)"
+        "no": "mumlet",
+        "de": "murmelte"
       },
       {
-        "no": "mi",
-        "de": "meine (feminin: dagboka mi = mein Tagebuch)"
+        "no": "en halvtime",
+        "de": "eine halbe Stunde"
       },
       {
-        "no": "tolvtiden",
-        "de": "die Mittagszeit (ved tolvtiden = gegen zwölf Uhr)"
+        "no": "Det virket som en god løsning",
+        "de": "Das schien eine gute Lösung zu sein"
       },
       {
-        "no": "helst",
-        "de": "am liebsten (noe som helst = überhaupt etwas)"
+        "no": "blinket det i en fotoboks",
+        "de": "blitzte ein Blitzer (wurde sie geblitzt)"
       },
       {
-        "no": "langfredag",
-        "de": "der Karfreitag"
+        "no": "surret",
+        "de": "summte, vibrierte"
       },
       {
-        "no": "gårde",
-        "de": "av gårde = los, fort"
+        "no": "Det er da ikke din sak",
+        "de": "Das geht dich doch nichts an"
       },
       {
-        "no": "tide",
-        "de": "i tide = rechtzeitig"
+        "no": "skarpt",
+        "de": "scharf"
       },
       {
-        "no": "hoppet",
-        "de": "sprang, hüpfte (hoppe = springen)"
+        "no": "med hverandre",
+        "de": "miteinander"
       },
       {
-        "no": "Lunsj-papiret",
-        "de": "das Papier (die Verpackung) eines Kvikk Lunsj"
+        "no": "steinete",
+        "de": "steinig"
+      },
+      {
+        "no": "høyere oppe",
+        "de": "weiter oben"
+      },
+      {
+        "no": "hadde med seg brodder til dem begge",
+        "de": "hatte für sie beide Spikes (Grödel) dabei"
+      },
+      {
+        "no": "pesende turister",
+        "de": "keuchende Touristen"
+      },
+      {
+        "no": "løpende ungdommer",
+        "de": "laufende Jugendliche"
+      },
+      {
+        "no": "ryggen",
+        "de": "der Rücken (på ryggen = auf dem Rücken)"
+      },
+      {
+        "no": "fjellplatået",
+        "de": "das Felsplateau"
+      },
+      {
+        "no": "ble stående",
+        "de": "blieb stehen"
+      },
+      {
+        "no": "kom gående",
+        "de": "kam herübergegangen"
+      },
+      {
+        "no": "hadde jeg måttet snu halvveis",
+        "de": "hätte ich auf halbem Weg umkehren müssen"
+      },
+      {
+        "no": "Lykke til videre",
+        "de": "Alles Gute weiterhin"
+      },
+      {
+        "no": "tett inntil hverandre",
+        "de": "dicht aneinander"
+      },
+      {
+        "no": "inntil",
+        "de": "dicht an, bis an"
+      },
+      {
+        "no": "en god følelse",
+        "de": "ein gutes Gefühl"
+      },
+      {
+        "no": "skiltes",
+        "de": "trennten sich"
+      },
+      {
+        "no": "heldigvis",
+        "de": "zum Glück"
       }
     ]
   },
   "extra": [
     {
       "id": "x20a",
-      "title": "Kos, krim og norsk litteratur",
-      "titleDe": "Gemütlichkeit, Krimis und norwegische Literatur",
+      "title": "Sørlandet og Stavanger",
+      "titleDe": "Sørlandet und Stavanger",
       "kind": "info",
-      "intro": "Was Norweger an Ostern machen – und was sie dabei lesen.",
+      "intro": "Weiße Holzhäuser, Schären, Öl und ein berühmter Felsen: Norwegens Süden und Südwesten.",
       "lines": [
         {
-          "no": "Påsken er en av årets viktigste ferier i Norge. Mange har fri fra skjærtorsdag til andre påskedag, og svært mange reiser på hytta, helst til fjells. Der går man på ski i påskesola, spiser appelsiner og Kvikk Lunsj og blir brun i ansiktet. Kvikk Lunsj er en sjokolade som kom i butikkene allerede i 1937, og på papiret står fjellvettreglene – gode råd for alle som skal på tur.",
-          "de": "Ostern ist in Norwegen eine der wichtigsten Ferienzeiten des Jahres. Viele haben von Gründonnerstag bis Ostermontag frei, und sehr viele fahren zur Hütte, am liebsten in die Berge. Dort fährt man in der Ostersonne Ski, isst Orangen und Kvikk Lunsj und bekommt ein braungebranntes Gesicht. Kvikk Lunsj ist eine Schokolade, die schon 1937 in die Läden kam, und auf der Verpackung stehen die Fjellvettregeln – gute Ratschläge für alle, die auf Tour gehen."
+          "no": "Sørlandet er landsdelen helt sør i Norge, langs kysten fra Risør i øst til Flekkefjord i vest. For mange nordmenn er Sørlandet selve sommerlandet: Her er det mange soltimer, en skjærgård med tusenvis av holmer og skjær, og små byer med hvite trehus. Mange av byene ble rike på skipsfart og trelast på 1700- og 1800-tallet. Det sies at husene ble malt hvite fordi hvit maling var dyr – fargen skulle vise at eieren hadde penger.",
+          "de": "Sørlandet ist der Landesteil ganz im Süden Norwegens, entlang der Küste von Risør im Osten bis Flekkefjord im Westen. Für viele Norweger ist Sørlandet das Sommerland schlechthin: Hier gibt es viele Sonnenstunden, Schären mit Tausenden von kleinen Inseln und Klippen und kleine Städte mit weißen Holzhäusern. Viele dieser Städte wurden im 18. und 19. Jahrhundert durch Schifffahrt und Holzhandel reich. Man sagt, die Häuser seien weiß gestrichen worden, weil weiße Farbe teuer war – die Farbe sollte zeigen, dass der Besitzer Geld hatte."
         },
         {
-          "no": "Men påsken er også krimtid. Tradisjonen begynte i 1923. Da sto det med store bokstaver på forsiden av Aftenposten: «Bergenstoget plyndret i natt». Mange trodde at det var en ekte nyhet, men det var reklame for en ny kriminalroman med samme tittel, skrevet av Nordahl Grieg og Nils Lie. Boka solgte godt, og siden har forlagene gitt ut nye krimbøker hver påske.",
-          "de": "Ostern ist aber auch Krimizeit. Die Tradition begann 1923. Damals stand in großen Buchstaben auf der Titelseite der Zeitung Aftenposten: „Bergenstoget plyndret i natt“ (Bergen-Zug heute Nacht ausgeraubt). Viele hielten das für eine echte Nachricht, aber es war Werbung für einen neuen Kriminalroman mit demselben Titel, geschrieben von Nordahl Grieg und Nils Lie. Das Buch verkaufte sich gut, und seitdem bringen die Verlage jedes Jahr zu Ostern neue Krimis heraus."
+          "no": "Kristiansand er den største byen på Sørlandet. Den ble grunnlagt av kong Christian 4. i 1641, og sentrum, Kvadraturen, har fortsatt rette gater som i et rutenett. Øst for Kristiansand ligger Lillesand og Grimstad. I Grimstad var den unge Henrik Ibsen lærling på et apotek. Mandal, vest for Kristiansand, er Norges sørligste by og kjent for den lange sandstranda Sjøsanden. Ikke langt unna står Lindesnes fyr, på det sørligste punktet på fastlandet.",
+          "de": "Kristiansand ist die größte Stadt in Sørlandet. Sie wurde 1641 von König Christian IV. gegründet, und das Zentrum, Kvadraturen, hat bis heute gerade Straßen wie in einem Gitternetz. Östlich von Kristiansand liegen Lillesand und Grimstad. In Grimstad war der junge Henrik Ibsen Lehrling in einer Apotheke. Mandal, westlich von Kristiansand, ist die südlichste Stadt Norwegens und bekannt für den langen Sandstrand Sjøsanden. Nicht weit davon steht der Leuchtturm Lindesnes fyr am südlichsten Punkt des norwegischen Festlands."
         },
         {
-          "no": "I dag finner man påskekrim nesten overalt: TV-kanalene sender krimserier, avisene trykker krimgåter, og på melkekartongene står det korte kriminalhistorier. Norsk krim er dessuten populær i hele verden. Jo Nesbøs bøker om politimannen Harry Hole er oversatt til mange språk, og Gunnar Staalesens privatdetektiv Varg Veum løser saker i et regnfullt Bergen. Også Anne Holt, som en kort periode var justisminister, skriver krim.",
-          "de": "Heute findet man Osterkrimis fast überall: Die Fernsehsender zeigen Krimiserien, die Zeitungen drucken Krimirätsel, und auf den Milchtüten stehen kurze Kriminalgeschichten. Norwegische Krimis sind außerdem in der ganzen Welt beliebt. Jo Nesbøs Bücher über den Polizisten Harry Hole sind in viele Sprachen übersetzt, und Gunnar Staalesens Privatdetektiv Varg Veum löst Fälle in einem verregneten Bergen. Auch Anne Holt, die kurze Zeit Justizministerin war, schreibt Krimis."
+          "no": "Stavanger ligger lenger nordvest, i Rogaland, og hører egentlig til Vestlandet. Etter at man fant olje i Nordsjøen i 1969, vokste byen raskt, og i dag kalles den ofte «oljehovedstaden». Likevel har Stavanger mye gammelt: I Gamle Stavanger står over hundre små, hvite trehus fra 1700- og 1800-tallet, og domkirken er fra middelalderen. Sør for byen ligger Jæren, et flatt jordbruksområde med lange sandstrender.",
+          "de": "Stavanger liegt weiter nordwestlich, in Rogaland, und gehört eigentlich schon zu Westnorwegen. Nachdem man 1969 in der Nordsee Öl gefunden hatte, wuchs die Stadt schnell, und heute wird sie oft „Ölhauptstadt“ genannt. Trotzdem hat Stavanger viel Altes: In Gamle Stavanger stehen über hundert kleine weiße Holzhäuser aus dem 18. und 19. Jahrhundert, und der Dom stammt aus dem Mittelalter. Südlich der Stadt liegt Jæren, ein flaches Agrargebiet mit langen Sandstränden."
         },
         {
-          "no": "Norsk litteratur er likevel mye mer enn krim. Henrik Ibsen er en av verdens mest spilte dramatikere, og fire norske forfattere har fått nobelprisen i litteratur: Bjørnstjerne Bjørnson (1903), Knut Hamsun (1920), Sigrid Undset (1928) og Jon Fosse (2023). Undsets store roman «Kristin Lavransdatter» begynner i Gudbrandsdalen på 1300-tallet – kanskje en god påskebok neste gang du er på hytta der?",
-          "de": "Die norwegische Literatur ist aber viel mehr als Krimis. Henrik Ibsen ist einer der meistgespielten Dramatiker der Welt, und vier norwegische Schriftsteller haben den Nobelpreis für Literatur bekommen: Bjørnstjerne Bjørnson (1903), Knut Hamsun (1920), Sigrid Undset (1928) und Jon Fosse (2023). Undsets großer Roman „Kristin Lavransdatter“ beginnt im 14. Jahrhundert im Gudbrandsdal – vielleicht ein gutes Osterbuch, wenn du das nächste Mal dort auf einer Hütte bist?"
+          "no": "Den mest kjente turen i området går til Preikestolen, et nesten flatt fjellplatå som ligger rundt 600 meter over Lysefjorden. Turen tar omtrent fire timer fram og tilbake, og stien er bratt flere steder, så gode sko er viktig. Om vinteren og tidlig på våren kan det ligge snø og is på stien, og da trenger man brodder. Hvert år går flere hundre tusen mennesker opp. Innerst i Lysefjorden ligger også Kjeragbolten, en stor stein som sitter fast mellom to fjellvegger – for dem som tør.",
+          "de": "Die bekannteste Wanderung der Gegend führt zum Preikestolen, einem fast flachen Felsplateau, das rund 600 Meter über dem Lysefjord liegt. Hin und zurück dauert die Tour etwa vier Stunden, und der Pfad ist an mehreren Stellen steil, deshalb sind gute Schuhe wichtig. Im Winter und im zeitigen Frühjahr können Schnee und Eis auf dem Pfad liegen, dann braucht man Spikes. Jedes Jahr steigen mehrere hunderttausend Menschen hinauf. Ganz hinten im Lysefjord liegt außerdem der Kjeragbolten, ein großer Stein, der zwischen zwei Felswänden eingeklemmt ist – für alle, die sich trauen."
         },
         {
-          "no": "Og kosen? Den er kanskje det viktigste av alt. Å ligge på sofaen med en god bok, en kopp kakao og et påskeegg fullt av godteri – det er norsk påskekos på sitt beste.",
-          "de": "Und die Gemütlichkeit? Sie ist vielleicht das Wichtigste überhaupt. Mit einem guten Buch, einer Tasse Kakao und einem Osterei voller Süßigkeiten auf dem Sofa liegen – das ist norwegische Ostergemütlichkeit vom Feinsten."
+          "no": "Og i Hafrsfjord, like ved Stavanger, står tre store sverd i fjellet. Monumentet «Sverd i fjell» minner om slaget i Hafrsfjord, der Harald Hårfagre ifølge tradisjonen samlet Norge til ett rike rundt år 872.",
+          "de": "Und am Hafrsfjord, ganz in der Nähe von Stavanger, stecken drei große Schwerter im Fels. Das Denkmal „Sverd i fjell“ (Schwerter im Fels) erinnert an die Schlacht im Hafrsfjord, in der Harald Schönhaar der Überlieferung nach um das Jahr 872 Norwegen zu einem Reich vereinte."
         }
       ],
       "glossary": [
         {
-          "no": "årets",
-          "de": "des Jahres"
+          "no": "landsdelen",
+          "de": "der Landesteil"
         },
         {
-          "no": "skjærtorsdag",
-          "de": "Gründonnerstag"
+          "no": "selve sommerlandet",
+          "de": "das Sommerland schlechthin"
         },
         {
-          "no": "andre påskedag",
-          "de": "Ostermontag"
+          "no": "soltimer",
+          "de": "Sonnenstunden"
         },
         {
-          "no": "til fjells",
-          "de": "in die Berge, ins Gebirge"
+          "no": "holmer og skjær",
+          "de": "kleine Inseln und Klippen"
         },
         {
-          "no": "påskesola",
-          "de": "die Ostersonne"
+          "no": "skipsfart",
+          "de": "Schifffahrt"
         },
         {
-          "no": "blir brun i ansiktet",
-          "de": "bekommt ein braungebranntes Gesicht"
+          "no": "trelast",
+          "de": "Bauholz, Holzhandel"
         },
         {
-          "no": "kom i butikkene",
-          "de": "kam in die Läden"
+          "no": "Det sies",
+          "de": "Man sagt"
         },
         {
-          "no": "på papiret",
-          "de": "auf der Verpackung"
+          "no": "sies",
+          "de": "wird gesagt (s-Passiv von si)"
         },
         {
-          "no": "råd",
-          "de": "Ratschläge"
+          "no": "maling",
+          "de": "Farbe (zum Streichen)"
         },
         {
-          "no": "krimtid",
-          "de": "Krimizeit"
+          "no": "eieren",
+          "de": "der Besitzer"
         },
         {
-          "no": "forsiden",
-          "de": "die Titelseite"
+          "no": "Christian 4.",
+          "de": "Christian IV. (dänisch-norwegischer König)"
         },
         {
-          "no": "plyndret",
-          "de": "ausgeraubt, geplündert"
+          "no": "kong",
+          "de": "König (vor einem Namen: kong Christian)"
         },
         {
-          "no": "nyhet",
-          "de": "Nachricht, Neuigkeit"
+          "no": "rutenett",
+          "de": "Gitternetz"
         },
         {
-          "no": "reklame",
-          "de": "Werbung"
+          "no": "lærling",
+          "de": "Lehrling"
         },
         {
-          "no": "tittel",
-          "de": "Titel"
+          "no": "apotek",
+          "de": "Apotheke"
         },
         {
-          "no": "solgte godt",
-          "de": "verkaufte sich gut"
+          "no": "sandstranda",
+          "de": "der Sandstrand"
         },
         {
-          "no": "forlagene",
-          "de": "die Verlage"
+          "no": "fyr",
+          "de": "Leuchtturm"
         },
         {
-          "no": "gitt ut",
-          "de": "herausgebracht, veröffentlicht"
+          "no": "fastlandet",
+          "de": "das Festland"
         },
         {
-          "no": "trykker",
-          "de": "drucken"
+          "no": "hører egentlig til",
+          "de": "gehört eigentlich zu"
         },
         {
-          "no": "krimgåter",
-          "de": "Krimirätsel"
+          "no": "Nordsjøen",
+          "de": "die Nordsee"
         },
         {
-          "no": "kriminalhistorier",
-          "de": "Kriminalgeschichten"
+          "no": "kalles",
+          "de": "wird genannt"
         },
         {
-          "no": "politimannen",
-          "de": "der Polizist"
+          "no": "oljehovedstaden",
+          "de": "die Ölhauptstadt"
         },
         {
-          "no": "er oversatt",
-          "de": "sind übersetzt"
+          "no": "jordbruksområde",
+          "de": "Agrargebiet"
         },
         {
-          "no": "privatdetektiv",
-          "de": "Privatdetektiv"
+          "no": "fjellplatå",
+          "de": "Felsplateau"
         },
         {
-          "no": "regnfullt",
-          "de": "verregnet"
+          "no": "fram og tilbake",
+          "de": "hin und zurück"
         },
         {
-          "no": "en kort periode",
-          "de": "eine kurze Zeit lang"
+          "no": "Innerst i",
+          "de": "ganz hinten in"
         },
         {
-          "no": "justisminister",
-          "de": "Justizminister(in)"
+          "no": "fjellvegger",
+          "de": "Felswände"
         },
         {
-          "no": "likevel",
-          "de": "trotzdem, dennoch"
+          "no": "for dem som tør",
+          "de": "für alle, die sich trauen"
         },
         {
-          "no": "mest spilte",
-          "de": "meistgespielte"
+          "no": "sverd",
+          "de": "Schwerter"
         },
         {
-          "no": "dramatikere",
-          "de": "Dramatiker"
+          "no": "minner om",
+          "de": "erinnert an"
         },
         {
-          "no": "nobelprisen",
-          "de": "der Nobelpreis"
+          "no": "Harald Hårfagre",
+          "de": "Harald Schönhaar (erster König über ganz Norwegen)"
         },
         {
-          "no": "på 1300-tallet",
-          "de": "im 14. Jahrhundert"
+          "no": "ifølge tradisjonen",
+          "de": "der Überlieferung nach"
         },
         {
-          "no": "påskeegg",
-          "de": "Osterei (meist aus Pappe, mit Süßigkeiten gefüllt)"
+          "no": "rike",
+          "de": "Reich"
         },
         {
-          "no": "godteri",
-          "de": "Süßigkeiten"
+          "no": "i øst",
+          "de": "im Osten"
         },
         {
-          "no": "på sitt beste",
-          "de": "vom Feinsten"
+          "no": "øst",
+          "de": "Osten, östlich"
         },
         {
-          "no": "Fosse",
-          "de": "Jon Fosse (norwegischer Schriftsteller, Nobelpreis 2023)"
+          "no": "Monumentet",
+          "de": "das Denkmal"
         },
         {
-          "no": "TV-kanalene",
-          "de": "die Fernsehsender"
+          "no": "tidlig på våren",
+          "de": "im zeitigen Frühjahr"
+        },
+        {
+          "no": "brodder",
+          "de": "Spikes, Grödel (zum Unterschnallen)"
         }
       ]
     }
   ],
   "wk": {
-    "title": "Skiftende skydekke",
-    "titleDe": "Wechselnde Bewölkung",
+    "title": "Bil og trafikk",
+    "titleDe": "Auto und Verkehr",
     "phrases": [
       {
-        "no": "Skiftende skydekke.",
-        "de": "Wechselnde Bewölkung.",
-        "note": "Typischer Ausdruck aus dem Wetterbericht."
+        "no": "Har du førerkort?",
+        "de": "Hast du einen Führerschein?"
       },
       {
-        "no": "Hva sier værmeldingen?",
-        "de": "Was sagt der Wetterbericht?"
+        "no": "Vi har leid en bil for hele helga.",
+        "de": "Wir haben für das ganze Wochenende ein Auto gemietet."
       },
       {
-        "no": "Det er meldt sol i hele påsken.",
-        "de": "Für die ganzen Ostertage ist Sonne angesagt.",
-        "note": "meldt = angesagt, vorhergesagt"
+        "no": "Husk å ta på setebeltet!",
+        "de": "Denk daran, dich anzuschnallen!",
+        "note": "Die Gurtpflicht gilt auf allen Plätzen."
       },
       {
-        "no": "Det er ventet nedbør i hele landet.",
-        "de": "Im ganzen Land wird Niederschlag erwartet."
+        "no": "Fartsgrensen er 80 her.",
+        "de": "Hier gilt Tempo 80.",
+        "note": "Außerhalb geschlossener Ortschaften meist 80 km/h, innerorts 50 km/h."
       },
       {
-        "no": "Det klarner opp utover dagen.",
-        "de": "Im Laufe des Tages klart es auf."
+        "no": "Jeg ble tatt i fotoboks.",
+        "de": "Ich bin geblitzt worden."
       },
       {
-        "no": "Sola titter fram.",
-        "de": "Die Sonne kommt hervor."
+        "no": "Vi må lade bilen.",
+        "de": "Wir müssen das Auto laden.",
+        "note": "Bei einem Benziner: Vi må fylle bensin."
       },
       {
-        "no": "Det blåser opp.",
-        "de": "Der Wind frischt auf."
+        "no": "Hvor er nærmeste ladestasjon?",
+        "de": "Wo ist die nächste Ladestation?"
       },
       {
-        "no": "Det er sterk kuling på fjellet.",
-        "de": "In den Bergen weht ein stürmischer Wind.",
-        "note": "Vom schwächsten zum stärksten Wind: bris – kuling – storm – orkan."
+        "no": "Ta andre avkjørsel i rundkjøringen.",
+        "de": "Nimm im Kreisverkehr die zweite Ausfahrt."
       },
       {
-        "no": "Det snør tett.",
-        "de": "Es schneit dicht."
+        "no": "Du har vikeplikt.",
+        "de": "Du musst die Vorfahrt beachten.",
+        "note": "Wenn nichts anderes beschildert ist, gilt rechts vor links (høyreregelen)."
       },
       {
-        "no": "Det laver ned.",
-        "de": "Es schüttet. / Es schneit in Massen.",
-        "note": "Umgangssprachlich, für sehr starken Regen oder Schnee."
+        "no": "Kjør inn på møteplassen!",
+        "de": "Fahr in die Ausweichstelle!",
+        "note": "Auf schmalen Straßen gibt es Ausweichstellen, markiert mit einem M-Schild."
       },
       {
-        "no": "Sikten er dårlig.",
-        "de": "Die Sicht ist schlecht."
+        "no": "Vi må rygge litt.",
+        "de": "Wir müssen ein Stück zurücksetzen."
       },
       {
-        "no": "Det er fare for snøskred.",
-        "de": "Es besteht Lawinengefahr."
+        "no": "Ikke kjør forbi i svingen!",
+        "de": "Überhol nicht in der Kurve!"
       },
       {
-        "no": "Det er ti kuldegrader.",
-        "de": "Es sind zehn Grad unter null.",
-        "note": "Auch: Det er minus ti (grader)."
+        "no": "Det er kø på E18.",
+        "de": "Auf der E18 ist Stau."
       },
       {
-        "no": "Det er bikkjekaldt!",
-        "de": "Es ist hundekalt!"
+        "no": "Ferja går hver halvtime.",
+        "de": "Die Fähre fährt jede halbe Stunde."
       },
       {
-        "no": "Det er mildvær og slaps.",
-        "de": "Es ist mild und matschig."
+        "no": "Vi rakk ikke ferja.",
+        "de": "Wir haben die Fähre verpasst.",
+        "note": "rekke (rakk, rukket) = rechtzeitig erreichen, schaffen"
       },
       {
-        "no": "Det er glatt på veiene.",
-        "de": "Auf den Straßen ist es glatt."
+        "no": "Vi har fått punktering.",
+        "de": "Wir haben einen Platten."
       },
       {
-        "no": "Det er perfekt skiføre.",
-        "de": "Der Schnee ist perfekt zum Skifahren.",
-        "note": "føre = Zustand von Schnee oder Weg: godt føre, dårlig føre, glatt føre."
+        "no": "Hvor kan vi parkere?",
+        "de": "Wo können wir parken?"
       },
       {
-        "no": "Uværet har gitt seg.",
-        "de": "Das Unwetter hat sich gelegt."
+        "no": "Jeg fikk parkeringsbot.",
+        "de": "Ich habe einen Strafzettel fürs Falschparken bekommen."
       },
       {
-        "no": "Værmeldingen tok feil.",
-        "de": "Der Wetterbericht lag daneben."
+        "no": "Vi kjørte gjennom en bomstasjon.",
+        "de": "Wir sind durch eine Mautstelle gefahren.",
+        "note": "Die Maut (bompenger) wird meist automatisch über das Kennzeichen abgerechnet."
       },
       {
-        "no": "Det finnes ikke dårlig vær, bare dårlige klær.",
-        "de": "Es gibt kein schlechtes Wetter, nur schlechte Kleidung.",
-        "note": "Beliebtes norwegisches Sprichwort."
+        "no": "Kjør forsiktig!",
+        "de": "Fahr vorsichtig!"
       }
     ]
   },
   "grammar": [
     {
       "id": "g20_irreal",
-      "title": "Irreale Bedingungssätze und Wünsche",
+      "title": "Irreale/hypothetische Aussagen",
       "titleNo": "irreale betingelsessetninger og ønsker",
-      "summary": "Unwirkliches drückst du mit Präteritum bzw. Plusquamperfekt aus: Hvis jeg hadde tid, ville jeg … – einen Konjunktiv II wie im Deutschen gibt es nicht.",
+      "summary": "Unwirkliches drückst du mit Präteritum bzw. Plusquamperfekt aus: Hvis jeg hadde tid, ville jeg … / Hvis du hadde hørt på meg, hadde vi … – einen Konjunktiv II wie im Deutschen gibt es nicht.",
       "sections": [
         {
           "h": "Unwirklich in der Gegenwart",
-          "body": "Für eine unwirkliche Bedingung in der Gegenwart steht im hvis-Satz das **Präteritum**, im Hauptsatz **ville + Infinitiv**:\n\n• **Hvis jeg hadde tid, ville jeg gå på ski.** (Wenn ich Zeit hätte, würde ich Ski fahren.)\n• **Hvis det var strøm, kunne vi se påskekrim.** (Wenn es Strom gäbe, könnten wir den Osterkrimi sehen.)\n\nDas Deutsche braucht dafür den Konjunktiv II (hätte, wäre, würde, könnte). Das Norwegische benutzt einfach die Vergangenheitsformen – erst der Zusammenhang zeigt, dass es unwirklich ist. Statt **ville** steht auch **kunne** (könnte) oder **skulle** (sollte).\n\nHöflich und vorsichtig: **Det hadde vært fint om du kom.** (Es wäre schön, wenn du kämst.)\n\nWie immer gilt: Steht der hvis-Satz vorn, folgt Inversion: **…, ville jeg …**"
+          "body": "Für eine unwirkliche Bedingung in der Gegenwart steht im hvis-Satz das **Präteritum**, im Hauptsatz **ville + Infinitiv**:\n\n• **Hvis jeg hadde tid, ville jeg kjøre langs hele kysten.** (Wenn ich Zeit hätte, würde ich die ganze Küste entlangfahren.)\n• **Hvis det var juli, ville jeg bade.** (Wenn jetzt Juli wäre, würde ich baden.)\n\nDas Deutsche braucht dafür den Konjunktiv II (hätte, wäre, würde, könnte). Das Norwegische benutzt einfach die Vergangenheitsformen – erst der Zusammenhang zeigt, dass es unwirklich ist. Statt **ville** steht auch **kunne** (könnte) oder **skulle** (sollte): **Hvis det var sommer, kunne vi bade.**\n\nHöflich und vorsichtig: **Det hadde vært fint om du kjørte litt fortere.** (Es wäre schön, wenn du ein bisschen schneller fahren würdest.)\n\nWie immer gilt: Steht der hvis-Satz vorn, folgt Inversion: **…, ville jeg …**"
         },
         {
           "h": "Unwirklich in der Vergangenheit",
-          "body": "Für die Vergangenheit steht im hvis-Satz das **Plusquamperfekt**. Im Hauptsatz gibt es zwei gleich gute Möglichkeiten:\n\n• **Hvis vi hadde hørt på værmeldingen, ville vi ha blitt hjemme.**\n• **Hvis vi hadde hørt på værmeldingen, hadde vi blitt hjemme.**\n(Wenn wir auf den Wetterbericht gehört hätten, wären wir zu Hause geblieben.)\n\nIn der gesprochenen Sprache fällt **ha** oft weg: **ville vi blitt hjemme**.\n\nWie im Deutschen kann der Bedingungssatz auch ohne **hvis** stehen, dann mit dem Verb zuerst: **Hadde vi hørt på Matthias, hadde vi sluppet å fryse.** (Hätten wir auf Matthias gehört, hätten wir nicht frieren müssen.)\n\nAchtung: Wo das Deutsche „wäre … geblieben/gegangen“ sagt, steht im Norwegischen immer **ha**: **hadde blitt, hadde gått, ville ha reist** (nie *var blitt).",
+          "body": "Für die Vergangenheit steht im hvis-Satz das **Plusquamperfekt**. Im Hauptsatz gibt es zwei gleich gute Möglichkeiten:\n\n• **Hvis vi hadde tatt den første ferja, ville vi ha vært framme nå.**\n• **Hvis vi hadde tatt den første ferja, hadde vi vært framme nå.**\n(Wenn wir die erste Fähre genommen hätten, wären wir jetzt schon da.)\n\nIn der gesprochenen Sprache fällt **ha** oft weg: **ville vi vært framme nå**.\n\nWie im Deutschen kann der Bedingungssatz auch ohne **hvis** stehen, dann mit dem Verb zuerst: **Hadde du hørt på meg, hadde vi rukket ferja.** (Hättest du auf mich gehört, hätten wir die Fähre erwischt.) Oft steht die Bedingung auch nur in einer Präposition: **Uten broddene hadde jeg måttet snu.** (Ohne die Spikes hätte ich umkehren müssen.) Rein hypothetisch: **Jeg ville ikke ha gjort det.** (Ich hätte das nicht getan.)\n\nAchtung: Das Deutsche wechselt zwischen „hätte“ und „wäre“ – im Norwegischen steht hier **hadde**: **hadde kjørt** (wäre gefahren), **hadde kommet** (wäre gekommen), **ville ha reist** (wäre gereist).",
           "table": [
             [
               "",
@@ -563,68 +635,68 @@
             [
               "Gegenwart",
               "Präteritum: hvis jeg hadde tid",
-              "ville + Infinitiv: ville jeg gå på ski"
+              "ville + Infinitiv: ville jeg kjøre"
             ],
             [
               "Vergangenheit",
               "Plusquamperfekt: hvis jeg hadde hatt tid",
-              "ville ha + Partizip oder hadde + Partizip: ville jeg ha gått / hadde jeg gått"
+              "ville ha + Partizip oder hadde + Partizip: ville jeg ha kjørt / hadde jeg kjørt"
             ]
           ]
         },
         {
           "h": "Wünsche: Jeg skulle ønske … und Om bare …!",
-          "body": "Unerfüllbare Wünsche drückst du mit **Jeg skulle ønske (at) …** aus – wieder mit Präteritum (Gegenwart) oder Plusquamperfekt (Vergangenheit):\n\n• **Jeg skulle ønske at det var sol.** (Ich wünschte, die Sonne würde scheinen.)\n• **Jeg skulle ønske at vi hadde blitt hjemme.** (Ich wünschte, wir wären zu Hause geblieben.)\n\nAusrufe mit **Om bare …!** oder **Hvis bare …!** (Wenn doch nur …!) haben Nebensatz-Wortstellung:\n\n• **Om bare strømmen kom tilbake!**\n• **Hvis jeg bare hadde tatt med en lommelykt!**\n\nIst das Subjekt ein Pronomen, steht **bare** meist dahinter: **Om vi bare hadde hørt på Matthias!**\n\n**Jeg skulle ønske** ist eine feste Wendung. Einen erfüllbaren Wunsch drückst du mit **Jeg håper …** aus: **Jeg håper det blir sol i morgen.**"
+          "body": "Unerfüllbare Wünsche drückst du mit **Jeg skulle ønske (at) …** aus – wieder mit Präteritum (Gegenwart) oder Plusquamperfekt (Vergangenheit):\n\n• **Jeg skulle ønske at det var sol.** (Ich wünschte, die Sonne würde scheinen.)\n• **Jeg skulle ønske at jeg hadde tatt bussen.** (Ich wünschte, ich hätte den Bus genommen.)\n\nAusrufe mit **Om bare …!** oder **Hvis bare …!** (Wenn doch nur …!) haben Nebensatz-Wortstellung:\n\n• **Om bare ferja ventet på oss!**\n• **Hvis jeg bare hadde tatt med brodder!**\n\nIst das Subjekt ein Pronomen, steht **bare** meist dahinter: **Om vi bare hadde stått opp tidligere!** Ohne om/hvis beginnt der Ausruf mit dem Verb: **Hadde vi bare stått opp tidligere!** (Wären wir doch nur früher aufgestanden!)\n\n**Jeg skulle ønske** ist eine feste Wendung. Einen erfüllbaren Wunsch drückst du mit **Jeg håper …** aus: **Jeg håper det blir sol i morgen.**"
         }
       ],
       "drills": [
         {
-          "prompt": "Hvis jeg ___ mer tid, ville jeg gå på ski hver dag. (ha)",
-          "de": "Wenn ich mehr Zeit hätte, würde ich jeden Tag Ski fahren.",
+          "prompt": "Hvis jeg ___ mer tid, ville jeg kjøre langs hele kysten. (ha)",
+          "de": "Wenn ich mehr Zeit hätte, würde ich die ganze Küste entlangfahren.",
           "answer": [
             "hadde"
           ],
           "explain": "Unwirklich in der Gegenwart: Präteritum im hvis-Satz."
         },
         {
-          "prompt": "Hvis det var strøm, ___ vi se påskekrim. (kan)",
-          "de": "Wenn es Strom gäbe, könnten wir den Osterkrimi sehen.",
+          "prompt": "Hvis det var sommer, ___ vi bade på Sjøsanden. (kan)",
+          "de": "Wenn Sommer wäre, könnten wir am Sjøsanden baden.",
           "answer": [
             "kunne"
           ],
           "explain": "„könnte“ = kunne + Infinitiv (Präteritum von kan)."
         },
         {
-          "prompt": "Hvis Ola hadde mobilen sin, ___ han ikke snakke med noen. (vil)",
-          "de": "Wenn Ola sein Handy hätte, würde er mit niemandem reden.",
+          "prompt": "Hvis alle kjørte som Matthias, ___ det ikke skje så mange ulykker. (vil)",
+          "de": "Wenn alle wie Matthias fahren würden, würden nicht so viele Unfälle passieren.",
           "answer": [
             "ville"
           ],
-          "explain": "„würde“ = ville + Infinitiv; nach dem hvis-Satz folgt Inversion (ville han)."
+          "explain": "„würde“ = ville + Infinitiv; nach dem hvis-Satz folgt Inversion (ville det)."
         },
         {
-          "prompt": "Hvis vi hadde ___ på værmeldingen, hadde vi blitt hjemme. (høre)",
-          "de": "Wenn wir auf den Wetterbericht gehört hätten, wären wir zu Hause geblieben.",
+          "prompt": "Hvis du hadde ___ på meg, hadde vi rukket ferja. (høre)",
+          "de": "Wenn du auf mich gehört hättest, hätten wir die Fähre erwischt.",
           "answer": [
             "hørt"
           ],
           "explain": "Vergangenheit: hadde + Partizip (hørt)."
         },
         {
-          "prompt": "Hvis vi hadde hørt på Matthias, ville vi ___ blitt inne.",
-          "de": "Wenn wir auf Matthias gehört hätten, wären wir drinnen geblieben.",
+          "prompt": "Hvis vi hadde tatt den første ferja, ville vi ___ vært framme nå.",
+          "de": "Wenn wir die erste Fähre genommen hätten, wären wir jetzt schon da.",
           "answer": [
             "ha"
           ],
           "explain": "Unwirklich in der Vergangenheit: ville ha + Partizip."
         },
         {
-          "prompt": "Hvis bilen ikke hadde ___ fast, hadde vi kommet ned i bygda. (sitte)",
-          "de": "Wenn das Auto nicht stecken geblieben wäre, wären wir ins Dorf hinuntergekommen.",
+          "prompt": "Hvis Susanne ikke hadde ___ så fort, hadde hun ikke fått bot. (kjøre)",
+          "de": "Wenn Susanne nicht so schnell gefahren wäre, hätte sie kein Bußgeld bekommen.",
           "answer": [
-            "sittet"
+            "kjørt"
           ],
-          "explain": "sitte fast – satt fast – har/hadde sittet fast."
+          "explain": "Deutsch „wäre gefahren“ – Norwegisch hadde kjørt (immer ha)."
         },
         {
           "prompt": "Jeg ___ ønske at det var sol i dag.",
@@ -635,28 +707,28 @@
           "explain": "Unerfüllbarer Wunsch: Jeg skulle ønske (at) …"
         },
         {
-          "prompt": "Jeg skulle ønske at påsken ___ en uke til. (vare)",
-          "de": "Ich wünschte, Ostern würde noch eine Woche dauern.",
+          "prompt": "Jeg skulle ønske at langhelga ___ en uke til. (vare)",
+          "de": "Ich wünschte, das lange Wochenende würde noch eine Woche dauern.",
           "answer": [
             "varte"
           ],
           "explain": "Nach skulle ønske steht für die Gegenwart das Präteritum: varte."
         },
         {
-          "prompt": "Om vi bare ___ hørt på Matthias! (ha)",
-          "de": "Wenn wir doch nur auf Matthias gehört hätten!",
+          "prompt": "Om vi bare ___ stått opp tidligere! (ha)",
+          "de": "Wären wir doch nur früher aufgestanden!",
           "answer": [
             "hadde"
           ],
-          "explain": "Wunsch über die Vergangenheit: Plusquamperfekt (hadde hørt)."
+          "explain": "Wunsch über die Vergangenheit: Plusquamperfekt (hadde stått opp)."
         },
         {
-          "prompt": "___ vi hørt på Matthias, hadde vi sluppet å fryse. (ha, ohne hvis)",
-          "de": "Hätten wir auf Matthias gehört, hätten wir nicht frieren müssen.",
+          "prompt": "___ du hørt på meg, hadde vi vært framme nå. (ha, ohne hvis)",
+          "de": "Hättest du auf mich gehört, wären wir jetzt schon da.",
           "answer": [
             "Hadde"
           ],
-          "explain": "Ohne hvis beginnt der Bedingungssatz mit dem Verb – wie „Hätten wir …“."
+          "explain": "Ohne hvis beginnt der Bedingungssatz mit dem Verb – wie „Hättest du …“."
         },
         {
           "prompt": "Hvis jeg ___ deg, ville jeg ikke svare Erik. (være)",
@@ -667,8 +739,8 @@
           "explain": "„wäre“ in der Gegenwart = var."
         },
         {
-          "prompt": "Det ___ vært hyggelig om du kom på besøk. (ha)",
-          "de": "Es wäre schön, wenn du zu Besuch kämst.",
+          "prompt": "Det ___ vært fint om du kjørte litt fortere. (ha)",
+          "de": "Es wäre schön, wenn du ein bisschen schneller fahren würdest.",
           "answer": [
             "hadde"
           ],
@@ -678,17 +750,17 @@
     },
     {
       "id": "g20_preposisjon_infinitiv",
-      "title": "Präposition + Infinitiv oder Nebensatz",
+      "title": "+ Nebensatz/Infinitiv",
       "titleNo": "preposisjon + infinitiv eller at-setning",
       "summary": "Nach einer Präposition steht å + Infinitiv oder ein at-Satz – ohne „darauf“, „daran“ oder „davor“ wie im Deutschen.",
       "sections": [
         {
           "h": "Präposition + å + Infinitiv",
-          "body": "Viele Verben, Adjektive und Substantive haben eine feste Präposition. Folgt eine Handlung, steht **å + Infinitiv** direkt nach der Präposition. Ein Wort wie „darauf“, „daran“ oder „davor“ gibt es nicht:\n\n• **Jeg gleder meg til å reise.** (Ich freue mich darauf, zu verreisen.)\n• **Matthias er flink til å løse problemer.** (Matthias kann gut Probleme lösen.)\n• **Ola tenker bare på å lade mobilen.** (Ola denkt nur daran, sein Handy aufzuladen.)\n\nDasselbe gilt nach freien Präpositionen:\n\n• **uten å si noe** (ohne etwas zu sagen)\n• **i stedet for å gå på ski** (statt Ski zu fahren)\n• **for å lade mobilen** (um das Handy aufzuladen)\n• **etter å ha spist** (nachdem wir gegessen hatten) – Vergangenheit mit **å ha + Partizip**"
+          "body": "Viele Verben, Adjektive und Substantive haben eine feste Präposition. Folgt eine Handlung, steht **å + Infinitiv** direkt nach der Präposition. Ein Wort wie „darauf“, „daran“ oder „davor“ gibt es nicht:\n\n• **Jeg gleder meg til å kjøre langs kysten.** (Ich freue mich darauf, die Küste entlangzufahren.)\n• **Matthias er flink til å lese kart.** (Matthias kann gut Karten lesen.)\n• **Susanne tenker bare på å rekke ferja.** (Susanne denkt nur daran, die Fähre zu erwischen.)\n\nDasselbe gilt nach freien Präpositionen:\n\n• **uten å si noe** (ohne etwas zu sagen)\n• **i stedet for å kjøre kystveien** (statt die Küstenstraße zu fahren)\n• **for å lade bilen** (um das Auto zu laden)\n• **etter å ha spist** (nachdem wir gegessen hatten) – Vergangenheit mit **å ha + Partizip**"
         },
         {
           "h": "Präposition + at-Satz",
-          "body": "Hat der Nebensatz ein eigenes Subjekt, steht nach der Präposition ein **at**-Satz. Die Präposition bleibt stehen!\n\n• **Kari er redd for at bilen ikke starter.** (Kari hat Angst, dass das Auto nicht anspringt.)\n• **Vi gleder oss til at sola kommer tilbake.** (Wir freuen uns darauf, dass die Sonne zurückkommt.)\n• **Per var ikke glad for at Matthias hadde rett.** (Per war nicht froh darüber, dass Matthias recht hatte.)\n\nTypischer Fehler: *Vi gleder oss at … – die Präposition darf nicht fehlen: **Vi gleder oss til at …**\n\nVergleich: gleiches Subjekt → meist Infinitiv: **Jeg er redd for å gå meg vill.** Anderes Subjekt → at-Satz: **Jeg er redd for at du går deg vill.**\n\nIm at-Satz gilt Nebensatz-Wortstellung: **ikke** vor dem Verb."
+          "body": "Hat der Nebensatz ein eigenes Subjekt, steht nach der Präposition ein **at**-Satz. Die Präposition bleibt stehen!\n\n• **Hun er redd for at bilen ikke starter.** (Sie hat Angst, dass das Auto nicht anspringt.)\n• **Vi gleder oss til at det blir vår.** (Wir freuen uns darauf, dass es Frühling wird.)\n• **Susanne var ikke glad for at Matthias hadde rett.** (Susanne war nicht froh darüber, dass Matthias recht hatte.)\n\nTypischer Fehler: *Vi gleder oss at … – die Präposition darf nicht fehlen: **Vi gleder oss til at …**\n\nVergleich: gleiches Subjekt → meist Infinitiv: **Jeg er redd for å gå meg vill.** Anderes Subjekt → at-Satz: **Jeg er redd for at du går deg vill.**\n\nIm at-Satz gilt Nebensatz-Wortstellung: **ikke** vor dem Verb."
         },
         {
           "h": "Wichtige feste Verbindungen",
@@ -711,6 +783,10 @@
               "träumen von"
             ],
             [
+              "ha lyst til",
+              "Lust haben zu"
+            ],
+            [
               "være flink til",
               "gut sein in, etwas gut können"
             ],
@@ -731,10 +807,6 @@
               "satthaben, genug haben von"
             ],
             [
-              "trygle om",
-              "anflehen, betteln um"
-            ],
-            [
               "passe på",
               "aufpassen auf"
             ]
@@ -743,72 +815,72 @@
       ],
       "drills": [
         {
-          "prompt": "Jeg gleder meg ___ å se hytta.",
-          "de": "Ich freue mich darauf, die Hütte zu sehen.",
+          "prompt": "Jeg gleder meg ___ å se Preikestolen.",
+          "de": "Ich freue mich darauf, den Preikestolen zu sehen.",
           "answer": [
             "til"
           ],
           "explain": "glede seg til + å + Infinitiv."
         },
         {
-          "prompt": "Kari var redd ___ at vi skulle gå oss vill.",
-          "de": "Kari hatte Angst, dass wir uns verirren würden.",
+          "prompt": "Matthias var redd ___ at de skulle kjøre seg vill.",
+          "de": "Matthias hatte Angst, dass sie sich verfahren würden.",
           "answer": [
             "for"
           ],
           "explain": "være redd for – die Präposition bleibt auch vor dem at-Satz stehen."
         },
         {
-          "prompt": "Matthias er flink ___ å løse praktiske problemer.",
-          "de": "Matthias kann gut praktische Probleme lösen.",
+          "prompt": "Matthias er flink ___ å lese kart.",
+          "de": "Matthias kann gut Karten lesen.",
           "answer": [
             "til"
           ],
           "explain": "være flink til å = etwas gut können."
         },
         {
-          "prompt": "Kari leste en krimroman i stedet ___ å gå på ski.",
-          "de": "Kari las einen Krimi, statt Ski zu fahren.",
+          "prompt": "Susanne tok E39 i stedet ___ å følge kystveien.",
+          "de": "Susanne nahm die E39, statt der Küstenstraße zu folgen.",
           "answer": [
             "for"
           ],
           "explain": "i stedet for å = statt zu."
         },
         {
-          "prompt": "Matthias gikk ut ___ å si noe. (ohne)",
-          "de": "Matthias ging hinaus, ohne etwas zu sagen.",
+          "prompt": "Matthias kjørte videre ___ å si noe. (ohne)",
+          "de": "Matthias fuhr weiter, ohne etwas zu sagen.",
           "answer": [
             "uten"
           ],
           "explain": "uten å = ohne zu."
         },
         {
-          "prompt": "Etter å ___ spist gikk vi ut for å måke snø.",
-          "de": "Nachdem wir gegessen hatten, gingen wir hinaus, um Schnee zu schaufeln.",
+          "prompt": "Etter å ___ spist frokost kjørte de ned til kaia.",
+          "de": "Nachdem sie gefrühstückt hatten, fuhren sie hinunter zum Kai.",
           "answer": [
             "ha"
           ],
           "explain": "Vorzeitigkeit: etter å ha + Partizip."
         },
         {
-          "prompt": "Ola tenker bare ___ å lade mobilen sin.",
-          "de": "Ola denkt nur daran, sein Handy aufzuladen.",
+          "prompt": "Susanne tenkte bare ___ å rekke ferja.",
+          "de": "Susanne dachte nur daran, die Fähre zu erwischen.",
           "answer": [
             "på"
           ],
           "explain": "tenke på = denken an."
         },
         {
-          "prompt": "Bestemor er vant ___ å bo uten innlagt vann.",
-          "de": "Oma ist es gewohnt, ohne fließendes Wasser zu wohnen.",
+          "prompt": "Jeg har lyst ___ å bade, men vannet er for kaldt.",
+          "de": "Ich hätte Lust zu baden, aber das Wasser ist zu kalt.",
           "answer": [
             "til"
           ],
-          "explain": "være vant til å = gewohnt sein."
+          "explain": "ha lyst til å = Lust haben zu."
         },
         {
-          "prompt": "Per var ikke glad ___ at Matthias hadde rett.",
-          "de": "Per war nicht froh darüber, dass Matthias recht hatte.",
+          "prompt": "Susanne var ikke glad ___ at Matthias hadde rett.",
+          "de": "Susanne war nicht froh darüber, dass Matthias recht hatte.",
           "answer": [
             "for",
             "over"
@@ -816,256 +888,692 @@
           "explain": "være glad for at … – die Präposition steht vor dem at-Satz."
         },
         {
-          "prompt": "Anna drømmer ___ å bli barnelege.",
-          "de": "Anna träumt davon, Kinderärztin zu werden.",
+          "prompt": "Susanne drømmer ___ å kjøre langs hele kysten en gang.",
+          "de": "Susanne träumt davon, einmal die ganze Küste entlangzufahren.",
           "answer": [
             "om"
           ],
           "explain": "drømme om = träumen von."
         },
         {
-          "prompt": "Vi kjørte ned i bygda ___ å lade telefonene. (um … zu)",
-          "de": "Wir fuhren ins Dorf hinunter, um die Telefone aufzuladen.",
+          "prompt": "De stoppet i Mandal ___ å lade bilen. (um … zu)",
+          "de": "Sie hielten in Mandal, um das Auto zu laden.",
           "answer": [
             "for"
           ],
           "explain": "for å = um zu."
         },
         {
-          "prompt": "Kari er redd for at bilen ___ starter. (nicht)",
-          "de": "Kari hat Angst, dass das Auto nicht anspringt.",
+          "prompt": "Hun er redd for at bilen ___ starter. (nicht)",
+          "de": "Sie hat Angst, dass das Auto nicht anspringt.",
           "answer": [
             "ikke"
           ],
           "explain": "Im at-Satz steht ikke vor dem Verb."
         }
       ]
+    },
+    {
+      "id": "g20_presens_partisipp",
+      "title": "Das Partizip Präsens",
+      "titleNo": "presens partisipp",
+      "summary": "Mit -ende bildest du das Partizip Präsens (kjørende, sovende). Es ist unveränderlich und steht als Adjektiv, als Adverb und nach bli oder komme.",
+      "sections": [
+        {
+          "h": "Bildung",
+          "body": "Infinitiv + **-ende**; ein End-e fällt weg:\n\n• **kjøre → kjørende**, **sove → sovende**, **smile → smilende**, **overraske → overraskende**\n• einsilbige Verben: **gå → gående**, **stå → stående**, **bo → boende**, **se → seende**\n\nDas Partizip ist **unveränderlich**: **en sovende baby, et sovende barn, sovende barn**."
+        },
+        {
+          "h": "Als Adjektiv, Adverb und Substantiv",
+          "body": "• Adjektiv: **en sovende baby** (ein schlafendes Baby), **møtende trafikk** (Gegenverkehr), **pesende turister** (keuchende Touristen)\n• ohne Artikel in Zeitangaben: **kommende helg** (nächstes Wochenende), **kommende uke**\n• Adverb, meist vor einem Adjektiv: **Det var overraskende stille.** (überraschend still) Auch: **Hun snakker flytende norsk.** (Sie spricht fließend Norwegisch.)\n• Substantiv: **de reisende** (die Reisenden), **en forbipasserende** (ein Passant)\n\nIm Deutschen sind lange Partizipkonstruktionen üblich („der im Auto sitzende Mann“). Im Norwegischen nimmt man dafür einen Relativsatz: **mannen som sitter i bilen**."
+        },
+        {
+          "h": "Mit bli und komme",
+          "body": "**bli + Partizip Präsens** (nur mit Verben der Lage: **sitte, stå, ligge, bo**) = in dieser Lage bleiben:\n\n• **Hun ble sittende i bilen.** (Sie blieb im Auto sitzen.)\n• **Susanne ble stående helt stille.** (Susanne blieb ganz still stehen.)\n• **Mange blir boende i Tromsø.** (Viele bleiben in Tromsø wohnen.)\n\n**komme + Partizip Präsens** = auf eine bestimmte Art herankommen:\n\n• **Han kom løpende.** (Er kam angelaufen.)\n• **Matthias kom gående bort til henne.** (Matthias kam zu ihr herübergegangen.)\n\nAchtung: Das Deutsche sagt „angelaufen kommen“ mit Partizip Perfekt – das Norwegische nimmt das Partizip **Präsens**."
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Matthias kom ___ bort til henne. (gå)",
+          "de": "Matthias kam zu ihr herübergegangen.",
+          "answer": [
+            "gående"
+          ],
+          "explain": "komme + Partizip Präsens: kom gående."
+        },
+        {
+          "prompt": "Susanne ble ___ helt stille på fjellplatået. (stå)",
+          "de": "Susanne blieb auf dem Felsplateau ganz still stehen.",
+          "answer": [
+            "stående"
+          ],
+          "explain": "bli + Partizip Präsens: ble stående = blieb stehen."
+        },
+        {
+          "prompt": "En far bar en ___ baby på ryggen. (sove)",
+          "de": "Ein Vater trug ein schlafendes Baby auf dem Rücken.",
+          "answer": [
+            "sovende"
+          ],
+          "explain": "Als Adjektiv: sove → sovende (unveränderlich)."
+        },
+        {
+          "prompt": "Den lille byen var ___ stille. (overraske)",
+          "de": "Das kleine Städtchen war überraschend still.",
+          "answer": [
+            "overraskende"
+          ],
+          "explain": "Als Adverb vor einem Adjektiv: overraskende stille."
+        },
+        {
+          "prompt": "Matthias måtte rygge for hver ___ bil. (møte)",
+          "de": "Matthias musste bei jedem entgegenkommenden Auto zurücksetzen.",
+          "answer": [
+            "møtende"
+          ],
+          "explain": "møtende bil = entgegenkommendes Auto."
+        },
+        {
+          "prompt": "Bamse kom ___ da han hørte bilen. (løpe)",
+          "de": "Bamse kam angelaufen, als er das Auto hörte.",
+          "answer": [
+            "løpende"
+          ],
+          "explain": "kom løpende = kam angelaufen (Partizip Präsens!)."
+        },
+        {
+          "prompt": "Hun ble ___ i bilen mens han kjøpte kaffe. (sitte)",
+          "de": "Sie blieb im Auto sitzen, während er Kaffee kaufte.",
+          "answer": [
+            "sittende"
+          ],
+          "explain": "ble sittende = blieb sitzen."
+        },
+        {
+          "prompt": "Inga snakker ___ samisk. (flyte)",
+          "de": "Inga spricht fließend Samisch.",
+          "answer": [
+            "flytende"
+          ],
+          "explain": "flytende = fließend (auch bei Sprachen)."
+        },
+        {
+          "prompt": "Vi skal gå til Preikestolen ___ helg. (komme)",
+          "de": "Nächstes Wochenende wandern wir zum Preikestolen.",
+          "answer": [
+            "kommende"
+          ],
+          "explain": "kommende helg = nächstes Wochenende, ohne Artikel."
+        },
+        {
+          "prompt": "Noen ___ turister stoppet for å få igjen pusten. (pese)",
+          "de": "Ein paar keuchende Touristen blieben stehen, um wieder zu Atem zu kommen.",
+          "answer": [
+            "pesende"
+          ],
+          "explain": "Unveränderlich, auch im Plural: pesende turister."
+        },
+        {
+          "prompt": "Mange studenter blir ___ i Tromsø etter studiene. (bo)",
+          "de": "Viele Studierende bleiben nach dem Studium in Tromsø wohnen.",
+          "answer": [
+            "boende"
+          ],
+          "explain": "bli boende = wohnen bleiben."
+        },
+        {
+          "prompt": "De ___ ble bedt om å gå om bord på ferja. (reise)",
+          "de": "Die Reisenden wurden gebeten, an Bord der Fähre zu gehen.",
+          "answer": [
+            "reisende"
+          ],
+          "explain": "Als Substantiv: de reisende = die Reisenden."
+        }
+      ]
+    },
+    {
+      "id": "g20_verbalsubstantiv",
+      "title": "Verbalsubstantiv",
+      "titleNo": "verbalsubstantiv",
+      "summary": "Aus vielen Verben bildest du Substantive mit -ing/-ning, -else, -sjon oder mit dem bloßen Stamm – und die Endung verrät oft das Geschlecht.",
+      "sections": [
+        {
+          "h": "-ing und -ning",
+          "body": "Die häufigste Endung ist **-ing**. Sie kommt an den Stamm des Verbs (Infinitiv ohne -e): **kjøre → kjøring** (das Fahren, die Fahrweise), **forklare → forklaring** (Erklärung), **bestille → bestilling** (Bestellung), **trene → trening** (Training). Bei manchen Verben heißt die Endung **-ning**: **løse → løsning** (Lösung), **bygge → bygning** (Gebäude). Endet der Stamm schon auf -n, kommt einfach -ing dazu: **åpne → åpning** (Öffnung), **tegne → tegning** (Zeichnung).\n\nOft entspricht **-ing** dem deutschen **-ung**: Erklärung – **forklaring**, Lösung – **løsning**.\n\n• Geschlecht: maskulin **oder** feminin, beides ist korrekt: **en/ei løsning – løsningen/løsninga**, **en/ei kjøring – kjøringen/kjøringa**.\n• Der Plural endet immer auf **-er**: **løsninger, forklaringer**."
+        },
+        {
+          "h": "-else und -sjon",
+          "body": "**-else** bildet meist abstrakte Wörter: **oppleve → en opplevelse** (Erlebnis), **føle → en følelse** (Gefühl), **forstå → en forståelse** (Verständnis), **hende → en hendelse** (Ereignis).\n\n**-sjon** gehört zu den Fremdwörtern auf **-ere**: **demonstrere → en demonstrasjon**, **invitere → en invitasjon**, **informere → en informasjon**. Manchmal ändert sich der Stamm: **diskutere → en diskusjon**.\n\n• Verbalsubstantive auf **-else** und **-sjon** sind maskulin: **følelsen, invitasjonen**. (Eine bekannte Ausnahme ist **et spøkelse**, das Gespenst.)\n• Achtung, Rechtschreibung: Norwegisch schreibt **-sjon**, nicht -tion: **en nasjon**, **en tradisjon**."
+        },
+        {
+          "h": "Der bloße Stamm",
+          "body": "Manche Verben bilden ein Substantiv ganz ohne Endung, oft ein Neutrum: **kjøpe → et kjøp** (Kauf), **besøke → et besøk** (Besuch), **hoppe → et hopp** (Sprung), **smile → et smil** (Lächeln). Es gibt aber auch maskuline: **starte → en start**, **drømme → en drøm**. Manchmal ist das Substantiv sogar gleich wie der Infinitiv: **uttale → en uttale** (Aussprache), **ønske → et ønske** (Wunsch).\n\nHier hilft nur: das Geschlecht mitlernen. Im Deutschen ist es ähnlich (kaufen – der Kauf).",
+          "table": [
+            [
+              "Verb",
+              "Substantiv",
+              "Geschlecht",
+              "Deutsch"
+            ],
+            [
+              "**kjøre**",
+              "**kjøring**",
+              "m/f",
+              "das Fahren, die Fahrweise"
+            ],
+            [
+              "**løse**",
+              "**løsning**",
+              "m/f",
+              "die Lösung"
+            ],
+            [
+              "**oppleve**",
+              "**opplevelse**",
+              "m",
+              "das Erlebnis"
+            ],
+            [
+              "**føle**",
+              "**følelse**",
+              "m",
+              "das Gefühl"
+            ],
+            [
+              "**invitere**",
+              "**invitasjon**",
+              "m",
+              "die Einladung"
+            ],
+            [
+              "**besøke**",
+              "**besøk**",
+              "n",
+              "der Besuch"
+            ],
+            [
+              "**kjøpe**",
+              "**kjøp**",
+              "n",
+              "der Kauf"
+            ]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Susanne ventet på en ___ fra Matthias. (forklare)",
+          "de": "Susanne wartete auf eine Erklärung von Matthias.",
+          "answer": [
+            "forklaring"
+          ],
+          "explain": "forklare + -ing → forklaring (wie Erklärung)."
+        },
+        {
+          "prompt": "Turen til Preikestolen var en fantastisk ___. (oppleve)",
+          "de": "Die Wanderung zum Preikestolen war ein fantastisches Erlebnis.",
+          "answer": [
+            "opplevelse"
+          ],
+          "explain": "oppleve + -else → opplevelse (maskulin)."
+        },
+        {
+          "prompt": "Det er ikke lett å finne en god ___ på problemet. (løse)",
+          "de": "Es ist nicht leicht, eine gute Lösung für das Problem zu finden.",
+          "answer": [
+            "løsning"
+          ],
+          "explain": "løse + -ning → løsning."
+        },
+        {
+          "prompt": "___ hans gjorde Susanne nervøs. (kjøre, bestimmte Form)",
+          "de": "Seine Fahrweise machte Susanne nervös.",
+          "answer": [
+            "Kjøringen",
+            "Kjøringa"
+          ],
+          "explain": "kjøre → kjøring; als m/f-Wort geht kjøringen oder kjøringa."
+        },
+        {
+          "prompt": "Tusen takk for ___ til hytta! (invitere, bestimmte Form)",
+          "de": "Vielen Dank für die Einladung zur Hütte!",
+          "answer": [
+            "invitasjonen"
+          ],
+          "explain": "invitere → invitasjon (-ere → -sjon), maskulin: invitasjonen."
+        },
+        {
+          "prompt": "På fjellplatået fikk Susanne en rar ___ i magen. (føle)",
+          "de": "Auf dem Felsplateau bekam Susanne ein seltsames Gefühl im Bauch.",
+          "answer": [
+            "følelse"
+          ],
+          "explain": "føle + -else → følelse."
+        },
+        {
+          "prompt": "Det var en stor ___ foran Stortinget i går. (demonstrere)",
+          "de": "Gestern gab es eine große Demonstration vor dem Parlament.",
+          "answer": [
+            "demonstrasjon"
+          ],
+          "explain": "demonstrere → demonstrasjon; geschrieben mit -sjon."
+        },
+        {
+          "prompt": "Takk for ___ i Bergen! Det var veldig hyggelig. (besøke, bestimmte Form)",
+          "de": "Danke für den Besuch in Bergen! Es war sehr schön.",
+          "answer": [
+            "besøket"
+          ],
+          "explain": "besøke → et besøk (bloßer Stamm, Neutrum) → besøket."
+        },
+        {
+          "prompt": "Broddene var et godt ___. (kjøpe)",
+          "de": "Die Spikes waren ein guter Kauf.",
+          "answer": [
+            "kjøp"
+          ],
+          "explain": "kjøpe → et kjøp (Neutrum, ohne Endung)."
+        },
+        {
+          "prompt": "De hadde en lang ___ om kartet og GPS-en. (diskutere)",
+          "de": "Sie hatten eine lange Diskussion über die Karte und das Navi.",
+          "answer": [
+            "diskusjon"
+          ],
+          "explain": "diskutere → diskusjon: hier ändert sich der Stamm (aus -ut- wird -us-)."
+        },
+        {
+          "prompt": "Den norske ___ er ikke alltid lett for tyskere. (uttale, bestimmte Form)",
+          "de": "Die norwegische Aussprache ist für Deutsche nicht immer leicht.",
+          "answer": [
+            "uttalen"
+          ],
+          "explain": "uttale (Verb) → en uttale (Substantiv, gleiche Form) → uttalen."
+        },
+        {
+          "prompt": "Det var ___ fin opplevelse å se Lysefjorden. (en/ei/et)",
+          "de": "Es war ein schönes Erlebnis, den Lysefjord zu sehen.",
+          "answer": [
+            "en"
+          ],
+          "explain": "Wörter auf -else sind maskulin: en opplevelse."
+        }
+      ]
+    },
+    {
+      "id": "g20_sammensatte_substantiv",
+      "title": "Zusammengesetzte Substantive",
+      "titleNo": "sammensatte ord",
+      "summary": "Zusammengesetzte Substantive schreibst du wie im Deutschen in einem Wort; Geschlecht und Endungen bestimmt das letzte Glied.",
+      "sections": [
+        {
+          "h": "Ein Wort, nicht zwei",
+          "body": "Wie im Deutschen schreibt man Zusammensetzungen in einem Wort: **bilutleie** (Autovermietung), **fartskamera** (Radarkamera, Blitzer), **kystvei** (Küstenstraße), **leiebil** (Mietwagen). Getrenntschreibung (**særskriving**) gilt in Norwegen als typischer Fehler, vor allem unter dem Einfluss des Englischen – und sie kann den Sinn verändern:\n\n• **lammelår** = Lammkeule, aber **lamme lår** = gelähmte Oberschenkel\n• **røykfritt** = rauchfrei, aber **røyk fritt** = rauch, so viel du willst!\n• **en engelsklærer** = ein Englischlehrer, aber **en engelsk lærer** = ein englischer Lehrer\n\nMit Abkürzungen und Zahlen steht ein Bindestrich: **GPS-signal**, **tv-program**, **e-post**."
+        },
+        {
+          "h": "Fugenlaute: -s- und -e-",
+          "body": "Wie im Deutschen (Arbeit**s**tag) steht zwischen den Teilen oft ein Fugenlaut:\n\n• **-s-**: **arbeidsdag**, **hverdagsliv**, **fartsgrense**, **fartskamera**\n• **-e-**: **barnehage**, **juletre**, **julemat**\n• ohne Fuge: **kystvei**, **elbil**, **fjellplatå**, **skoleklasse** (skole endet schon auf -e)\n\nEine feste Regel gibt es nicht – lerne die Wörter als Ganzes. Nach **-ing**, **-sjon** und **-het** steht aber fast immer **-s-**: **parkeringsplass**, **informasjonsmøte**, **sikkerhetsbelte**."
+        },
+        {
+          "h": "Das letzte Glied entscheidet",
+          "body": "Geschlecht und Beugung kommen – wie im Deutschen – vom letzten Teil:\n\n• **et kamera → et fartskamera – fartskameraet – fartskameraer – fartskameraene**\n• **en vei → en kystvei – kystveien – kystveier – kystveiene**\n• **en bil → en leiebil – leiebilen – leiebiler – leiebilene**\n• **et platå → et fjellplatå – fjellplatået – fjellplatåer – fjellplatåene**\n\nVorsicht: Das norwegische Geschlecht ist oft anders als das deutsche, z. B. **et fartskamera** (die Radarkamera), **en kystvei** (die Küstenstraße), **et juletre** (der Weihnachtsbaum).",
+          "table": [
+            [
+              "erstes Glied",
+              "letztes Glied",
+              "Zusammensetzung",
+              "Deutsch"
+            ],
+            [
+              "fart",
+              "et kamera",
+              "**et fartskamera**",
+              "die Radarkamera, der Blitzer"
+            ],
+            [
+              "kyst",
+              "en vei",
+              "**en kystvei**",
+              "die Küstenstraße"
+            ],
+            [
+              "leie",
+              "en bil",
+              "**en leiebil**",
+              "der Mietwagen"
+            ],
+            [
+              "arbeid",
+              "en dag",
+              "**en arbeidsdag**",
+              "der Arbeitstag"
+            ],
+            [
+              "barn",
+              "en hage",
+              "**en barnehage**",
+              "der Kindergarten"
+            ],
+            [
+              "hverdag",
+              "et liv",
+              "**et hverdagsliv**",
+              "das Alltagsleben"
+            ]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Ved veien sto det ___ fartskamera. (en/ei/et)",
+          "de": "An der Straße stand eine Radarkamera.",
+          "answer": [
+            "et"
+          ],
+          "explain": "Das letzte Glied entscheidet: et kamera → et fartskamera."
+        },
+        {
+          "prompt": "Susanne ble tatt av ___. (fart + kamera, bestimmte Form)",
+          "de": "Susanne wurde von der Radarkamera geblitzt.",
+          "answer": [
+            "fartskameraet"
+          ],
+          "explain": "fart + s + kamera = fartskamera (Neutrum) → fartskameraet."
+        },
+        {
+          "prompt": "Vi kjørte langs ___ fra Kristiansand til Mandal. (kyst + vei, bestimmte Form)",
+          "de": "Wir fuhren die Küstenstraße entlang von Kristiansand nach Mandal.",
+          "answer": [
+            "kystveien"
+          ],
+          "explain": "kyst + vei ohne Fugenlaut; en vei → kystveien."
+        },
+        {
+          "prompt": "Matthias hadde bestilt en ___ for flere uker siden. (leie + bil)",
+          "de": "Matthias hatte vor mehreren Wochen einen Mietwagen gebucht.",
+          "answer": [
+            "leiebil"
+          ],
+          "explain": "In einem Wort: leiebil (maskulin wie en bil)."
+        },
+        {
+          "prompt": "Per kom sent hjem etter en lang ___. (arbeid + dag)",
+          "de": "Per kam nach einem langen Arbeitstag spät nach Hause.",
+          "answer": [
+            "arbeidsdag"
+          ],
+          "explain": "Mit Fugen-s wie im Deutschen: arbeidsdag (Arbeitstag)."
+        },
+        {
+          "prompt": "Ola gikk i ___ til han var seks år. (barn + hage)",
+          "de": "Ola ging in den Kindergarten, bis er sechs Jahre alt war.",
+          "answer": [
+            "barnehage",
+            "barnehagen"
+          ],
+          "explain": "barn + e + hage = barnehage (Fugen-e); gå i barnehage = in den Kindergarten gehen."
+        },
+        {
+          "prompt": "Det norske ___ er roligere enn det tyske. (hverdag + liv, bestimmte Form)",
+          "de": "Das norwegische Alltagsleben ist ruhiger als das deutsche.",
+          "answer": [
+            "hverdagslivet"
+          ],
+          "explain": "hverdag + s + liv = hverdagsliv (Neutrum, wegen et liv) → hverdagslivet."
+        },
+        {
+          "prompt": "Matthias spiste tre ___ til frokost. (rund + stykke, Plural)",
+          "de": "Matthias aß drei Brötchen zum Frühstück.",
+          "answer": [
+            "rundstykker"
+          ],
+          "explain": "et rundstykke – rundstykker: der Plural richtet sich nach et stykke."
+        },
+        {
+          "prompt": "___ på denne veien er åtti. (fart + grense, bestimmte Form)",
+          "de": "Das Tempolimit auf dieser Straße ist achtzig.",
+          "answer": [
+            "Fartsgrensen",
+            "Fartsgrensa"
+          ],
+          "explain": "fart + s + grense = fartsgrense; bestimmt: fartsgrensen (oder fartsgrensa)."
+        },
+        {
+          "prompt": "Vi må finne en ___ før batteriet er tomt. (lade + stasjon)",
+          "de": "Wir müssen eine Ladestation finden, bevor der Akku leer ist.",
+          "answer": [
+            "ladestasjon"
+          ],
+          "explain": "In einem Wort, ohne Fugenlaut: ladestasjon."
+        },
+        {
+          "prompt": "Matthias kjøpte kaffe på ___. (bensin + stasjon, bestimmte Form)",
+          "de": "Matthias kaufte an der Tankstelle Kaffee.",
+          "answer": [
+            "bensinstasjonen"
+          ],
+          "explain": "bensin + stasjon = bensinstasjon (maskulin) → bensinstasjonen."
+        },
+        {
+          "prompt": "Fra ___ så de rett ned i Lysefjorden. (fjell + platå, bestimmte Form)",
+          "de": "Vom Felsplateau aus sahen sie direkt in den Lysefjord hinunter.",
+          "answer": [
+            "fjellplatået"
+          ],
+          "explain": "fjell + platå = fjellplatå (Neutrum wie et platå) → fjellplatået."
+        }
+      ]
     }
   ],
   "tf": [
     {
-      "s": "Susanne skriver i dagboka si på andre påskedag.",
-      "de": "Susanne schreibt am Ostermontag in ihr Tagebuch.",
-      "a": true,
-      "why": "Der Eintrag beginnt mit „Andre påskedag, sent på kvelden“."
-    },
-    {
-      "s": "Anna og Susanne kjørte bil fra Trondheim.",
-      "de": "Anna und Susanne sind mit dem Auto von Trondheim gefahren.",
+      "s": "Det var Susanne som foreslo turen til Sørlandet.",
+      "de": "Susanne war es, die die Reise nach Sørlandet vorgeschlagen hat.",
       "a": false,
-      "why": "Sie haben den Zug genommen; Per hat sie in Vinstra abgeholt."
+      "why": "Matthias hatte die Reise vorgeschlagen."
     },
     {
-      "s": "Det er innlagt vann på hytta.",
-      "de": "Die Hütte hat fließendes Wasser.",
-      "a": false,
-      "why": "Es gibt Strom, aber kein fließendes Wasser – sie holen Wasser in Eimern."
-    },
-    {
-      "s": "Ola mener at man ikke kan gå på påsketur uten Kvikk Lunsj.",
-      "de": "Ola meint, dass man an Ostern nicht ohne Kvikk Lunsj auf Tour gehen kann.",
+      "s": "Matthias hadde tatt med sitt eget kart.",
+      "de": "Matthias hatte seine eigene Karte mitgebracht.",
       "a": true,
-      "why": "Er behauptet, das sei sogar verboten."
+      "why": "Obwohl das Auto ein Navi hatte, brachte er eine Papierkarte mit."
     },
     {
-      "s": "Matthias var enig med Per i at langrenn er den eneste ekte skisporten.",
-      "de": "Matthias war mit Per einer Meinung, dass Langlauf die einzige echte Skisportart ist.",
+      "s": "I Lillesand var det fullt av turister.",
+      "de": "In Lillesand war es voller Touristen.",
       "a": false,
-      "why": "Er war anderer Meinung, aber zu höflich, um es zu sagen."
+      "why": "Das Städtchen war überraschend still, die Ferienhäuser standen leer."
     },
     {
-      "s": "Per trodde ikke på værmeldingen.",
-      "de": "Per glaubte dem Wetterbericht nicht.",
+      "s": "På Preikestolen innrømmet Matthias at han kjører som en bestefar.",
+      "de": "Auf dem Preikestolen gab Matthias zu, dass er wie ein Großvater fährt.",
       "a": true,
-      "why": "Er sagte, der Wetterbericht liege in den Bergen immer daneben."
+      "why": "„Du har rett, jeg kjører som en bestefar.“"
     },
     {
-      "s": "Det var Per som fant ut hvordan de kunne få bilen løs.",
-      "de": "Per war es, der herausfand, wie sie das Auto freibekommen konnten.",
+      "s": "Susanne badet på Sjøsanden i Mandal.",
+      "de": "Susanne badete am Sjøsanden in Mandal.",
       "a": false,
-      "why": "Matthias fand die Lösung: Fichtenzweige unter den Rädern."
+      "why": "Sie sagte nur, sie würde baden, wenn Juli wäre – sie zog sich die Mütze über die Ohren."
     },
     {
-      "s": "Ola syntes at bestemors historie var bedre enn TV.",
-      "de": "Ola fand Omas Geschichte besser als Fernsehen.",
+      "s": "De rakk ikke ferja ut til øya.",
+      "de": "Sie haben die Fähre zur Insel nicht erwischt.",
       "a": true,
-      "why": "„Det var faktisk bedre enn TV“, gab er zu."
+      "why": "Sie kamen genau in dem Moment an, als die Fähre ablegte."
+    },
+    {
+      "s": "Det var Matthias som ble tatt i fotoboks.",
+      "de": "Matthias war es, der geblitzt wurde.",
+      "a": false,
+      "why": "Susanne saß am Steuer, als es blitzte."
+    },
+    {
+      "s": "Matthias hadde med seg brodder til Susanne også.",
+      "de": "Matthias hatte auch für Susanne Spikes dabei.",
+      "a": true,
+      "why": "„Matthias hadde med seg brodder til dem begge.“"
     }
   ],
   "questions": [
     {
-      "q": "Hvordan kom Susanne og Anna til hytta?",
-      "qDe": "Wie kamen Susanne und Anna zur Hütte?",
-      "answer": "De tok toget fra Trondheim, og Per hentet dem på stasjonen i Vinstra.",
-      "answerDe": "Sie nahmen den Zug von Trondheim, und Per holte sie am Bahnhof in Vinstra ab.",
+      "q": "Hvorfor hadde Matthias tatt med et papirkart?",
+      "qDe": "Warum hatte Matthias eine Papierkarte mitgebracht?",
+      "answer": "Fordi et papirkart aldri går tom for strøm.",
+      "answerDe": "Weil einer Papierkarte nie der Strom ausgeht.",
       "keywords": [
         [
-          "toget",
-          "tog"
+          "papirkart",
+          "kart"
         ],
         [
-          "Vinstra",
-          "stasjonen",
-          "hentet"
-        ]
-      ]
-    },
-    {
-      "q": "Hva spiste de i pausene på skiturene?",
-      "qDe": "Was aßen sie in den Pausen auf den Skitouren?",
-      "answer": "De spiste appelsiner og Kvikk Lunsj.",
-      "answerDe": "Sie aßen Orangen und Kvikk Lunsj.",
-      "keywords": [
-        [
-          "appelsiner",
-          "appelsin"
-        ],
-        [
-          "Kvikk Lunsj",
-          "sjokolade"
-        ]
-      ]
-    },
-    {
-      "q": "Hva gjorde Kari i stedet for å gå på ski?",
-      "qDe": "Was machte Kari, statt Ski zu fahren?",
-      "answer": "Hun lå på sofaen og leste en tykk kriminalroman.",
-      "answerDe": "Sie lag auf dem Sofa und las einen dicken Kriminalroman.",
-      "keywords": [
-        [
-          "leste",
-          "lese",
-          "leser"
-        ],
-        [
-          "kriminalroman",
-          "krimroman",
-          "krim",
-          "bok"
-        ]
-      ]
-    },
-    {
-      "q": "Hvorfor snudde de på lørdag?",
-      "qDe": "Warum kehrten sie am Samstag um?",
-      "answer": "De snudde fordi det snødde så tett at de ikke kunne se skisporet.",
-      "answerDe": "Sie kehrten um, weil es so dicht schneite, dass sie die Skispur nicht sehen konnten.",
-      "keywords": [
-        [
-          "snødde",
-          "snø",
-          "uvær",
-          "storm",
-          "vind"
-        ],
-        [
-          "se",
-          "sikt",
-          "sikten"
-        ]
-      ]
-    },
-    {
-      "q": "Hva skjedde om kvelden etter turen?",
-      "qDe": "Was geschah am Abend nach der Tour?",
-      "answer": "Strømmen gikk, og bestemor fortalte en historie om et troll.",
-      "answerDe": "Der Strom fiel aus, und Oma erzählte eine Geschichte über einen Troll.",
-      "keywords": [
-        [
-          "strømmen",
           "strøm"
-        ],
-        [
-          "troll",
-          "trollet",
-          "historie",
-          "trollhistorie"
         ]
       ]
     },
     {
-      "q": "Hvordan fikk de bilen løs?",
-      "qDe": "Wie bekamen sie das Auto frei?",
-      "answer": "Matthias la granbar under hjulene.",
-      "answerDe": "Matthias legte Fichtenzweige unter die Räder.",
+      "q": "Hvordan var Lillesand i mars?",
+      "qDe": "Wie war Lillesand im März?",
+      "answer": "Byen var overraskende stille, og sommerhusene sto tomme.",
+      "answerDe": "Die Stadt war überraschend still, und die Ferienhäuser standen leer.",
       "keywords": [
         [
-          "granbar"
+          "stille"
         ],
         [
-          "hjulene",
-          "hjul"
+          "tomme",
+          "tom",
+          "sommerhusene"
+        ]
+      ]
+    },
+    {
+      "q": "Hva ville Susanne gjøre på Sjøsanden hvis det var juli?",
+      "qDe": "Was würde Susanne am Sjøsanden machen, wenn Juli wäre?",
+      "answer": "Hun ville bade i havet.",
+      "answerDe": "Sie würde im Meer baden.",
+      "keywords": [
+        [
+          "bade",
+          "badet",
+          "bader"
+        ]
+      ]
+    },
+    {
+      "q": "Hvorfor rakk de ikke ferja?",
+      "qDe": "Warum haben sie die Fähre nicht erwischt?",
+      "answer": "De kranglet så lenge om kartet og GPS-en at de kom for sent.",
+      "answerDe": "Sie stritten so lange über die Karte und das Navi, dass sie zu spät kamen.",
+      "keywords": [
+        [
+          "kranglet",
+          "krangle",
+          "krangel"
+        ],
+        [
+          "kartet",
+          "kart",
+          "GPS-en"
+        ]
+      ]
+    },
+    {
+      "q": "Hvorfor ble Susanne sint på Matthias?",
+      "qDe": "Warum wurde Susanne wütend auf Matthias?",
+      "answer": "Fordi han leste navnet til Erik på skjermen og kommenterte det.",
+      "answerDe": "Weil er Eriks Namen auf dem Bildschirm las und einen Kommentar dazu machte.",
+      "keywords": [
+        [
+          "Erik"
+        ],
+        [
+          "skjermen",
+          "telefonen",
+          "meldingen",
+          "melding"
+        ]
+      ]
+    },
+    {
+      "q": "Hvorfor var Susanne glad for broddene?",
+      "qDe": "Warum war Susanne froh über die Spikes?",
+      "answer": "Uten broddene hadde hun måttet snu halvveis, for det lå snø og is på stien.",
+      "answerDe": "Ohne die Spikes hätte sie auf halbem Weg umkehren müssen, denn auf dem Pfad lagen Schnee und Eis.",
+      "keywords": [
+        [
+          "snu",
+          "snudd"
+        ],
+        [
+          "is",
+          "snø",
+          "glatt"
         ]
       ]
     }
   ],
   "find": [
     {
-      "de": "am Kamin",
+      "de": "ein Mietwagen",
       "answer": [
-        "ved peisen"
+        "en leiebil"
       ]
     },
     {
-      "de": "Blockhütte",
+      "de": "die Ferienhäuser",
       "answer": [
-        "tømmerhytte"
+        "Sommerhusene"
       ]
     },
     {
-      "de": "fließendes Wasser",
+      "de": "das Tempolimit",
       "answer": [
-        "innlagt vann"
+        "fartsgrensen"
       ]
     },
     {
-      "de": "perfekter Skischnee",
+      "de": "überraschend still",
       "answer": [
-        "perfekt skiføre"
+        "overraskende stille"
       ]
     },
     {
-      "de": "die Milchtüte",
+      "de": "hätten wir die Fähre erwischt",
       "answer": [
-        "melkekartongen"
+        "hadde vi rukket ferja"
       ]
     },
     {
-      "de": "der Wetterbericht",
+      "de": "eine gute Lösung",
       "answer": [
-        "værmeldingen"
+        "en god løsning"
       ]
     },
     {
-      "de": "im Gegenwind",
+      "de": "ein Blitzer",
       "answer": [
-        "i motvind"
+        "en fotoboks"
       ]
     },
     {
-      "de": "Fichtenzweige",
+      "de": "ein schlafendes Baby",
       "answer": [
-        "granbar"
+        "en sovende baby"
       ]
     }
   ],
   "translate": [
     {
-      "de": "Wenn ich Zeit hätte, würde ich jeden Tag Ski fahren.",
+      "de": "Wenn du auf mich gehört hättest, hätten wir die Fähre erwischt.",
       "no": [
-        "Hvis jeg hadde tid, ville jeg gå på ski hver dag.",
-        "Hadde jeg tid, ville jeg gå på ski hver dag.",
-        "Hvis jeg hadde tid, ville jeg gått på ski hver dag."
-      ]
-    },
-    {
-      "de": "Wenn wir auf den Wetterbericht gehört hätten, wären wir zu Hause geblieben.",
-      "no": [
-        "Hvis vi hadde hørt på værmeldingen, hadde vi blitt hjemme.",
-        "Hvis vi hadde hørt på værmeldingen, ville vi ha blitt hjemme.",
-        "Hvis vi hadde hørt på værmeldingen, ville vi blitt hjemme.",
-        "Hadde vi hørt på værmeldingen, hadde vi blitt hjemme."
-      ]
+        "Hvis du hadde hørt på meg, hadde vi rukket ferja.",
+        "Hvis du hadde hørt på meg, ville vi ha rukket ferja.",
+        "Hadde du hørt på meg, hadde vi rukket ferja.",
+        "Hvis du hadde hørt på meg, hadde vi rukket ferjen.",
+        "Hadde du hørt på meg, ville vi ha rukket ferja."
+      ],
+      "hint": "Plusquamperfekt im hvis-Satz; rekke – rakk – rukket"
     },
     {
       "de": "Ich wünschte, es wäre Sommer.",
@@ -1075,146 +1583,167 @@
       ]
     },
     {
-      "de": "Wenn doch nur der Strom zurückkäme!",
+      "de": "Wenn ich Zeit hätte, würde ich die ganze Küste entlangfahren.",
       "no": [
-        "Om bare strømmen kom tilbake!",
-        "Hvis bare strømmen kom tilbake!"
+        "Hvis jeg hadde tid, ville jeg kjøre langs hele kysten.",
+        "Hadde jeg tid, ville jeg kjøre langs hele kysten.",
+        "Om jeg hadde tid, ville jeg kjøre langs hele kysten."
+      ],
+      "hint": "Gegenwart: Präteritum im hvis-Satz, ville + Infinitiv"
+    },
+    {
+      "de": "Er fuhr weiter, ohne etwas zu sagen.",
+      "no": [
+        "Han kjørte videre uten å si noe.",
+        "Han kjørte videre uten å si noen ting."
       ]
     },
     {
-      "de": "Ich freue mich darauf, die Hütte zu sehen.",
+      "de": "Ich freue mich darauf, den Preikestolen zu sehen.",
       "no": [
-        "Jeg gleder meg til å se hytta.",
-        "Jeg gleder meg til å se hytten."
+        "Jeg gleder meg til å se Preikestolen."
       ]
     },
     {
-      "de": "Sie hat Angst, dass das Auto nicht anspringt.",
+      "de": "Sie hatte Angst, dass dem Auto der Strom ausgeht.",
       "no": [
-        "Hun er redd for at bilen ikke starter.",
-        "Hun er redd for at bilen ikke vil starte.",
-        "Hun er redd for at bilen ikke skal starte."
+        "Hun var redd for at bilen skulle gå tom for strøm.",
+        "Hun var redd for at bilen ville gå tom for strøm.",
+        "Hun var redd for at bilen kom til å gå tom for strøm."
+      ],
+      "hint": "være redd for at …"
+    },
+    {
+      "de": "Ein Vater trug ein schlafendes Baby auf dem Rücken.",
+      "no": [
+        "En far bar en sovende baby på ryggen.",
+        "En far hadde en sovende baby på ryggen."
       ]
     },
     {
-      "de": "Er ging, ohne etwas zu sagen.",
+      "de": "Sie blieb im Auto sitzen.",
       "no": [
-        "Han gikk uten å si noe.",
-        "Han gikk uten å si noe som helst."
+        "Hun ble sittende i bilen."
+      ],
+      "hint": "bli + Partizip Präsens"
+    },
+    {
+      "de": "Das war ein schönes Erlebnis.",
+      "no": [
+        "Det var en fin opplevelse.",
+        "Det var en flott opplevelse.",
+        "Det var en deilig opplevelse."
       ]
     },
     {
-      "de": "Nachdem wir gegessen hatten, gingen wir hinaus.",
+      "de": "Wir nahmen die Küstenstraße nach Mandal.",
       "no": [
-        "Etter å ha spist gikk vi ut.",
-        "Etter å ha spist, gikk vi ut.",
-        "Etter at vi hadde spist, gikk vi ut."
-      ]
-    },
-    {
-      "de": "Statt fernzusehen, spielten wir Karten.",
-      "no": [
-        "I stedet for å se på TV spilte vi kort.",
-        "I stedet for å se på TV, spilte vi kort.",
-        "I stedet for å se TV spilte vi kort.",
-        "I stedet for å se TV, spilte vi kort."
-      ]
-    },
-    {
-      "de": "Für morgen ist Sonne angesagt.",
-      "no": [
-        "Det er meldt sol i morgen.",
-        "I morgen er det meldt sol.",
-        "Det er meldt sol for i morgen."
-      ]
+        "Vi tok kystveien til Mandal.",
+        "Vi kjørte kystveien til Mandal.",
+        "Vi kjørte langs kystveien til Mandal."
+      ],
+      "hint": "Küstenstraße: ein zusammengesetztes Wort"
     }
   ],
   "summary": [
     {
-      "prompt": "Susanne skriver i dagboka si på ___ påskedag.",
-      "de": "Susanne schreibt am Ostermontag (zweiten Ostertag) in ihr Tagebuch.",
+      "prompt": "Matthias og Susanne leier en ___ og kjører langs Sørlandskysten i mars.",
+      "de": "Matthias und Susanne mieten ein Elektroauto und fahren im März die Südküste entlang.",
       "answer": [
-        "andre"
+        "elbil",
+        "bil",
+        "leiebil"
       ]
     },
     {
-      "prompt": "De første dagene gikk de på ski og spiste appelsiner og ___.",
-      "de": "An den ersten Tagen fuhren sie Ski und aßen Orangen und Kvikk Lunsj.",
+      "prompt": "I Lillesand er det overraskende ___, for sommerhusene står tomme.",
+      "de": "In Lillesand ist es überraschend still, denn die Ferienhäuser stehen leer.",
       "answer": [
-        "Kvikk Lunsj",
-        "sjokolade"
+        "stille"
       ]
     },
     {
-      "prompt": "Matthias sa at det var meldt sterk kuling, men Per ___ ikke på værmeldingen.",
-      "de": "Matthias sagte, es sei stürmischer Wind angesagt, aber Per glaubte dem Wetterbericht nicht.",
+      "prompt": "Matthias kjører så forsiktig at det blir ___ bak dem.",
+      "de": "Matthias fährt so vorsichtig, dass sich hinter ihnen eine Schlange bildet.",
       "answer": [
-        "trodde",
-        "hørte"
+        "kø"
       ]
     },
     {
-      "prompt": "På lørdag snødde det så tett at de måtte ___.",
-      "de": "Am Samstag schneite es so dicht, dass sie umkehren mussten.",
+      "prompt": "De krangler om kartet og rekker ikke ___.",
+      "de": "Sie streiten über die Karte und erwischen die Fähre nicht.",
       "answer": [
-        "snu"
+        "ferja",
+        "ferjen",
+        "fergen",
+        "ferga"
       ]
     },
     {
-      "prompt": "Om kvelden gikk ___, og bestemor fortalte en trollhistorie.",
-      "de": "Am Abend fiel der Strom aus, und Oma erzählte eine Trollgeschichte.",
+      "prompt": "Når Susanne kjører selv, blir hun tatt i ___.",
+      "de": "Als Susanne selbst fährt, wird sie geblitzt.",
       "answer": [
-        "strømmen"
+        "fotoboks",
+        "fotoboksen"
       ]
     },
     {
-      "prompt": "Da bilen satt fast, la Matthias ___ under hjulene.",
-      "de": "Als das Auto feststeckte, legte Matthias Fichtenzweige unter die Räder.",
+      "prompt": "På Preikestolen blir de ___ igjen.",
+      "de": "Auf dem Preikestolen werden sie wieder Freunde.",
       "answer": [
-        "granbar"
+        "venner"
       ]
     }
   ],
   "dictation": [
-    0,
-    7,
+    8,
     11
   ],
   "writing": {
-    "prompt": "Schreib einer Freundin eine E-Mail über einen Ausflug oder Urlaub, bei dem etwas schiefging (Wetter, Auto, Strom …). Erzähle, was passiert ist, überlege, was gewesen wäre, wenn … (Hvis vi hadde …, hadde vi …), und schließe mit einem Wunsch (Jeg skulle ønske …).",
+    "prompt": "Zurück in Tromsø schreibst du (als Susanne) Matthias eine versöhnliche Nachricht über die Reise: Was wäre anders gelaufen, wenn …? Was bereust du, worin hatte er recht, und worauf freust du dich an Ostern? Verwende mindestens zwei irreale Sätze (Hvis …, hadde …; Jeg skulle ønske …) und eine Präposition mit Infinitiv (uten å, i stedet for å, glede seg til å).",
     "minWords": 130,
     "useWords": [
       "hvis",
       "skulle ønske",
-      "glede seg til",
-      "i stedet for"
+      "uten å",
+      "gleder meg til",
+      "opplevelse"
     ],
     "checklist": [
       {
-        "de": "Erzählt, was passiert ist",
+        "de": "Irreale Bedingung (Hvis … hadde …)",
         "keywords": [
-          "snødde",
-          "gikk strømmen",
-          "satt fast",
-          "regnet"
+          "hadde jeg",
+          "hadde vi",
+          "ville jeg",
+          "ville vi"
         ]
       },
       {
-        "de": "Irrealer Bedingungssatz in der Vergangenheit",
-        "keywords": [
-          "hvis vi hadde",
-          "hadde vi"
-        ]
-      },
-      {
-        "de": "Unerfüllbarer Wunsch",
+        "de": "Unerfüllbarer Wunsch (Jeg skulle ønske …)",
         "keywords": [
           "skulle ønske",
-          "om bare"
+          "om bare",
+          "hadde vi bare"
+        ]
+      },
+      {
+        "de": "Präposition + Infinitiv",
+        "keywords": [
+          "uten å",
+          "i stedet for å",
+          "til å",
+          "etter å"
+        ]
+      },
+      {
+        "de": "Zugegeben, dass der andere recht hatte",
+        "keywords": [
+          "rett"
         ]
       }
     ],
-    "model": "Hei Elin!\nHvordan har du det? Nå må jeg fortelle deg om påsken. Alle hadde gledet seg lenge til å gå på ski i fjellet, men på lørdag kom det en skikkelig snøstorm. Matthias hadde sagt at det var meldt uvær, men ingen hørte på ham. Det snødde så tett at vi måtte snu midt på turen, og om kvelden gikk strømmen. I stedet for å se påskekrim spilte vi kort ved stearinlys, og bestemor Ingrid fortalte trollhistorier. Dagen etter satt bilen fast i snøen, og vi måtte måke i over en time.\nHvis vi hadde hørt på værmeldingen, hadde vi sluppet å fryse. Men da hadde vi heller ikke hatt en så morsom kveld! Jeg skulle ønske at du hadde vært med. Neste påske må du bli med oss på hytta.\nKlem fra Susanne",
-    "modelDe": "Hallo Elin!\nWie geht es dir? Jetzt muss ich dir von Ostern erzählen. Alle hatten sich lange darauf gefreut, in den Bergen Ski zu fahren, aber am Samstag kam ein richtiger Schneesturm. Matthias hatte gesagt, dass ein Unwetter angesagt sei, aber niemand hörte auf ihn. Es schneite so dicht, dass wir mitten auf der Tour umkehren mussten, und am Abend fiel der Strom aus. Statt den Osterkrimi zu sehen, spielten wir bei Kerzenlicht Karten, und Oma Ingrid erzählte Trollgeschichten. Am nächsten Tag steckte das Auto im Schnee fest, und wir mussten über eine Stunde lang schaufeln.\nWenn wir auf den Wetterbericht gehört hätten, hätten wir nicht frieren müssen. Aber dann hätten wir auch keinen so lustigen Abend gehabt! Ich wünschte, du wärst dabei gewesen. Nächstes Jahr an Ostern musst du mit uns auf die Hütte kommen.\nUmarmung, Susanne"
+    "model": "Hei Matthias!\nNå er jeg tilbake i Tromsø, og jeg tenker mye på turen vår. For en langhelg! Hvis du ikke hadde tatt med broddene, hadde jeg aldri kommet opp på Preikestolen. Og hvis vi hadde stått opp litt tidligere, hadde vi sikkert rukket ferja. Jeg skulle ønske at jeg ikke hadde vært så sint i bilen. Du hadde rett om kartet, og jeg burde ha hørt på deg i stedet for å stole på GPS-en. Jeg venter fortsatt på boten fra fotoboksen – den blir sikkert overraskende dyr! Neste gang skal jeg sitte stille ved siden av deg uten å si et eneste ord om farten din, det lover jeg. Men det var også en fantastisk opplevelse: de hvite husene i vårsola, den tomme stranda og den iskalde vinden. Hvis det var sommer nå, ville jeg reise tilbake med en gang. Nå gleder jeg meg til å se deg på hytta i påsken!\nKlem fra Susanne",
+    "modelDe": "Hallo Matthias!\nJetzt bin ich wieder in Tromsø und denke viel an unsere Reise. Was für ein langes Wochenende! Wenn du die Spikes nicht mitgenommen hättest, wäre ich nie auf den Preikestolen gekommen. Und wenn wir ein bisschen früher aufgestanden wären, hätten wir die Fähre bestimmt erwischt. Ich wünschte, ich wäre im Auto nicht so wütend gewesen. Du hattest recht mit der Karte, und ich hätte auf dich hören sollen, statt mich auf das Navi zu verlassen. Ich warte immer noch auf das Bußgeld vom Blitzer – das wird bestimmt überraschend teuer! Nächstes Mal sitze ich still neben dir, ohne ein einziges Wort über dein Tempo zu sagen, das verspreche ich. Aber es war auch ein fantastisches Erlebnis: die weißen Häuser in der Frühlingssonne, der leere Strand und der eiskalte Wind. Wenn jetzt Sommer wäre, würde ich sofort wieder hinfahren. Jetzt freue ich mich darauf, dich an Ostern auf der Hütte zu sehen!\nUmarmung, Susanne"
   }
 }

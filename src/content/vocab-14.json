@@ -1,1828 +1,1113 @@
 [
   {
-    "id": "w14_daarlig",
-    "no": "dårlig",
-    "de": "schlecht",
-    "pos": "adj",
+    "id": "w10_liv",
+    "no": "liv",
+    "de": "das Leben",
+    "pos": "noun",
+    "gender": "n",
     "forms": [
-      "dårlig",
-      "dårlig",
-      "dårlige",
-      "verre/dårligere",
-      "verst/dårligst"
-    ],
-    "lesson": 14,
-    "note": "verre/verst = schlimmer, am schlimmsten; dårligere/dårligst = weniger gut.",
-    "ex": {
-      "no": "Været ble verre og verre.",
-      "de": "Das Wetter wurde immer schlechter."
-    }
-  },
-  {
-    "id": "w14_ung",
-    "no": "ung",
-    "de": "jung",
-    "pos": "adj",
-    "forms": [
-      "ung",
-      "ungt",
-      "unge",
-      "yngre",
-      "yngst"
+      "liv",
+      "livet",
+      "liv",
+      "liva/livene"
     ],
     "lesson": 14,
     "ex": {
-      "no": "Susanne er yngst av de tre.",
-      "de": "Susanne ist die Jüngste der drei."
+      "no": "Hun har bodd i huset hele livet.",
+      "de": "Sie hat ihr ganzes Leben in dem Haus gewohnt."
     }
   },
   {
-    "id": "w14_tung",
-    "no": "tung",
-    "de": "schwer",
-    "pos": "adj",
-    "forms": [
-      "tung",
-      "tungt",
-      "tunge",
-      "tyngre",
-      "tyngst"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Matthias bar den tyngste sekken.",
-      "de": "Matthias trug den schwersten Rucksack."
-    }
-  },
-  {
-    "id": "w14_hoy",
-    "no": "høy",
-    "de": "hoch",
-    "pos": "adj",
-    "forms": [
-      "høy",
-      "høyt",
-      "høye",
-      "høyere",
-      "høyest"
-    ],
-    "lesson": 14,
-    "note": "Regelmäßig – anders als hoch – höher.",
-    "ex": {
-      "no": "Galdhøpiggen er det høyeste fjellet i Norge.",
-      "de": "Der Galdhøpiggen ist der höchste Berg Norwegens."
-    }
-  },
-  {
-    "id": "w14_mange",
-    "no": "mange",
-    "de": "viele",
-    "pos": "adj",
-    "forms": [
-      "mange",
-      "mange",
-      "mange",
-      "flere",
-      "flest"
-    ],
-    "lesson": 14,
-    "note": "Bei Zählbarem: mange – flere – flest. de fleste = die meisten. flere heißt auch »mehrere«: flere uker.",
-    "ex": {
-      "no": "De fleste turistene kommer om sommeren.",
-      "de": "Die meisten Touristen kommen im Sommer."
-    }
-  },
-  {
-    "id": "w14_faa",
-    "no": "få",
-    "de": "wenige",
-    "pos": "adj",
-    "forms": [
-      "få",
-      "få",
-      "få",
-      "færre",
-      "færrest"
-    ],
-    "lesson": 14,
-    "note": "få – færre – færrest. Nicht verwechseln mit dem Verb få (bekommen).",
-    "ex": {
-      "no": "I oktober er det færre folk på fjellet.",
-      "de": "Im Oktober sind weniger Leute in den Bergen."
-    }
-  },
-  {
-    "id": "w14_minst",
-    "no": "minst",
-    "de": "mindestens",
+    "id": "w10_bad",
+    "no": "bad",
+    "de": "das Bad",
     "deAlt": [
-      "am wenigsten",
-      "am kleinsten"
+      "Badezimmer"
     ],
-    "pos": "adv",
-    "lesson": 14,
-    "note": "Auch Superlativ von liten: minst = am kleinsten.",
-    "ex": {
-      "no": "Teltet må stå minst 150 meter fra huset.",
-      "de": "Das Zelt muss mindestens 150 Meter vom Haus entfernt stehen."
-    }
-  },
-  {
-    "id": "w14_glatt",
-    "no": "glatt",
-    "de": "glatt, rutschig",
-    "pos": "adj",
-    "forms": [
-      "glatt",
-      "glatt",
-      "glatte",
-      "glattere",
-      "glattest"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Steinene var våte og glatte.",
-      "de": "Die Steine waren nass und rutschig."
-    }
-  },
-  {
-    "id": "w14_sliten",
-    "no": "sliten",
-    "de": "müde, erschöpft",
-    "pos": "adj",
-    "forms": [
-      "sliten",
-      "slitent",
-      "slitne"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Etter turen var vi slitne, men glade.",
-      "de": "Nach der Tour waren wir müde, aber froh."
-    }
-  },
-  {
-    "id": "w14_utslitt",
-    "no": "utslitt",
-    "de": "völlig erschöpft",
-    "pos": "adj",
-    "forms": [
-      "utslitt",
-      "utslitt",
-      "utslitte"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Jeg er helt utslitt.",
-      "de": "Ich bin völlig erschöpft."
-    }
-  },
-  {
-    "id": "w14_treg",
-    "no": "treg",
-    "de": "langsam, träge",
-    "pos": "adj",
-    "forms": [
-      "treg",
-      "tregt",
-      "trege",
-      "tregere",
-      "tregest"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Jeg var tregest av oss tre.",
-      "de": "Ich war die Langsamste von uns dreien."
-    }
-  },
-  {
-    "id": "w14_imponert",
-    "no": "imponert",
-    "de": "beeindruckt",
-    "pos": "adj",
-    "forms": [
-      "imponert",
-      "imponert",
-      "imponerte"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Matthias var ikke imponert.",
-      "de": "Matthias war nicht beeindruckt."
-    }
-  },
-  {
-    "id": "w14_lykkelig",
-    "no": "lykkelig",
-    "de": "glücklich",
-    "pos": "adj",
-    "forms": [
-      "lykkelig",
-      "lykkelig",
-      "lykkelige"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Vi var slitne, men lykkelige.",
-      "de": "Wir waren müde, aber glücklich."
-    }
-  },
-  {
-    "id": "w14_rettferdig",
-    "no": "rettferdig",
-    "de": "gerecht, fair",
-    "pos": "adj",
-    "forms": [
-      "rettferdig",
-      "rettferdig",
-      "rettferdige"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Det er ikke rettferdig!",
-      "de": "Das ist nicht fair!"
-    }
-  },
-  {
-    "id": "w14_norron",
-    "no": "norrøn",
-    "de": "altnordisch",
-    "pos": "adj",
-    "forms": [
-      "norrøn",
-      "norrønt",
-      "norrøne"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Jotner er kjemper i norrøn mytologi.",
-      "de": "Jotnen sind Riesen der nordischen Mythologie."
-    }
-  },
-  {
-    "id": "w14_forbudt",
-    "no": "forbudt",
-    "de": "verboten",
-    "pos": "adj",
-    "forms": [
-      "forbudt",
-      "forbudt",
-      "forbudte"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Om sommeren er det forbudt å tenne bål i skogen.",
-      "de": "Im Sommer ist es verboten, im Wald ein Lagerfeuer zu machen."
-    }
-  },
-  {
-    "id": "w14_bebodd",
-    "no": "bebodd",
-    "de": "bewohnt",
-    "pos": "adj",
-    "forms": [
-      "bebodd",
-      "bebodd",
-      "bebodde"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Teltet må stå langt fra bebodde hus.",
-      "de": "Das Zelt muss weit weg von bewohnten Häusern stehen."
-    }
-  },
-  {
-    "id": "w14_fjelltur",
-    "no": "fjelltur",
-    "de": "die Bergtour",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "fjelltur",
-      "fjellturen",
-      "fjellturer",
-      "fjellturene"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Det var min første fjelltur i Norge.",
-      "de": "Das war meine erste Bergtour in Norwegen."
-    }
-  },
-  {
-    "id": "w14_tind",
-    "no": "tind",
-    "de": "die (spitze) Bergspitze",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "tind",
-      "tinden",
-      "tinder",
-      "tindene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Glittertind er Norges nest høyeste fjell.",
-      "de": "Der Glittertind ist Norwegens zweithöchster Berg."
-    }
-  },
-  {
-    "id": "w14_innsjo",
-    "no": "innsjø",
-    "de": "der See",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "innsjø",
-      "innsjøen",
-      "innsjøer",
-      "innsjøene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Mjøsa er Norges største innsjø.",
-      "de": "Der Mjøsa ist Norwegens größter See."
-    }
-  },
-  {
-    "id": "w14_bre",
-    "no": "bre",
-    "de": "der Gletscher",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "bre",
-      "breen",
-      "breer",
-      "breene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Jostedalsbreen er en stor bre på Vestlandet.",
-      "de": "Der Jostedalsbreen ist ein großer Gletscher in Westnorwegen."
-    }
-  },
-  {
-    "id": "w14_slam",
-    "no": "slam",
-    "de": "der Schlamm",
     "pos": "noun",
     "gender": "n",
     "forms": [
-      "slam",
-      "slammet"
+      "bad",
+      "badet",
+      "bad",
+      "bada/badene"
     ],
     "lesson": 14,
+    "wk": true,
     "ex": {
-      "no": "Elvene bringer slam fra breene.",
-      "de": "Die Flüsse bringen Schlamm von den Gletschern."
-    }
+      "no": "Badet er til venstre.",
+      "de": "Das Bad ist links."
+    },
+    "note": "på badet = im Bad."
   },
   {
-    "id": "w14_elv",
-    "no": "elv",
-    "de": "der Fluss",
+    "id": "w10_soverom",
+    "no": "soverom",
+    "de": "das Schlafzimmer",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "soverom",
+      "soverommet",
+      "soverom",
+      "soveromma/soverommene"
+    ],
+    "lesson": 14,
+    "wk": true,
+    "ex": {
+      "no": "Leiligheten har to soverom.",
+      "de": "Die Wohnung hat zwei Schlafzimmer."
+    },
+    "note": "på soverommet = im Schlafzimmer."
+  },
+  {
+    "id": "w10_stue",
+    "no": "stue",
+    "de": "das Wohnzimmer",
     "pos": "noun",
     "gender": "f",
     "forms": [
-      "elv",
-      "elva",
-      "elver",
-      "elvene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Glomma er Norges lengste elv.",
-      "de": "Die Glomma ist Norwegens längster Fluss."
-    }
-  },
-  {
-    "id": "w14_sti",
-    "no": "sti",
-    "de": "der Pfad",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "sti",
-      "stien",
-      "stier",
-      "stiene"
+      "stue",
+      "stua",
+      "stuer",
+      "stuene"
     ],
     "lesson": 14,
     "wk": true,
     "ex": {
-      "no": "Stien gikk bratt oppover.",
-      "de": "Der Pfad ging steil bergauf."
-    }
+      "no": "I stua står en gammel sofa.",
+      "de": "Im Wohnzimmer steht ein altes Sofa."
+    },
+    "note": "i stua = im Wohnzimmer."
   },
   {
-    "id": "w14_varde",
-    "no": "varde",
-    "de": "der Steinmann",
+    "id": "w10_trapp",
+    "no": "trapp",
+    "de": "die Treppe",
     "pos": "noun",
-    "gender": "m",
+    "gender": "f",
     "forms": [
-      "varde",
-      "varden",
-      "varder",
-      "vardene"
+      "trapp",
+      "trappa",
+      "trapper",
+      "trappene"
     ],
     "lesson": 14,
     "wk": true,
-    "note": "Aufgeschichteter Steinhaufen als Wegzeichen.",
     "ex": {
-      "no": "I tåka kunne vi så vidt se neste varde.",
-      "de": "Im Nebel konnten wir den nächsten Steinmann gerade noch sehen."
+      "no": "Trappa i det gamle huset er bratt.",
+      "de": "Die Treppe im alten Haus ist steil."
     }
   },
   {
-    "id": "w14_sludd",
-    "no": "sludd",
-    "de": "der Schneeregen",
+    "id": "w10_loft",
+    "no": "loft",
+    "de": "der Dachboden",
     "pos": "noun",
     "gender": "n",
     "forms": [
-      "sludd",
-      "sluddet"
+      "loft",
+      "loftet",
+      "loft",
+      "lofta/loftene"
     ],
     "lesson": 14,
     "wk": true,
     "ex": {
-      "no": "Vi fikk sludd i ansiktet.",
-      "de": "Wir bekamen Schneeregen ins Gesicht."
+      "no": "De gamle kassene står på loftet.",
+      "de": "Die alten Kisten stehen auf dem Dachboden."
     }
   },
   {
-    "id": "w14_vind",
-    "no": "vind",
-    "de": "der Wind",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "vind",
-      "vinden",
-      "vinder",
-      "vindene"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Vinden var sterkest på eggen.",
-      "de": "Der Wind war auf dem Grat am stärksten."
-    }
-  },
-  {
-    "id": "w14_termos",
-    "no": "termos",
-    "de": "die Thermoskanne",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "termos",
-      "termosen",
-      "termoser",
-      "termosene"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Husk termosen med kakao!",
-      "de": "Denk an die Thermoskanne mit Kakao!"
-    }
-  },
-  {
-    "id": "w14_sitteunderlag",
-    "no": "sitteunderlag",
-    "de": "das Sitzkissen (für draußen)",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "sitteunderlag",
-      "sitteunderlaget",
-      "sitteunderlag",
-      "sitteunderlaga/sitteunderlagene"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Med sitteunderlag blir du ikke våt på steinene.",
-      "de": "Mit einem Sitzkissen wirst du auf den Steinen nicht nass."
-    }
-  },
-  {
-    "id": "w14_kompass",
-    "no": "kompass",
-    "de": "der Kompass",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "kompass",
-      "kompasset",
-      "kompass",
-      "kompassa/kompassene"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "I tåka trenger du kompasset.",
-      "de": "Im Nebel brauchst du den Kompass."
-    }
-  },
-  {
-    "id": "w14_fjellstovel",
-    "no": "fjellstøvel",
-    "de": "der Bergschuh",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "fjellstøvel",
-      "fjellstøvelen",
-      "fjellstøvler",
-      "fjellstøvlene"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "De nye fjellstøvlene mine gir meg gnagsår.",
-      "de": "Meine neuen Bergschuhe scheuern mich wund."
-    }
-  },
-  {
-    "id": "w14_gnagsaar",
-    "no": "gnagsår",
-    "de": "die (Scheuer-)Blase",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "gnagsår",
-      "gnagsåret",
-      "gnagsår",
-      "gnagsåra/gnagsårene"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Jeg har fått gnagsår på hælene.",
-      "de": "Ich habe Blasen an den Fersen."
-    }
-  },
-  {
-    "id": "w14_hael",
-    "no": "hæl",
-    "de": "die Ferse",
+    "id": "w10_tak",
+    "no": "tak",
+    "de": "das Dach",
     "deAlt": [
-      "der Absatz"
+      "Decke",
+      "Zimmerdecke"
     ],
     "pos": "noun",
-    "gender": "m",
+    "gender": "n",
     "forms": [
-      "hæl",
-      "hælen",
-      "hæler",
-      "hælene"
+      "tak",
+      "taket",
+      "tak",
+      "taka/takene"
     ],
     "lesson": 14,
+    "wk": true,
     "ex": {
-      "no": "Hælen min gjør vondt.",
-      "de": "Meine Ferse tut weh."
-    }
+      "no": "Det ligger snø på taket.",
+      "de": "Auf dem Dach liegt Schnee."
+    },
+    "note": "tak = Dach und Zimmerdecke."
   },
   {
-    "id": "w14_bein",
-    "no": "bein",
-    "de": "das Bein",
+    "id": "w10_gulv",
+    "no": "gulv",
+    "de": "der Fußboden",
     "deAlt": [
-      "der Knochen"
+      "Boden"
     ],
     "pos": "noun",
     "gender": "n",
     "forms": [
-      "bein",
-      "beinet",
-      "bein",
-      "beina"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Beina mine var tyngre enn noen gang.",
-      "de": "Meine Beine waren schwerer als je zuvor."
-    }
-  },
-  {
-    "id": "w14_oyeblikk",
-    "no": "øyeblikk",
-    "de": "der Augenblick, der Moment",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "øyeblikk",
-      "øyeblikket",
-      "øyeblikk",
-      "øyeblikka/øyeblikkene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Det var det beste øyeblikket på turen.",
-      "de": "Das war der beste Moment der Tour."
-    }
-  },
-  {
-    "id": "w14_skam",
-    "no": "skam",
-    "de": "die Schande",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "skam",
-      "skammen"
+      "gulv",
+      "gulvet",
+      "gulv",
+      "gulva/gulvene"
     ],
     "lesson": 14,
     "wk": true,
     "ex": {
-      "no": "Det er ingen skam å snu.",
-      "de": "Es ist keine Schande umzukehren."
+      "no": "Gulvet knirker når jeg går.",
+      "de": "Der Boden knarrt, wenn ich gehe."
     }
   },
   {
-    "id": "w14_kjempe",
-    "no": "kjempe",
-    "de": "der Riese",
+    "id": "w10_vegg",
+    "no": "vegg",
+    "de": "die Wand",
     "pos": "noun",
     "gender": "m",
     "forms": [
-      "kjempe",
-      "kjempen",
-      "kjemper",
-      "kjempene"
-    ],
-    "lesson": 14,
-    "note": "Als Vorsilbe: kjempe- = riesig, super (kjempefin).",
-    "ex": {
-      "no": "I eventyrene bor kjempene i fjellet.",
-      "de": "In den Märchen wohnen die Riesen im Berg."
-    }
-  },
-  {
-    "id": "w14_jotun",
-    "no": "jotun",
-    "de": "der Riese (nordische Mythologie)",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "jotun",
-      "jotunen",
-      "jotner",
-      "jotnene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Jotunheimen betyr «jotnenes hjem».",
-      "de": "Jotunheimen bedeutet „Heim der Riesen“."
-    }
-  },
-  {
-    "id": "w14_myte",
-    "no": "myte",
-    "de": "der Mythos",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "myte",
-      "myten",
-      "myter",
-      "mytene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Det er bare en myte at alle nordmenn er født med ski på beina.",
-      "de": "Es ist nur ein Mythos, dass alle Norweger mit Skiern an den Füßen geboren werden."
-    }
-  },
-  {
-    "id": "w14_reinsbukk",
-    "no": "reinsbukk",
-    "de": "der Rentierbock",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "reinsbukk",
-      "reinsbukken",
-      "reinsbukker",
-      "reinsbukkene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Peer Gynt red på en reinsbukk.",
-      "de": "Peer Gynt ritt auf einem Rentierbock."
-    }
-  },
-  {
-    "id": "w14_quiz",
-    "no": "quiz",
-    "de": "das Quiz",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "quiz",
-      "quizen",
-      "quizer",
-      "quizene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Matthias vant quizen.",
-      "de": "Matthias hat das Quiz gewonnen."
-    }
-  },
-  {
-    "id": "w14_nasjonalpark",
-    "no": "nasjonalpark",
-    "de": "der Nationalpark",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "nasjonalpark",
-      "nasjonalparken",
-      "nasjonalparker",
-      "nasjonalparkene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Besseggen ligger i Jotunheimen nasjonalpark.",
-      "de": "Der Besseggen liegt im Nationalpark Jotunheimen."
-    }
-  },
-  {
-    "id": "w14_sesong",
-    "no": "sesong",
-    "de": "die Saison",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "sesong",
-      "sesongen",
-      "sesonger",
-      "sesongene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Båten går bare i sommersesongen.",
-      "de": "Das Boot fährt nur in der Sommersaison."
-    }
-  },
-  {
-    "id": "w14_friluftsliv",
-    "no": "friluftsliv",
-    "de": "das Leben in der freien Natur",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "friluftsliv",
-      "friluftslivet"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "note": "Typisch norwegisch: draußen sein, wandern, Ski laufen, angeln, zelten.",
-    "ex": {
-      "no": "Friluftsliv er viktig for mange nordmenn.",
-      "de": "Das Leben in der freien Natur ist für viele Norweger wichtig."
-    }
-  },
-  {
-    "id": "w14_allemannsrett",
-    "no": "allemannsrett",
-    "de": "das Jedermannsrecht",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "allemannsrett",
-      "allemannsretten"
+      "vegg",
+      "veggen",
+      "vegger",
+      "veggene"
     ],
     "lesson": 14,
     "wk": true,
     "ex": {
-      "no": "Allemannsretten gjelder i utmark.",
-      "de": "Das Jedermannsrecht gilt im unkultivierten Land."
+      "no": "Det henger et bilde på veggen.",
+      "de": "An der Wand hängt ein Bild."
     }
   },
   {
-    "id": "w14_utmark",
-    "no": "utmark",
-    "de": "das unkultivierte Land",
+    "id": "w10_hylle",
+    "no": "hylle",
+    "de": "das Regal",
     "pos": "noun",
     "gender": "f",
     "forms": [
-      "utmark",
-      "utmarka"
-    ],
-    "lesson": 14,
-    "note": "Wald, Berge, Moor, Strand – hier gilt das Jedermannsrecht.",
-    "ex": {
-      "no": "I utmark kan du telte i to døgn.",
-      "de": "Im unkultivierten Land darfst du zwei Tage zelten."
-    }
-  },
-  {
-    "id": "w14_innmark",
-    "no": "innmark",
-    "de": "das kultivierte Land (Gärten, Felder, Hof)",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "innmark",
-      "innmarka"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Du kan ikke telte på innmark.",
-      "de": "Auf kultiviertem Land darfst du nicht zelten."
-    }
-  },
-  {
-    "id": "w14_telt",
-    "no": "telt",
-    "de": "das Zelt",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "telt",
-      "teltet",
-      "telt",
-      "telta/teltene"
+      "hylle",
+      "hylla",
+      "hyller",
+      "hyllene"
     ],
     "lesson": 14,
     "wk": true,
     "ex": {
-      "no": "Vi overnatter i telt.",
-      "de": "Wir übernachten im Zelt."
+      "no": "Bøkene står i hylla.",
+      "de": "Die Bücher stehen im Regal."
     }
   },
   {
-    "id": "w14_baal",
-    "no": "bål",
-    "de": "das Lagerfeuer",
+    "id": "w10_lampe",
+    "no": "lampe",
+    "de": "die Lampe",
     "pos": "noun",
-    "gender": "n",
+    "gender": "f",
     "forms": [
-      "bål",
-      "bålet",
-      "bål",
-      "båla/bålene"
+      "lampe",
+      "lampa",
+      "lamper",
+      "lampene"
     ],
     "lesson": 14,
     "wk": true,
     "ex": {
-      "no": "Om høsten kan vi tenne bål igjen.",
-      "de": "Im Herbst dürfen wir wieder ein Lagerfeuer machen."
+      "no": "Fru Solheim ga ham også ei gammel lampe.",
+      "de": "Frau Solheim gab ihm auch eine alte Lampe."
     }
   },
   {
-    "id": "w14_baer",
-    "no": "bær",
-    "de": "die Beere",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "bær",
-      "bæret",
-      "bær",
-      "bæra/bærene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "I august plukker vi bær i skogen.",
-      "de": "Im August pflücken wir im Wald Beeren."
-    }
-  },
-  {
-    "id": "w14_sopp",
-    "no": "sopp",
-    "de": "der Pilz",
+    "id": "w10_flyttebil",
+    "no": "flyttebil",
+    "de": "der Umzugswagen",
     "pos": "noun",
     "gender": "m",
     "forms": [
-      "sopp",
-      "soppen",
-      "sopper",
-      "soppene"
+      "flyttebil",
+      "flyttebilen",
+      "flyttebiler",
+      "flyttebilene"
     ],
     "lesson": 14,
+    "wk": true,
     "ex": {
-      "no": "Er denne soppen giftig?",
-      "de": "Ist dieser Pilz giftig?"
+      "no": "Matthias leide en liten flyttebil på lørdag.",
+      "de": "Matthias hat am Samstag einen kleinen Umzugswagen gemietet."
     }
   },
   {
-    "id": "w14_hensyn",
-    "no": "hensyn",
-    "de": "die Rücksicht",
+    "id": "w10_regntoy",
+    "no": "regntøy",
+    "de": "die Regenkleidung",
     "pos": "noun",
     "gender": "n",
     "forms": [
-      "hensyn",
-      "hensynet",
-      "hensyn",
-      "hensyna/hensynene"
+      "regntøy",
+      "regntøyet"
     ],
     "lesson": 14,
-    "note": "ta hensyn til = Rücksicht nehmen auf",
     "ex": {
-      "no": "Ta hensyn til dyrene i skogen.",
-      "de": "Nimm Rücksicht auf die Tiere im Wald."
+      "no": "I Bergen trenger du ordentlig regntøy.",
+      "de": "In Bergen brauchst du richtige Regenkleidung."
     }
   },
   {
-    "id": "w14_dogn",
-    "no": "døgn",
-    "de": "der Tag (24 Stunden)",
+    "id": "w10_gummistovel",
+    "no": "gummistøvel",
+    "de": "der Gummistiefel",
     "pos": "noun",
-    "gender": "n",
+    "gender": "m",
     "forms": [
-      "døgn",
-      "døgnet",
-      "døgn",
-      "døgna/døgnene"
+      "gummistøvel",
+      "gummistøvelen",
+      "gummistøvler",
+      "gummistøvlene"
     ],
     "lesson": 14,
-    "note": "et døgn = Tag und Nacht zusammen, 24 Stunden.",
     "ex": {
-      "no": "Vi var i fjellet i to døgn.",
-      "de": "Wir waren zwei Tage und Nächte in den Bergen."
+      "no": "Han kjøpte gummistøvler og regnjakke.",
+      "de": "Er kaufte Gummistiefel und eine Regenjacke."
     }
   },
   {
-    "id": "w14_myr",
-    "no": "myr",
-    "de": "das Moor",
+    "id": "w10_taake",
+    "no": "tåke",
+    "de": "der Nebel",
     "pos": "noun",
     "gender": "f",
     "forms": [
-      "myr",
-      "myra",
-      "myrer",
-      "myrene"
+      "tåke",
+      "tåka"
     ],
     "lesson": 14,
     "ex": {
-      "no": "Stien går over ei stor myr.",
-      "de": "Der Pfad führt über ein großes Moor."
+      "no": "Det var tåke på Fløyen.",
+      "de": "Auf dem Fløyen war Nebel."
     }
   },
   {
-    "id": "w14_aaker",
-    "no": "åker",
-    "de": "der Acker",
+    "id": "w10_skillingsbolle",
+    "no": "skillingsbolle",
+    "de": "die Zimtschnecke (Bergener Art)",
+    "deAlt": [
+      "Zimtschnecke"
+    ],
     "pos": "noun",
     "gender": "m",
     "forms": [
-      "åker",
-      "åkeren",
-      "åkrer",
-      "åkrene"
+      "skillingsbolle",
+      "skillingsbollen",
+      "skillingsboller",
+      "skillingsbollene"
     ],
     "lesson": 14,
     "ex": {
-      "no": "Du kan ikke gå over åkeren om sommeren.",
-      "de": "Im Sommer darfst du nicht über den Acker gehen."
+      "no": "Skillingsboller er en spesialitet fra Bergen.",
+      "de": "Skillingsboller sind eine Bergener Spezialität."
     }
   },
   {
-    "id": "w14_lov",
-    "no": "lov",
-    "de": "das Gesetz",
+    "id": "w10_spesialitet",
+    "no": "spesialitet",
+    "de": "die Spezialität",
     "pos": "noun",
     "gender": "m",
     "forms": [
-      "lov",
-      "loven",
-      "lover",
-      "lovene"
+      "spesialitet",
+      "spesialiteten",
+      "spesialiteter",
+      "spesialitetene"
     ],
     "lesson": 14,
-    "note": "Nicht verwechseln: ha lov til = dürfen.",
     "ex": {
-      "no": "Friluftsloven er fra 1957.",
-      "de": "Das Freiluftgesetz ist von 1957."
+      "no": "Fiskesuppe er en spesialitet i Bergen.",
+      "de": "Fischsuppe ist eine Spezialität in Bergen."
     }
   },
   {
-    "id": "w14_fiskestang",
-    "no": "fiskestang",
-    "de": "die Angel",
+    "id": "w10_sjef",
+    "no": "sjef",
+    "de": "der Chef / die Chefin",
+    "deAlt": [
+      "Chef",
+      "Chefin"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "sjef",
+      "sjefen",
+      "sjefer",
+      "sjefene"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Sjefen viste meg rundt på kontoret.",
+      "de": "Die Chefin hat mich im Büro herumgeführt."
+    }
+  },
+  {
+    "id": "w10_vidde",
+    "no": "vidde",
+    "de": "die Hochebene",
     "pos": "noun",
     "gender": "f",
     "forms": [
-      "fiskestang",
-      "fiskestanga",
-      "fiskestenger",
-      "fiskestengene"
+      "vidde",
+      "vidda",
+      "vidder",
+      "viddene"
     ],
     "lesson": 14,
     "ex": {
-      "no": "Per tar alltid med fiskestanga på hytta.",
-      "de": "Per nimmt immer die Angel mit in die Hütte."
+      "no": "Toget kjører over vidda.",
+      "de": "Der Zug fährt über die Hochebene."
+    },
+    "note": "vidda meint oft die Hardangervidda."
+  },
+  {
+    "id": "w10_bonde",
+    "no": "bonde",
+    "de": "der Bauer / die Bäuerin",
+    "deAlt": [
+      "Bauer",
+      "Landwirt"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "bonde",
+      "bonden",
+      "bønder",
+      "bøndene"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Bøndene i Hardanger dyrker epler.",
+      "de": "Die Bauern in Hardanger bauen Äpfel an."
+    },
+    "note": "Unregelmäßiger Plural: bønder."
+  },
+  {
+    "id": "w10_kjopmann",
+    "no": "kjøpmann",
+    "de": "der Kaufmann",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "kjøpmann",
+      "kjøpmannen",
+      "kjøpmenn",
+      "kjøpmennene"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Tyske kjøpmenn hadde et kontor på Bryggen.",
+      "de": "Deutsche Kaufleute hatten ein Kontor auf Bryggen."
+    },
+    "note": "Plural wie mann – menn."
+  },
+  {
+    "id": "w10_taubane",
+    "no": "taubane",
+    "de": "die Seilbahn",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "taubane",
+      "taubanen",
+      "taubaner",
+      "taubanene"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Vi tok taubanen opp på Ulriken.",
+      "de": "Wir nahmen die Seilbahn auf den Ulriken."
     }
   },
   {
-    "id": "w14_klatre",
-    "no": "klatre",
-    "de": "klettern",
+    "id": "w10_torrfisk",
+    "no": "tørrfisk",
+    "de": "der Stockfisch",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "tørrfisk",
+      "tørrfisken"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Tørrfisk kom fra Nord-Norge til Bergen.",
+      "de": "Stockfisch kam aus Nordnorwegen nach Bergen."
+    }
+  },
+  {
+    "id": "w10_sjomat",
+    "no": "sjømat",
+    "de": "die Meeresfrüchte (Pl.)",
+    "deAlt": [
+      "Meeresfrüchte",
+      "Fisch und Meeresfrüchte"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "sjømat",
+      "sjømaten"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "På Fisketorget kan man spise sjømat.",
+      "de": "Auf dem Fischmarkt kann man Meeresfrüchte essen."
+    }
+  },
+  {
+    "id": "w10_innflyttingsfest",
+    "no": "innflyttingsfest",
+    "de": "die Einweihungsparty",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "innflyttingsfest",
+      "innflyttingsfesten",
+      "innflyttingsfester",
+      "innflyttingsfestene"
+    ],
+    "lesson": 14,
+    "wk": true,
+    "ex": {
+      "no": "Matthias vil ha innflyttingsfest.",
+      "de": "Matthias will eine Einweihungsparty machen."
+    }
+  },
+  {
+    "id": "w10_baere",
+    "no": "bære",
+    "de": "tragen",
     "pos": "verb",
     "vf": [
-      "klatrer",
-      "klatret",
-      "klatret",
-      "klatre"
+      "bærer",
+      "bar",
+      "båret",
+      "bær"
+    ],
+    "vg": "sterk",
+    "lesson": 14,
+    "ex": {
+      "no": "Han bar kassene opp trappa.",
+      "de": "Er trug die Kisten die Treppe hinauf."
+    }
+  },
+  {
+    "id": "w10_finne",
+    "no": "finne",
+    "de": "finden",
+    "pos": "verb",
+    "vf": [
+      "finner",
+      "fant",
+      "funnet",
+      "finn"
+    ],
+    "vg": "sterk",
+    "lesson": 14,
+    "ex": {
+      "no": "Jeg fant et lite bakeri ved havna.",
+      "de": "Ich fand eine kleine Bäckerei am Hafen."
+    }
+  },
+  {
+    "id": "w10_bite",
+    "no": "bite",
+    "de": "beißen",
+    "pos": "verb",
+    "vf": [
+      "biter",
+      "bet/beit",
+      "bitt",
+      "bit"
+    ],
+    "vg": "sterk",
+    "lesson": 14,
+    "ex": {
+      "no": "Bamse har aldri bitt noen.",
+      "de": "Bamse hat noch nie jemanden gebissen."
+    }
+  },
+  {
+    "id": "w10_fly",
+    "no": "fly",
+    "de": "fliegen",
+    "pos": "verb",
+    "vf": [
+      "flyr",
+      "fløy",
+      "fløyet",
+      "fly"
+    ],
+    "vg": "sterk",
+    "lesson": 14,
+    "ex": {
+      "no": "Måkene fløy over havna.",
+      "de": "Die Möwen flogen über den Hafen."
+    },
+    "note": "et fly = das Flugzeug."
+  },
+  {
+    "id": "w10_stjele",
+    "no": "stjele",
+    "de": "stehlen",
+    "pos": "verb",
+    "vf": [
+      "stjeler",
+      "stjal",
+      "stjålet",
+      "stjel"
+    ],
+    "vg": "sterk",
+    "lesson": 14,
+    "ex": {
+      "no": "Noen har stjålet sykkelen min!",
+      "de": "Jemand hat mein Fahrrad gestohlen!"
+    }
+  },
+  {
+    "id": "w10_dra",
+    "no": "dra",
+    "de": "fahren, aufbrechen",
+    "deAlt": [
+      "ziehen",
+      "fahren",
+      "aufbrechen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "drar",
+      "dro",
+      "dratt",
+      "dra"
+    ],
+    "vg": "sterk",
+    "lesson": 14,
+    "ex": {
+      "no": "Matthias dro til Bergen med toget.",
+      "de": "Matthias fuhr mit dem Zug nach Bergen."
+    }
+  },
+  {
+    "id": "w10_blaase",
+    "no": "blåse",
+    "de": "wehen, blasen",
+    "deAlt": [
+      "wehen",
+      "blasen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "blåser",
+      "blåste",
+      "blåst",
+      "blås"
+    ],
+    "vg": "2",
+    "lesson": 14,
+    "ex": {
+      "no": "Det blåser mye i Bergen.",
+      "de": "In Bergen ist es oft windig."
+    },
+    "note": "Det blåser = es ist windig."
+  },
+  {
+    "id": "w10_grunnlegge",
+    "no": "grunnlegge",
+    "de": "gründen",
+    "pos": "verb",
+    "vf": [
+      "grunnlegger",
+      "grunnla",
+      "grunnlagt",
+      "grunnlegg"
+    ],
+    "vg": "uregelm",
+    "lesson": 14,
+    "ex": {
+      "no": "Olav Kyrre grunnla Bergen rundt år 1070.",
+      "de": "Olav Kyrre gründete Bergen um das Jahr 1070."
+    }
+  },
+  {
+    "id": "w10_dyrke",
+    "no": "dyrke",
+    "de": "anbauen",
+    "pos": "verb",
+    "vf": [
+      "dyrker",
+      "dyrket/dyrka",
+      "dyrket/dyrka",
+      "dyrk"
     ],
     "vg": "1",
     "lesson": 14,
-    "wk": true,
     "ex": {
-      "no": "Vi klatret sakte ned.",
-      "de": "Wir kletterten langsam hinunter."
+      "no": "I Hardanger dyrker de epler.",
+      "de": "In Hardanger bauen sie Äpfel an."
     }
   },
   {
-    "id": "w14_snu",
-    "no": "snu",
-    "de": "umkehren",
+    "id": "w10_lys",
+    "no": "lys",
+    "de": "hell",
+    "pos": "adj",
+    "forms": [
+      "lys",
+      "lyst",
+      "lyse",
+      "lysere",
+      "lysest"
+    ],
+    "lesson": 14,
+    "wk": true,
+    "ex": {
+      "no": "Stua er lys og fin.",
+      "de": "Das Wohnzimmer ist hell und schön."
+    },
+    "note": "et lys = ein Licht, eine Kerze."
+  },
+  {
+    "id": "w10_bratt",
+    "no": "bratt",
+    "de": "steil",
+    "pos": "adj",
+    "forms": [
+      "bratt",
+      "bratt",
+      "bratte",
+      "brattere",
+      "brattest"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Trappa er veldig bratt.",
+      "de": "Die Treppe ist sehr steil."
+    }
+  },
+  {
+    "id": "w10_ordentlig",
+    "no": "ordentlig",
+    "de": "richtig, ordentlich",
     "deAlt": [
-      "wenden",
-      "sich umdrehen"
+      "richtig",
+      "ordentlich"
+    ],
+    "pos": "adj",
+    "forms": [
+      "ordentlig",
+      "ordentlig",
+      "ordentlige"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Kjøp ordentlig regntøy!",
+      "de": "Kauf richtige Regenkleidung!"
+    }
+  },
+  {
+    "id": "w10_hjem_kjaere_hjem",
+    "no": "Hjem, kjære hjem",
+    "de": "Trautes Heim, Glück allein",
+    "pos": "phrase",
+    "lesson": 14,
+    "wk": true,
+    "ex": {
+      "no": "Endelig hjemme. Hjem, kjære hjem!",
+      "de": "Endlich zu Hause. Trautes Heim, Glück allein!"
+    }
+  },
+  {
+    "id": "w10_fol_deg_som_hjemme",
+    "no": "Føl deg som hjemme!",
+    "de": "Fühl dich wie zu Hause!",
+    "pos": "phrase",
+    "lesson": 14,
+    "wk": true,
+    "ex": {
+      "no": "Kom inn og føl deg som hjemme!",
+      "de": "Komm herein und fühl dich wie zu Hause!"
+    }
+  },
+  {
+    "id": "w10_borte_bra",
+    "no": "Borte bra, men hjemme best",
+    "de": "Daheim ist’s doch am schönsten",
+    "pos": "phrase",
+    "lesson": 14,
+    "wk": true,
+    "ex": {
+      "no": "Etter tre uker på reise sa bestemor: «Borte bra, men hjemme best.»",
+      "de": "Nach drei Wochen auf Reisen sagte Oma: „Daheim ist’s doch am schönsten.“"
+    }
+  },
+  {
+    "id": "w10_vaat_til_skinnet",
+    "no": "våt til skinnet",
+    "de": "nass bis auf die Haut",
+    "pos": "phrase",
+    "lesson": 14,
+    "ex": {
+      "no": "Etter turen var vi våte til skinnet.",
+      "de": "Nach dem Ausflug waren wir nass bis auf die Haut."
+    }
+  },
+  {
+    "id": "w14_barnebarn",
+    "no": "barnebarn",
+    "de": "das Enkelkind",
+    "deAlt": [
+      "der Enkel",
+      "die Enkelin"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "barnebarn",
+      "barnebarnet",
+      "barnebarn",
+      "barnebarna"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Fru Solheim har fem barnebarn.",
+      "de": "Frau Solheim hat fünf Enkelkinder."
+    }
+  },
+  {
+    "id": "w14_garasje",
+    "no": "garasje",
+    "de": "die Garage",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "garasje",
+      "garasjen",
+      "garasjer",
+      "garasjene"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Kassene sto i garasjen til kollegaen hans.",
+      "de": "Die Kisten standen in der Garage seines Kollegen."
+    }
+  },
+  {
+    "id": "w14_kjokkenvindu",
+    "no": "kjøkkenvindu",
+    "de": "das Küchenfenster",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "kjøkkenvindu",
+      "kjøkkenvinduet",
+      "kjøkkenvinduer",
+      "kjøkkenvinduene"
+    ],
+    "lesson": 14,
+    "wk": true,
+    "ex": {
+      "no": "Fra kjøkkenvinduet ser han Fløyen.",
+      "de": "Vom Küchenfenster aus sieht er den Fløyen."
+    }
+  },
+  {
+    "id": "w14_vaskemaskin",
+    "no": "vaskemaskin",
+    "de": "die Waschmaschine",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "vaskemaskin",
+      "vaskemaskinen",
+      "vaskemaskiner",
+      "vaskemaskinene"
+    ],
+    "lesson": 14,
+    "wk": true,
+    "ex": {
+      "no": "Vaskemaskinen står i kjelleren.",
+      "de": "Die Waschmaschine steht im Keller."
+    }
+  },
+  {
+    "id": "w14_trives",
+    "no": "trives",
+    "de": "sich wohlfühlen",
+    "pos": "verb",
+    "vf": [
+      "trives",
+      "trivdes",
+      "trivdes",
+      ""
+    ],
+    "vg": "3",
+    "lesson": 14,
+    "wk": true,
+    "ex": {
+      "no": "Matthias trives godt i Sandviken.",
+      "de": "Matthias fühlt sich in Sandviken wohl."
+    },
+    "note": "Ein s-Verb (mehr dazu in Lektion 18); sehr häufig."
+  },
+  {
+    "id": "w14_bli_glad_i",
+    "no": "bli glad i",
+    "de": "lieb gewinnen",
+    "pos": "phrase",
+    "lesson": 14,
+    "ex": {
+      "no": "Jeg tror jeg kommer til å bli glad i byen.",
+      "de": "Ich glaube, ich werde die Stadt lieb gewinnen."
+    },
+    "note": "være glad i = gern haben; bli glad i = lieb gewinnen."
+  },
+  {
+    "id": "w14_morketid",
+    "no": "mørketid",
+    "de": "die Polarnacht",
+    "deAlt": [
+      "die dunkle Zeit"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "mørketid",
+      "mørketida"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "I mørketida kommer ikke sola over horisonten.",
+      "de": "In der Polarnacht kommt die Sonne nicht über den Horizont."
+    },
+    "note": "In Tromsø ungefähr von Ende November bis Mitte Januar."
+  },
+  {
+    "id": "w14_video",
+    "no": "video",
+    "de": "das Video",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "video",
+      "videoen",
+      "videoer",
+      "videoene"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Vi snakker på video hver søndag.",
+      "de": "Wir reden jeden Sonntag per Video."
+    },
+    "note": "snakke på video = videotelefonieren."
+  },
+  {
+    "id": "w14_derfor",
+    "no": "derfor",
+    "de": "deshalb, darum",
+    "deAlt": [
+      "deshalb",
+      "darum",
+      "daher"
+    ],
+    "pos": "adv",
+    "lesson": 14,
+    "ex": {
+      "no": "Det regner mye i Bergen. Derfor trenger man regntøy.",
+      "de": "In Bergen regnet es viel. Deshalb braucht man Regenkleidung."
+    },
+    "note": "Adverb: Am Satzanfang folgt Inversion (Derfor trenger man …)."
+  },
+  {
+    "id": "w14_for_at",
+    "no": "for at",
+    "de": "damit",
+    "pos": "conj",
+    "lesson": 14,
+    "ex": {
+      "no": "Hun snakker langsomt for at han skal forstå.",
+      "de": "Sie spricht langsam, damit er versteht."
+    },
+    "note": "Mit Subjektwechsel; bei gleichem Subjekt: for å + Infinitiv."
+  },
+  {
+    "id": "w14_slik_at",
+    "no": "slik at",
+    "de": "sodass; damit",
+    "deAlt": [
+      "sodass",
+      "damit"
+    ],
+    "pos": "conj",
+    "lesson": 14,
+    "ex": {
+      "no": "Det regnet, slik at vi ble våte.",
+      "de": "Es regnete, sodass wir nass wurden."
+    }
+  },
+  {
+    "id": "w14_saa_at",
+    "no": "så … at",
+    "de": "so … dass",
+    "deAlt": [
+      "sodass"
+    ],
+    "pos": "conj",
+    "lesson": 14,
+    "ex": {
+      "no": "Trappa er så bratt at han nesten falt.",
+      "de": "Die Treppe ist so steil, dass er fast gefallen wäre."
+    }
+  },
+  {
+    "id": "w14_som_om",
+    "no": "som om",
+    "de": "als ob",
+    "pos": "conj",
+    "lesson": 14,
+    "ex": {
+      "no": "Hun snakker til ham som om han var barnebarnet hennes.",
+      "de": "Sie redet mit ihm, als ob er ihr Enkel wäre."
+    },
+    "note": "Meist mit Präteritum; kein Konjunktiv nötig."
+  },
+  {
+    "id": "w14_tenke_paa",
+    "no": "tenke på",
+    "de": "denken an",
+    "deAlt": [
+      "nachdenken über"
     ],
     "pos": "verb",
     "vf": [
-      "snur",
-      "snudde",
-      "snudd",
-      "snu"
+      "tenker på",
+      "tenkte på",
+      "tenkt på",
+      "tenk på"
+    ],
+    "vg": "2",
+    "lesson": 14,
+    "ex": {
+      "no": "Matthias tenker mye på Susanne.",
+      "de": "Matthias denkt viel an Susanne."
+    }
+  },
+  {
+    "id": "w14_tenke_aa",
+    "no": "tenke å",
+    "de": "vorhaben (zu)",
+    "deAlt": [
+      "vorhaben",
+      "planen"
+    ],
+    "pos": "phrase",
+    "lesson": 14,
+    "ex": {
+      "no": "Matthias tenker å ha innflyttingsfest.",
+      "de": "Matthias hat vor, eine Einweihungsparty zu geben."
+    }
+  },
+  {
+    "id": "w14_tenke_seg_om",
+    "no": "tenke seg om",
+    "de": "überlegen",
+    "deAlt": [
+      "nachdenken"
+    ],
+    "pos": "verb",
+    "vf": [
+      "tenker seg om",
+      "tenkte seg om",
+      "tenkt seg om",
+      "tenk deg om"
+    ],
+    "vg": "2",
+    "lesson": 14,
+    "ex": {
+      "no": "Tenk deg om før du svarer!",
+      "de": "Überleg, bevor du antwortest!"
+    }
+  },
+  {
+    "id": "w14_tro_paa",
+    "no": "tro på",
+    "de": "glauben an",
+    "pos": "verb",
+    "vf": [
+      "tror på",
+      "trodde på",
+      "trodd på",
+      "tro på"
     ],
     "vg": "4",
     "lesson": 14,
-    "wk": true,
     "ex": {
-      "no": "Burde vi snu?",
-      "de": "Sollten wir umkehren?"
+      "no": "Tror du på troll, bestemor?",
+      "de": "Glaubst du an Trolle, Oma?"
     }
   },
   {
-    "id": "w14_gaa_videre",
-    "no": "gå videre",
-    "de": "weitergehen",
-    "pos": "verb",
-    "vf": [
-      "går videre",
-      "gikk videre",
-      "gått videre",
-      "gå videre"
-    ],
-    "vg": "sterk",
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Vi var slitne, men vi gikk videre.",
-      "de": "Wir waren müde, aber wir gingen weiter."
-    }
-  },
-  {
-    "id": "w14_skifte",
-    "no": "skifte",
-    "de": "wechseln",
-    "pos": "verb",
-    "vf": [
-      "skifter",
-      "skiftet",
-      "skiftet",
-      "skift"
-    ],
-    "vg": "1",
-    "lesson": 14,
-    "ex": {
-      "no": "Været skifter fort i fjellet.",
-      "de": "Das Wetter wechselt in den Bergen schnell."
-    }
-  },
-  {
-    "id": "w14_slaa_om",
-    "no": "slå om",
-    "de": "umschlagen (Wetter)",
-    "pos": "verb",
-    "vf": [
-      "slår om",
-      "slo om",
-      "slått om",
-      "slå om"
-    ],
-    "vg": "sterk",
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Plutselig slo været om.",
-      "de": "Plötzlich schlug das Wetter um."
-    }
-  },
-  {
-    "id": "w14_lette",
-    "no": "lette",
-    "de": "sich lichten (Nebel)",
-    "deAlt": [
-      "leichter werden"
-    ],
-    "pos": "verb",
-    "vf": [
-      "letter",
-      "lettet",
-      "lettet",
-      "lett"
-    ],
-    "vg": "1",
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Endelig lettet tåka.",
-      "de": "Endlich lichtete sich der Nebel."
-    }
-  },
-  {
-    "id": "w14_forsvinne",
-    "no": "forsvinne",
-    "de": "verschwinden",
-    "pos": "verb",
-    "vf": [
-      "forsvinner",
-      "forsvant",
-      "forsvunnet",
-      "forsvinn"
-    ],
-    "vg": "sterk",
-    "lesson": 14,
-    "ex": {
-      "no": "Tåka forsvant, og sola kom fram.",
-      "de": "Der Nebel verschwand, und die Sonne kam heraus."
-    }
-  },
-  {
-    "id": "w14_ri",
-    "no": "ri",
-    "de": "reiten",
-    "pos": "verb",
-    "vf": [
-      "rir",
-      "red",
-      "ridd",
-      "ri"
-    ],
-    "vg": "sterk",
-    "lesson": 14,
-    "ex": {
-      "no": "Peer Gynt red over eggen.",
-      "de": "Peer Gynt ritt über den Grat."
-    }
-  },
-  {
-    "id": "w14_fryse",
-    "no": "fryse",
-    "de": "frieren",
-    "pos": "verb",
-    "vf": [
-      "fryser",
-      "frøs",
-      "frosset",
-      "frys"
-    ],
-    "vg": "sterk",
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Det blåste mye, men vi frøs ikke.",
-      "de": "Es war sehr windig, aber wir froren nicht."
-    }
-  },
-  {
-    "id": "w14_svette",
-    "no": "svette",
-    "de": "schwitzen",
-    "pos": "verb",
-    "vf": [
-      "svetter",
-      "svettet",
-      "svettet",
-      "svett"
-    ],
-    "vg": "1",
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Oppover svettet vi, på toppen frøs vi.",
-      "de": "Bergauf haben wir geschwitzt, auf dem Gipfel gefroren."
-    }
-  },
-  {
-    "id": "w14_hvile",
-    "no": "hvile",
-    "de": "sich ausruhen",
-    "pos": "verb",
-    "vf": [
-      "hviler",
-      "hvilte",
-      "hvilt",
-      "hvil"
-    ],
-    "vg": "2",
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Vi hvilte bak en stor stein.",
-      "de": "Wir ruhten uns hinter einem großen Stein aus."
-    }
-  },
-  {
-    "id": "w14_telte",
-    "no": "telte",
-    "de": "zelten",
-    "pos": "verb",
-    "vf": [
-      "telter",
-      "teltet",
-      "teltet",
-      "telt"
-    ],
-    "vg": "1",
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Du kan telte i to døgn på samme sted.",
-      "de": "Du darfst zwei Tage am selben Ort zelten."
-    }
-  },
-  {
-    "id": "w14_plukke",
-    "no": "plukke",
-    "de": "pflücken",
-    "pos": "verb",
-    "vf": [
-      "plukker",
-      "plukket",
-      "plukket",
-      "plukk"
-    ],
-    "vg": "1",
-    "lesson": 14,
-    "ex": {
-      "no": "Alle kan plukke bær i skogen.",
-      "de": "Jeder darf im Wald Beeren pflücken."
-    }
-  },
-  {
-    "id": "w14_overnatte",
-    "no": "overnatte",
-    "de": "übernachten",
-    "pos": "verb",
-    "vf": [
-      "overnatter",
-      "overnattet",
-      "overnattet",
-      "overnatt"
-    ],
-    "vg": "1",
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Vi overnattet på en DNT-hytte.",
-      "de": "Wir übernachteten in einer DNT-Hütte."
-    }
-  },
-  {
-    "id": "w14_merke",
-    "no": "merke",
-    "de": "markieren",
-    "deAlt": [
-      "merken",
-      "bemerken"
-    ],
-    "pos": "verb",
-    "vf": [
-      "merker",
-      "merket",
-      "merket",
-      "merk"
-    ],
-    "vg": "1",
-    "lesson": 14,
-    "ex": {
-      "no": "Frivillige merker stiene med røde T-er.",
-      "de": "Freiwillige markieren die Wege mit roten T."
-    }
-  },
-  {
-    "id": "w14_folge",
-    "no": "følge",
-    "de": "folgen",
-    "pos": "verb",
-    "vf": [
-      "følger",
-      "fulgte",
-      "fulgt",
-      "følg"
-    ],
-    "vg": "uregelm",
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Følg de røde T-ene.",
-      "de": "Folge den roten T."
-    }
-  },
-  {
-    "id": "w14_bringe",
-    "no": "bringe",
-    "de": "bringen",
-    "pos": "verb",
-    "vf": [
-      "bringer",
-      "brakte",
-      "brakt",
-      "bring"
-    ],
-    "vg": "uregelm",
-    "lesson": 14,
-    "ex": {
-      "no": "Elvene bringer slam fra breene.",
-      "de": "Die Flüsse bringen Schlamm von den Gletschern."
-    }
-  },
-  {
-    "id": "w14_gjelde",
-    "no": "gjelde",
-    "de": "gelten",
-    "pos": "verb",
-    "vf": [
-      "gjelder",
-      "gjaldt",
-      "gjeldt",
-      ""
-    ],
-    "vg": "uregelm",
-    "lesson": 14,
-    "note": "Det gjelder … = Es geht um …",
-    "ex": {
-      "no": "Reglene gjelder for alle.",
-      "de": "Die Regeln gelten für alle."
-    }
-  },
-  {
-    "id": "w14_eksistere",
-    "no": "eksistere",
-    "de": "existieren, bestehen",
-    "pos": "verb",
-    "vf": [
-      "eksisterer",
-      "eksisterte",
-      "eksistert",
-      "eksister"
-    ],
-    "vg": "2",
-    "lesson": 14,
-    "ex": {
-      "no": "DNT har eksistert siden 1868.",
-      "de": "Den DNT gibt es seit 1868."
-    }
-  },
-  {
-    "id": "w14_for",
-    "no": "for",
-    "de": "denn",
-    "pos": "conj",
-    "lesson": 14,
-    "note": "Verbindet Hauptsätze; danach normale Wortstellung, ikke hinter dem Verb. Nicht verwechseln mit fordi (weil).",
-    "ex": {
-      "no": "Vi tok en pause, for vi var slitne.",
-      "de": "Wir machten eine Pause, denn wir waren müde."
-    }
-  },
-  {
-    "id": "w14_saa",
-    "no": "så",
-    "de": "also, deshalb",
-    "pos": "conj",
-    "lesson": 14,
-    "note": "Als Konjunktion ohne Inversion: Det regnet, så vi ble våte. Als Adverb (= dann) mit Inversion: Så kom tåka. Vor Adjektiven und Adverbien: så = so (ikke så dyrt = nicht so teuer).",
-    "ex": {
-      "no": "Båten gikk ikke, så vi gikk samme vei tilbake.",
-      "de": "Das Boot fuhr nicht, deshalb gingen wir denselben Weg zurück."
-    }
-  },
-  {
-    "id": "w14_baade_og",
-    "no": "både … og",
-    "de": "sowohl … als auch",
-    "pos": "conj",
-    "lesson": 14,
-    "ex": {
-      "no": "Vi var både slitne og våte.",
-      "de": "Wir waren sowohl müde als auch nass."
-    }
-  },
-  {
-    "id": "w14_oppover",
-    "no": "oppover",
-    "de": "bergauf, nach oben",
-    "pos": "adv",
-    "lesson": 14,
-    "wk": true,
-    "note": "Gegenteil: nedover (bergab).",
-    "ex": {
-      "no": "Først gikk stien bratt oppover.",
-      "de": "Zuerst ging der Pfad steil bergauf."
-    }
-  },
-  {
-    "id": "w14_heldigvis",
-    "no": "heldigvis",
-    "de": "zum Glück",
-    "pos": "adv",
-    "lesson": 14,
-    "note": "Gegenteil: dessverre (leider).",
-    "ex": {
-      "no": "Heldigvis var det få folk på fjellet.",
-      "de": "Zum Glück waren wenige Leute in den Bergen."
-    }
-  },
-  {
-    "id": "w14_til_fots",
-    "no": "til fots",
-    "de": "zu Fuß",
-    "pos": "phrase",
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Vi gikk hele veien til fots.",
-      "de": "Wir sind den ganzen Weg zu Fuß gegangen."
-    }
-  },
-  {
-    "id": "w14_i_alle_fall",
-    "no": "i alle fall",
-    "de": "jedenfalls",
-    "deAlt": [
-      "auf jeden Fall"
-    ],
+    "id": "w14_paa_video",
+    "no": "på video",
+    "de": "per Video",
     "pos": "phrase",
     "lesson": 14,
     "ex": {
-      "no": "Norge har i alle fall lengre fjorder enn Sveits.",
-      "de": "Norwegen hat jedenfalls längere Fjorde als die Schweiz."
+      "no": "Vi kan snakke på video hver søndag.",
+      "de": "Wir können jeden Sonntag per Video reden."
     }
   },
   {
-    "id": "w14_gaa_feil",
-    "no": "gå feil",
-    "de": "sich verlaufen",
-    "pos": "phrase",
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Hvis du følger T-ene, går du ikke feil.",
-      "de": "Wenn du den T folgst, verläufst du dich nicht."
-    }
-  },
-  {
-    "id": "w14_enn_noen_gang",
-    "no": "enn noen gang",
-    "de": "als je zuvor",
-    "pos": "phrase",
-    "lesson": 14,
-    "ex": {
-      "no": "Jeg var mer sliten enn noen gang.",
-      "de": "Ich war müder als je zuvor."
-    }
-  },
-  {
-    "id": "w14_e_post",
-    "no": "e-post",
-    "de": "die E-Mail",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "e-post",
-      "e-posten",
-      "e-poster",
-      "e-postene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Takk for den lange e-posten din!",
-      "de": "Danke für deine lange E-Mail!"
-    }
-  },
-  {
-    "id": "w14_nummer",
-    "no": "nummer",
-    "de": "die Nummer",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "nummer",
-      "nummeret",
-      "numre/nummer",
-      "numrene/nummera"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Glittertind er nummer to i Norge.",
-      "de": "Der Glittertind ist die Nummer zwei in Norwegen."
-    }
-  },
-  {
-    "id": "w14_fall",
-    "no": "fall",
-    "de": "der Fall",
+    "id": "w14_lav",
+    "no": "lav",
+    "de": "niedrig",
     "deAlt": [
-      "der Sturz"
+      "leise"
     ],
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "fall",
-      "fallet",
-      "fall",
-      "falla/fallene"
-    ],
-    "lesson": 14,
-    "note": "i alle fall / i hvert fall = jedenfalls; i så fall = in dem Fall.",
-    "ex": {
-      "no": "Norge har i alle fall lengre fjorder enn Sveits.",
-      "de": "Norwegen hat jedenfalls längere Fjorde als die Schweiz."
-    }
-  },
-  {
-    "id": "w14_starte",
-    "no": "starte",
-    "de": "starten, beginnen",
-    "deAlt": [
-      "starten",
-      "beginnen",
-      "losgehen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "starter",
-      "startet",
-      "startet",
-      "start"
-    ],
-    "vg": "1",
-    "lesson": 14,
-    "ex": {
-      "no": "Vi startet ved Gjendesheim klokka åtte.",
-      "de": "Wir sind um acht Uhr in Gjendesheim losgegangen."
-    }
-  },
-  {
-    "id": "w14_oktober",
-    "no": "oktober",
-    "de": "der Oktober",
-    "pos": "name",
-    "lesson": 14,
-    "note": "Monatsnamen schreibt man klein: i oktober.",
-    "ex": {
-      "no": "I oktober er det færre folk på fjellet.",
-      "de": "Im Oktober sind weniger Leute in den Bergen."
-    }
-  },
-  {
-    "id": "w14_april",
-    "no": "april",
-    "de": "der April",
-    "pos": "name",
-    "lesson": 14,
-    "ex": {
-      "no": "Fra 15. april er det forbudt å tenne bål i skogen.",
-      "de": "Ab dem 15. April ist es verboten, im Wald ein Lagerfeuer zu machen."
-    }
-  },
-  {
-    "id": "w14_september",
-    "no": "september",
-    "de": "der September",
-    "pos": "name",
-    "lesson": 14,
-    "ex": {
-      "no": "Etter 15. september kan du tenne bål igjen.",
-      "de": "Nach dem 15. September darfst du wieder ein Lagerfeuer machen."
-    }
-  },
-  {
-    "id": "w14_form",
-    "no": "form",
-    "de": "die Form",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "form",
-      "formen",
-      "former",
-      "formene"
-    ],
-    "lesson": 14,
-    "note": "være i god form = gut in Form sein, fit sein.",
-    "ex": {
-      "no": "Matthias er i best form av oss tre.",
-      "de": "Matthias ist von uns dreien am besten in Form."
-    }
-  },
-  {
-    "id": "w14_ansikt",
-    "no": "ansikt",
-    "de": "das Gesicht",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "ansikt",
-      "ansiktet",
-      "ansikter",
-      "ansiktene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Vi fikk sludd i ansiktet.",
-      "de": "Wir bekamen Schneeregen ins Gesicht."
-    }
-  },
-  {
-    "id": "w14_dame",
-    "no": "dame",
-    "de": "die Dame, die Frau",
-    "deAlt": [
-      "die Dame",
-      "die Frau"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "dame",
-      "damen",
-      "damer",
-      "damene"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Vi møtte en eldre dame fra Lom.",
-      "de": "Wir trafen eine ältere Dame aus Lom."
-    }
-  },
-  {
-    "id": "w14_sjelden",
-    "no": "sjelden",
-    "de": "selten",
     "pos": "adj",
     "forms": [
-      "sjelden",
-      "sjeldent",
-      "sjeldne",
-      "sjeldnere",
-      "sjeldnest"
-    ],
-    "lesson": 14,
-    "note": "Auch als Adverb: Du går sjelden feil.",
-    "ex": {
-      "no": "Med kart går du sjelden feil.",
-      "de": "Mit Karte verläufst du dich selten."
-    }
-  },
-  {
-    "id": "w14_blomst",
-    "no": "blomst",
-    "de": "die Blume",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "blomst",
-      "blomsten",
-      "blomster",
-      "blomstene"
+      "lav",
+      "lavt",
+      "lave",
+      "lavere",
+      "lavest"
     ],
     "lesson": 14,
     "ex": {
-      "no": "Du kan plukke blomster i naturen.",
-      "de": "Du darfst in der Natur Blumen pflücken."
+      "no": "Husleia er ikke lav, men utsikten er fin.",
+      "de": "Die Miete ist nicht niedrig, aber die Aussicht ist schön."
     }
   },
   {
-    "id": "w14_forst",
-    "no": "først",
-    "de": "zuerst, erst",
+    "id": "w18_skinn",
+    "no": "skinn",
+    "de": "die Haut, das Fell",
     "deAlt": [
-      "zuerst",
-      "erst",
-      "als Erster"
+      "das Leder"
     ],
-    "pos": "adv",
-    "lesson": 14,
-    "ex": {
-      "no": "Først gikk stien bratt oppover.",
-      "de": "Zuerst ging der Pfad steil bergauf."
-    }
-  },
-  {
-    "id": "w14_kilometer",
-    "no": "kilometer",
-    "de": "der Kilometer",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "kilometer",
-      "kilometeren",
-      "kilometer",
-      "kilometerne"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Gjende er omtrent 18 kilometer lang.",
-      "de": "Der Gjende ist ungefähr 18 Kilometer lang."
-    }
-  },
-  {
-    "id": "w14_meter",
-    "no": "meter",
-    "de": "der Meter",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "meter",
-      "meteren",
-      "meter",
-      "meterne"
-    ],
-    "lesson": 14,
-    "ex": {
-      "no": "Galdhøpiggen er 2469 meter høy.",
-      "de": "Der Galdhøpiggen ist 2469 Meter hoch."
-    }
-  },
-  {
-    "id": "w14_maate",
-    "no": "måte",
-    "de": "die Art, die Weise",
-    "deAlt": [
-      "die Art",
-      "die Weise"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "måte",
-      "måten",
-      "måter",
-      "måtene"
-    ],
-    "lesson": 14,
-    "note": "på samme måte = auf dieselbe Weise; på en måte = in gewisser Weise.",
-    "ex": {
-      "no": "I hagen gjelder ikke allemannsretten på samme måte.",
-      "de": "Im Garten gilt das Jedermannsrecht nicht in derselben Weise."
-    }
-  },
-  {
-    "id": "w14_dyr_tier",
-    "no": "dyr",
-    "de": "das Tier",
     "pos": "noun",
     "gender": "n",
     "forms": [
-      "dyr",
-      "dyret",
-      "dyr",
-      "dyra/dyrene"
-    ],
-    "lesson": 14,
-    "note": "Nicht verwechseln: dyr (Adjektiv) = teuer.",
-    "ex": {
-      "no": "Ta hensyn til dyrene i skogen.",
-      "de": "Nimm Rücksicht auf die Tiere im Wald."
-    }
-  },
-  {
-    "id": "w14_strand",
-    "no": "strand",
-    "de": "der Strand",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "strand",
-      "stranda",
-      "strender",
-      "strendene"
+      "skinn",
+      "skinnet",
+      "skinn",
+      "skinna/skinnene"
     ],
     "lesson": 14,
     "ex": {
-      "no": "Allemannsretten gjelder også på stranda.",
-      "de": "Das Jedermannsrecht gilt auch am Strand."
+      "no": "Et reinskinn er varmt å sitte på.",
+      "de": "Auf einem Rentierfell sitzt man warm."
     }
   }
 ]

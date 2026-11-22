@@ -1,1245 +1,1668 @@
 {
   "n": 10,
   "level": "A2",
-  "title": "Den nye leiligheten til Matthias i Bergen",
-  "titleDe": "Matthias’ neue Wohnung in Bergen",
-  "place": "Bergen, Sandviken",
+  "title": "Trollenes og nissenes land",
+  "titleDe": "Das Land der Trolle und Wichtel",
+  "place": "Oslo – Bergen: Bergensbanen, Flåmsbana, Nærøyfjord",
   "goals": [
-    "Du kannst eine Wohnung beschreiben: Zimmer, oben und unten, die Aussicht.",
-    "Du lernst die wichtigsten unregelmäßigen Verben und ihre Muster (drikke – drakk – drukket).",
-    "Du unterscheidest Richtung und Ort: ut – ute, hjem – hjemme.",
-    "Du weißt, wann man i und wann man på sagt (i stua, på kjøkkenet).",
-    "Du erfährst etwas über Bergen und Westnorwegen."
+    "Du kannst von einer Reise erzählen und sagen, was vorher schon passiert war: Jeg hadde bestilt billettene.",
+    "Du sprichst über Pläne und Vorhersagen mit skal, vil und kommer til å.",
+    "Du nennst Monate und Daten (den 1. oktober, i begynnelsen av november) und unterscheidest forrige, neste, samme und siste.",
+    "Du lernst unveränderliche Adjektive (moderne, stille, ekte), den bestimmten Plural der Neutra (fjella, husa) und die Wortstellung mit kanskje.",
+    "Du erfährst etwas über die Bergenbahn, die Flåmbahn, die Huldra und den Nisse."
   ],
   "text": {
     "id": "t10",
-    "title": "Den nye leiligheten til Matthias i Bergen",
-    "titleDe": "Matthias’ neue Wohnung in Bergen",
-    "kind": "email",
-    "intro": "Matthias ist nach Bergen gezogen. Nach einer Woche schreibt er Susanne in Oslo eine lange E-Mail über seine neue Wohnung und seine erste Woche.",
+    "title": "Trollenes og nissenes land",
+    "titleDe": "Das Land der Trolle und Wichtel",
+    "kind": "prose",
+    "intro": "Matthias hat gerade seine Stelle in Bergen angetreten, und Susanne besucht ihn. Sie nimmt nicht den direkten Weg, sondern fährt über Myrdal, Flåm und den Nærøyfjord. Im Zug zwischen Voss und Bergen schreibt sie in ihr Reisetagebuch.",
     "lines": [
       {
-        "no": "Hei Susanne!",
-        "de": "Hallo Susanne!"
+        "no": "Fredag kveld, på toget mellom Voss og Bergen. Ute er det mørkt, og regnet renner nedover vinduet. Jeg har vært på reise hele dagen.",
+        "de": "Freitagabend, im Zug zwischen Voss und Bergen. Draußen ist es dunkel, und der Regen läuft an der Scheibe hinunter. Ich bin schon den ganzen Tag unterwegs."
       },
       {
-        "no": "Nå har jeg bodd i Bergen i ei uke, og endelig har jeg tid til å skrive. Turen hit gikk fint, og oppe på fjellet lå det allerede snø. Da toget var framme i Bergen, regnet det – selvfølgelig.",
-        "de": "Jetzt wohne ich seit einer Woche in Bergen, und endlich habe ich Zeit zu schreiben. Die Fahrt hierher ging gut, und oben in den Bergen lag schon Schnee. Als der Zug in Bergen ankam, regnete es – natürlich."
+        "no": "Morgenen begynte dårlig. Jeg hadde bestilt billettene to uker før og pakket sekken kvelden før. Men jeg hadde glemt å stille vekkerklokka! Da jeg kom til Oslo S, hadde de andre passasjerene allerede gått om bord. Jeg rakk toget i siste minutt.",
+        "de": "Der Morgen fing schlecht an. Ich hatte die Fahrkarten zwei Wochen vorher gebucht und am Abend davor den Rucksack gepackt. Aber ich hatte vergessen, den Wecker zu stellen! Als ich am Hauptbahnhof Oslo S ankam, waren die anderen Fahrgäste schon eingestiegen. Ich habe den Zug in letzter Minute erwischt."
       },
       {
-        "no": "Leiligheten min ligger i et gammelt, hvitt trehus i Sandviken, ikke langt fra sentrum. Jeg bor oppe, og naboen min, fru Solheim, bor nede. Hun er åtti år og har bodd i huset hele livet.",
-        "de": "Meine Wohnung liegt in einem alten, weißen Holzhaus in Sandviken, nicht weit vom Zentrum. Ich wohne oben, und meine Nachbarin, Frau Solheim, wohnt unten. Sie ist achtzig und hat ihr ganzes Leben in dem Haus gewohnt."
+        "no": "Toget var moderne. Etter Geilo kjørte vi over tregrensa og inn på Hardangervidda. Plutselig var det ingen trær lenger, bare stein, små vann og den første snøen. På Finse, 1222 meter over havet, lå det tynn is på vanna.",
+        "de": "Der Zug war modern. Hinter Geilo fuhren wir über die Baumgrenze und auf die Hardangervidda. Plötzlich gab es keine Bäume mehr, nur Steine, kleine Seen und den ersten Schnee. In Finse, 1222 Meter über dem Meer, lag dünnes Eis auf den Seen."
       },
       {
-        "no": "Leiligheten er ikke stor, men den er lys og koselig. Når du kommer inn, står du i en smal gang. Til venstre er badet, og til høyre er soverommet. Rett fram er stua, og ved siden av ligger kjøkkenet. På kjøkkenet er det bare plass til et lite bord. I stua står en gammel sofa som fru Solheim ga meg.",
-        "de": "Die Wohnung ist nicht groß, aber sie ist hell und gemütlich. Wenn du hereinkommst, stehst du in einem schmalen Flur. Links ist das Bad und rechts das Schlafzimmer. Geradeaus ist das Wohnzimmer, und daneben liegt die Küche. In der Küche ist nur Platz für einen kleinen Tisch. Im Wohnzimmer steht ein altes Sofa, das Frau Solheim mir geschenkt hat."
+        "no": "På Myrdal byttet jeg til Flåmsbana. Toget kjørte sakte ned gjennom tunneler og forbi mange fosser. Konduktøren fortalte at ei hulder danser ved Kjosfossen om sommeren – ei vakker jente med kuhale! Men i oktober danser hun ikke. Neste gang kommer jeg midt i juli.",
+        "de": "In Myrdal stieg ich in die Flåmbahn um. Der Zug fuhr langsam durch Tunnel und an vielen Wasserfällen vorbei hinunter. Der Schaffner erzählte, dass im Sommer eine Huldra am Kjosfossen tanzt – ein schönes Mädchen mit einem Kuhschwanz! Aber im Oktober tanzt sie nicht. Nächstes Mal komme ich Mitte Juli."
       },
       {
-        "no": "Og så utsikten! Fra stua ser jeg ned på havna og alle båtene som kommer inn.",
-        "de": "Und dann die Aussicht! Vom Wohnzimmer aus sehe ich hinunter auf den Hafen und all die Boote, die hereinkommen."
+        "no": "I Flåm hadde jeg en time før båten gikk. Der selger alle suvenirbutikkene troll og nisser: store troll med lange neser og små nisser med røde luer. «Velkommen til trollenes og nissenes land!» sa mannen i butikken. Jeg kjøpte et lite troll til Matthias. Han kommer nok til å le.",
+        "de": "In Flåm hatte ich eine Stunde, bevor das Boot abfuhr. Dort verkaufen alle Souvenirläden Trolle und Wichtel: große Trolle mit langen Nasen und kleine Wichtel mit roten Mützen. »Willkommen im Land der Trolle und Wichtel!«, sagte der Mann im Laden. Ich kaufte einen kleinen Troll für Matthias. Er wird bestimmt lachen."
       },
       {
-        "no": "Ja, og regnet. Det har regnet hver dag siden jeg kom. Fru Solheim lo bare: «Glem paraplyen, den blåser bort. Her går man ikke ut uten ordentlig regntøy!» Dagen etter kjøpte jeg regnjakke og gummistøvler.",
-        "de": "Ja, und der Regen. Es hat jeden Tag geregnet, seit ich angekommen bin. Frau Solheim lachte nur: „Vergiss den Regenschirm, der weht weg. Hier geht man nicht ohne richtige Regenkleidung hinaus!“ Am Tag danach habe ich mir eine Regenjacke und Gummistiefel gekauft."
+        "no": "Båten gikk gjennom Nærøyfjorden. Den er smal, noen steder bare 250 meter, og fjella rundt er over tusen meter høye. Alt var stille. Små gårder lå nede ved vannet, og husa så ut som leker – men de var ekte.",
+        "de": "Das Boot fuhr durch den Nærøyfjord. Er ist schmal, an manchen Stellen nur 250 Meter, und die Berge ringsum sind über tausend Meter hoch. Alles war still. Kleine Höfe lagen unten am Wasser, und die Häuser sahen aus wie Spielzeug – aber sie waren echt."
       },
       {
-        "no": "Mandag begynte jeg i den nye jobben. Kontoret ligger like ved Bryggen, og kollegaene mine er hyggelige. Sjefen viste meg rundt og ga meg en nøkkel.",
-        "de": "Am Montag habe ich die neue Stelle angetreten. Das Büro liegt gleich bei Bryggen, und meine Kollegen sind nett. Die Chefin hat mich herumgeführt und mir einen Schlüssel gegeben."
+        "no": "Fra Gudvangen tok jeg bussen til Voss. Om en time er jeg framme i Bergen. Matthias skal hente meg på stasjonen – presis, selvfølgelig. Han begynte i den nye jobben den 1. oktober og bor foreløpig på et rom hos en kollega.",
+        "de": "Von Gudvangen nahm ich den Bus nach Voss. In einer Stunde bin ich in Bergen. Matthias holt mich am Bahnhof ab – pünktlich, natürlich. Er hat am 1. Oktober in der neuen Stelle angefangen und wohnt vorerst in einem Zimmer bei einem Kollegen."
       },
       {
-        "no": "Onsdag kom flyttebilen fra Oslo. Jeg bar tjue kasser opp den bratte trappa, og den natta sov jeg som en stein. Torsdag fant jeg et lite bakeri nede ved havna. Der selger de skillingsboller, en spesialitet fra Bergen. Jeg spiste tre!",
-        "de": "Am Mittwoch kam der Umzugswagen aus Oslo. Ich habe zwanzig Kisten die steile Treppe hinaufgetragen, und in der Nacht habe ich geschlafen wie ein Stein. Am Donnerstag habe ich unten am Hafen eine kleine Bäckerei gefunden. Dort verkaufen sie Skillingsboller (Zimtschnecken), eine Bergener Spezialität. Ich habe drei gegessen!"
+        "no": "I morgen skal han vise meg byen, og vi skal kanskje gå opp på Fløyen. Ifølge værmeldingen vil det bli sol på søndag, men i morgen kommer det nok til å regne.",
+        "de": "Morgen zeigt er mir die Stadt, und vielleicht gehen wir auf den Fløyen. Laut Wetterbericht wird am Sonntag die Sonne scheinen, aber morgen wird es wohl regnen."
       },
       {
-        "no": "Lørdag gikk jeg opp på Fløyen. Det var tåke, og jeg så nesten ingenting, men inne på kafeen var det varmt. Da jeg kom hjem igjen, var jeg våt til skinnet. I dag har jeg vært hjemme hele dagen.",
-        "de": "Am Samstag bin ich auf den Fløyen gestiegen. Es war neblig, und ich habe fast nichts gesehen, aber drinnen im Café war es warm. Als ich wieder nach Hause kam, war ich nass bis auf die Haut. Heute war ich den ganzen Tag zu Hause."
-      },
-      {
-        "no": "Når kommer du på besøk? Du kan sove på sofaen, og jeg skal vise deg byen – med eller uten regn. Hils Anna og hele familien Nygård!",
-        "de": "Wann kommst du zu Besuch? Du kannst auf dem Sofa schlafen, und ich zeige dir die Stadt – mit oder ohne Regen. Grüß Anna und die ganze Familie Nygård!"
-      },
-      {
-        "no": "Hilsen Matthias",
-        "de": "Viele Grüße, Matthias"
-      },
-      {
-        "no": "PS: Ikke ta med paraply. Ta med regntøy!",
-        "de": "PS: Bring keinen Regenschirm mit. Bring Regenkleidung mit!"
+        "no": "Om to uker kommer Matthias til Oslo for en helg, og i begynnelsen av november flytter jeg til Tromsø. Jeg kommer til å savne Oslo og familien Nygård. Kanskje jeg ser nordlyset allerede den første uka!",
+        "de": "In zwei Wochen kommt Matthias für ein Wochenende nach Oslo, und Anfang November ziehe ich nach Tromsø. Ich werde Oslo und die Familie Nygård vermissen. Vielleicht sehe ich das Nordlicht schon in der ersten Woche!"
       }
     ],
     "glossary": [
       {
-        "no": "endelig",
-        "de": "endlich"
+        "no": "renner nedover",
+        "de": "läuft hinunter (renne – rant – rent)"
       },
       {
-        "no": "Turen hit",
-        "de": "die Fahrt hierher"
+        "no": "Morgenen begynte dårlig",
+        "de": "Der Morgen fing schlecht an"
       },
       {
-        "no": "oppe på fjellet",
-        "de": "oben in den Bergen"
+        "no": "hadde bestilt",
+        "de": "hatte gebucht (Plusquamperfekt)"
       },
       {
-        "no": "lå det allerede snø",
-        "de": "lag schon Schnee (ligge – lå – ligget)"
+        "no": "to uker før",
+        "de": "zwei Wochen vorher"
+      },
+      {
+        "no": "kvelden før",
+        "de": "am Abend davor"
+      },
+      {
+        "no": "stille vekkerklokka",
+        "de": "den Wecker stellen"
+      },
+      {
+        "no": "Oslo S",
+        "de": "Oslo Sentralstasjon, der Hauptbahnhof"
+      },
+      {
+        "no": "gått om bord",
+        "de": "eingestiegen, an Bord gegangen"
+      },
+      {
+        "no": "rakk toget",
+        "de": "erwischte den Zug (rekke – rakk – rukket)"
+      },
+      {
+        "no": "i siste minutt",
+        "de": "in letzter Minute"
+      },
+      {
+        "no": "inn på Hardangervidda",
+        "de": "hinauf auf die Hardangervidda (große Hochebene)"
+      },
+      {
+        "no": "ingen trær lenger",
+        "de": "keine Bäume mehr"
+      },
+      {
+        "no": "små vann",
+        "de": "kleine Seen (et vann = der See, das Wasser)"
+      },
+      {
+        "no": "tynn is",
+        "de": "dünnes Eis"
+      },
+      {
+        "no": "vanna",
+        "de": "die Seen (bestimmter Plural von et vann)"
+      },
+      {
+        "no": "byttet jeg til",
+        "de": "stieg ich um in"
+      },
+      {
+        "no": "fosser",
+        "de": "Wasserfälle (en foss)"
+      },
+      {
+        "no": "ei hulder",
+        "de": "eine Huldra (schöne Waldfrau aus der Volkssage)"
+      },
+      {
+        "no": "kuhale",
+        "de": "der Kuhschwanz"
+      },
+      {
+        "no": "midt i juli",
+        "de": "Mitte Juli"
+      },
+      {
+        "no": "suvenirbutikkene",
+        "de": "die Souvenirläden"
+      },
+      {
+        "no": "troll og nisser",
+        "de": "Trolle und Wichtel (et troll, en nisse)"
+      },
+      {
+        "no": "lange neser",
+        "de": "lange Nasen"
+      },
+      {
+        "no": "røde luer",
+        "de": "rote Mützen (ei lue)"
+      },
+      {
+        "no": "trollenes og nissenes land",
+        "de": "das Land der Trolle und Wichtel (Genitiv: trollene + s, nissene + s)"
+      },
+      {
+        "no": "Han kommer nok til å le",
+        "de": "Er wird bestimmt lachen"
+      },
+      {
+        "no": "smal",
+        "de": "schmal"
+      },
+      {
+        "no": "fjella rundt",
+        "de": "die Berge ringsum"
+      },
+      {
+        "no": "gårder",
+        "de": "Bauernhöfe (en gård)"
+      },
+      {
+        "no": "så ut som leker",
+        "de": "sahen aus wie Spielzeug"
       },
       {
         "no": "framme",
         "de": "angekommen, da"
       },
       {
-        "no": "selvfølgelig",
-        "de": "natürlich, selbstverständlich"
+        "no": "hente meg",
+        "de": "mich abholen"
       },
       {
-        "no": "trehus",
-        "de": "Holzhaus"
+        "no": "den 1. oktober",
+        "de": "am 1. Oktober (den første oktober)"
       },
       {
-        "no": "ikke langt fra sentrum",
-        "de": "nicht weit vom Zentrum"
+        "no": "foreløpig",
+        "de": "vorerst, vorläufig"
       },
       {
-        "no": "naboen min",
-        "de": "meine Nachbarin (nabo = Nachbar oder Nachbarin)"
+        "no": "hos en kollega",
+        "de": "bei einem Kollegen"
       },
       {
-        "no": "hele livet",
-        "de": "das ganze Leben"
+        "no": "Ifølge værmeldingen",
+        "de": "laut Wetterbericht"
       },
       {
-        "no": "lys",
-        "de": "hell"
+        "no": "kommer det nok til å regne",
+        "de": "wird es wohl regnen"
       },
       {
-        "no": "koselig",
-        "de": "gemütlich"
+        "no": "i begynnelsen av november",
+        "de": "Anfang November"
       },
       {
-        "no": "en smal gang",
-        "de": "ein schmaler Flur"
-      },
-      {
-        "no": "Til venstre",
-        "de": "links"
-      },
-      {
-        "no": "til høyre",
-        "de": "rechts"
-      },
-      {
-        "no": "Rett fram",
-        "de": "geradeaus"
-      },
-      {
-        "no": "ved siden av",
-        "de": "daneben"
-      },
-      {
-        "no": "bare plass til",
-        "de": "nur Platz für"
-      },
-      {
-        "no": "ga meg",
-        "de": "gab mir, hat mir gegeben (gi – ga – gitt)"
-      },
-      {
-        "no": "utsikten",
-        "de": "die Aussicht"
-      },
-      {
-        "no": "havna",
-        "de": "der Hafen"
-      },
-      {
-        "no": "lo bare",
-        "de": "lachte nur (le – lo – ledd)"
-      },
-      {
-        "no": "Glem paraplyen",
-        "de": "Vergiss den Regenschirm"
-      },
-      {
-        "no": "blåser bort",
-        "de": "weht weg"
-      },
-      {
-        "no": "ordentlig regntøy",
-        "de": "richtige Regenkleidung"
-      },
-      {
-        "no": "Dagen etter",
-        "de": "am Tag danach"
-      },
-      {
-        "no": "gummistøvler",
-        "de": "Gummistiefel"
-      },
-      {
-        "no": "like ved Bryggen",
-        "de": "gleich bei Bryggen (alte Hansekontore am Hafen)"
-      },
-      {
-        "no": "viste meg rundt",
-        "de": "führte mich herum"
-      },
-      {
-        "no": "flyttebilen",
-        "de": "der Umzugswagen"
-      },
-      {
-        "no": "bar",
-        "de": "trug (bære – bar – båret)"
-      },
-      {
-        "no": "kasser",
-        "de": "Kisten"
-      },
-      {
-        "no": "den bratte trappa",
-        "de": "die steile Treppe"
-      },
-      {
-        "no": "sov jeg som en stein",
-        "de": "schlief ich wie ein Stein (sove – sov – sovet)"
-      },
-      {
-        "no": "skillingsboller",
-        "de": "Zimtschnecken, eine Bergener Spezialität"
-      },
-      {
-        "no": "tåke",
-        "de": "Nebel"
-      },
-      {
-        "no": "nesten ingenting",
-        "de": "fast nichts"
-      },
-      {
-        "no": "våt til skinnet",
-        "de": "nass bis auf die Haut"
-      },
-      {
-        "no": "på besøk",
-        "de": "zu Besuch"
-      },
-      {
-        "no": "Hils",
-        "de": "Grüß (hilse = grüßen)"
-      },
-      {
-        "no": "Fløyen",
-        "de": "der Fløyen (Hausberg von Bergen)"
-      },
-      {
-        "no": "Hilsen",
-        "de": "Gruß (am Briefende: Viele Grüße)"
-      },
-      {
-        "no": "PS",
-        "de": "PS (Nachsatz am Briefende)"
+        "no": "den første uka",
+        "de": "in der ersten Woche"
       }
     ]
   },
   "extra": [
     {
       "id": "x10a",
-      "title": "Bergen og Vestlandet",
-      "titleDe": "Bergen und Westnorwegen",
+      "title": "Nissen",
+      "titleDe": "Der Nisse",
       "kind": "info",
-      "intro": "Ein kurzer Text über Bergen und die Region Vestlandet an der Westküste.",
+      "intro": "Wer ist der Wichtel mit der roten Mütze, den Susanne in jedem Souvenirladen sieht? Der Nisse ist eine alte Gestalt aus dem norwegischen Volksglauben – und heute auch der Weihnachtsmann.",
       "lines": [
         {
-          "no": "Bergen er den nest største byen i Norge. Den ligger på Vestlandet, mellom havet og sju fjell. Derfor kaller mange Bergen «byen mellom de syv fjell». Opp på Fløyen kan man ta Fløibanen, og opp på Ulriken går det en taubane.",
-          "de": "Bergen ist die zweitgrößte Stadt Norwegens. Sie liegt in Westnorwegen, zwischen dem Meer und sieben Bergen. Deshalb nennen viele Bergen „die Stadt zwischen den sieben Bergen“. Auf den Fløyen kann man mit der Fløibanen fahren, und auf den Ulriken führt eine Seilbahn."
+          "no": "I gamle dager trodde folk i Norge at det bodde en nisse på nesten hver gård. Nissen var en liten, gammel mann med langt, grått skjegg og ei rød lue. Han bodde ofte i fjøset eller på låven. Derfor kaller vi ham også fjøsnisse eller gårdsnisse.",
+          "de": "Früher glaubten die Leute in Norwegen, dass auf fast jedem Hof ein Nisse wohnte. Der Nisse war ein kleiner, alter Mann mit einem langen, grauen Bart und einer roten Mütze. Er wohnte oft im Stall oder in der Scheune. Deshalb nennen wir ihn auch fjøsnisse (Stallwichtel) oder gårdsnisse (Hofwichtel)."
         },
         {
-          "no": "Byen er gammel. Kong Olav Kyrre grunnla den rundt år 1070, og på 1200-tallet var Bergen hovedstad i Norge. Fra 1300-tallet hadde tyske kjøpmenn fra Hansaen et kontor på Bryggen. De kjøpte tørrfisk fra Nord-Norge og solgte korn. I dag står de gamle trehusene på Bryggen på UNESCOs verdensarvliste.",
-          "de": "Die Stadt ist alt. König Olav Kyrre gründete sie um das Jahr 1070, und im 13. Jahrhundert war Bergen die Hauptstadt Norwegens. Ab dem 14. Jahrhundert hatten deutsche Kaufleute der Hanse ein Kontor auf Bryggen. Sie kauften Stockfisch aus Nordnorwegen und verkauften Getreide. Heute stehen die alten Holzhäuser von Bryggen auf der UNESCO-Welterbeliste."
+          "no": "Nissen var sterk, og han passet på dyrene og gården. Men folk måtte være snille mot ham. Hvis de glemte ham eller var uforsiktige, ble han sint. Da kunne han gjemme ting eller plage kuene og hestene.",
+          "de": "Der Nisse war stark, und er passte auf die Tiere und den Hof auf. Aber die Leute mussten freundlich zu ihm sein. Wenn sie ihn vergaßen oder unvorsichtig waren, wurde er wütend. Dann konnte er Dinge verstecken oder die Kühe und Pferde quälen."
         },
         {
-          "no": "Bergen er også kjent for regn. Det regner mye her, men som nordmenn sier: «Det finnes ikke dårlig vær, bare dårlige klær.» Komponisten Edvard Grieg var fra Bergen, og på Fisketorget kan man kjøpe fersk fisk og sjømat.",
-          "de": "Bergen ist auch für Regen bekannt. Es regnet hier viel, aber wie die Norweger sagen: „Es gibt kein schlechtes Wetter, nur schlechte Kleidung.“ Der Komponist Edvard Grieg stammte aus Bergen, und auf dem Fischmarkt kann man frischen Fisch und Meeresfrüchte kaufen."
+          "no": "På julaften satte folk ut ei skål med grøt til nissen – med en stor klatt smør på toppen. Det var viktig: Uten smør ble nissen sint! Noen familier setter fortsatt ut grøt til nissen på julaften, i dag mest for moro skyld.",
+          "de": "An Heiligabend stellten die Leute dem Nisse eine Schale Grütze hin – mit einem großen Klecks Butter obendrauf. Das war wichtig: Ohne Butter wurde der Nisse wütend! Manche Familien stellen dem Nisse an Heiligabend noch immer Grütze hin – heute meist zum Spaß."
         },
         {
-          "no": "Vestlandet er kjent for fjorder, fjell og fosser. Sognefjorden er over 200 kilometer lang, og Nærøyfjorden og Geirangerfjorden står på UNESCOs verdensarvliste. I Hardanger dyrker bøndene epler og kirsebær. Mange på Vestlandet jobber med fisk, olje og gass, og mange skriver nynorsk.",
-          "de": "Westnorwegen ist für Fjorde, Berge und Wasserfälle bekannt. Der Sognefjord ist über 200 Kilometer lang, und der Nærøyfjord und der Geirangerfjord stehen auf der UNESCO-Welterbeliste. In Hardanger bauen die Bauern Äpfel und Kirschen an. Viele Menschen in Westnorwegen arbeiten in der Fischerei oder in der Öl- und Gasbranche, und viele schreiben Nynorsk."
+          "no": "I dag tenker de fleste barn på julenissen når de hører ordet «nisse». Julenissen har røde klær og hvitt skjegg, og han kommer med gaver på julaften. Ofte banker han på døra og spør: «Er det noen snille barn her?» Mange barn synes at julenissen ligner litt på pappa eller en onkel …",
+          "de": "Heute denken die meisten Kinder an den julenisse (den Weihnachtsmann), wenn sie das Wort »nisse« hören. Der julenisse trägt rote Kleidung und hat einen weißen Bart, und er bringt an Heiligabend Geschenke. Oft klopft er an die Tür und fragt: »Gibt es hier brave Kinder?« Viele Kinder finden, dass der julenisse ein bisschen wie Papa oder ein Onkel aussieht …"
         }
       ],
       "glossary": [
         {
-          "no": "den nest største byen",
-          "de": "die zweitgrößte Stadt"
+          "no": "I gamle dager",
+          "de": "früher, in alten Zeiten"
         },
         {
-          "no": "mellom",
-          "de": "zwischen"
+          "no": "nisse",
+          "de": "der Nisse, Hauswichtel"
         },
         {
-          "no": "de syv fjell",
-          "de": "die sieben Berge (syv = sju; feste Wendung)"
+          "no": "på nesten hver gård",
+          "de": "auf fast jedem Hof"
         },
         {
-          "no": "Fløibanen",
-          "de": "Standseilbahn auf den Fløyen"
+          "no": "langt, grått skjegg",
+          "de": "einen langen, grauen Bart (et skjegg)"
         },
         {
-          "no": "taubane",
-          "de": "Seilbahn"
+          "no": "ei rød lue",
+          "de": "eine rote Mütze"
         },
         {
-          "no": "grunnla",
-          "de": "gründete (grunnlegge – grunnla – grunnlagt)"
+          "no": "fjøset",
+          "de": "der (Kuh-)Stall"
         },
         {
-          "no": "på 1200-tallet",
-          "de": "im 13. Jahrhundert (wörtlich: in den 1200ern)"
+          "no": "låven",
+          "de": "die Scheune"
         },
         {
-          "no": "hovedstad",
-          "de": "Hauptstadt"
+          "no": "kaller vi ham",
+          "de": "nennen wir ihn"
         },
         {
-          "no": "kjøpmenn",
-          "de": "Kaufleute (en kjøpmann – kjøpmenn)"
+          "no": "fjøsnisse",
+          "de": "der Stallwichtel"
         },
         {
-          "no": "Hansaen",
-          "de": "die Hanse"
+          "no": "gårdsnisse",
+          "de": "der Hofwichtel"
         },
         {
-          "no": "tørrfisk",
-          "de": "Stockfisch (luftgetrockneter Fisch)"
+          "no": "passet på",
+          "de": "passte auf (passe på)"
         },
         {
-          "no": "korn",
-          "de": "Getreide"
+          "no": "måtte",
+          "de": "mussten (Präteritum von må)"
         },
         {
-          "no": "verdensarvliste",
-          "de": "Welterbeliste"
+          "no": "snille mot ham",
+          "de": "freundlich zu ihm"
         },
         {
-          "no": "kjent for",
-          "de": "bekannt für"
+          "no": "uforsiktige",
+          "de": "unvorsichtig (Plural)"
         },
         {
-          "no": "Det finnes ikke dårlig vær, bare dårlige klær",
-          "de": "Es gibt kein schlechtes Wetter, nur schlechte Kleidung (Sprichwort)"
+          "no": "kunne",
+          "de": "konnte (Präteritum von kan)"
         },
         {
-          "no": "Fisketorget",
-          "de": "der Fischmarkt in Bergen"
+          "no": "gjemme ting",
+          "de": "Dinge verstecken"
         },
         {
-          "no": "fersk",
-          "de": "frisch (bei Fisch, Brot, Gemüse)"
+          "no": "plage",
+          "de": "quälen, ärgern"
         },
         {
-          "no": "sjømat",
-          "de": "Fisch und Meeresfrüchte"
+          "no": "kuene",
+          "de": "die Kühe (ei ku – kua – kuer – kuene)"
         },
         {
-          "no": "fosser",
-          "de": "Wasserfälle"
+          "no": "På julaften",
+          "de": "an Heiligabend"
         },
         {
-          "no": "dyrker",
-          "de": "bauen an (dyrke)"
+          "no": "satte folk ut",
+          "de": "stellten die Leute hin, nach draußen (sette ut)"
         },
         {
-          "no": "bøndene",
-          "de": "die Bauern (en bonde – bønder)"
+          "no": "ei skål med grøt",
+          "de": "eine Schale Grütze (Brei)"
         },
         {
-          "no": "kirsebær",
-          "de": "Kirschen"
+          "no": "en stor klatt smør",
+          "de": "ein großer Klecks Butter"
         },
         {
-          "no": "gass",
-          "de": "Gas (Erdgas)"
+          "no": "på toppen",
+          "de": "obendrauf"
         },
         {
-          "no": "nynorsk",
-          "de": "Nynorsk, die zweite norwegische Schriftsprache"
+          "no": "Uten",
+          "de": "ohne"
         },
         {
-          "no": "nest",
-          "de": "zweit- (den nest største = die zweitgrößte)"
+          "no": "fortsatt",
+          "de": "immer noch"
         },
         {
-          "no": "1200-tallet",
-          "de": "das 13. Jahrhundert (die 1200er-Jahre)"
+          "no": "for moro skyld",
+          "de": "zum Spaß"
         },
         {
-          "no": "1300-tallet",
-          "de": "das 14. Jahrhundert (die 1300er-Jahre)"
+          "no": "julenissen",
+          "de": "der Weihnachtsmann"
         },
         {
-          "no": "Komponisten",
-          "de": "der Komponist"
+          "no": "ordet",
+          "de": "das Wort"
         },
         {
-          "no": "Olav",
-          "de": "Olav (Name vieler norwegischer Könige: Olav Kyrre, Olav Tryggvason, Olav der Heilige, Olav V.)"
+          "no": "røde klær",
+          "de": "rote Kleidung"
+        },
+        {
+          "no": "kommer med gaver",
+          "de": "bringt Geschenke"
+        },
+        {
+          "no": "banker han på døra",
+          "de": "klopft er an die Tür"
+        },
+        {
+          "no": "snille barn",
+          "de": "brave Kinder"
+        },
+        {
+          "no": "ligner litt på",
+          "de": "sieht ein bisschen aus wie"
         }
       ]
     }
   ],
   "wk": {
-    "title": "Hjem, kjære hjem",
-    "titleDe": "Trautes Heim",
+    "title": "På reise · Die Monate",
+    "titleDe": "Auf Reisen · Die Monate",
     "phrases": [
       {
-        "no": "Hjem, kjære hjem.",
-        "de": "Trautes Heim, Glück allein.",
-        "note": "Wörtlich: Heim, liebes Heim."
+        "no": "En billett til Bergen, takk.",
+        "de": "Eine Fahrkarte nach Bergen, bitte."
       },
       {
-        "no": "Jeg har flyttet til en ny leilighet.",
-        "de": "Ich bin in eine neue Wohnung umgezogen."
+        "no": "Enkel eller tur-retur?",
+        "de": "Einfach oder hin und zurück?"
       },
       {
-        "no": "Jeg leier en leilighet i sentrum.",
-        "de": "Ich miete eine Wohnung im Zentrum."
+        "no": "Jeg vil gjerne bestille et sete ved vinduet.",
+        "de": "Ich möchte gern einen Fensterplatz reservieren."
       },
       {
-        "no": "Hvor mye er husleia?",
-        "de": "Wie hoch ist die Miete?"
+        "no": "Fra hvilket spor går toget?",
+        "de": "Von welchem Gleis fährt der Zug?"
       },
       {
-        "no": "Er strøm inkludert?",
-        "de": "Ist der Strom inklusive?",
-        "note": "In Norwegen zahlt man den Strom oft extra."
+        "no": "Toget er forsinket.",
+        "de": "Der Zug hat Verspätung."
       },
       {
-        "no": "Leiligheten har to soverom.",
-        "de": "Die Wohnung hat zwei Schlafzimmer."
+        "no": "Du må bytte tog på Myrdal.",
+        "de": "Du musst in Myrdal umsteigen."
       },
       {
-        "no": "Vi har utsikt over havna.",
-        "de": "Wir haben Aussicht auf den Hafen."
+        "no": "Når går neste båt?",
+        "de": "Wann fährt das nächste Boot?"
       },
       {
-        "no": "Kom inn!",
-        "de": "Komm herein!"
+        "no": "Er denne plassen ledig?",
+        "de": "Ist dieser Platz frei?"
       },
       {
-        "no": "Du kan ta av deg skoene i gangen.",
-        "de": "Du kannst die Schuhe im Flur ausziehen.",
-        "note": "In Norwegen zieht man drinnen die Schuhe aus."
+        "no": "Jeg rakk ikke bussen.",
+        "de": "Ich habe den Bus verpasst.",
+        "note": "Auch: Jeg mistet bussen."
       },
       {
-        "no": "Føl deg som hjemme!",
-        "de": "Fühl dich wie zu Hause!"
+        "no": "Hvor lang tid tar det?",
+        "de": "Wie lange dauert es?"
       },
       {
-        "no": "Borte bra, men hjemme best.",
-        "de": "Daheim ist’s doch am schönsten.",
-        "note": "Sprichwort; wörtlich: Weg (ist) gut, aber zu Hause (ist es) am besten."
+        "no": "God tur!",
+        "de": "Gute Reise! / Viel Spaß!",
+        "note": "Sagt man zu jeder Reise und jedem Ausflug."
       },
       {
-        "no": "Kan du hjelpe meg å bære sofaen?",
-        "de": "Kannst du mir helfen, das Sofa zu tragen?"
+        "no": "januar, februar, mars, april, mai, juni",
+        "de": "Januar, Februar, März, April, Mai, Juni",
+        "note": "Monatsnamen schreibt man klein."
       },
       {
-        "no": "Vi har innflyttingsfest på lørdag.",
-        "de": "Wir feiern am Samstag Einweihung."
+        "no": "juli, august, september, oktober, november, desember",
+        "de": "Juli, August, September, Oktober, November, Dezember"
       },
       {
-        "no": "Det trekker fra vinduet.",
-        "de": "Es zieht am Fenster."
+        "no": "Jeg reiser til Bergen i oktober.",
+        "de": "Ich fahre im Oktober nach Bergen.",
+        "note": "im + Monat = i + Monat, ohne Artikel."
       },
       {
-        "no": "Kan du ta ut søppelet?",
-        "de": "Kannst du den Müll rausbringen?"
+        "no": "Hvilken dato er det i dag? – Det er den tolvte oktober.",
+        "de": "Der Wievielte ist heute? – Heute ist der zwölfte Oktober."
       },
       {
-        "no": "Hvem tar oppvasken i dag?",
-        "de": "Wer spült heute ab?"
+        "no": "Susanne flytter til Tromsø i begynnelsen av november.",
+        "de": "Susanne zieht Anfang November nach Tromsø.",
+        "note": "i begynnelsen av … = Anfang …"
       },
       {
-        "no": "Huset ligger sentralt.",
-        "de": "Das Haus liegt zentral."
+        "no": "Matthias får en egen leilighet i slutten av oktober.",
+        "de": "Matthias bekommt Ende Oktober eine eigene Wohnung.",
+        "note": "i slutten av … = Ende …"
       },
       {
-        "no": "Naboene mine er hyggelige.",
-        "de": "Meine Nachbarn sind nett."
+        "no": "Midt i juli er det fullt av turister i Flåm.",
+        "de": "Mitte Juli ist Flåm voller Touristen."
       },
       {
-        "no": "Jeg trives godt her.",
-        "de": "Ich fühle mich hier wohl.",
-        "note": "trives ist ein s-Verb (mehr dazu in Lektion 18) – sehr häufig."
+        "no": "Om sommeren danser huldra ved Kjosfossen.",
+        "de": "Im Sommer tanzt die Huldra am Kjosfossen.",
+        "note": "om sommeren = im Sommer (jedes Jahr); i sommer = diesen Sommer."
+      },
+      {
+        "no": "Om vinteren er det mørkt i Tromsø.",
+        "de": "Im Winter ist es in Tromsø dunkel.",
+        "note": "om våren, om sommeren, om høsten, om vinteren – im Frühling, im Sommer, im Herbst, im Winter."
       }
     ]
   },
   "grammar": [
     {
-      "id": "g10_uregelmessige",
-      "title": "Überblick: die unregelmäßigen Verben",
-      "titleNo": "sterke og uregelmessige verb",
-      "summary": "Starke Verben wechseln den Stammvokal und haben im Präteritum keine Endung – fast wie im Deutschen.",
+      "id": "g10_pluskvamperfektum",
+      "title": "Plusquamperfekt",
+      "titleNo": "pluskvamperfektum",
+      "summary": "hadde + Partizip: was vor einem anderen Zeitpunkt in der Vergangenheit schon geschehen war – wie im Deutschen.",
       "sections": [
         {
-          "h": "Starke Verben: Vokalwechsel statt Endung",
-          "body": "Starke Verben bilden das Präteritum ohne Endung, nur mit einem anderen Vokal – genau wie im Deutschen (singen – sang – gesungen). Das Partizip Perfekt endet meist auf **-et** oder **-t**: **drikke – drakk – har drukket**, **skrive – skrev – har skrevet**.\n\nViele Verben folgen festen Mustern (Ablautreihen). Wenn du das Muster kennst, lernst du neue Verben leichter. Oft sind es sogar dieselben Verben wie im Deutschen: **finne – fant – funnet** (finden – fand – gefunden).",
+          "h": "Form: hadde + Partizip",
+          "body": "Das Plusquamperfekt bildest du mit **hadde** (Präteritum von **ha**) und dem Partizip Perfekt – für alle Personen gleich: **Jeg hadde bestilt billettene. Toget hadde gått.**\n\nAnders als im Deutschen brauchst du kein „war gegangen“: Auch Bewegungsverben nehmen normalerweise **hadde**: **Toget hadde allerede gått** (Der Zug war schon abgefahren). **Hun hadde reist** (Sie war gereist).",
           "table": [
             [
-              "Muster",
               "Infinitiv",
-              "Präteritum",
-              "Perfekt"
+              "Perfekt",
+              "Plusquamperfekt"
             ],
             [
-              "i – a – u",
-              "**drikke** (trinken)",
-              "**drakk**",
-              "**har drukket**"
+              "**bestille**",
+              "**har bestilt**",
+              "**hadde bestilt**"
             ],
             [
-              "i – a – u",
-              "**finne** (finden)",
-              "**fant**",
-              "**har funnet**"
+              "**pakke**",
+              "**har pakket**",
+              "**hadde pakket**"
             ],
             [
-              "i – e/ei – e/i",
-              "**skrive** (schreiben)",
-              "**skrev**",
-              "**har skrevet**"
+              "**prøve**",
+              "**har prøvd**",
+              "**hadde prøvd**"
             ],
             [
-              "i – e/ei – e/i",
-              "**bite** (beißen)",
-              "**bet / beit**",
-              "**har bitt**"
+              "**bo**",
+              "**har bodd**",
+              "**hadde bodd**"
             ],
             [
-              "y – øy – ø",
-              "**fly** (fliegen)",
-              "**fløy**",
-              "**har fløyet**"
+              "**gå**",
+              "**har gått**",
+              "**hadde gått**"
             ],
             [
-              "e – a – å",
-              "**bære** (tragen)",
-              "**bar**",
-              "**har båret**"
-            ],
-            [
-              "e – a – å",
-              "**stjele** (stehlen)",
-              "**stjal**",
-              "**har stjålet**"
-            ],
-            [
-              "a – o – a",
-              "**fare** (fahren, eilen)",
-              "**for**",
-              "**har fart**"
-            ],
-            [
-              "a – o – a",
-              "**dra** (fahren, ziehen)",
-              "**dro**",
-              "**har dratt**"
+              "**sove**",
+              "**har sovet**",
+              "**hadde sovet**"
             ]
           ]
         },
         {
-          "h": "Weitere wichtige starke Verben",
-          "body": "• **sove – sov – har sovet** (schlafen)\n• **le – lo – har ledd** (lachen)\n• **stå – sto – har stått** (stehen)\n• **gi – ga (gav) – har gitt** (geben)\n• **få – fikk – har fått** (bekommen)\n• **gå – gikk – har gått** (gehen)\n\nDie Verben aus Lektion 8 (**være, ha, gjøre, si, komme, se, ta, ligge, sitte** …) gehören auch dazu. Unter „Verben“ findest du in der App eine vollständige Liste."
+          "h": "Gebrauch: das Vorher in der Vergangenheit",
+          "body": "Das Plusquamperfekt zeigt: Das war schon vorher passiert. Typisch ist es zusammen mit **da** (als), **før** (bevor), **etter at** (nachdem) und **allerede** (schon):\n\n• **Da Susanne kom, hadde toget allerede gått.** (Als Susanne kam, war der Zug schon weg.)\n• **Etter at hun hadde spist, gikk hun ut.** (Nachdem sie gegessen hatte, ging sie hinaus.)\n• **Hun hadde aldri sett en fjord før.** (Sie hatte noch nie einen Fjord gesehen.)"
         },
         {
-          "h": "Unregelmäßige schwache Verben",
-          "body": "Einige Verben haben eine Endung (**-te**, **-de**, **-t**) und wechseln trotzdem den Vokal – wie im Deutschen **bringen – brachte**:\n\n• **selge – solgte – har solgt** (verkaufen)\n• **fortelle – fortalte – har fortalt** (erzählen)\n• **legge – la – har lagt** (legen; Präteritum ganz ohne Endung)\n• **sette – satte – har satt** (setzen, stellen)\n• **gjøre – gjorde – har gjort** (machen, tun)\n• **spørre – spurte – har spurt** (fragen)\n\nAchtung: **legge/ligge** und **sette/sitte** sind wie im Deutschen Paare: **Jeg la nøkkelen på bordet. Nøkkelen lå på bordet.** (legte – lag)"
-        },
-        {
-          "h": "Das Präsens ist (fast) immer regelmäßig",
-          "body": "Auch bei starken Verben ist das Präsens einfach: Infinitiv + **-r**: **drikker, skriver, bærer, sover**. Nur wenige Verben sind auch im Präsens unregelmäßig: **er, gjør, sier, spør, vet**.\n\nLerne neue Verben deshalb immer mit drei Formen: **bære – bar – båret**."
+          "h": "Wortstellung",
+          "body": "**hadde** ist das finite Verb und steht an Position 2; bei Inversion folgt das Subjekt direkt danach: **Kvelden før hadde jeg pakket sekken.**\n\nSatzadverbien wie **ikke, aldri, allerede** stehen im Hauptsatz zwischen **hadde** und dem Partizip: **Jeg hadde ikke trodd at den var så bratt.**\n\nIm Nebensatz stehen sie vor **hadde**: **…fordi hun ikke hadde stilt vekkerklokka.** Und nie wandert das Verb ans Ende wie im Deutschen („…weil sie den Wecker nicht gestellt hatte“)."
         }
       ],
       "drills": [
         {
-          "prompt": "Jeg ___ tjue kasser opp trappa. (bære, preteritum)",
-          "de": "Ich trug zwanzig Kisten die Treppe hinauf.",
+          "prompt": "Susanne ___ billettene to uker før. (bestille, pluskvamperfektum)",
+          "de": "Susanne hatte die Fahrkarten zwei Wochen vorher gebucht.",
           "answer": [
-            "bar"
+            "hadde bestilt"
           ],
-          "explain": "bære – bar – båret (Muster e – a – å), wie tragen – trug."
+          "explain": "hadde + Partizip: bestille – bestilte – bestilt."
         },
         {
-          "prompt": "Matthias ___ et lite bakeri nede ved havna. (finne, preteritum)",
-          "de": "Matthias fand eine kleine Bäckerei unten am Hafen.",
+          "prompt": "Kvelden før hadde hun ___ sekken. (pakke, Partizip)",
+          "de": "Am Abend davor hatte sie den Rucksack gepackt.",
           "answer": [
-            "fant"
+            "pakket",
+            "pakka"
           ],
-          "explain": "finne – fant – funnet (i – a – u), wie finden – fand – gefunden."
+          "explain": "Inversion: Kvelden før hadde hun pakket … – hadde steht an Position 2, das Partizip folgt erst hinter dem Subjekt."
         },
         {
-          "prompt": "Fru Solheim ___ ham en gammel sofa. (gi, preteritum)",
-          "de": "Frau Solheim gab ihm ein altes Sofa.",
+          "prompt": "Da hun kom til Oslo S, hadde de andre passasjerene allerede ___ om bord. (gå)",
+          "de": "Als sie am Osloer Hauptbahnhof ankam, waren die anderen Fahrgäste schon eingestiegen.",
           "answer": [
-            "ga",
-            "gav"
+            "gått"
           ],
-          "explain": "gi – ga (auch gav) – gitt."
+          "explain": "gå – gikk – gått. Auch Bewegungsverben nehmen hadde (dt. „waren eingestiegen“)."
         },
         {
-          "prompt": "Jeg har ___ en lang e-post til Susanne. (skrive, perfektum)",
-          "de": "Ich habe Susanne eine lange E-Mail geschrieben.",
+          "prompt": "Hun var trøtt fordi hun ___ dårlig. (sove, pluskvamperfektum)",
+          "de": "Sie war müde, weil sie schlecht geschlafen hatte.",
           "answer": [
-            "skrevet"
+            "hadde sovet"
           ],
-          "explain": "skrive – skrev – har skrevet."
+          "explain": "sove – sov – sovet. Im Nebensatz bleibt hadde vorn, nicht am Ende."
         },
         {
-          "prompt": "Den natta ___ Matthias som en stein. (sove, preteritum)",
-          "de": "In der Nacht schlief Matthias wie ein Stein.",
+          "prompt": "Susanne ___ aldri sett en så smal fjord før. (ha, preteritum)",
+          "de": "Susanne hatte noch nie einen so schmalen Fjord gesehen.",
           "answer": [
-            "sov"
+            "hadde"
           ],
-          "explain": "sove – sov – har sovet. Präteritum und Imperativ sehen gleich aus: sov!"
+          "explain": "Das Hilfsverb im Plusquamperfekt ist hadde; aldri steht dahinter."
         },
         {
-          "prompt": "Fru Solheim ___ da hun hørte om paraplyen. (le, preteritum)",
-          "de": "Frau Solheim lachte, als sie von dem Regenschirm hörte.",
+          "prompt": "Vi kom for sent – filmen ___ allerede. (begynne, pluskvamperfektum)",
+          "de": "Wir kamen zu spät – der Film hatte schon angefangen.",
           "answer": [
-            "lo"
+            "hadde begynt"
           ],
-          "explain": "le – lo – har ledd (lachen – lachte – gelacht)."
+          "explain": "begynne – begynte – begynt."
         },
         {
-          "prompt": "Han ___ nøklene på kjøkkenbordet. (legge, preteritum)",
-          "de": "Er legte die Schlüssel auf den Küchentisch.",
+          "prompt": "Hun kom nesten for sent fordi hun ikke ___ vekkerklokka. (stille, pluskvamperfektum)",
+          "de": "Sie kam fast zu spät, weil sie den Wecker nicht gestellt hatte.",
           "answer": [
-            "la"
+            "hadde stilt"
           ],
-          "explain": "legge – la – lagt. Nicht verwechseln mit ligge – lå – ligget (liegen)."
+          "explain": "stille – stilte – stilt. Im Nebensatz steht ikke vor hadde."
         },
         {
-          "prompt": "Fru Solheim ___ meg mye om huset. (fortelle, preteritum)",
-          "de": "Frau Solheim hat mir viel über das Haus erzählt.",
+          "prompt": "Etter at båten ___, begynte det å regne. (gå, pluskvamperfektum)",
+          "de": "Nachdem das Boot abgefahren war, fing es an zu regnen.",
           "answer": [
-            "fortalte"
+            "hadde gått"
           ],
-          "explain": "fortelle – fortalte – fortalt: Endung -te und Vokalwechsel e → a."
+          "explain": "etter at + Plusquamperfekt: Das Abfahren kam zuerst."
         },
         {
-          "prompt": "Måkene ___ over havna. (fly, preteritum)",
-          "de": "Die Möwen flogen über den Hafen.",
+          "prompt": "Matthias ___ rommet før Susanne kom. (vaske, pluskvamperfektum)",
+          "de": "Matthias hatte das Zimmer geputzt, bevor Susanne kam.",
           "answer": [
-            "fløy"
+            "hadde vasket",
+            "hadde vaska"
           ],
-          "explain": "fly – fløy – har fløyet (Muster y – øy – ø)."
+          "explain": "vaske – vasket (Klasse 1, auch vaska)."
         },
         {
-          "prompt": "Noen har ___ sykkelen min! (stjele, perfektum)",
-          "de": "Jemand hat mein Fahrrad gestohlen!",
+          "prompt": "Hun ___ mye om Flåmsbana, men hun hadde aldri vært der. (lese, pluskvamperfektum)",
+          "de": "Sie hatte viel über die Flåmbahn gelesen, aber sie war nie dort gewesen.",
           "answer": [
-            "stjålet"
+            "hadde lest"
           ],
-          "explain": "stjele – stjal – har stjålet (e – a – å), wie bære – bar – båret."
+          "explain": "lese – leste – lest. Auch være nimmt hadde: hadde vært (war gewesen)."
         }
       ]
     },
     {
-      "id": "g10_stedsadverb",
-      "title": "Ortsadverbien: inn – inne, ut – ute",
-      "titleNo": "stedsadverb",
-      "summary": "Für die Richtung (wohin?) und den Ort (wo?) hat das Norwegische zwei verschiedene Wörter: ut – ute, hjem – hjemme.",
+      "id": "g10_futurum",
+      "title": "Futur",
+      "titleNo": "futurum",
+      "summary": "Ein Hilfsverb wie „werden“ gibt es nicht: skal (Plan), vil (Vorhersage), kommer til å (so wird es kommen) oder einfach Präsens + Zeitangabe.",
       "sections": [
         {
-          "h": "Wohin? oder Wo?",
-          "body": "Bei Richtungsangaben gibt es zwei Formen. Die kurze Form zeigt eine Bewegung (wohin?), die Form auf **-e** einen Ort (wo?):\n\n• **Jeg går ut.** (Ich gehe hinaus.) – **Jeg er ute.** (Ich bin draußen.)\n• **Han kommer hjem.** (Er kommt nach Hause.) – **Han er hjemme.** (Er ist zu Hause.)\n\nDas Deutsche kennt den Unterschied auch: „nach Hause – zu Hause“, „hinaus – draußen“. Im Norwegischen gibt es solche Paare aber bei sieben Wörtern.",
+          "h": "Vier Wege in die Zukunft",
+          "body": "Norwegisch hat kein eigenes Futur. Je nach Bedeutung wählst du eine dieser Formen:",
           "table": [
             [
-              "Bewegung (wohin?)",
-              "Ort (wo?)",
-              "Deutsch"
+              "Form",
+              "Bedeutung",
+              "Beispiel"
             ],
             [
-              "**inn**",
-              "**inne**",
-              "hinein – drinnen"
+              "**skal** + Infinitiv",
+              "Plan, Absicht, Abmachung",
+              "**Jeg skal besøke Matthias.**"
             ],
             [
-              "**ut**",
-              "**ute**",
-              "hinaus – draußen"
+              "**kommer til å** + Infinitiv",
+              "Vorhersage: so wird es kommen",
+              "**Det kommer til å regne.**"
             ],
             [
-              "**opp**",
-              "**oppe**",
-              "hinauf – oben"
+              "**vil** + Infinitiv",
+              "Vorhersage (eher formell, Wetterbericht)",
+              "**Det vil bli sol i morgen.**"
             ],
             [
-              "**ned**",
-              "**nede**",
-              "hinunter – unten"
-            ],
-            [
-              "**hjem**",
-              "**hjemme**",
-              "nach Hause – zu Hause"
-            ],
-            [
-              "**bort**",
-              "**borte**",
-              "weg – weg, fort, drüben"
-            ],
-            [
-              "**fram**",
-              "**framme**",
-              "nach vorn – vorn, angekommen"
+              "Präsens + Zeitangabe",
+              "feste Pläne, Fahrpläne",
+              "**Toget går klokka åtte i morgen.**"
             ]
           ]
         },
         {
-          "h": "Welches Verb, welche Form?",
-          "body": "Mit Bewegungsverben (**gå, komme, reise, løpe, kjøre, bære, legge, sette**) steht die kurze Form: **Han bar kassene opp.** Mit Verben ohne Bewegung (**være, bo, sitte, stå, ligge, bli**) steht die Form auf **-e**: **Fru Solheim bor nede.**\n\nZwei Besonderheiten:\n• **framme** heißt oft „angekommen“: **Når er vi framme?** (Wann sind wir da?)\n• **borte** heißt auch „verschwunden“: **Nøkkelen er borte!** (Der Schlüssel ist weg!)"
+          "h": "skal oder kommer til å?",
+          "body": "**skal** brauchst du, wenn jemand etwas plant oder vorhat: **Hun skal flytte til Tromsø.** (Das ist ihr Plan.)\n\n**kommer til å** brauchst du, wenn du sagst, was passieren wird – ohne dass es jemand plant: **Hun kommer til å savne Oslo.** (Das wird so sein.) Bei Wetter und Gefühlen passt deshalb **kommer til å** oder **vil**: **Det kommer til å regne.** (Hörst du **Det skal regne i morgen**, heißt das: Es soll morgen regnen – man gibt den Wetterbericht wieder.)\n\nAchtung, falscher Freund: **vil** heißt meistens „wollen“ (**Jeg vil reise** = Ich will reisen). Nur in Vorhersagen bedeutet es „werden“: **Det vil bli kaldt.** Und „werden“ als Vollverb heißt **bli**."
         },
         {
-          "h": "Mit Präposition und in festen Ausdrücken",
-          "body": "Oft steht nach dem Adverb noch eine Ortsangabe: **oppe på fjellet** (oben in den Bergen), **nede ved havna** (unten am Hafen), **inne på kafeen** (drinnen im Café), **ut på dekk** (hinaus aufs Deck).\n\n• **Kom inn!** – Komm herein!\n• **langt borte** – weit weg\n• **Borte bra, men hjemme best.** – Daheim ist’s am schönsten (Sprichwort)."
+          "h": "Präsens für die Zukunft",
+          "body": "Wie im Deutschen reicht oft das Präsens mit einer Zeitangabe: **Om to uker kommer Matthias til Oslo. I begynnelsen av november flytter jeg til Tromsø.**\n\nTypische Zeitangaben: **i morgen, i kveld, på søndag, neste uke, om en time, om to uker**. Achtung: **om** + Zeitraum = in (Zukunft): **om en time** = in einer Stunde."
         }
       ],
       "drills": [
         {
-          "prompt": "Kom ___, det regner! (inn/inne)",
-          "de": "Komm herein, es regnet!",
+          "prompt": "Susanne ___ flytte til Tromsø i november. (Plan)",
+          "de": "Susanne zieht im November nach Tromsø.",
           "answer": [
-            "inn"
+            "skal"
           ],
-          "explain": "komme = Bewegung (wohin?) → inn."
+          "explain": "Ein Plan, eine Absicht → skal."
         },
         {
-          "prompt": "Det er kaldt ___ i dag. (ut/ute)",
-          "de": "Draußen ist es heute kalt.",
+          "prompt": "Det ___ regne i Bergen i morgen. (Vorhersage, komme)",
+          "de": "Morgen wird es in Bergen regnen.",
           "answer": [
-            "ute"
+            "kommer til å"
           ],
-          "explain": "Ort (wo ist es kalt?) → ute."
+          "explain": "Wetter plant niemand → kommer til å."
         },
         {
-          "prompt": "Fru Solheim bor ___. (ned/nede)",
-          "de": "Frau Solheim wohnt unten.",
+          "prompt": "Jeg tror at du ___ like Bergen. (Vorhersage, komme)",
+          "de": "Ich glaube, dass dir Bergen gefallen wird.",
           "answer": [
-            "nede"
+            "kommer til å"
           ],
-          "explain": "bo = keine Bewegung → nede."
+          "explain": "Eine Vermutung über die Zukunft → kommer til å."
         },
         {
-          "prompt": "Matthias bar kassene ___ trappa. (opp/oppe)",
-          "de": "Matthias trug die Kisten die Treppe hinauf.",
+          "prompt": "Matthias ___ hente henne på stasjonen. (Plan)",
+          "de": "Matthias holt sie am Bahnhof ab.",
           "answer": [
-            "opp"
+            "skal"
           ],
-          "explain": "bære = Bewegung nach oben → opp."
+          "explain": "Eine Abmachung → skal."
         },
         {
-          "prompt": "Når kommer du ___ fra jobben? (hjem/hjemme)",
-          "de": "Wann kommst du von der Arbeit nach Hause?",
+          "prompt": "Ifølge værmeldingen ___ det bli sol på søndag. (Vorhersage, Modalverb)",
+          "de": "Laut Wetterbericht wird am Sonntag die Sonne scheinen.",
           "answer": [
-            "hjem"
+            "vil",
+            "skal"
           ],
-          "explain": "komme = Bewegung → hjem (nach Hause)."
+          "explain": "vil + Infinitiv als Vorhersage, typisch im Wetterbericht. Inversion: vil det. Auch skal ist hier richtig (= soll laut Wetterbericht)."
         },
         {
-          "prompt": "Er Matthias ___ i kveld? (hjem/hjemme)",
-          "de": "Ist Matthias heute Abend zu Hause?",
+          "prompt": "Toget ___ fra Oslo klokka seks i morgen. (gå, presens)",
+          "de": "Der Zug fährt morgen um sechs Uhr in Oslo ab.",
           "answer": [
-            "hjemme"
+            "går"
           ],
-          "explain": "være = Ort → hjemme (zu Hause)."
+          "explain": "Fahrplan + Zeitangabe → Präsens."
         },
         {
-          "prompt": "Paraplyen blåste ___. (bort/borte)",
-          "de": "Der Regenschirm wurde weggeweht.",
+          "prompt": "Hva ___ dere gjøre i helgen? (Plan)",
+          "de": "Was habt ihr am Wochenende vor?",
           "answer": [
-            "bort"
+            "skal"
           ],
-          "explain": "blåse bort = wegwehen, eine Bewegung → bort."
+          "explain": "Frage nach Plänen → skal."
         },
         {
-          "prompt": "Toget er ___ i Bergen klokka fire. (fram/framme)",
-          "de": "Der Zug ist um vier Uhr in Bergen (angekommen).",
+          "prompt": "Hun ___ savne familien Nygård. (Vorhersage, komme)",
+          "de": "Sie wird die Familie Nygård vermissen.",
           "answer": [
-            "framme"
+            "kommer til å"
           ],
-          "explain": "være framme = angekommen sein (Ort) → framme."
+          "explain": "Ein Gefühl plant man nicht → kommer til å."
         },
         {
-          "prompt": "Han går ___ til havna. (ned/nede)",
-          "de": "Er geht zum Hafen hinunter.",
+          "prompt": "Om to uker ___ Matthias til Oslo. (komme, presens)",
+          "de": "In zwei Wochen kommt Matthias nach Oslo.",
           "answer": [
-            "ned"
+            "kommer"
           ],
-          "explain": "gå = Bewegung → ned."
+          "explain": "Präsens + Zeitangabe (om to uker); Inversion nach der Zeitangabe."
         },
         {
-          "prompt": "Vi satt ___ på kafeen. (inn/inne)",
-          "de": "Wir saßen drinnen im Café.",
+          "prompt": "Jeg er sikker på at det ___ bli kaldt i Tromsø. (Vorhersage, komme)",
+          "de": "Ich bin sicher, dass es in Tromsø kalt wird.",
           "answer": [
-            "inne"
+            "kommer til å"
           ],
-          "explain": "sitte = keine Bewegung → inne."
+          "explain": "Vorhersage → kommer til å + Infinitiv (bli)."
         }
       ]
     },
     {
-      "id": "g10_i_paa",
-      "title": "i und på bei Ortsangaben",
-      "titleNo": "preposisjonene i og på",
-      "summary": "i steht für Städte, Länder und Räume, in denen man drin ist; på für Oberflächen, Inseln, viele Regionen und Institutionen, Küche und Bad.",
+      "id": "g10_noytrum_flertall",
+      "title": "Bestimmte Form Plural der Neutra",
+      "titleNo": "bestemt form flertall av intetkjønnsord",
+      "summary": "Neutra haben im bestimmten Plural zwei richtige Endungen: husa oder husene – nur barn heißt immer barna.",
       "sections": [
         {
-          "h": "Die Grundregel",
-          "body": "**i** heißt „in“ – wenn etwas von allen Seiten umgeben ist: **i Bergen, i Norge, i huset, i stua, i bilen**.\n\n**på** heißt „auf“ – auf einer Oberfläche: **på bordet, på taket, på sofaen**. Dazu kommt aber eine lange Liste von Orten, bei denen das Deutsche „in“, „an“ oder „im“ sagt. Die musst du zum Teil einfach lernen."
-        },
-        {
-          "h": "Typische på-Orte",
-          "body": "Merke dir diese Gruppen:",
+          "h": "Zwei Endungen – beide richtig",
+          "body": "Bei Neutra kannst du im bestimmten Plural **-a** oder **-ene** wählen: **husa / husene, fjella / fjellene, togene / toga**. Beides ist korrektes Bokmål. **-ene** klingt etwas neutraler und schriftlicher, **-a** etwas umgangssprachlicher.\n\nAusnahme: **barn** hat nur **barna**. Auch bei **bein** (Bein) sagt man fast immer **beina**.",
           "table": [
             [
-              "Gruppe",
-              "Norwegisch",
-              "Deutsch"
+              "unbestimmt Sg.",
+              "bestimmt Sg.",
+              "unbestimmt Pl.",
+              "bestimmt Pl."
             ],
             [
-              "Inseln",
-              "**på Island, på Sicilia, på Hawaii**",
-              "auf Island, auf Sizilien, auf Hawaii"
+              "**et hus**",
+              "**huset**",
+              "**hus**",
+              "**husa / husene**"
             ],
             [
-              "viele Regionen",
-              "**på Vestlandet, på Østlandet, på Sørlandet**",
-              "in West-, Ost-, Südnorwegen"
+              "**et fjell**",
+              "**fjellet**",
+              "**fjell**",
+              "**fjella / fjellene**"
             ],
             [
-              "Institutionen, Arbeitsplätze",
-              "**på universitetet, på skolen, på kontoret, på sykehuset**",
-              "an der Uni, in der Schule, im Büro, im Krankenhaus"
+              "**et tog**",
+              "**toget**",
+              "**tog**",
+              "**toga / togene**"
             ],
             [
-              "einige Räume",
-              "**på kjøkkenet, på badet, på soverommet, på rommet**",
-              "in der Küche, im Bad, im Schlafzimmer, im Zimmer"
+              "**et vann**",
+              "**vannet**",
+              "**vann**",
+              "**vanna / vannene**"
             ],
             [
-              "Berge, Treffpunkte",
-              "**på Fløyen, på fjellet, på kafé, på kino, på besøk**",
-              "auf dem Fløyen, in den Bergen, im Café, im Kino, zu Besuch"
+              "**et troll**",
+              "**trollet**",
+              "**troll**",
+              "**trolla / trollene**"
+            ],
+            [
+              "**et bein**",
+              "**beinet**",
+              "**bein**",
+              "**beina / beinene**"
+            ],
+            [
+              "**et barn**",
+              "**barnet**",
+              "**barn**",
+              "**barna**"
             ]
           ]
         },
         {
-          "h": "Die i-Orte",
-          "body": "• Städte und Länder: **i Bergen, i Oslo, i Sveits, i Tyskland**\n• die meisten Räume: **i stua, i gangen, i kjelleren**\n• Natur, in der man „drin“ ist: **i skogen, i fjorden, i dalen**\n\nBei Stadtteilen gibt es beides: **i Sandviken**, aber **på Sagene, på Grünerløkka**. Das muss man einzeln lernen.\n\nTipp: Lerne die Präposition immer zusammen mit dem Ort: **på kjøkkenet**, aber **i stua**."
+          "h": "Mehrsilbige Neutra",
+          "body": "Auch mehrsilbige Neutra haben beide Endungen: **et vindu – vinduene / vindua, et kjøkken – kjøkkenene / kjøkkena, et trehus – trehusene / trehusa**.\n\nTipp: Wenn du unsicher bist, nimm **-ene** – das ist bei allen Neutra richtig, außer bei **barn** (nur **barna**). Wichtig ist, dass du die **-a**-Form erkennst, wenn du sie liest: **husa** ist Plural, nicht Femininum!\n\nIm Titel der Lektion steckt der bestimmte Plural mit Genitiv-s (Lektion 9): **trollenes og nissenes land** – das Land der Trolle und Wichtel (**trollene** + s, **nissene** + s)."
         }
       ],
       "drills": [
         {
-          "prompt": "Matthias bor ___ Bergen. (i/på)",
-          "de": "Matthias wohnt in Bergen.",
+          "prompt": "Alle ___ på toget skrek av glede. (barn, bestemt flertall)",
+          "de": "Alle Kinder im Zug schrien vor Freude.",
           "answer": [
-            "i"
+            "barna"
           ],
-          "explain": "Städte stehen mit i."
+          "explain": "barn hat im bestimmten Plural nur barna."
         },
         {
-          "prompt": "Bergen ligger ___ Vestlandet. (i/på)",
-          "de": "Bergen liegt in Westnorwegen.",
+          "prompt": "___ rundt fjorden er over tusen meter høye. (fjell, bestemt flertall)",
+          "de": "Die Berge rings um den Fjord sind über tausend Meter hoch.",
           "answer": [
-            "på"
+            "Fjella",
+            "Fjellene"
           ],
-          "explain": "Viele norwegische Regionen stehen mit på: på Vestlandet, på Østlandet."
+          "explain": "et fjell – fjella / fjellene: beide Endungen sind richtig."
         },
         {
-          "prompt": "Han lager kaffe ___ kjøkkenet. (i/på)",
-          "de": "Er kocht Kaffee in der Küche.",
+          "prompt": "Små gårder lå ved vannet, og ___ så ut som leker. (hus, bestemt flertall)",
+          "de": "Kleine Höfe lagen am Wasser, und die Häuser sahen aus wie Spielzeug.",
           "answer": [
-            "på"
+            "husa",
+            "husene"
           ],
-          "explain": "Küche und Bad stehen mit på: på kjøkkenet, på badet."
+          "explain": "et hus – husa / husene."
         },
         {
-          "prompt": "Sofaen står ___ stua. (i/på)",
-          "de": "Das Sofa steht im Wohnzimmer.",
+          "prompt": "På Finse lå det is på ___. (vann, bestemt flertall)",
+          "de": "In Finse lag Eis auf den Seen.",
           "answer": [
-            "i"
+            "vanna",
+            "vannene"
           ],
-          "explain": "Die meisten Räume stehen mit i: i stua."
+          "explain": "et vann – vann – vanna / vannene."
         },
         {
-          "prompt": "Susanne studerer ___ universitetet. (i/på)",
-          "de": "Susanne studiert an der Universität.",
+          "prompt": "Etter turen gjorde ___ vondt. (bein, bestemt flertall)",
+          "de": "Nach der Wanderung taten die Beine weh.",
           "answer": [
-            "på"
+            "beina",
+            "beinene"
           ],
-          "explain": "Institutionen stehen mit på: på universitetet, på skolen."
+          "explain": "et bein – beina (häufigste Form) / beinene."
         },
         {
-          "prompt": "Det ligger snø ___ taket. (i/på)",
-          "de": "Auf dem Dach liegt Schnee.",
+          "prompt": "Hvor går ___ til Bergen fra? (tog, bestemt flertall)",
+          "de": "Wo fahren die Züge nach Bergen ab?",
           "answer": [
-            "på"
+            "togene",
+            "toga"
           ],
-          "explain": "Oberfläche → på."
+          "explain": "et tog – togene / toga."
         },
         {
-          "prompt": "Vi var ___ Island i sommer. (i/på)",
-          "de": "Wir waren diesen Sommer auf Island.",
+          "prompt": "Susanne glemte ___ på toget. (kart, bestemt flertall)",
+          "de": "Susanne vergaß die Landkarten im Zug.",
           "answer": [
-            "på"
+            "kartene",
+            "karta"
           ],
-          "explain": "Inseln stehen mit på – auch große wie Island."
+          "explain": "et kart – kartene / karta."
         },
         {
-          "prompt": "Han dusjer ___ badet. (i/på)",
-          "de": "Er duscht im Bad.",
+          "prompt": "___ i Bergen er gamle og hvite. (trehus, bestemt flertall)",
+          "de": "Die Holzhäuser in Bergen sind alt und weiß.",
           "answer": [
-            "på"
+            "Trehusene",
+            "Trehusa"
           ],
-          "explain": "på badet – wie på kjøkkenet."
+          "explain": "Zusammengesetzte Wörter richten sich nach dem letzten Teil: et hus → et trehus – trehusene / trehusa."
         },
         {
-          "prompt": "Fru Solheim har bodd ___ huset hele livet. (i/på)",
-          "de": "Frau Solheim hat ihr ganzes Leben in dem Haus gewohnt.",
+          "prompt": "Hun har lest alle ___ fra Matthias. (brev, bestemt flertall)",
+          "de": "Sie hat alle Briefe von Matthias gelesen.",
           "answer": [
-            "i"
+            "brevene",
+            "breva"
           ],
-          "explain": "In einem Gebäude (drinnen) → i huset."
+          "explain": "et brev – brev – brevene / breva."
         },
         {
-          "prompt": "Susanne bor ___ Sagene i Oslo. (i/på)",
-          "de": "Susanne wohnt in Sagene in Oslo.",
+          "prompt": "___ i suvenirbutikkene har lange neser. (troll, bestemt flertall)",
+          "de": "Die Trolle in den Souvenirläden haben lange Nasen.",
           "answer": [
-            "på"
+            "Trolla",
+            "Trollene"
           ],
-          "explain": "Viele Osloer Stadtteile stehen mit på: på Sagene, på Grünerløkka."
+          "explain": "et troll – troll – trolla / trollene."
+        }
+      ]
+    },
+    {
+      "id": "g10_uboyelige",
+      "title": "Unflektierbare Adjektive",
+      "titleNo": "ubøyelige adjektiv",
+      "summary": "Manche Adjektive bekommen nie eine Endung: et moderne tog, gratis kaffe, rosa sko.",
+      "sections": [
+        {
+          "h": "Welche Adjektive bleiben gleich?",
+          "body": "Die meisten Adjektive bekommen im Neutrum **-t** und im Plural **-e** (**et stort tog, store tog**). Einige bleiben aber immer gleich:\n\n• Adjektive auf **-e**: **moderne, stille, ekte, spennende**\n• Adjektive auf **-s**: **gratis, felles, stakkars**\n• einige Fremd- und Farbwörter: **bra, ekstra, lilla, rosa, oransje**\n• Adjektive auf unbetontes **-a** oder **-o**: **prima, retro**",
+          "table": [
+            [
+              "",
+              "m/f",
+              "n",
+              "Plural / bestimmt"
+            ],
+            [
+              "normal",
+              "**en stor båt**",
+              "**et stort tog**",
+              "**store tog**"
+            ],
+            [
+              "auf -e",
+              "**en moderne båt**",
+              "**et moderne tog**",
+              "**moderne tog**"
+            ],
+            [
+              "auf -s",
+              "**en gratis billett**",
+              "**et gratis kart**",
+              "**gratis billetter**"
+            ],
+            [
+              "Fremdwort",
+              "**en rosa jakke**",
+              "**et rosa skjerf**",
+              "**rosa sko**"
+            ]
+          ]
+        },
+        {
+          "h": "Auch bestimmt und prädikativ",
+          "body": "Auch nach **den/det/de** ändern sie sich nicht: **det moderne toget, den stille fjorden, de ekte husa**. Und prädikativ: **Toget var moderne. Alt var stille. Husa var ekte.**\n\nTypische Fehler: ✗ **et modernt tog**, ✗ **stillt**. Achtung bei **bra**: **Det var bra** (gut), **et bra hotell, bra folk** (gute Leute) – immer ohne -t und ohne -e."
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Toget på Bergensbanen er ___. (moderne)",
+          "de": "Der Zug auf der Bergenbahn ist modern.",
+          "answer": [
+            "moderne"
+          ],
+          "explain": "Adjektive auf -e bleiben unverändert – auch bei einem Neutrum."
+        },
+        {
+          "prompt": "Det ___ toget kjørte over Hardangervidda. (moderne)",
+          "de": "Der moderne Zug fuhr über die Hardangervidda.",
+          "answer": [
+            "moderne"
+          ],
+          "explain": "Auch in der bestimmten Form: det moderne toget."
+        },
+        {
+          "prompt": "Alt var helt ___ på fjorden. (stille)",
+          "de": "Auf dem Fjord war alles ganz still.",
+          "answer": [
+            "stille"
+          ],
+          "explain": "stille hat keine Endung – auch nicht nach alt (Neutrum)."
+        },
+        {
+          "prompt": "Husa så ut som leker, men de var ___. (ekte)",
+          "de": "Die Häuser sahen aus wie Spielzeug, aber sie waren echt.",
+          "answer": [
+            "ekte"
+          ],
+          "explain": "ekte bleibt auch im Plural gleich."
+        },
+        {
+          "prompt": "Vi har et ___ kjøkken i leiligheten. (felles)",
+          "de": "Wir haben eine Gemeinschaftsküche in der Wohnung.",
+          "answer": [
+            "felles"
+          ],
+          "explain": "Adjektive auf -s (felles, gratis) bekommen keine Endung."
+        },
+        {
+          "prompt": "På dette hotellet er frokosten ___. (gratis)",
+          "de": "In diesem Hotel ist das Frühstück kostenlos.",
+          "answer": [
+            "gratis"
+          ],
+          "explain": "gratis ist unveränderlich."
+        },
+        {
+          "prompt": "Hun kjøpte et ___ skjerf i Bergen. (rosa)",
+          "de": "Sie kaufte in Bergen einen rosa Schal.",
+          "answer": [
+            "rosa"
+          ],
+          "explain": "Farbwörter wie rosa und lilla bleiben gleich: et rosa skjerf."
+        },
+        {
+          "prompt": "Han har to ___ billetter til Flåmsbana. (ekstra)",
+          "de": "Er hat zwei zusätzliche Fahrkarten für die Flåmbahn.",
+          "answer": [
+            "ekstra"
+          ],
+          "explain": "ekstra bekommt auch im Plural keine Endung."
+        },
+        {
+          "prompt": "Det var en veldig ___ tur! (spennende)",
+          "de": "Das war eine sehr spannende Fahrt!",
+          "answer": [
+            "spennende"
+          ],
+          "explain": "Adjektive auf -e (auch -ende) bleiben unverändert."
+        }
+      ]
+    },
+    {
+      "id": "g10_kanskje",
+      "title": "bei kanskje",
+      "titleNo": "ordstilling med kanskje",
+      "summary": "Steht kanskje am Satzanfang, bleibt meistens die normale Wortstellung: Kanskje jeg kommer i morgen. Im Satz steht es wie ikke.",
+      "sections": [
+        {
+          "h": "kanskje am Satzanfang",
+          "body": "Normalerweise löst alles, was vor dem Subjekt steht, Inversion aus (**I morgen kommer jeg**). **kanskje** ist eine Ausnahme: Am Satzanfang folgt meistens Subjekt – Verb:\n\n• **Kanskje jeg ser nordlyset.** (Vielleicht sehe ich das Nordlicht.)\n\nInversion ist aber auch möglich und nicht falsch: **Kanskje ser jeg nordlyset.** Im Alltag hörst du öfter die Form ohne Inversion. Im Deutschen gibt es hier immer Inversion („Vielleicht sehe ich …“) – im Norwegischen darfst du sie weglassen."
+        },
+        {
+          "h": "kanskje im Satz",
+          "body": "Im Satz ist **kanskje** ein Satzadverb wie **ikke** und steht an denselben Stellen:",
+          "table": [
+            [
+              "Satztyp",
+              "Beispiel"
+            ],
+            [
+              "Hauptsatz",
+              "**Jeg kommer kanskje i morgen.**"
+            ],
+            [
+              "mit Modalverb",
+              "**Vi skal kanskje gå opp på Fløyen.**"
+            ],
+            [
+              "mit Inversion",
+              "**I morgen kommer jeg kanskje.**"
+            ],
+            [
+              "Nebensatz",
+              "**Hun sier at hun kanskje kommer.**"
+            ],
+            [
+              "am Anfang",
+              "**Kanskje jeg kommer.** / **Kanskje kommer jeg.**"
+            ]
+          ]
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Jeg ___ i morgen. (komme + kanskje)",
+          "de": "Ich komme vielleicht morgen.",
+          "answer": [
+            "kommer kanskje"
+          ],
+          "explain": "Im Hauptsatz steht kanskje wie ikke direkt nach dem Verb."
+        },
+        {
+          "prompt": "Vi ___ gå opp på Fløyen. (skal + kanskje)",
+          "de": "Vielleicht gehen wir auf den Fløyen.",
+          "answer": [
+            "skal kanskje"
+          ],
+          "explain": "Mit Modalverb: Modalverb – kanskje – Infinitiv."
+        },
+        {
+          "prompt": "Hun sier at hun ___ til jul. (kanskje + komme)",
+          "de": "Sie sagt, dass sie vielleicht zu Weihnachten kommt.",
+          "answer": [
+            "kanskje kommer"
+          ],
+          "explain": "Im Nebensatz steht das Satzadverb vor dem Verb."
+        },
+        {
+          "prompt": "I morgen ___ sol. (bli + det + kanskje)",
+          "de": "Morgen gibt es vielleicht Sonne.",
+          "answer": [
+            "blir det kanskje"
+          ],
+          "explain": "Inversion nach I morgen: Verb – Subjekt – kanskje."
+        },
+        {
+          "prompt": "Kanskje ___ nordlyset den første uka. (jeg + se)",
+          "de": "Vielleicht sehe ich das Nordlicht in der ersten Woche.",
+          "answer": [
+            "jeg ser",
+            "ser jeg"
+          ],
+          "explain": "Nach kanskje am Satzanfang ist Subjekt – Verb üblich; Inversion ist auch richtig."
+        },
+        {
+          "prompt": "Matthias ___ litt nervøs. (være + kanskje)",
+          "de": "Matthias ist vielleicht ein bisschen nervös.",
+          "answer": [
+            "er kanskje"
+          ],
+          "explain": "Verb – kanskje, wie bei ikke: Han er ikke nervøs."
+        },
+        {
+          "prompt": "Jeg tror at bussen ___ i Gudvangen. (kanskje + vente)",
+          "de": "Ich glaube, dass der Bus vielleicht in Gudvangen wartet.",
+          "answer": [
+            "kanskje venter"
+          ],
+          "explain": "Nebensatz mit at: kanskje vor dem Verb."
+        },
+        {
+          "prompt": "På søndag ___ hjem til Oslo. (reise + hun + kanskje)",
+          "de": "Am Sonntag fährt sie vielleicht heim nach Oslo.",
+          "answer": [
+            "reiser hun kanskje"
+          ],
+          "explain": "Inversion nach På søndag, dann kanskje nach dem Subjekt."
+        },
+        {
+          "prompt": "Kanskje ___ til Bergen igjen i vinter. (Susanne + reise)",
+          "de": "Vielleicht fährt Susanne diesen Winter wieder nach Bergen.",
+          "answer": [
+            "Susanne reiser",
+            "reiser Susanne"
+          ],
+          "explain": "kanskje am Anfang: meistens ohne Inversion, aber beides ist möglich."
+        }
+      ]
+    },
+    {
+      "id": "g10_ordenstall",
+      "title": "1.–99. und forrige, neste, samme, siste",
+      "titleNo": "ordenstall",
+      "summary": "første, andre, tredje …: Ordnungszahlen schreibt man mit Punkt (3. etasje), das Datum heißt den 17. mai (den syttende mai); forrige, neste, samme und siste stehen meist ohne Artikel: neste uke, siste gang.",
+      "sections": [
+        {
+          "h": "Die Ordnungszahlen",
+          "body": "Die meisten Ordnungszahlen enden auf **-ende** oder **-de**: **sjuende, åttende, tjuende**. Unregelmäßig sind vor allem die ersten sechs sowie **ellevte** und **tolvte**. **andre** heißt auch „andere“ – der Zusammenhang zeigt, was gemeint ist.\n\nGeschrieben werden Ordnungszahlen wie im Deutschen mit Punkt: **3. etasje** (tredje etasje), **17. mai**.\n\nDie Zehner enden auf **-ende**: **tjuende, trettiende, førtiende, femtiende, sekstiende, syttiende, åttiende, nittiende**. Dazwischen hängst du die Ordnungszahl der Einer an: **tjueførste, trettiandre, førtifemte, nittiniende** (99.). Achtung: **syttende** (17.), aber **syttiende** (70.).",
+          "table": [
+            [
+              "Zahl",
+              "Ordnungszahl",
+              "Zahl",
+              "Ordnungszahl"
+            ],
+            [
+              "1.",
+              "**første**",
+              "11.",
+              "**ellevte**"
+            ],
+            [
+              "2.",
+              "**andre**",
+              "12.",
+              "**tolvte**"
+            ],
+            [
+              "3.",
+              "**tredje**",
+              "13.",
+              "**trettende**"
+            ],
+            [
+              "4.",
+              "**fjerde**",
+              "14.",
+              "**fjortende**"
+            ],
+            [
+              "5.",
+              "**femte**",
+              "17.",
+              "**syttende**"
+            ],
+            [
+              "6.",
+              "**sjette**",
+              "20.",
+              "**tjuende**"
+            ],
+            [
+              "7.",
+              "**sjuende / syvende**",
+              "21.",
+              "**tjueførste**"
+            ],
+            [
+              "8.",
+              "**åttende**",
+              "24.",
+              "**tjuefjerde**"
+            ],
+            [
+              "9.",
+              "**niende**",
+              "30.",
+              "**trettiende**"
+            ],
+            [
+              "10.",
+              "**tiende**",
+              "31.",
+              "**trettiførste**"
+            ]
+          ]
+        },
+        {
+          "h": "Das Datum",
+          "body": "Das Datum sagst du mit **den** + Ordnungszahl + Monat (Monate klein!): **den 17. mai** (den syttende mai), **den 1. oktober** (den første oktober). Geschrieben auch **17.5.** oder **17.05.**\n\n• **Hvilken dato er det i dag? – Det er den tolvte oktober.**\n• **Når har du bursdag? – Den tredje juni.**\n\nVor dem Datum steht keine Präposition: **Han begynte i jobben den 1. oktober** (am 1. Oktober). Beim Monat allein steht **i**: **i oktober** (im Oktober), **i begynnelsen av november** (Anfang November)."
+        },
+        {
+          "h": "Achtung: Stockwerke",
+          "body": "In Norwegen ist das Erdgeschoss die **1. etasje**. Der deutsche „1. Stock“ ist also die **2. etasje**: **Kafeen ligger i 2. etasje** = Das Café ist im ersten Stock."
+        },
+        {
+          "h": "forrige, neste, samme, siste",
+          "body": "Diese vier Wörter verhalten sich wie Ordnungszahlen und haben nie eine Endung:\n• **forrige** = vorige(r), letzte(r) – der/die/das Vorherige: **forrige uke** (letzte Woche), **forrige gang** (letztes Mal)\n• **neste** = nächste(r): **neste år, neste stasjon, neste gang**\n• **samme** = gleiche(r), selbe(r): **samme dag, på samme tid**; auch mit Artikel: **den samme boka**\n• **siste** = letzte(r) einer Reihe, danach kommt nichts mehr: **siste gang** (zum letzten Mal), **det siste toget** (der letzte Zug), **i siste minutt**\n\nBei Zeitangaben stehen sie – wie die Ordnungszahlen – meist ohne Artikel und ohne Präposition: **neste uke, forrige år, samme kveld, Det er tredje gang.** Vor einem Substantiv mit Endung braucht man den Artikel: **det siste toget, den første snøen**.\n\nAchtung: Für das deutsche »letzte« gibt es zwei Wörter. **forrige uke** ist die Woche vor dieser, **den siste uka i oktober** die letzte Woche des Monats. »Letztes Mal war es schön« = **Forrige gang var det fint**; **siste gang** heißt »zum allerletzten Mal«."
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Matthias begynte i den nye jobben den ___ oktober. (1.)",
+          "de": "Matthias hat am 1. Oktober in der neuen Stelle angefangen.",
+          "answer": [
+            "første"
+          ],
+          "explain": "1. = første."
+        },
+        {
+          "prompt": "Norges nasjonaldag er den ___ mai. (17.)",
+          "de": "Norwegens Nationalfeiertag ist am 17. Mai.",
+          "answer": [
+            "syttende"
+          ],
+          "explain": "sytten → syttende. Gesprochen oft „søttende“."
+        },
+        {
+          "prompt": "Kafeen ligger i ___ etasje. (2.)",
+          "de": "Das Café liegt im ersten Stock (2. etasje).",
+          "answer": [
+            "andre",
+            "annen"
+          ],
+          "explain": "2. = andre (älter auch annen). Die 2. etasje ist der deutsche 1. Stock."
+        },
+        {
+          "prompt": "Susanne satt i den ___ vogna. (4.)",
+          "de": "Susanne saß im vierten Wagen.",
+          "answer": [
+            "fjerde"
+          ],
+          "explain": "4. = fjerde."
+        },
+        {
+          "prompt": "Julaften er den ___ desember. (24.)",
+          "de": "Heiligabend ist am 24. Dezember.",
+          "answer": [
+            "tjuefjerde",
+            "fireogtjuende"
+          ],
+          "explain": "24. = tjuefjerde (ältere Zählweise: fireogtjuende)."
+        },
+        {
+          "prompt": "I dag er det den ___ oktober. (11.)",
+          "de": "Heute ist der 11. Oktober.",
+          "answer": [
+            "ellevte"
+          ],
+          "explain": "11. = ellevte – unregelmäßig."
+        },
+        {
+          "prompt": "___ måned bodde Matthias i Oslo, nå bor han i Bergen. (letzter = vorheriger)",
+          "de": "Letzten Monat wohnte Matthias in Oslo, jetzt wohnt er in Bergen.",
+          "answer": [
+            "Forrige"
+          ],
+          "explain": "Der Monat vor diesem → forrige måned, ohne Artikel."
+        },
+        {
+          "prompt": "Når går ___ båt til Gudvangen? (nächster)",
+          "de": "Wann fährt das nächste Boot nach Gudvangen?",
+          "answer": [
+            "neste"
+          ],
+          "explain": "neste båt – ohne Artikel."
+        },
+        {
+          "prompt": "Susanne og Matthias begynte på språkkurset ___ dag. (gleich)",
+          "de": "Susanne und Matthias haben am selben Tag mit dem Sprachkurs angefangen.",
+          "answer": [
+            "samme",
+            "på samme"
+          ],
+          "explain": "samme dag = am selben Tag, ohne Artikel und meist ohne Präposition."
+        },
+        {
+          "prompt": "Vi må rekke det ___ toget i kveld. (letzter des Tages)",
+          "de": "Wir müssen heute Abend den letzten Zug erwischen.",
+          "answer": [
+            "siste"
+          ],
+          "explain": "Der letzte einer Reihe → siste: det siste toget."
         }
       ]
     }
   ],
   "tf": [
     {
-      "s": "Matthias har bodd i Bergen i ei uke.",
-      "de": "Matthias wohnt seit einer Woche in Bergen.",
+      "s": "Susanne skriver i dagboka mens hun sitter på toget.",
+      "de": "Susanne schreibt ins Tagebuch, während sie im Zug sitzt.",
       "a": true,
-      "why": "Er schreibt: „Nå har jeg bodd i Bergen i ei uke.“"
+      "why": "Sie schreibt im Zug zwischen Voss und Bergen."
     },
     {
-      "s": "Det var sol da toget kom fram til Bergen.",
-      "de": "Es schien die Sonne, als der Zug in Bergen ankam.",
-      "a": false,
-      "why": "Es regnete – „selvfølgelig“, schreibt Matthias."
-    },
-    {
-      "s": "Matthias bor nede, og fru Solheim bor oppe.",
-      "de": "Matthias wohnt unten, und Frau Solheim wohnt oben.",
-      "a": false,
-      "why": "Umgekehrt: Matthias wohnt oben, Frau Solheim unten."
-    },
-    {
-      "s": "Sofaen i stua er fra fru Solheim.",
-      "de": "Das Sofa im Wohnzimmer ist von Frau Solheim.",
+      "s": "Susanne hadde glemt å stille vekkerklokka.",
+      "de": "Susanne hatte vergessen, den Wecker zu stellen.",
       "a": true,
-      "why": "Frau Solheim hat ihm das alte Sofa gegeben."
+      "why": "»Men jeg hadde glemt å stille vekkerklokka!«"
     },
     {
-      "s": "Fru Solheim synes at Matthias bør kjøpe en paraply.",
-      "de": "Frau Solheim findet, dass Matthias einen Regenschirm kaufen sollte.",
+      "s": "Susanne kom for sent og rakk ikke toget.",
+      "de": "Susanne kam zu spät und erwischte den Zug nicht.",
       "a": false,
-      "why": "Sie sagt, er soll den Schirm vergessen und richtige Regenkleidung kaufen."
+      "why": "Sie hat den Zug in letzter Minute erwischt."
     },
     {
-      "s": "Matthias fant et bakeri nede ved havna.",
-      "de": "Matthias hat eine Bäckerei unten am Hafen gefunden.",
+      "s": "Etter Geilo så hun bare skog.",
+      "de": "Hinter Geilo sah sie nur Wald.",
+      "a": false,
+      "why": "Es gab keine Bäume mehr, nur Steine, kleine Seen und Schnee."
+    },
+    {
+      "s": "Huldra danser ved Kjosfossen hele året.",
+      "de": "Die Huldra tanzt das ganze Jahr am Kjosfossen.",
+      "a": false,
+      "why": "Nur im Sommer – im Oktober tanzt sie nicht."
+    },
+    {
+      "s": "I Flåm kjøpte Susanne en nisse til Matthias.",
+      "de": "In Flåm kaufte Susanne einen Wichtel für Matthias.",
+      "a": false,
+      "why": "Sie kaufte ihm einen kleinen Troll."
+    },
+    {
+      "s": "Matthias bor foreløpig på et rom hos en kollega.",
+      "de": "Matthias wohnt vorerst in einem Zimmer bei einem Kollegen.",
       "a": true,
-      "why": "Am Donnerstag fand er dort eine kleine Bäckerei mit Skillingsboller."
-    },
-    {
-      "s": "Fra Fløyen så Matthias hele byen.",
-      "de": "Vom Fløyen aus sah Matthias die ganze Stadt.",
-      "a": false,
-      "why": "Es war neblig, und er sah fast nichts."
+      "why": "»…og bor foreløpig på et rom hos en kollega.«"
     }
   ],
   "questions": [
     {
-      "q": "Hvor ligger leiligheten til Matthias?",
-      "qDe": "Wo liegt Matthias’ Wohnung?",
-      "answer": "Den ligger i et gammelt trehus i Sandviken.",
-      "answerDe": "Sie liegt in einem alten Holzhaus in Sandviken.",
+      "q": "Hvorfor var Susanne nesten for sent ute?",
+      "qDe": "Warum war Susanne fast zu spät dran?",
+      "answer": "Fordi hun hadde glemt å stille vekkerklokka.",
+      "answerDe": "Weil sie vergessen hatte, den Wecker zu stellen.",
       "keywords": [
         [
-          "trehus"
+          "glemt",
+          "glemte",
+          "glemme"
         ],
         [
-          "Sandviken"
+          "vekkerklokka",
+          "vekkerklokken",
+          "vekkerklokke"
         ]
       ]
     },
     {
-      "q": "Hvem er fru Solheim?",
-      "qDe": "Wer ist Frau Solheim?",
-      "answer": "Hun er naboen til Matthias og bor nede i huset.",
-      "answerDe": "Sie ist Matthias’ Nachbarin und wohnt unten im Haus.",
+      "q": "Hva fortalte konduktøren?",
+      "qDe": "Was erzählte der Schaffner?",
+      "answer": "Han fortalte at ei hulder danser ved Kjosfossen om sommeren.",
+      "answerDe": "Er erzählte, dass im Sommer eine Huldra am Kjosfossen tanzt.",
       "keywords": [
         [
-          "nabo",
-          "naboen"
+          "hulder",
+          "huldra",
+          "huldren"
         ],
         [
-          "nede"
+          "sommeren",
+          "sommer"
         ]
       ]
     },
     {
-      "q": "Hva ser Matthias fra stua?",
-      "qDe": "Was sieht Matthias vom Wohnzimmer aus?",
-      "answer": "Han ser havna og båtene som kommer inn.",
-      "answerDe": "Er sieht den Hafen und die Boote, die hereinkommen.",
+      "q": "Hva selger suvenirbutikkene i Flåm?",
+      "qDe": "Was verkaufen die Souvenirläden in Flåm?",
+      "answer": "De selger troll og nisser.",
+      "answerDe": "Sie verkaufen Trolle und Wichtel.",
       "keywords": [
         [
-          "havna",
-          "havnen",
-          "havn"
+          "troll",
+          "trolla",
+          "trollene"
         ],
         [
-          "båtene",
-          "båter",
-          "båt"
+          "nisser",
+          "nisse",
+          "nissene"
         ]
       ]
     },
     {
-      "q": "Hva gjorde Matthias da flyttebilen kom?",
-      "qDe": "Was machte Matthias, als der Umzugswagen kam?",
-      "answer": "Han bar tjue kasser opp den bratte trappa.",
-      "answerDe": "Er trug zwanzig Kisten die steile Treppe hinauf.",
+      "q": "Hvor bor Matthias foreløpig?",
+      "qDe": "Wo wohnt Matthias vorerst?",
+      "answer": "Han bor på et rom hos en kollega.",
+      "answerDe": "Er wohnt in einem Zimmer bei einem Kollegen.",
       "keywords": [
         [
-          "bar",
-          "bære",
-          "båret"
+          "kollega",
+          "kollegaen",
+          "kolleger",
+          "kollegaer"
         ],
         [
-          "kasser",
-          "kassene",
-          "kasse"
+          "rom",
+          "rommet"
         ]
       ]
     },
     {
-      "q": "Hvorfor så Matthias nesten ingenting på Fløyen?",
-      "qDe": "Warum sah Matthias auf dem Fløyen fast nichts?",
-      "answer": "Fordi det var tåke.",
-      "answerDe": "Weil es neblig war.",
+      "q": "Hva kommer Susanne til å savne?",
+      "qDe": "Was wird Susanne vermissen?",
+      "answer": "Hun kommer til å savne Oslo og familien Nygård.",
+      "answerDe": "Sie wird Oslo und die Familie Nygård vermissen.",
       "keywords": [
         [
-          "tåke",
-          "tåka"
+          "Oslo"
+        ],
+        [
+          "Nygård",
+          "familien"
         ]
       ]
     }
   ],
   "find": [
     {
-      "de": "die Aussicht",
+      "de": "in letzter Minute",
       "answer": [
-        "utsikten"
+        "i siste minutt"
       ]
     },
     {
-      "de": "ein schmaler Flur",
+      "de": "die Baumgrenze",
       "answer": [
-        "en smal gang"
+        "tregrensa"
       ]
     },
     {
-      "de": "meine Nachbarin",
+      "de": "über dem Meer",
       "answer": [
-        "naboen min"
+        "over havet"
       ]
     },
     {
-      "de": "der Umzugswagen",
+      "de": "die Souvenirläden",
       "answer": [
-        "flyttebilen"
+        "suvenirbutikkene"
       ]
     },
     {
-      "de": "die steile Treppe",
+      "de": "das Land der Trolle und Wichtel",
       "answer": [
-        "den bratte trappa"
+        "trollenes og nissenes land"
       ]
     },
     {
-      "de": "nass bis auf die Haut",
+      "de": "vorerst",
       "answer": [
-        "våt til skinnet"
+        "foreløpig"
       ]
     },
     {
-      "de": "zu Besuch",
+      "de": "Anfang November",
       "answer": [
-        "på besøk"
+        "i begynnelsen av november"
+      ]
+    },
+    {
+      "de": "ich werde … vermissen",
+      "answer": [
+        "Jeg kommer til å savne"
       ]
     }
   ],
   "translate": [
     {
-      "de": "Ich wohne oben, und die Nachbarin wohnt unten.",
+      "de": "Als sie zum Bahnhof kam, war der Zug schon abgefahren.",
       "no": [
-        "Jeg bor oppe, og naboen bor nede.",
-        "Jeg bor oppe, og naboen min bor nede."
+        "Da hun kom til stasjonen, hadde toget allerede gått.",
+        "Da hun kom til stasjonen, hadde toget gått allerede.",
+        "Toget hadde allerede gått da hun kom til stasjonen.",
+        "Da hun kom på stasjonen, hadde toget allerede gått."
       ]
     },
     {
-      "de": "Komm herein! Du kannst die Schuhe im Flur ausziehen.",
+      "de": "Ich hatte die Fahrkarte nicht gebucht.",
       "no": [
-        "Kom inn! Du kan ta av deg skoene i gangen.",
-        "Kom inn! Du kan ta skoene av deg i gangen.",
-        "Kom inn! I gangen kan du ta av deg skoene.",
-        "Kom inn! Du kan ta av skoene i gangen."
+        "Jeg hadde ikke bestilt billetten.",
+        "Jeg hadde ikke bestilt billett.",
+        "Jeg hadde ikke bestilt billetten min."
       ]
     },
     {
-      "de": "Gestern habe ich eine kleine Bäckerei gefunden.",
+      "de": "Morgen wird es regnen.",
       "no": [
-        "I går fant jeg et lite bakeri.",
-        "Jeg fant et lite bakeri i går."
+        "I morgen kommer det til å regne.",
+        "Det kommer til å regne i morgen.",
+        "I morgen vil det regne.",
+        "Det vil regne i morgen."
       ]
     },
     {
-      "de": "Er trug die Kisten in die Küche.",
+      "de": "Am Sonntag gehen wir auf den Fløyen.",
       "no": [
-        "Han bar kassene inn på kjøkkenet."
+        "På søndag skal vi gå opp på Fløyen.",
+        "Vi skal gå opp på Fløyen på søndag.",
+        "På søndag går vi opp på Fløyen.",
+        "Vi går opp på Fløyen på søndag."
       ],
-      "hint": "Richtung + Ort: inn på kjøkkenet."
+      "hint": "Ein Plan: skal oder Präsens."
     },
     {
-      "de": "Sie hat mir ein altes Sofa gegeben.",
+      "de": "Die Häuser am Fjord waren echt.",
       "no": [
-        "Hun ga meg en gammel sofa.",
-        "Hun gav meg en gammel sofa.",
-        "Hun har gitt meg en gammel sofa."
+        "Husa ved fjorden var ekte.",
+        "Husene ved fjorden var ekte."
       ]
     },
     {
-      "de": "Ist Matthias zu Hause? – Nein, er ist draußen.",
+      "de": "Vielleicht sehe ich das Nordlicht.",
       "no": [
-        "Er Matthias hjemme? – Nei, han er ute.",
-        "Er Matthias hjemme? Nei, han er ute."
+        "Kanskje jeg ser nordlyset.",
+        "Kanskje ser jeg nordlyset.",
+        "Jeg ser kanskje nordlyset."
       ]
     },
     {
-      "de": "Bergen liegt in Westnorwegen.",
+      "de": "Sie zieht Anfang November nach Tromsø.",
       "no": [
-        "Bergen ligger på Vestlandet."
+        "Hun flytter til Tromsø i begynnelsen av november.",
+        "I begynnelsen av november flytter hun til Tromsø.",
+        "Hun skal flytte til Tromsø i begynnelsen av november.",
+        "I begynnelsen av november skal hun flytte til Tromsø."
       ]
     },
     {
-      "de": "Es hat jeden Tag geregnet, seit ich gekommen bin.",
+      "de": "Letzte Woche war ich in Flåm.",
       "no": [
-        "Det har regnet hver dag siden jeg kom.",
-        "Det har regna hver dag siden jeg kom.",
-        "Det har regnet hver dag siden jeg kom hit.",
-        "Siden jeg kom, har det regnet hver dag."
-      ]
+        "Forrige uke var jeg i Flåm.",
+        "Jeg var i Flåm forrige uke.",
+        "I forrige uke var jeg i Flåm.",
+        "Jeg var i Flåm i forrige uke."
+      ],
+      "hint": "»letzte Woche« = die Woche davor: forrige uke."
     }
   ],
   "summary": [
     {
-      "prompt": "Matthias har ___ i Bergen i ei uke.",
-      "de": "Matthias wohnt seit einer Woche in Bergen.",
+      "prompt": "Susanne ___ glemt å stille vekkerklokka.",
+      "de": "Susanne hatte vergessen, den Wecker zu stellen.",
       "answer": [
-        "bodd",
-        "vært"
+        "hadde"
       ]
     },
     {
-      "prompt": "Han bor i et gammelt ___ i Sandviken.",
-      "de": "Er wohnt in einem alten Holzhaus in Sandviken.",
+      "prompt": "Hun rakk toget i ___ minutt.",
+      "de": "Sie erwischte den Zug in letzter Minute.",
       "answer": [
-        "trehus"
+        "siste"
       ]
     },
     {
-      "prompt": "Naboen hans, fru Solheim, bor ___.",
-      "de": "Seine Nachbarin, Frau Solheim, wohnt unten.",
+      "prompt": "På Myrdal byttet hun til ___.",
+      "de": "In Myrdal stieg sie in die Flåmbahn um.",
       "answer": [
-        "nede"
+        "Flåmsbana",
+        "Flåmsbanen"
       ]
     },
     {
-      "prompt": "Han ___ tjue kasser opp den bratte trappa.",
-      "de": "Er trug zwanzig Kisten die steile Treppe hinauf.",
+      "prompt": "I Flåm selger alle suvenirbutikkene troll og ___.",
+      "de": "In Flåm verkaufen alle Souvenirläden Trolle und Wichtel.",
       "answer": [
-        "bar"
+        "nisser"
       ]
     },
     {
-      "prompt": "Lørdag gikk han opp på Fløyen, men det var ___.",
-      "de": "Am Samstag ging er auf den Fløyen, aber es war neblig.",
+      "prompt": "I begynnelsen av ___ flytter hun til Tromsø.",
+      "de": "Anfang November zieht sie nach Tromsø.",
       "answer": [
-        "tåke",
-        "tåkete"
+        "november"
       ]
     }
   ],
   "dictation": [
-    4,
-    9,
-    11
+    0,
+    7
   ],
   "writing": {
-    "prompt": "Du bist gerade umgezogen. Schreib einer Freundin eine E-Mail: Wo liegt deine neue Wohnung? Welche Zimmer gibt es, und was ist oben oder unten? Was hast du in den ersten Tagen gemacht (Präteritum)?",
+    "prompt": "Du hast eine Reise gemacht. Schreib einen Tagebucheintrag: Was hattest du vorher vorbereitet (Plusquamperfekt)? Was ist unterwegs passiert? Und was hast du in den nächsten Wochen vor (skal, kommer til å)? Nenn auch einen Monat oder ein Datum.",
     "minWords": 60,
     "useWords": [
-      "leilighet",
-      "stua",
-      "oppe",
-      "nede",
-      "på kjøkkenet"
+      "hadde",
+      "skal",
+      "kommer til å",
+      "kanskje",
+      "neste"
     ],
     "checklist": [
       {
-        "de": "Lage der Wohnung",
+        "de": "Vorbereitung im Plusquamperfekt",
         "keywords": [
-          "ligger"
+          "hadde bestilt",
+          "hadde pakket",
+          "hadde lest",
+          "hadde"
         ]
       },
       {
-        "de": "Zimmer",
+        "de": "Pläne mit skal",
         "keywords": [
-          "stua",
-          "kjøkkenet",
-          "soverommet",
-          "badet"
+          "skal"
         ]
       },
       {
-        "de": "oben / unten",
+        "de": "Vorhersage mit kommer til å",
         "keywords": [
-          "oppe",
-          "nede"
+          "kommer til å"
         ]
       },
       {
-        "de": "Was du gemacht hast (Präteritum)",
+        "de": "Ein Monat oder ein Datum",
         "keywords": [
-          "bar",
-          "fant",
-          "kjøpte",
-          "gikk"
+          "januar",
+          "februar",
+          "mars",
+          "april",
+          "mai",
+          "juni",
+          "juli",
+          "august",
+          "september",
+          "oktober",
+          "november",
+          "desember"
         ]
       }
     ],
-    "model": "Hei Anna!\nNå har jeg flyttet! Den nye leiligheten min ligger i et gult hus ved parken. Den er ikke stor, men den er lys. Når du kommer inn, er badet til venstre. Stua er fin, og på kjøkkenet har jeg et rundt bord. Naboene mine bor nede, og oppe er det et loft. I går bar jeg alle kassene opp trappa, og i dag fant jeg en koselig kafé i nærheten. Kom på besøk snart!\nKlem fra Lena",
-    "modelDe": "Hallo Anna!\nJetzt bin ich umgezogen! Meine neue Wohnung liegt in einem gelben Haus beim Park. Sie ist nicht groß, aber hell. Wenn du hereinkommst, ist das Bad links. Das Wohnzimmer ist schön, und in der Küche habe ich einen runden Tisch. Meine Nachbarn wohnen unten, und oben ist ein Dachboden. Gestern habe ich alle Kisten die Treppe hinaufgetragen, und heute habe ich ein gemütliches Café in der Nähe gefunden. Komm bald zu Besuch!\nEine Umarmung von Lena"
+    "model": "Lørdag reiste jeg med tog fra Oslo til Lillehammer. Jeg hadde bestilt billetten en uke før, og jeg hadde lest mye om byen. Men da jeg kom til stasjonen, hadde toget allerede gått! Jeg tok neste tog en time senere. I Lillehammer gikk jeg på Maihaugen og så de gamle husa. Det var kaldt, men sola skinte. I morgen skal jeg besøke en venn på Gjøvik, og neste uke skal jeg begynne på et nytt kurs. Jeg kommer til å ha mye å gjøre. Kanskje jeg reiser til Bergen i desember – det har jeg lyst til!",
+    "modelDe": "Am Samstag bin ich mit dem Zug von Oslo nach Lillehammer gefahren. Ich hatte die Fahrkarte eine Woche vorher gebucht, und ich hatte viel über die Stadt gelesen. Aber als ich zum Bahnhof kam, war der Zug schon abgefahren! Ich nahm den nächsten Zug eine Stunde später. In Lillehammer ging ich ins Freilichtmuseum Maihaugen und sah die alten Häuser. Es war kalt, aber die Sonne schien. Morgen besuche ich einen Freund in Gjøvik, und nächste Woche fange ich einen neuen Kurs an. Ich werde viel zu tun haben. Vielleicht fahre ich im Dezember nach Bergen – dazu habe ich Lust!"
   }
 }
