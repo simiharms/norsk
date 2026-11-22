@@ -492,18 +492,6 @@
     }
   },
   {
-    "id": "w17_om_bord",
-    "no": "om bord",
-    "de": "an Bord",
-    "pos": "adv",
-    "lesson": 17,
-    "ex": {
-      "no": "Erik jobber om bord på Hurtigruta.",
-      "de": "Erik arbeitet an Bord der Hurtigruta."
-    },
-    "note": "gå om bord = an Bord gehen"
-  },
-  {
     "id": "w17_salong",
     "no": "salong",
     "de": "der Salon, der Aufenthaltsraum",
@@ -734,22 +722,6 @@
     }
   },
   {
-    "id": "w17_polarsirkel",
-    "no": "polarsirkel",
-    "de": "der Polarkreis",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "polarsirkel",
-      "polarsirkelen"
-    ],
-    "lesson": 17,
-    "ex": {
-      "no": "Tromsø ligger nord for polarsirkelen.",
-      "de": "Tromsø liegt nördlich des Polarkreises."
-    }
-  },
-  {
     "id": "w17_midnattssol",
     "no": "midnattssol",
     "de": "die Mitternachtssonne",
@@ -763,22 +735,6 @@
     "ex": {
       "no": "Om sommeren er det midnattssol i Tromsø.",
       "de": "Im Sommer gibt es in Tromsø Mitternachtssonne."
-    }
-  },
-  {
-    "id": "w17_morketid",
-    "no": "mørketid",
-    "de": "die Polarnacht, die dunkle Zeit",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "mørketid",
-      "mørketida/mørketiden"
-    ],
-    "lesson": 17,
-    "ex": {
-      "no": "I mørketida kommer ikke sola over horisonten.",
-      "de": "In der Polarnacht steigt die Sonne nicht über den Horizont."
     }
   },
   {
@@ -870,24 +826,6 @@
     }
   },
   {
-    "id": "w17_rorbu",
-    "no": "rorbu",
-    "de": "die Rorbu (Fischerhütte am Wasser)",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "rorbu",
-      "rorbua/rorbuen",
-      "rorbuer",
-      "rorbuene"
-    ],
-    "lesson": 17,
-    "ex": {
-      "no": "Vi bodde i en rød rorbu ved sjøen.",
-      "de": "Wir wohnten in einer roten Fischerhütte am Wasser."
-    }
-  },
-  {
     "id": "w17_vikingtid",
     "no": "vikingtid",
     "de": "die Wikingerzeit",
@@ -901,17 +839,6 @@
     "ex": {
       "no": "Allerede i vikingtida handlet man med tørrfisk.",
       "de": "Schon in der Wikingerzeit handelte man mit Stockfisch."
-    }
-  },
-  {
-    "id": "w17_i_fjor",
-    "no": "i fjor",
-    "de": "letztes Jahr",
-    "pos": "adv",
-    "lesson": 17,
-    "ex": {
-      "no": "I fjor var Inga forelsket i en fyr fra Bodø.",
-      "de": "Letztes Jahr war Inga in einen Typen aus Bodø verliebt."
     }
   },
   {
@@ -962,17 +889,6 @@
     }
   },
   {
-    "id": "w17_i_morgen_tidlig",
-    "no": "i morgen tidlig",
-    "de": "morgen früh",
-    "pos": "adv",
-    "lesson": 17,
-    "ex": {
-      "no": "Jeg ringer ham i morgen tidlig.",
-      "de": "Ich rufe ihn morgen früh an."
-    }
-  },
-  {
     "id": "w17_ikke_engang",
     "no": "ikke engang",
     "de": "nicht einmal",
@@ -981,22 +897,6 @@
     "ex": {
       "no": "Jeg kunne ikke engang drikke vann.",
       "de": "Ich konnte nicht einmal Wasser trinken."
-    }
-  },
-  {
-    "id": "w17_tom",
-    "no": "tom",
-    "de": "leer",
-    "pos": "adj",
-    "forms": [
-      "tom",
-      "tomt",
-      "tomme"
-    ],
-    "lesson": 17,
-    "ex": {
-      "no": "Hjellene sto tomme.",
-      "de": "Die Trockengestelle standen leer."
     }
   },
   {
@@ -1225,41 +1125,6 @@
     }
   },
   {
-    "id": "w17_januar",
-    "no": "januar",
-    "de": "der Januar",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "januar",
-      "januaren"
-    ],
-    "lesson": 17,
-    "ex": {
-      "no": "Skreien kommer til Lofoten i januar.",
-      "de": "Der Skrei kommt im Januar zu den Lofoten."
-    },
-    "note": "Monatsnamen schreibt man klein: januar, februar, mars …"
-  },
-  {
-    "id": "w17_program",
-    "no": "program",
-    "de": "die Sendung, das Programm",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "program",
-      "programmet",
-      "program/programmer",
-      "programma/programmene"
-    ],
-    "lesson": 17,
-    "ex": {
-      "no": "Jeg så et program om Hurtigruta på tv.",
-      "de": "Ich habe im Fernsehen eine Sendung über die Hurtigruta gesehen."
-    }
-  },
-  {
     "id": "w17_prosent",
     "no": "prosent",
     "de": "das Prozent",
@@ -1370,18 +1235,6 @@
     "note": "holde en tale = eine Rede halten; holde senga = das Bett hüten; holde på med = gerade dabei sein."
   },
   {
-    "id": "w17_maa_ikke",
-    "no": "må ikke",
-    "de": "darf nicht",
-    "pos": "phrase",
-    "lesson": 17,
-    "note": "Falscher Freund: må ikke = darf nicht. »muss nicht« = trenger ikke (å).",
-    "ex": {
-      "no": "Du må ikke se på bølgene!",
-      "de": "Du darfst nicht auf die Wellen schauen!"
-    }
-  },
-  {
     "id": "w17_trenger_ikke",
     "no": "trenger ikke",
     "de": "muss nicht, braucht nicht",
@@ -1430,104 +1283,6 @@
     }
   },
   {
-    "id": "w17_hel",
-    "no": "hel",
-    "de": "ganz",
-    "pos": "adj",
-    "forms": [
-      "hel",
-      "helt",
-      "hele"
-    ],
-    "lesson": 17,
-    "note": "Vor bestimmtem Substantiv ohne den/det: hele dagen (den ganzen Tag), hele Norge.",
-    "ex": {
-      "no": "Erik ringte ikke på en hel uke.",
-      "de": "Erik rief eine ganze Woche lang nicht an."
-    }
-  },
-  {
-    "id": "w17_helt",
-    "no": "helt",
-    "de": "ganz, völlig",
-    "deAlt": [
-      "ganz",
-      "völlig"
-    ],
-    "pos": "adv",
-    "lesson": 17,
-    "note": "ikke helt = nicht ganz",
-    "ex": {
-      "no": "Matthias ble helt stille.",
-      "de": "Matthias wurde ganz still."
-    }
-  },
-  {
-    "id": "w17_hele_tiden",
-    "no": "hele tiden",
-    "de": "die ganze Zeit",
-    "pos": "phrase",
-    "lesson": 17,
-    "ex": {
-      "no": "Professoren lo hele tiden.",
-      "de": "Der Professor lachte die ganze Zeit."
-    }
-  },
-  {
-    "id": "w17_halv",
-    "no": "halv",
-    "de": "halb",
-    "pos": "adj",
-    "forms": [
-      "halv",
-      "halvt",
-      "halve"
-    ],
-    "lesson": 17,
-    "note": "halve dagen = den halben Tag (ohne den); halvparten = die Hälfte",
-    "ex": {
-      "no": "Hun drakk bare et halvt glass vann.",
-      "de": "Sie trank nur ein halbes Glas Wasser."
-    }
-  },
-  {
-    "id": "w17_ung",
-    "no": "ung",
-    "de": "jung",
-    "pos": "adj",
-    "forms": [
-      "ung",
-      "ungt",
-      "unge",
-      "yngre",
-      "yngst"
-    ],
-    "lesson": 17,
-    "ex": {
-      "no": "En ung mann i uniform kom bort til henne.",
-      "de": "Ein junger Mann in Uniform kam zu ihr."
-    }
-  },
-  {
-    "id": "w17_vaar",
-    "no": "vår",
-    "de": "der Frühling",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "vår",
-      "våren",
-      "vårer",
-      "vårene"
-    ],
-    "lesson": 17,
-    "note": "om våren = im Frühling. Nicht verwechseln mit vår = unser.",
-    "ex": {
-      "no": "Om våren henger det torsk på hjellene.",
-      "de": "Im Frühling hängt Dorsch auf den Trockengestellen."
-    }
-  },
-  {
     "id": "w17_vind",
     "no": "vind",
     "de": "der Wind",
@@ -1546,23 +1301,6 @@
     }
   },
   {
-    "id": "w17_mot",
-    "no": "mot",
-    "de": "gegen; zu (jdm.); in Richtung",
-    "deAlt": [
-      "gegen",
-      "zu",
-      "in Richtung"
-    ],
-    "pos": "prep",
-    "lesson": 17,
-    "note": "Auch: en tablett mot sjøsyke (gegen Seekrankheit), utsikt mot fjellene (Blick auf die Berge).",
-    "ex": {
-      "no": "Erik er sjarmerende mot alle.",
-      "de": "Erik ist zu allen charmant."
-    }
-  },
-  {
     "id": "w17_flest",
     "no": "flest",
     "de": "die meisten (de fleste)",
@@ -1577,43 +1315,6 @@
     "ex": {
       "no": "I dag kan man kjøre bil til de fleste stedene.",
       "de": "Heute kann man an die meisten Orte mit dem Auto fahren."
-    }
-  },
-  {
-    "id": "w17_hoy",
-    "no": "høy",
-    "de": "hoch",
-    "pos": "adj",
-    "forms": [
-      "høy",
-      "høyt",
-      "høye",
-      "høyere",
-      "høyest"
-    ],
-    "lesson": 17,
-    "ex": {
-      "no": "Lofoten har høye, spisse fjell.",
-      "de": "Die Lofoten haben hohe, spitze Berge."
-    }
-  },
-  {
-    "id": "w17_beklage",
-    "no": "beklage",
-    "de": "bedauern; sich entschuldigen",
-    "pos": "verb",
-    "vf": [
-      "beklager",
-      "beklaget",
-      "beklaget",
-      "beklag"
-    ],
-    "vg": "1",
-    "lesson": 17,
-    "note": "Beklager! = Tut mir leid! / Entschuldigung!",
-    "ex": {
-      "no": "Beklager, jeg har ikke tid på lørdag.",
-      "de": "Tut mir leid, ich habe am Samstag keine Zeit."
     }
   },
   {
@@ -1660,6 +1361,40 @@
     "ex": {
       "no": "Hurtigruta stopper i Svolvær.",
       "de": "Die Hurtigruta hält in Svolvær."
+    }
+  },
+  {
+    "id": "w20_dromme_om",
+    "no": "drømme om",
+    "de": "träumen von",
+    "pos": "verb",
+    "vf": [
+      "drømmer om",
+      "drømte om",
+      "drømt om",
+      "drøm om"
+    ],
+    "vg": "2",
+    "lesson": 17,
+    "ex": {
+      "no": "Anna drømmer om å bli barnelege.",
+      "de": "Anna träumt davon, Kinderärztin zu werden."
+    }
+  },
+  {
+    "id": "w23_morke",
+    "no": "mørke",
+    "de": "die Dunkelheit",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "mørke",
+      "mørket"
+    ],
+    "lesson": 17,
+    "ex": {
+      "no": "Om sommeren venter man forgjeves på mørket.",
+      "de": "Im Sommer wartet man vergeblich auf die Dunkelheit."
     }
   }
 ]

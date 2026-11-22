@@ -54,27 +54,6 @@
     }
   },
   {
-    "id": "w23_lav",
-    "no": "lav",
-    "de": "niedrig",
-    "deAlt": [
-      "tief"
-    ],
-    "pos": "adj",
-    "forms": [
-      "lav",
-      "lavt",
-      "lave",
-      "lavere",
-      "lavest"
-    ],
-    "lesson": 23,
-    "ex": {
-      "no": "Om natta står sola lavt på himmelen.",
-      "de": "In der Nacht steht die Sonne tief am Himmel."
-    }
-  },
-  {
     "id": "w23_blogg",
     "no": "blogg",
     "de": "der Blog",
@@ -141,22 +120,6 @@
     "ex": {
       "no": "Ingen ser ut til å være trøtt.",
       "de": "Niemand scheint müde zu sein."
-    }
-  },
-  {
-    "id": "w23_morke",
-    "no": "mørke",
-    "de": "die Dunkelheit",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "mørke",
-      "mørket"
-    ],
-    "lesson": 23,
-    "ex": {
-      "no": "Om sommeren venter man forgjeves på mørket.",
-      "de": "Im Sommer wartet man vergeblich auf die Dunkelheit."
     }
   },
   {
@@ -338,24 +301,6 @@
     }
   },
   {
-    "id": "w23_staa_opp",
-    "no": "stå opp",
-    "de": "aufstehen",
-    "pos": "verb",
-    "vf": [
-      "står opp",
-      "sto/stod opp",
-      "stått opp",
-      "stå opp"
-    ],
-    "vg": "sterk",
-    "lesson": 23,
-    "ex": {
-      "no": "I går sto Matthias opp klokka fire.",
-      "de": "Gestern stand Matthias um vier Uhr auf."
-    }
-  },
-  {
     "id": "w23_bachelorgrad",
     "no": "bachelorgrad",
     "de": "der Bachelorabschluss",
@@ -451,28 +396,6 @@
     "ex": {
       "no": "Onkelen til Inga driver med reindrift.",
       "de": "Ingas Onkel betreibt Rentierzucht."
-    }
-  },
-  {
-    "id": "w23_drive_med",
-    "no": "drive med",
-    "de": "betreiben",
-    "deAlt": [
-      "sich beschäftigen mit",
-      "machen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "driver med",
-      "drev/dreiv med",
-      "drevet med",
-      "driv med"
-    ],
-    "vg": "sterk",
-    "lesson": 23,
-    "ex": {
-      "no": "Hva driver du med i fritida?",
-      "de": "Was machst du in deiner Freizeit?"
     }
   },
   {
@@ -615,17 +538,6 @@
     "note": "klage på noe = sich über etwas beschweren."
   },
   {
-    "id": "w23_daarlig_vaer",
-    "no": "det finnes ikke dårlig vær, bare dårlige klær",
-    "de": "es gibt kein schlechtes Wetter, nur schlechte Kleidung",
-    "pos": "phrase",
-    "lesson": 23,
-    "ex": {
-      "no": "Ta på deg regnjakka! Det finnes ikke dårlig vær, bare dårlige klær.",
-      "de": "Zieh die Regenjacke an! Es gibt kein schlechtes Wetter, nur schlechte Kleidung."
-    }
-  },
-  {
     "id": "w23_ta_imot",
     "no": "ta imot",
     "de": "empfangen",
@@ -692,24 +604,6 @@
     "ex": {
       "no": "Matthias har fått fast jobb i Bergen.",
       "de": "Matthias hat eine feste Stelle in Bergen bekommen."
-    }
-  },
-  {
-    "id": "w23_gi_opp",
-    "no": "gi opp",
-    "de": "aufgeben",
-    "pos": "verb",
-    "vf": [
-      "gir opp",
-      "ga/gav opp",
-      "gitt opp",
-      "gi opp"
-    ],
-    "vg": "sterk",
-    "lesson": 23,
-    "ex": {
-      "no": "Vi gir ikke opp.",
-      "de": "Wir geben nicht auf."
     }
   },
   {
@@ -858,23 +752,6 @@
     }
   },
   {
-    "id": "w23_offentlig",
-    "no": "offentlig",
-    "de": "öffentlich",
-    "pos": "adj",
-    "forms": [
-      "offentlig",
-      "offentlig",
-      "offentlige"
-    ],
-    "lesson": 23,
-    "ex": {
-      "no": "I Kautokeino kan man bruke samisk i kontakt med det offentlige.",
-      "de": "In Kautokeino kann man im Kontakt mit den Behörden Samisch benutzen."
-    },
-    "note": "det offentlige = die Behörden, der Staat."
-  },
-  {
     "id": "w23_sameting",
     "no": "sameting",
     "de": "das Samenparlament",
@@ -964,24 +841,6 @@
     "ex": {
       "no": "Det er valg hvert fjerde år.",
       "de": "Alle vier Jahre gibt es eine Wahl."
-    }
-  },
-  {
-    "id": "w23_stat",
-    "no": "stat",
-    "de": "der Staat",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "stat",
-      "staten",
-      "stater",
-      "statene"
-    ],
-    "lesson": 23,
-    "ex": {
-      "no": "Staten betaler for skolen.",
-      "de": "Der Staat bezahlt die Schule."
     }
   },
   {
@@ -1095,28 +954,6 @@
       "no": "Inga er stolt av bakgrunnen sin.",
       "de": "Inga ist stolz auf ihre Herkunft."
     }
-  },
-  {
-    "id": "w23_beklage",
-    "no": "beklage",
-    "de": "bedauern",
-    "deAlt": [
-      "sich entschuldigen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "beklager",
-      "beklaget/beklaga",
-      "beklaget/beklaga",
-      "beklag"
-    ],
-    "vg": "1",
-    "lesson": 23,
-    "ex": {
-      "no": "Beklager, jeg kommer litt for sent.",
-      "de": "Entschuldigung, ich komme etwas zu spät."
-    },
-    "note": "Beklager! = Tut mir leid! / Entschuldigung!"
   },
   {
     "id": "w23_paa_vegne_av",
@@ -1255,27 +1092,6 @@
     "note": "Formeller: oppfinne."
   },
   {
-    "id": "w23_sette_opp",
-    "no": "sette opp",
-    "de": "aufstellen",
-    "deAlt": [
-      "aufbauen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "setter opp",
-      "satte opp",
-      "satt opp",
-      "sett opp"
-    ],
-    "vg": "uregelm",
-    "lesson": 23,
-    "ex": {
-      "no": "Vi satte opp teltet på stranda.",
-      "de": "Wir bauten das Zelt am Strand auf."
-    }
-  },
-  {
     "id": "w23_oppsatt",
     "no": "oppsatt",
     "de": "geplant, festgelegt",
@@ -1342,24 +1158,6 @@
     "ex": {
       "no": "På stranda sitter folk og griller.",
       "de": "Am Strand sitzen Leute und grillen."
-    }
-  },
-  {
-    "id": "w23_strand",
-    "no": "strand",
-    "de": "der Strand",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "strand",
-      "stranda",
-      "strender",
-      "strendene"
-    ],
-    "lesson": 23,
-    "ex": {
-      "no": "Nede på stranda ble det tent et stort bål.",
-      "de": "Unten am Strand wurde ein großes Feuer angezündet."
     }
   },
   {
@@ -1614,25 +1412,6 @@
     "wk": true
   },
   {
-    "id": "w23_postkasse",
-    "no": "postkasse",
-    "de": "der Briefkasten",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "postkasse",
-      "postkassen",
-      "postkasser",
-      "postkassene"
-    ],
-    "ex": {
-      "no": "Det lå et brev fra Matthias i postkassen.",
-      "de": "Im Briefkasten lag ein Brief von Matthias."
-    },
-    "lesson": 23,
-    "wk": true
-  },
-  {
     "id": "w23_ugle",
     "no": "ugle",
     "de": "die Eule",
@@ -1707,26 +1486,6 @@
     "wk": true
   },
   {
-    "id": "w23_kam",
-    "no": "kam",
-    "de": "der Kamm",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "kam",
-      "kammen",
-      "kammer",
-      "kammene"
-    ],
-    "ex": {
-      "no": "Har du en kam jeg kan låne?",
-      "de": "Hast du einen Kamm, den ich leihen kann?"
-    },
-    "note": "Doppel-m in den gebeugten Formen: kammen.",
-    "lesson": 23,
-    "wk": true
-  },
-  {
     "id": "w23_lever",
     "no": "lever",
     "de": "die Leber",
@@ -1761,25 +1520,6 @@
     "ex": {
       "no": "I juni er det mange sommerfugler i hagen.",
       "de": "Im Juni gibt es viele Schmetterlinge im Garten."
-    },
-    "lesson": 23,
-    "wk": true
-  },
-  {
-    "id": "w23_nese",
-    "no": "nese",
-    "de": "die Nase",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "nese",
-      "nesa",
-      "neser",
-      "nesene"
-    ],
-    "ex": {
-      "no": "Det renner fra nesa mi.",
-      "de": "Mir läuft die Nase."
     },
     "lesson": 23,
     "wk": true

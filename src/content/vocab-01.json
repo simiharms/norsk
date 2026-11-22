@@ -1784,5 +1784,199 @@
       "de": "Mach's gut, Torunn!"
     },
     "note": "Kurz: Ha det!"
+  },
+  {
+    "id": "w02_dag",
+    "no": "dag",
+    "de": "der Tag",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "dag",
+      "dagen",
+      "dager",
+      "dagene"
+    ],
+    "lesson": 1,
+    "ex": {
+      "no": "En uke har sju dager.",
+      "de": "Eine Woche hat sieben Tage."
+    }
+  },
+  {
+    "id": "w02_god",
+    "no": "god",
+    "de": "gut",
+    "deAlt": [
+      "lecker"
+    ],
+    "pos": "adj",
+    "forms": [
+      "god",
+      "godt",
+      "gode",
+      "bedre",
+      "best"
+    ],
+    "lesson": 1,
+    "ex": {
+      "no": "Torunn er en god lærer.",
+      "de": "Torunn ist eine gute Lehrerin."
+    },
+    "note": "Bei Essen auch »lecker«: Kaka er god."
+  },
+  {
+    "id": "w02_en_tall",
+    "no": "en",
+    "de": "eins",
+    "alt": [
+      "ett"
+    ],
+    "pos": "num",
+    "lesson": 1,
+    "ex": {
+      "no": "Jeg har en bror.",
+      "de": "Ich habe einen Bruder."
+    },
+    "note": "Vor et-Wörtern: ett (ett glass, ett år)."
+  },
+  {
+    "id": "w03_hallo",
+    "no": "hallo",
+    "de": "hallo (auch am Telefon)",
+    "deAlt": [
+      "hallo"
+    ],
+    "pos": "interj",
+    "lesson": 1,
+    "ex": {
+      "no": "Hallo, det er Anna.",
+      "de": "Hallo, hier ist Anna."
+    }
+  },
+  {
+    "id": "w03_hyggelig",
+    "no": "hyggelig",
+    "de": "nett, gemütlich, angenehm",
+    "deAlt": [
+      "nett",
+      "gemütlich",
+      "angenehm",
+      "freundlich"
+    ],
+    "pos": "adj",
+    "forms": [
+      "hyggelig",
+      "hyggelig",
+      "hyggelige",
+      "hyggeligere",
+      "hyggeligst"
+    ],
+    "lesson": 1,
+    "ex": {
+      "no": "Det er et hyggelig hotell.",
+      "de": "Das ist ein nettes Hotel."
+    },
+    "note": "Kein -t im Neutrum."
+  },
+  {
+    "id": "w03_sammen",
+    "no": "sammen",
+    "de": "zusammen",
+    "pos": "adv",
+    "lesson": 1,
+    "ex": {
+      "no": "Vi lager middag sammen.",
+      "de": "Wir kochen zusammen."
+    }
+  },
+  {
+    "id": "w05_deg",
+    "no": "deg",
+    "de": "dich",
+    "deAlt": [
+      "dir"
+    ],
+    "pos": "pron",
+    "lesson": 1,
+    "ex": {
+      "no": "Jeg ringer deg i kveld.",
+      "de": "Ich rufe dich heute Abend an."
+    }
+  },
+  {
+    "id": "w05_seg",
+    "no": "seg",
+    "de": "sich",
+    "pos": "pron",
+    "lesson": 1,
+    "ex": {
+      "no": "Ola kler på seg.",
+      "de": "Ola zieht sich an."
+    }
+  },
+  {
+    "id": "w13_hilse_paa",
+    "no": "hilse på",
+    "de": "begrüßen, kennenlernen",
+    "deAlt": [
+      "kennenlernen",
+      "begrüßen",
+      "Hallo sagen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "hilser på",
+      "hilste på",
+      "hilst på",
+      "hils på"
+    ],
+    "vg": "2",
+    "lesson": 1,
+    "ex": {
+      "no": "Så hyggelig å hilse på deg!",
+      "de": "Wie schön, dich kennenzulernen!"
+    }
+  },
+  {
+    "id": "w10_hilse",
+    "no": "hilse",
+    "de": "grüßen",
+    "pos": "verb",
+    "vf": [
+      "hilser",
+      "hilste",
+      "hilst",
+      "hils"
+    ],
+    "vg": "2",
+    "lesson": 1,
+    "ex": {
+      "no": "Hils Anna fra meg!",
+      "de": "Grüß Anna von mir!"
+    }
+  },
+  {
+    "id": "w15_noe",
+    "no": "noe",
+    "de": "etwas",
+    "pos": "pron",
+    "lesson": 1,
+    "ex": {
+      "no": "Vil du ha noe å spise?",
+      "de": "Möchtest du etwas zu essen?"
+    }
+  },
+  {
+    "id": "w16_ikke_noe",
+    "no": "ikke noe",
+    "de": "nichts; kein",
+    "pos": "phrase",
+    "lesson": 1,
+    "note": "= ingenting. Mit Hilfs- oder Modalverb nur ikke … noe: Jeg har ikke sett noe.",
+    "ex": {
+      "no": "Jeg har ikke spist noe i dag.",
+      "de": "Ich habe heute nichts gegessen."
+    }
   }
 ]

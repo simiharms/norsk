@@ -1,5 +1,25 @@
 [
   {
+    "id": "w09_tog",
+    "no": "tog",
+    "de": "der Zug",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "tog",
+      "toget",
+      "tog",
+      "toga/togene"
+    ],
+    "wk": true,
+    "ex": {
+      "no": "Toget til Bergen går fra Oslo S.",
+      "de": "Der Zug nach Bergen fährt von Oslo S."
+    },
+    "note": "Auch: der Umzug (barnetoget = der Kinderumzug).",
+    "lesson": 10
+  },
+  {
     "id": "w11_reise_n",
     "no": "reise",
     "de": "die Reise",
@@ -284,28 +304,6 @@
     "ex": {
       "no": "Husa så ut som leker.",
       "de": "Die Häuser sahen aus wie Spielzeug."
-    }
-  },
-  {
-    "id": "w11_turist",
-    "no": "turist",
-    "de": "der Tourist / die Touristin",
-    "deAlt": [
-      "Tourist",
-      "Touristin"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "turist",
-      "turisten",
-      "turister",
-      "turistene"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "Midt i juli er det mange turister i Flåm.",
-      "de": "Mitte Juli sind viele Touristen in Flåm."
     }
   },
   {
@@ -624,23 +622,6 @@
     "note": "om sommeren = regelmäßig im Sommer; i sommer = diesen Sommer."
   },
   {
-    "id": "w10_forrige",
-    "no": "forrige",
-    "de": "vorige(r), letzte(r)",
-    "pos": "adj",
-    "forms": [
-      "forrige",
-      "forrige",
-      "forrige"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "Forrige uke var Susanne i Bergen.",
-      "de": "Letzte Woche war Susanne in Bergen."
-    },
-    "note": "forrige uke = letzte Woche (die davor); siste gang = zum letzten Mal. Ohne Artikel: forrige år."
-  },
-  {
     "id": "w11_november",
     "no": "november",
     "de": "der November",
@@ -759,29 +740,6 @@
     "ex": {
       "no": "Du må bytte tog på Myrdal.",
       "de": "Du musst in Myrdal umsteigen."
-    }
-  },
-  {
-    "id": "w11_miste",
-    "no": "miste",
-    "de": "verpassen, verlieren",
-    "deAlt": [
-      "verpassen",
-      "verlieren"
-    ],
-    "pos": "verb",
-    "vf": [
-      "mister",
-      "mistet/mista",
-      "mistet/mista",
-      "mist"
-    ],
-    "vg": "1",
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Jeg mistet bussen og kom for sent.",
-      "de": "Ich verpasste den Bus und kam zu spät."
     }
   },
   {
@@ -1029,23 +987,6 @@
     }
   },
   {
-    "id": "w11_nok",
-    "no": "nok",
-    "de": "wohl; genug",
-    "deAlt": [
-      "wohl",
-      "genug",
-      "schon"
-    ],
-    "pos": "adv",
-    "lesson": 10,
-    "ex": {
-      "no": "I morgen kommer det nok til å regne.",
-      "de": "Morgen wird es wohl regnen."
-    },
-    "note": "nok = wohl (Vermutung) und genug: Har du nok penger?"
-  },
-  {
     "id": "w11_gjennom",
     "no": "gjennom",
     "de": "durch",
@@ -1086,17 +1027,6 @@
     "ex": {
       "no": "Jeg må skrive alt ned før jeg glemmer det.",
       "de": "Ich muss alles aufschreiben, bevor ich es vergesse."
-    }
-  },
-  {
-    "id": "w11_forste",
-    "no": "første",
-    "de": "erste",
-    "pos": "num",
-    "lesson": 10,
-    "ex": {
-      "no": "Matthias begynte i jobben den første oktober.",
-      "de": "Matthias hat am ersten Oktober in der Stelle angefangen."
     }
   },
   {
@@ -1290,18 +1220,6 @@
     }
   },
   {
-    "id": "w11_gaa_paa",
-    "no": "gå på",
-    "de": "einsteigen",
-    "pos": "phrase",
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "På Voss gikk hun på toget igjen.",
-      "de": "In Voss stieg sie wieder in den Zug."
-    }
-  },
-  {
     "id": "w11_tur_retur",
     "no": "tur-retur",
     "de": "hin und zurück",
@@ -1343,22 +1261,6 @@
     }
   },
   {
-    "id": "w10_daarlig",
-    "no": "dårlig",
-    "de": "schlecht",
-    "pos": "adj",
-    "forms": [
-      "dårlig",
-      "dårlig",
-      "dårlige"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "Morgenen begynte dårlig.",
-      "de": "Der Morgen fing schlecht an."
-    }
-  },
-  {
     "id": "w10_hoy",
     "no": "høy",
     "de": "hoch",
@@ -1366,7 +1268,9 @@
     "forms": [
       "høy",
       "høyt",
-      "høye"
+      "høye",
+      "høyere",
+      "høyest"
     ],
     "lesson": 10,
     "ex": {
@@ -1688,7 +1592,9 @@
     "gender": "m",
     "forms": [
       "jul",
-      "julen"
+      "jula/julen",
+      "juler",
+      "julene"
     ],
     "lesson": 10,
     "ex": {
@@ -1767,7 +1673,10 @@
     "ex": {
       "no": "Julenissen ligner på pappa!",
       "de": "Der Weihnachtsmann sieht aus wie Papa!"
-    }
+    },
+    "alt": [
+      "likne på"
+    ]
   },
   {
     "id": "w10_i_gamle_dager",
@@ -1789,6 +1698,294 @@
     "ex": {
       "no": "Vi setter ut grøt til nissen for moro skyld.",
       "de": "Wir stellen dem Nisse zum Spaß Grütze hin."
+    }
+  },
+  {
+    "id": "w11_sno",
+    "no": "snø",
+    "de": "der Schnee",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "snø",
+      "snøen"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Vi har ikke så mye snø som dere.",
+      "de": "Wir haben nicht so viel Schnee wie ihr."
+    }
+  },
+  {
+    "id": "w10_leilighet",
+    "no": "leilighet",
+    "de": "die Wohnung",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "leilighet",
+      "leiligheten",
+      "leiligheter",
+      "leilighetene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Leiligheten er ledig fra 1. november.",
+      "de": "Die Wohnung ist ab dem 1. November frei."
+    }
+  },
+  {
+    "id": "w13_midt_i",
+    "no": "midt i",
+    "de": "mitten in",
+    "pos": "prep",
+    "lesson": 10,
+    "ex": {
+      "no": "Sykkelen står midt i gangen.",
+      "de": "Das Fahrrad steht mitten im Flur."
+    }
+  },
+  {
+    "id": "w10_kollega",
+    "no": "kollega",
+    "de": "der Kollege / die Kollegin",
+    "deAlt": [
+      "Kollege",
+      "Kollegin"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "kollega",
+      "kollegaen",
+      "kollegaer/kolleger",
+      "kollegaene/kollegene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Kollegaene mine er hyggelige.",
+      "de": "Meine Kollegen sind nett."
+    }
+  },
+  {
+    "id": "w10_hav",
+    "no": "hav",
+    "de": "das Meer",
+    "deAlt": [
+      "Ozean"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "hav",
+      "havet",
+      "hav",
+      "hava/havene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Bergen ligger mellom havet og sju fjell.",
+      "de": "Bergen liegt zwischen dem Meer und sieben Bergen."
+    },
+    "note": "over havet = über dem Meeresspiegel: 1222 meter over havet."
+  },
+  {
+    "id": "w10_foss",
+    "no": "foss",
+    "de": "der Wasserfall",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "foss",
+      "fossen",
+      "fosser",
+      "fossene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "På Vestlandet er det mange fosser.",
+      "de": "In Westnorwegen gibt es viele Wasserfälle."
+    }
+  },
+  {
+    "id": "w10_selge",
+    "no": "selge",
+    "de": "verkaufen",
+    "pos": "verb",
+    "vf": [
+      "selger",
+      "solgte",
+      "solgt",
+      "selg"
+    ],
+    "vg": "uregelm",
+    "lesson": 10,
+    "ex": {
+      "no": "Bakeriet selger skillingsboller.",
+      "de": "Die Bäckerei verkauft Zimtschnecken."
+    }
+  },
+  {
+    "id": "w10_mork",
+    "no": "mørk",
+    "de": "dunkel",
+    "pos": "adj",
+    "forms": [
+      "mørk",
+      "mørkt",
+      "mørke"
+    ],
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Gangen er litt mørk.",
+      "de": "Der Flur ist ein bisschen dunkel."
+    }
+  },
+  {
+    "id": "w10_smal",
+    "no": "smal",
+    "de": "schmal",
+    "pos": "adj",
+    "forms": [
+      "smal",
+      "smalt",
+      "smale",
+      "smalere",
+      "smalest"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Gangen er lang og smal.",
+      "de": "Der Flur ist lang und schmal."
+    }
+  },
+  {
+    "id": "w10_ned",
+    "no": "ned",
+    "de": "hinunter, herunter",
+    "deAlt": [
+      "hinunter",
+      "herunter",
+      "nach unten"
+    ],
+    "pos": "adv",
+    "lesson": 10,
+    "ex": {
+      "no": "Han går ned til havna.",
+      "de": "Er geht zum Hafen hinunter."
+    },
+    "note": "Richtung (wohin?). Ort: nede."
+  },
+  {
+    "id": "w10_nede",
+    "no": "nede",
+    "de": "unten",
+    "pos": "adv",
+    "lesson": 10,
+    "ex": {
+      "no": "Fru Solheim bor nede.",
+      "de": "Frau Solheim wohnt unten."
+    },
+    "note": "Ort (wo?). Richtung: ned."
+  },
+  {
+    "id": "w10_framme",
+    "no": "framme",
+    "de": "angekommen, vorn",
+    "deAlt": [
+      "angekommen",
+      "vorn",
+      "da"
+    ],
+    "alt": [
+      "fremme"
+    ],
+    "pos": "adv",
+    "lesson": 10,
+    "ex": {
+      "no": "Når er vi framme?",
+      "de": "Wann sind wir da?"
+    },
+    "note": "være framme = angekommen sein."
+  },
+  {
+    "id": "w15_lek",
+    "no": "lek",
+    "de": "das Spiel (von Kindern)",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "lek",
+      "leken",
+      "leker",
+      "lekene"
+    ],
+    "lesson": 10,
+    "note": "lek = freies Spiel; ein Spiel mit festen Regeln (Karten, Brettspiel) ist meist et spill.",
+    "ex": {
+      "no": "Gjemsel er en populær lek.",
+      "de": "Verstecken ist ein beliebtes Spiel."
+    }
+  },
+  {
+    "id": "w17_om_bord",
+    "no": "om bord",
+    "de": "an Bord",
+    "pos": "adv",
+    "lesson": 10,
+    "ex": {
+      "no": "Erik jobber om bord på Hurtigruta.",
+      "de": "Erik arbeitet an Bord der Hurtigruta."
+    },
+    "note": "gå om bord = an Bord gehen"
+  },
+  {
+    "id": "w18_pakke_inn",
+    "no": "pakke inn",
+    "de": "einpacken",
+    "pos": "verb",
+    "vf": [
+      "pakker inn",
+      "pakket/pakka inn",
+      "pakket/pakka inn",
+      "pakk inn"
+    ],
+    "vg": "1",
+    "lesson": 10,
+    "ex": {
+      "no": "Jeg har pakket inn gavene.",
+      "de": "Ich habe die Geschenke eingepackt."
+    }
+  },
+  {
+    "id": "w18_begynnelse",
+    "no": "begynnelse",
+    "de": "der Anfang, der Beginn",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "begynnelse",
+      "begynnelsen",
+      "begynnelser",
+      "begynnelsene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "I begynnelsen av desember var det julebord.",
+      "de": "Anfang Dezember gab es ein Weihnachtsessen."
+    },
+    "note": "i begynnelsen av … = am Anfang von …, Anfang (Monat)"
+  },
+  {
+    "id": "w21_om_bord",
+    "no": "om bord",
+    "de": "an Bord",
+    "pos": "phrase",
+    "lesson": 10,
+    "ex": {
+      "no": "Vi gikk om bord på ferja i siste liten.",
+      "de": "Wir gingen in letzter Minute an Bord der Fähre."
     }
   }
 ]

@@ -1,23 +1,5 @@
 [
   {
-    "id": "w12_diskutere",
-    "no": "diskutere",
-    "de": "diskutieren",
-    "pos": "verb",
-    "vf": [
-      "diskuterer",
-      "diskuterte",
-      "diskutert",
-      "diskuter"
-    ],
-    "vg": "2",
-    "lesson": 12,
-    "ex": {
-      "no": "De diskuterer hva de skal gjøre på søndag.",
-      "de": "Sie diskutieren, was sie am Sonntag machen sollen."
-    }
-  },
-  {
     "id": "w12_diskusjon",
     "no": "diskusjon",
     "de": "die Diskussion",
@@ -51,24 +33,6 @@
     "ex": {
       "no": "Susanne har tre forslag.",
       "de": "Susanne hat drei Vorschläge."
-    }
-  },
-  {
-    "id": "w12_foreslaa",
-    "no": "foreslå",
-    "de": "vorschlagen",
-    "pos": "verb",
-    "vf": [
-      "foreslår",
-      "foreslo",
-      "foreslått",
-      "foreslå"
-    ],
-    "vg": "sterk",
-    "lesson": 12,
-    "ex": {
-      "no": "Jeg foreslår at vi tar bussen.",
-      "de": "Ich schlage vor, dass wir den Bus nehmen."
     }
   },
   {
@@ -255,25 +219,6 @@
     }
   },
   {
-    "id": "w12_passe",
-    "no": "passe",
-    "de": "passen",
-    "pos": "verb",
-    "vf": [
-      "passer",
-      "passet/passa",
-      "passet/passa",
-      "pass"
-    ],
-    "vg": "1",
-    "lesson": 12,
-    "ex": {
-      "no": "Det passer perfekt!",
-      "de": "Das passt perfekt!"
-    },
-    "note": "passe på = aufpassen."
-  },
-  {
     "id": "w12_kunst",
     "no": "kunst",
     "de": "die Kunst",
@@ -396,24 +341,6 @@
     }
   },
   {
-    "id": "w12_sjokolade",
-    "no": "sjokolade",
-    "de": "die Schokolade",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "sjokolade",
-      "sjokoladen",
-      "sjokolader",
-      "sjokoladene"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Matthias har tatt med sveitsisk sjokolade.",
-      "de": "Matthias hat Schweizer Schokolade mitgebracht."
-    }
-  },
-  {
     "id": "w12_skulptur",
     "no": "skulptur",
     "de": "die Skulptur",
@@ -501,29 +428,6 @@
     "ex": {
       "no": "Det nye bygget har tretten etasjer.",
       "de": "Das neue Gebäude hat dreizehn Stockwerke."
-    }
-  },
-  {
-    "id": "w12_topp",
-    "no": "topp",
-    "de": "die Spitze, der Gipfel",
-    "deAlt": [
-      "Spitze",
-      "Gipfel",
-      "oberstes Stockwerk"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "topp",
-      "toppen",
-      "topper",
-      "toppene"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Utsikten fra toppen er utrolig fin.",
-      "de": "Die Aussicht von oben ist unglaublich schön."
     }
   },
   {
@@ -913,23 +817,6 @@
     }
   },
   {
-    "id": "w12_fodt",
-    "no": "født",
-    "de": "geboren",
-    "pos": "adj",
-    "forms": [
-      "født",
-      "født",
-      "fødte"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Munch ble født i 1863.",
-      "de": "Munch wurde 1863 geboren."
-    },
-    "note": "ble født = wurde geboren; Jeg er født i Freiburg = Ich bin in Freiburg geboren."
-  },
-  {
     "id": "w12_visst",
     "no": "visst",
     "de": "angeblich, wohl",
@@ -1237,25 +1124,6 @@
     }
   },
   {
-    "id": "w12_fole_seg",
-    "no": "føle seg",
-    "de": "sich fühlen",
-    "pos": "verb",
-    "vf": [
-      "føler seg",
-      "følte seg",
-      "følt seg",
-      "føl deg"
-    ],
-    "vg": "2",
-    "lesson": 12,
-    "wk": true,
-    "ex": {
-      "no": "Hvordan føler du deg i dag?",
-      "de": "Wie fühlst du dich heute?"
-    }
-  },
-  {
     "id": "w12_glad_i",
     "no": "være glad i",
     "de": "gern haben, lieb haben",
@@ -1267,26 +1135,6 @@
       "de": "Matthias mag sowohl Museen als auch Parks."
     },
     "note": "glad i = gern haben (Menschen und Dinge); glad allein = froh."
-  },
-  {
-    "id": "w12_elske",
-    "no": "elske",
-    "de": "lieben",
-    "pos": "verb",
-    "vf": [
-      "elsker",
-      "elsket/elska",
-      "elsket/elska",
-      "elsk"
-    ],
-    "vg": "1",
-    "lesson": 12,
-    "wk": true,
-    "ex": {
-      "no": "Jonas elsker gamle skip.",
-      "de": "Jonas liebt alte Schiffe."
-    },
-    "note": "Auch für Dinge: Jeg elsker brunost."
   },
   {
     "id": "w12_forelsket",
@@ -1305,37 +1153,6 @@
       "de": "Sie ist in ihn verliebt."
     },
     "note": "forelsket i = verliebt in"
-  },
-  {
-    "id": "w12_sjalu",
-    "no": "sjalu",
-    "de": "eifersüchtig",
-    "pos": "adj",
-    "lesson": 12,
-    "wk": true,
-    "ex": {
-      "no": "Er du sjalu, Jonas?",
-      "de": "Bist du eifersüchtig, Jonas?"
-    },
-    "note": "sjalu på = eifersüchtig auf. Die Form bleibt meist unverändert: et sjalu blikk."
-  },
-  {
-    "id": "w12_sint",
-    "no": "sint",
-    "de": "wütend, böse",
-    "pos": "adj",
-    "forms": [
-      "sint",
-      "sint",
-      "sinte"
-    ],
-    "lesson": 12,
-    "wk": true,
-    "ex": {
-      "no": "Er du sint på meg?",
-      "de": "Bist du wütend auf mich?"
-    },
-    "note": "sint på = wütend auf"
   },
   {
     "id": "w12_lei_seg",
@@ -1364,27 +1181,6 @@
       "no": "Jonas er lei av regn.",
       "de": "Jonas hat den Regen satt."
     }
-  },
-  {
-    "id": "w12_redd",
-    "no": "redd",
-    "de": "ängstlich",
-    "deAlt": [
-      "Angst haben"
-    ],
-    "pos": "adj",
-    "forms": [
-      "redd",
-      "redd",
-      "redde"
-    ],
-    "lesson": 12,
-    "wk": true,
-    "ex": {
-      "no": "Er du redd for hunder?",
-      "de": "Hast du Angst vor Hunden?"
-    },
-    "note": "være redd for = Angst haben vor"
   },
   {
     "id": "w12_skuffet",
@@ -1442,24 +1238,6 @@
     }
   },
   {
-    "id": "w12_sur",
-    "no": "sur",
-    "de": "schlecht gelaunt; sauer",
-    "pos": "adj",
-    "forms": [
-      "sur",
-      "surt",
-      "sure"
-    ],
-    "lesson": 12,
-    "wk": true,
-    "ex": {
-      "no": "Ingen er sure etter kompromisset.",
-      "de": "Nach dem Kompromiss ist niemand sauer."
-    },
-    "note": "Wie dt. »sauer«: schlecht gelaunt – und sauer im Geschmack."
-  },
-  {
     "id": "w12_humor",
     "no": "humør",
     "de": "die Laune, die Stimmung",
@@ -1476,26 +1254,6 @@
       "de": "Jonas ist morgens schlecht gelaunt."
     },
     "note": "i godt / dårlig humør = gut / schlecht gelaunt"
-  },
-  {
-    "id": "w12_glede_seg",
-    "no": "glede seg",
-    "de": "sich freuen (auf)",
-    "pos": "verb",
-    "vf": [
-      "gleder seg",
-      "gledet seg",
-      "gledet seg",
-      "gled deg"
-    ],
-    "vg": "1",
-    "lesson": 12,
-    "wk": true,
-    "ex": {
-      "no": "Jeg gleder meg til søndag!",
-      "de": "Ich freue mich auf Sonntag!"
-    },
-    "note": "glede seg til = sich freuen auf; glad for = froh über."
   },
   {
     "id": "w12_grue_seg",
@@ -1516,25 +1274,6 @@
       "de": "Mir graut vor der Prüfung."
     },
     "note": "Das Gegenteil von glede seg; im Deutschen gibt es kein genaues Wort."
-  },
-  {
-    "id": "w12_savne",
-    "no": "savne",
-    "de": "vermissen",
-    "pos": "verb",
-    "vf": [
-      "savner",
-      "savnet/savna",
-      "savnet/savna",
-      "savn"
-    ],
-    "vg": "1",
-    "lesson": 12,
-    "wk": true,
-    "ex": {
-      "no": "Jeg savner deg.",
-      "de": "Ich vermisse dich."
-    }
   },
   {
     "id": "w12_bekymret",
@@ -1637,25 +1376,6 @@
     "note": "Auch »okei« geschrieben."
   },
   {
-    "id": "w12_daarlig",
-    "no": "dårlig",
-    "de": "schlecht",
-    "pos": "adj",
-    "forms": [
-      "dårlig",
-      "dårlig",
-      "dårlige",
-      "verre/dårligere",
-      "verst/dårligst"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Været blir enda verre i morgen.",
-      "de": "Das Wetter wird morgen noch schlechter."
-    },
-    "note": "dårlig – verre – verst (schlimmer, wenn es schon schlecht ist) oder dårligere – dårligst (weniger gut)."
-  },
-  {
     "id": "w12_ung",
     "no": "ung",
     "de": "jung",
@@ -1692,18 +1412,6 @@
     }
   },
   {
-    "id": "w12_mange",
-    "no": "mange",
-    "de": "viele",
-    "pos": "pron",
-    "lesson": 12,
-    "ex": {
-      "no": "De fleste turistene kommer om sommeren.",
-      "de": "Die meisten Touristen kommen im Sommer."
-    },
-    "note": "mange – flere – flest (zählbar); de fleste = die meisten."
-  },
-  {
     "id": "w12_faa_pron",
     "no": "få",
     "de": "wenige",
@@ -1726,24 +1434,6 @@
       "de": "Das Wetter wird morgen noch schlechter."
     },
     "note": "enda + Komparativ = noch …: enda bedre. Zeitlich »noch« heißt ennå: Han er ikke her ennå."
-  },
-  {
-    "id": "w12_bilde",
-    "no": "bilde",
-    "de": "das Bild",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "bilde",
-      "bildet",
-      "bilder",
-      "bildene"
-    ],
-    "lesson": 12,
-    "ex": {
-      "no": "Munchs mest kjente bilde heter «Skrik».",
-      "de": "Munchs bekanntestes Bild heißt „Der Schrei“."
-    }
   },
   {
     "id": "w12_for_konj",
@@ -1801,5 +1491,94 @@
       "no": "Matthias er verken sulten eller trøtt.",
       "de": "Matthias ist weder hungrig noch müde."
     }
+  },
+  {
+    "id": "w10_sentral",
+    "no": "sentral",
+    "de": "zentral",
+    "pos": "adj",
+    "forms": [
+      "sentral",
+      "sentralt",
+      "sentrale"
+    ],
+    "lesson": 12,
+    "wk": true,
+    "ex": {
+      "no": "Huset ligger sentralt.",
+      "de": "Das Haus liegt zentral."
+    }
+  },
+  {
+    "id": "w15_telle",
+    "no": "telle",
+    "de": "zählen",
+    "pos": "verb",
+    "vf": [
+      "teller",
+      "talte",
+      "talt",
+      "tell"
+    ],
+    "vg": "uregelm",
+    "lesson": 12,
+    "note": "Unregelmäßig: telle – talte – talt.",
+    "ex": {
+      "no": "Ola teller til ti før han begynner å lete.",
+      "de": "Ola zählt bis zehn, bevor er anfängt zu suchen."
+    }
+  },
+  {
+    "id": "w16_baade",
+    "no": "både",
+    "de": "sowohl (… als auch)",
+    "pos": "conj",
+    "lesson": 12,
+    "note": "både … og = sowohl … als auch",
+    "ex": {
+      "no": "Mange samer snakker både samisk og norsk.",
+      "de": "Viele Samen sprechen sowohl Samisch als auch Norwegisch."
+    }
+  },
+  {
+    "id": "w17_i_morgen_tidlig",
+    "no": "i morgen tidlig",
+    "de": "morgen früh",
+    "pos": "adv",
+    "lesson": 12,
+    "ex": {
+      "no": "Jeg ringer ham i morgen tidlig.",
+      "de": "Ich rufe ihn morgen früh an."
+    }
+  },
+  {
+    "id": "w18_tilbake",
+    "no": "tilbake",
+    "de": "zurück",
+    "pos": "adv",
+    "lesson": 12,
+    "ex": {
+      "no": "Sola kommer tilbake i midten av januar.",
+      "de": "Die Sonne kommt Mitte Januar zurück."
+    }
+  },
+  {
+    "id": "w20_glede_seg_til",
+    "no": "glede seg til",
+    "de": "sich freuen auf",
+    "pos": "verb",
+    "vf": [
+      "gleder seg til",
+      "gledet seg til",
+      "gledet seg til",
+      "gled deg til"
+    ],
+    "vg": "1",
+    "lesson": 12,
+    "ex": {
+      "no": "Jeg gleder meg til å se hytta.",
+      "de": "Ich freue mich darauf, die Hütte zu sehen."
+    },
+    "note": "glede seg til = sich auf etwas Kommendes freuen; glede seg over = sich über etwas freuen."
   }
 ]

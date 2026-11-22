@@ -1,19 +1,5 @@
 [
   {
-    "id": "w03_hallo",
-    "no": "hallo",
-    "de": "hallo (auch am Telefon)",
-    "deAlt": [
-      "hallo"
-    ],
-    "pos": "interj",
-    "lesson": 3,
-    "ex": {
-      "no": "Hallo, det er Anna.",
-      "de": "Hallo, hier ist Anna."
-    }
-  },
-  {
     "id": "w03_ringe",
     "no": "ringe",
     "de": "anrufen",
@@ -35,29 +21,6 @@
       "de": "Susanne ruft Anna an."
     },
     "note": "ringe til noen = jemanden anrufen."
-  },
-  {
-    "id": "w03_skje",
-    "no": "skje",
-    "de": "geschehen, passieren",
-    "deAlt": [
-      "geschehen",
-      "passieren",
-      "los sein"
-    ],
-    "pos": "verb",
-    "vf": [
-      "skjer",
-      "skjedde",
-      "skjedd",
-      ""
-    ],
-    "vg": "4",
-    "lesson": 3,
-    "ex": {
-      "no": "Hva skjer?",
-      "de": "Was gibt's? / Was ist los?"
-    }
   },
   {
     "id": "w03_lage",
@@ -121,27 +84,6 @@
     "ex": {
       "no": "Anna og Susanne handler i butikken.",
       "de": "Anna und Susanne kaufen im Laden ein."
-    }
-  },
-  {
-    "id": "w03_se",
-    "no": "se",
-    "de": "sehen",
-    "deAlt": [
-      "schauen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "ser",
-      "så",
-      "sett",
-      "se"
-    ],
-    "vg": "sterk",
-    "lesson": 3,
-    "ex": {
-      "no": "Se, her er fersk laks!",
-      "de": "Schau, hier gibt es frischen Lachs!"
     }
   },
   {
@@ -1256,24 +1198,6 @@
     "note": "Neutrum mit tt: søtt."
   },
   {
-    "id": "w03_lang",
-    "no": "lang",
-    "de": "lang",
-    "pos": "adj",
-    "forms": [
-      "lang",
-      "langt",
-      "lange",
-      "lengre",
-      "lengst"
-    ],
-    "lesson": 3,
-    "ex": {
-      "no": "Norge har en lang kyst.",
-      "de": "Norwegen hat eine lange Küste."
-    }
-  },
-  {
     "id": "w03_typisk",
     "no": "typisk",
     "de": "typisch",
@@ -1288,31 +1212,6 @@
       "no": "Fisk og poteter er typisk norsk.",
       "de": "Fisch und Kartoffeln sind typisch norwegisch."
     }
-  },
-  {
-    "id": "w03_hyggelig",
-    "no": "hyggelig",
-    "de": "nett, gemütlich, angenehm",
-    "deAlt": [
-      "nett",
-      "gemütlich",
-      "angenehm",
-      "freundlich"
-    ],
-    "pos": "adj",
-    "forms": [
-      "hyggelig",
-      "hyggelig",
-      "hyggelige",
-      "hyggeligere",
-      "hyggeligst"
-    ],
-    "lesson": 3,
-    "ex": {
-      "no": "Det er et hyggelig hotell.",
-      "de": "Das ist ein nettes Hotel."
-    },
-    "note": "Kein -t im Neutrum."
   },
   {
     "id": "w03_vanlig",
@@ -1399,17 +1298,6 @@
     }
   },
   {
-    "id": "w03_sammen",
-    "no": "sammen",
-    "de": "zusammen",
-    "pos": "adv",
-    "lesson": 3,
-    "ex": {
-      "no": "Vi lager middag sammen.",
-      "de": "Wir kochen zusammen."
-    }
-  },
-  {
     "id": "w03_kanskje",
     "no": "kanskje",
     "de": "vielleicht",
@@ -1456,21 +1344,6 @@
     "ex": {
       "no": "Nordmenn spiser middag tidlig.",
       "de": "Norweger essen früh zu Abend."
-    }
-  },
-  {
-    "id": "w03_der",
-    "no": "der",
-    "de": "da, dort",
-    "deAlt": [
-      "da",
-      "dort"
-    ],
-    "pos": "adv",
-    "lesson": 3,
-    "ex": {
-      "no": "Kniven er der, i skuffen.",
-      "de": "Das Messer ist da, in der Schublade."
     }
   },
   {
@@ -1746,29 +1619,6 @@
       "de": "Abgemacht ist abgemacht."
     },
     "note": "Avtale! = Abgemacht!"
-  },
-  {
-    "id": "w03_forsyne_seg",
-    "no": "forsyne seg",
-    "de": "sich bedienen",
-    "deAlt": [
-      "zugreifen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "forsyner seg",
-      "forsynte seg",
-      "forsynt seg",
-      "forsyn deg"
-    ],
-    "vg": "2",
-    "lesson": 3,
-    "wk": true,
-    "ex": {
-      "no": "Vær så god og forsyn dere!",
-      "de": "Bitte schön, greift zu!"
-    },
-    "note": "Zu mehreren: Forsyn dere!"
   },
   {
     "id": "w03_smake",
@@ -2092,5 +1942,94 @@
       "no": "Torunn spør om Matthias forstår.",
       "de": "Torunn fragt, ob Matthias versteht."
     }
+  },
+  {
+    "id": "w05_meg",
+    "no": "meg",
+    "de": "mich",
+    "deAlt": [
+      "mir"
+    ],
+    "pos": "pron",
+    "lesson": 3,
+    "ex": {
+      "no": "Kan du hjelpe meg?",
+      "de": "Kannst du mir helfen?"
+    }
+  },
+  {
+    "id": "w06_vaske",
+    "no": "vaske",
+    "de": "waschen",
+    "deAlt": [
+      "putzen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "vasker",
+      "vasket",
+      "vasket",
+      "vask"
+    ],
+    "vg": "1",
+    "lesson": 3,
+    "ex": {
+      "no": "Jonas vasker koppene.",
+      "de": "Jonas spült die Tassen."
+    },
+    "note": "Auch: putzen (vaske trappa = die Treppe putzen). vaske seg = sich waschen, vaske opp = abspülen."
+  },
+  {
+    "id": "w07_dette",
+    "no": "dette",
+    "de": "dieses; das",
+    "pos": "pron",
+    "lesson": 3,
+    "ex": {
+      "no": "Dette er Jonas.",
+      "de": "Das ist Jonas."
+    }
+  },
+  {
+    "id": "w07_tusen",
+    "no": "tusen",
+    "de": "tausend",
+    "pos": "num",
+    "lesson": 3,
+    "ex": {
+      "no": "Jeg ble født i to tusen og ett.",
+      "de": "Ich bin 2001 geboren."
+    },
+    "note": "Jahreszahlen ab 2000: to tusen og fem (2005). Auch: ett tusen (1000)."
+  },
+  {
+    "id": "w08_takk_for_maten",
+    "no": "takk for maten",
+    "de": "danke für das Essen",
+    "pos": "phrase",
+    "lesson": 3,
+    "wk": true,
+    "ex": {
+      "no": "Takk for maten, Kari!",
+      "de": "Danke für das Essen, Kari!"
+    },
+    "note": "Sagt man nach jeder Mahlzeit – auch zu Hause in der Familie."
+  },
+  {
+    "id": "w10_opp",
+    "no": "opp",
+    "de": "hinauf, herauf",
+    "deAlt": [
+      "hinauf",
+      "herauf",
+      "nach oben"
+    ],
+    "pos": "adv",
+    "lesson": 3,
+    "ex": {
+      "no": "Vi gikk opp på Fløyen.",
+      "de": "Wir gingen auf den Fløyen hinauf."
+    },
+    "note": "Richtung (wohin?). Ort: oppe."
   }
 ]

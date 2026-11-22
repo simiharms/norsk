@@ -105,23 +105,6 @@
     }
   },
   {
-    "id": "w21_egen",
-    "no": "egen",
-    "de": "eigen",
-    "pos": "adj",
-    "forms": [
-      "egen",
-      "eget",
-      "egne"
-    ],
-    "lesson": 20,
-    "ex": {
-      "no": "Matthias hadde med sitt eget papirkart.",
-      "de": "Matthias hatte seine eigene Papierkarte dabei."
-    },
-    "note": "Nach dem Possessiv im Singular ohne -e: min egen bil, mitt eget rom; Plural: mine egne barn."
-  },
-  {
     "id": "w21_gps",
     "no": "GPS",
     "de": "das Navi",
@@ -559,24 +542,6 @@
     }
   },
   {
-    "id": "w21_smil",
-    "no": "smil",
-    "de": "das Lächeln",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "smil",
-      "smilet",
-      "smil",
-      "smila/smilene"
-    ],
-    "lesson": 20,
-    "ex": {
-      "no": "Smilet hans sa mer enn tusen ord.",
-      "de": "Sein Lächeln sagte mehr als tausend Worte."
-    }
-  },
-  {
     "id": "w21_surre",
     "no": "surre",
     "de": "summen",
@@ -823,27 +788,6 @@
     }
   },
   {
-    "id": "w21_kant",
-    "no": "kant",
-    "de": "der Rand",
-    "deAlt": [
-      "die Kante"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "kant",
-      "kanten",
-      "kanter",
-      "kantene"
-    ],
-    "lesson": 20,
-    "ex": {
-      "no": "Ikke gå for nær kanten!",
-      "de": "Geh nicht zu nah an den Rand!"
-    }
-  },
-  {
     "id": "w21_lykke_til_videre",
     "no": "lykke til videre",
     "de": "alles Gute weiterhin",
@@ -872,65 +816,6 @@
     }
   },
   {
-    "id": "w21_motes",
-    "no": "møtes",
-    "de": "sich treffen",
-    "pos": "verb",
-    "vf": [
-      "møtes",
-      "møttes",
-      "møttes",
-      ""
-    ],
-    "vg": "2",
-    "lesson": 20,
-    "ex": {
-      "no": "Vi møtes på flyplassen klokka ti.",
-      "de": "Wir treffen uns um zehn am Flughafen."
-    },
-    "note": "Gegenseitige Bedeutung: einander treffen."
-  },
-  {
-    "id": "w21_sees",
-    "no": "sees",
-    "de": "sich sehen",
-    "pos": "verb",
-    "vf": [
-      "sees/ses",
-      "sås",
-      "setts",
-      ""
-    ],
-    "vg": "sterk",
-    "alt": [
-      "ses"
-    ],
-    "lesson": 20,
-    "ex": {
-      "no": "Vi sees på hytta i påsken!",
-      "de": "Wir sehen uns an Ostern auf der Hütte!"
-    },
-    "note": "Meist im Präsens: Vi sees! = Bis bald! Für andere Zeiten: se hverandre."
-  },
-  {
-    "id": "w21_treffes",
-    "no": "treffes",
-    "de": "sich treffen",
-    "pos": "verb",
-    "vf": [
-      "treffes",
-      "traffes",
-      "truffes",
-      ""
-    ],
-    "vg": "sterk",
-    "lesson": 20,
-    "ex": {
-      "no": "Når kan vi treffes igjen?",
-      "de": "Wann können wir uns wieder treffen?"
-    }
-  },
-  {
     "id": "w21_skilles",
     "no": "skilles",
     "de": "sich trennen",
@@ -951,20 +836,6 @@
       "de": "Sie trennten sich am nächsten Tag am Flughafen."
     },
     "note": "Für „sich scheiden lassen“ sagt man meist skille seg: De skilte seg i fjor."
-  },
-  {
-    "id": "w21_vi_hores",
-    "no": "vi høres",
-    "de": "wir hören voneinander",
-    "deAlt": [
-      "bis bald"
-    ],
-    "pos": "phrase",
-    "lesson": 20,
-    "ex": {
-      "no": "Ha det bra, vi høres!",
-      "de": "Mach's gut, wir hören voneinander!"
-    }
   },
   {
     "id": "w21_forerkort",
@@ -1237,17 +1108,6 @@
     }
   },
   {
-    "id": "w21_paa_egen_haand",
-    "no": "på egen hånd",
-    "de": "auf eigene Faust",
-    "pos": "phrase",
-    "lesson": 20,
-    "ex": {
-      "no": "Vi reiste rundt på egen hånd.",
-      "de": "Wir sind auf eigene Faust herumgereist."
-    }
-  },
-  {
     "id": "w21_for_egen_regning",
     "no": "for egen regning",
     "de": "auf eigene Kosten",
@@ -1341,17 +1201,6 @@
     "ex": {
       "no": "En forbipasserende viste oss veien.",
       "de": "Ein Passant zeigte uns den Weg."
-    }
-  },
-  {
-    "id": "w21_om_bord",
-    "no": "om bord",
-    "de": "an Bord",
-    "pos": "phrase",
-    "lesson": 20,
-    "ex": {
-      "no": "Vi gikk om bord på ferja i siste liten.",
-      "de": "Wir gingen in letzter Minute an Bord der Fähre."
     }
   },
   {
@@ -1793,21 +1642,6 @@
     }
   },
   {
-    "id": "w21_unna",
-    "no": "unna",
-    "de": "entfernt",
-    "deAlt": [
-      "weg",
-      "aus dem Weg"
-    ],
-    "pos": "adv",
-    "lesson": 20,
-    "ex": {
-      "no": "Fyret ligger ikke langt unna.",
-      "de": "Der Leuchtturm liegt nicht weit entfernt."
-    }
-  },
-  {
     "id": "w21_punkt",
     "no": "punkt",
     "de": "der Punkt",
@@ -2110,25 +1944,6 @@
     }
   },
   {
-    "id": "w20_folelse",
-    "no": "følelse",
-    "de": "das Gefühl",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "følelse",
-      "følelsen",
-      "følelser",
-      "følelsene"
-    ],
-    "note": "Von føle. Wörter auf -else sind maskulin.",
-    "lesson": 20,
-    "ex": {
-      "no": "Det var en god følelse.",
-      "de": "Es war ein gutes Gefühl."
-    }
-  },
-  {
     "id": "w20_kystvei",
     "no": "kystvei",
     "de": "die Küstenstraße",
@@ -2209,5 +2024,104 @@
       "de": "Die Straße hinunter zum Kai war schmal."
     },
     "note": "Auch en kai – kaien. legge fra kai = ablegen."
+  },
+  {
+    "id": "w20_for_seg_selv",
+    "no": "for seg selv",
+    "de": "für sich allein",
+    "deAlt": [
+      "abgelegen"
+    ],
+    "pos": "phrase",
+    "lesson": 20,
+    "ex": {
+      "no": "Hytta ligger helt for seg selv.",
+      "de": "Die Hütte liegt ganz für sich allein."
+    }
+  },
+  {
+    "id": "w20_ta_fram",
+    "no": "ta fram",
+    "de": "hervorholen",
+    "deAlt": [
+      "herausnehmen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "tar fram",
+      "tok fram",
+      "tatt fram",
+      "ta fram"
+    ],
+    "vg": "sterk",
+    "lesson": 20,
+    "ex": {
+      "no": "Han tok fram kartet.",
+      "de": "Er holte die Karte hervor."
+    }
+  },
+  {
+    "id": "w20_lade",
+    "no": "lade",
+    "de": "aufladen",
+    "deAlt": [
+      "laden"
+    ],
+    "pos": "verb",
+    "vf": [
+      "lader",
+      "ladet/ladde",
+      "ladet/ladd",
+      "lad"
+    ],
+    "vg": "1",
+    "lesson": 20,
+    "ex": {
+      "no": "Jeg må lade mobilen.",
+      "de": "Ich muss mein Handy aufladen."
+    }
+  },
+  {
+    "id": "w20_telefon",
+    "no": "telefon",
+    "de": "das Telefon",
+    "deAlt": [
+      "das Handy"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "telefon",
+      "telefonen",
+      "telefoner",
+      "telefonene"
+    ],
+    "lesson": 20,
+    "ex": {
+      "no": "Matthias sjekket værmeldingen på telefonen.",
+      "de": "Matthias schaute auf dem Handy nach dem Wetterbericht."
+    }
+  },
+  {
+    "id": "w21_snu",
+    "no": "snu",
+    "de": "umkehren",
+    "deAlt": [
+      "wenden",
+      "sich umdrehen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "snur",
+      "snudde",
+      "snudd",
+      "snu"
+    ],
+    "vg": "4",
+    "lesson": 20,
+    "ex": {
+      "no": "Vend i tide, det er ingen skam å snu.",
+      "de": "Kehr rechtzeitig um, es ist keine Schande umzukehren."
+    }
   }
 ]

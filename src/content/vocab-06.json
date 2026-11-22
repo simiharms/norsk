@@ -163,27 +163,6 @@
     }
   },
   {
-    "id": "w06_kollektiv",
-    "no": "kollektiv",
-    "de": "die Wohngemeinschaft",
-    "deAlt": [
-      "die WG"
-    ],
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "kollektiv",
-      "kollektivet",
-      "kollektiv",
-      "kollektiva/kollektivene"
-    ],
-    "lesson": 6,
-    "ex": {
-      "no": "Anna bor i et kollektiv på Kringsjå.",
-      "de": "Anna wohnt in einer WG in Kringsjå."
-    }
-  },
-  {
     "id": "w06_hviske",
     "no": "hviske",
     "de": "flüstern",
@@ -295,7 +274,9 @@
     "forms": [
       "liten",
       "lite",
-      "små"
+      "små",
+      "mindre",
+      "minst"
     ],
     "lesson": 6,
     "ex": {
@@ -689,27 +670,6 @@
     "note": "Endet auf -t: kein zweites -t im Neutrum (et perfekt sted)."
   },
   {
-    "id": "w06_nydelig",
-    "no": "nydelig",
-    "de": "köstlich",
-    "deAlt": [
-      "wunderbar",
-      "wunderschön"
-    ],
-    "pos": "adj",
-    "forms": [
-      "nydelig",
-      "nydelig",
-      "nydelige"
-    ],
-    "lesson": 6,
-    "ex": {
-      "no": "Kaka er nydelig!",
-      "de": "Der Kuchen ist köstlich!"
-    },
-    "note": "Für Essen (köstlich) und Aussehen (wunderschön)."
-  },
-  {
     "id": "w06_sykle",
     "no": "sykle",
     "de": "Fahrrad fahren",
@@ -843,32 +803,15 @@
     "forms": [
       "mild",
       "mildt",
-      "milde"
+      "milde",
+      "mildere",
+      "mildest"
     ],
     "lesson": 6,
     "ex": {
       "no": "Det er en mild kveld.",
       "de": "Es ist ein milder Abend."
     }
-  },
-  {
-    "id": "w06_kveld",
-    "no": "kveld",
-    "de": "der Abend",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "kveld",
-      "kvelden",
-      "kvelder",
-      "kveldene"
-    ],
-    "lesson": 6,
-    "ex": {
-      "no": "Om kvelden spiser vi på en restaurant.",
-      "de": "Am Abend essen wir in einem Restaurant."
-    },
-    "note": "om kvelden = am Abend; i kveld = heute Abend."
   },
   {
     "id": "w06_seilbaat",
@@ -1159,7 +1102,9 @@
     "gender": "m",
     "forms": [
       "sjokolade",
-      "sjokoladen"
+      "sjokoladen",
+      "sjokolader",
+      "sjokoladene"
     ],
     "lesson": 6,
     "ex": {
@@ -1340,22 +1285,6 @@
     "ex": {
       "no": "Jeg tar trikken hjem.",
       "de": "Ich nehme die Straßenbahn nach Hause."
-    }
-  },
-  {
-    "id": "w06_trott",
-    "no": "trøtt",
-    "de": "müde",
-    "pos": "adj",
-    "forms": [
-      "trøtt",
-      "trøtt",
-      "trøtte"
-    ],
-    "lesson": 6,
-    "ex": {
-      "no": "I dag er jeg trøtt.",
-      "de": "Heute bin ich müde."
     }
   },
   {
@@ -1827,22 +1756,6 @@
     "note": "sikker = sich sicher sein, gewiss; trygg = sicher vor Gefahr. Jeg er sikker på at … = Ich bin sicher, dass …"
   },
   {
-    "id": "w06_vaer",
-    "no": "vær",
-    "de": "das Wetter",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "vær",
-      "været"
-    ],
-    "lesson": 6,
-    "ex": {
-      "no": "Været er fint i dag.",
-      "de": "Das Wetter ist heute schön."
-    }
-  },
-  {
     "id": "w06_interessant",
     "no": "interessant",
     "de": "interessant",
@@ -1850,7 +1763,9 @@
     "forms": [
       "interessant",
       "interessant",
-      "interessante"
+      "interessante",
+      "mer interessant",
+      "mest interessant"
     ],
     "lesson": 6,
     "ex": {
@@ -1866,7 +1781,9 @@
     "forms": [
       "våt",
       "vått",
-      "våte"
+      "våte",
+      "våtere",
+      "våtest"
     ],
     "lesson": 6,
     "ex": {
@@ -1876,23 +1793,6 @@
     "note": "Neutrum mit -tt und kurzem Vokal: vått."
   },
   {
-    "id": "w06_mett",
-    "no": "mett",
-    "de": "satt",
-    "pos": "adj",
-    "forms": [
-      "mett",
-      "mett",
-      "mette"
-    ],
-    "lesson": 6,
-    "ex": {
-      "no": "Etter middagen er alle mette.",
-      "de": "Nach dem Abendessen sind alle satt."
-    },
-    "note": "Jeg er mett. = Ich bin satt."
-  },
-  {
     "id": "w05_dum",
     "no": "dum",
     "de": "dumm",
@@ -1900,7 +1800,9 @@
     "forms": [
       "dum",
       "dumt",
-      "dumme"
+      "dumme",
+      "dummere",
+      "dummest"
     ],
     "lesson": 6,
     "ex": {
@@ -1968,7 +1870,10 @@
       "no": "Henrik ser på TV.",
       "de": "Henrik sieht fern."
     },
-    "note": "på TV = im Fernsehen."
+    "note": "på TV = im Fernsehen.",
+    "alt": [
+      "TV"
+    ]
   },
   {
     "id": "w06_kam",
@@ -2008,46 +1913,196 @@
     }
   },
   {
-    "id": "w06_eie",
-    "no": "eie",
-    "de": "besitzen",
+    "id": "w07_som",
+    "no": "som",
+    "de": "der, die, das (Relativpronomen)",
     "deAlt": [
-      "haben"
+      "welcher",
+      "welche"
     ],
-    "pos": "verb",
-    "vf": [
-      "eier",
-      "eide",
-      "eid",
-      "ei"
-    ],
-    "vg": "3",
+    "pos": "pron",
     "lesson": 6,
     "ex": {
-      "no": "Familien eier en hytte.",
-      "de": "Die Familie besitzt eine Hütte."
+      "no": "Mannen som står der, heter Jonas.",
+      "de": "Der Mann, der dort steht, heißt Jonas."
+    },
+    "note": "Auch: wie (som et barn = wie ein Kind)."
+  },
+  {
+    "id": "w08_over",
+    "no": "over",
+    "de": "nach (bei der Uhrzeit); über",
+    "deAlt": [
+      "über",
+      "nach"
+    ],
+    "pos": "prep",
+    "lesson": 6,
+    "ex": {
+      "no": "Klokka er ti over sju.",
+      "de": "Es ist zehn nach sieben."
+    },
+    "note": "Bei der Uhrzeit: over = nach, på = vor."
+  },
+  {
+    "id": "w07_billett",
+    "no": "billett",
+    "de": "die Eintrittskarte, die Fahrkarte",
+    "deAlt": [
+      "die Karte",
+      "das Ticket"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "billett",
+      "billetten",
+      "billetter",
+      "billettene"
+    ],
+    "lesson": 6,
+    "ex": {
+      "no": "Susanne kjøpte billettene forrige uke.",
+      "de": "Susanne hat die Karten letzte Woche gekauft."
     }
   },
   {
-    "id": "w06_vaske",
-    "no": "vaske",
-    "de": "waschen",
+    "id": "w08_sitte",
+    "no": "sitte",
+    "de": "sitzen",
+    "pos": "verb",
+    "vf": [
+      "sitter",
+      "satt",
+      "sittet",
+      "sitt"
+    ],
+    "vg": "sterk",
+    "lesson": 6,
+    "ex": {
+      "no": "Vi satt ved bordet i tre timer.",
+      "de": "Wir saßen drei Stunden am Tisch."
+    }
+  },
+  {
+    "id": "w12_topp",
+    "no": "topp",
+    "de": "die Spitze, der Gipfel",
     "deAlt": [
-      "putzen"
+      "Spitze",
+      "Gipfel",
+      "oberstes Stockwerk"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "topp",
+      "toppen",
+      "topper",
+      "toppene"
+    ],
+    "lesson": 6,
+    "ex": {
+      "no": "Utsikten fra toppen er utrolig fin.",
+      "de": "Die Aussicht von oben ist unglaublich schön."
+    }
+  },
+  {
+    "id": "w16_kjempefin",
+    "no": "kjempefin",
+    "de": "super, prima, sehr schön",
+    "deAlt": [
+      "super",
+      "prima"
+    ],
+    "pos": "adj",
+    "forms": [
+      "kjempefin",
+      "kjempefint",
+      "kjempefine"
+    ],
+    "lesson": 6,
+    "note": "kjempe- verstärkt (umgangssprachlich): kjempebra, kjempestor. Jeg har det kjempefint = Mir geht es super.",
+    "ex": {
+      "no": "Jeg har det kjempefint i Tromsø!",
+      "de": "Mir geht es in Tromsø super!"
+    }
+  },
+  {
+    "id": "w19_se_paa",
+    "no": "se på",
+    "de": "zuschauen",
+    "deAlt": [
+      "anschauen",
+      "ansehen"
     ],
     "pos": "verb",
     "vf": [
-      "vasker",
-      "vasket",
-      "vasket",
-      "vask"
+      "ser på",
+      "så på",
+      "sett på",
+      "se på"
     ],
-    "vg": "1",
+    "vg": "sterk",
     "lesson": 6,
     "ex": {
-      "no": "Jonas vasker koppene.",
-      "de": "Jonas spült die Tassen."
+      "no": "Får jeg se på?",
+      "de": "Darf ich zuschauen?"
+    }
+  },
+  {
+    "id": "w19_brygge",
+    "no": "brygge",
+    "de": "der Kai",
+    "deAlt": [
+      "der Steg",
+      "das Speicherhaus am Wasser"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "brygge",
+      "brygga",
+      "brygger",
+      "bryggene"
+    ],
+    "lesson": 6,
+    "ex": {
+      "no": "Båten ligger ved brygga.",
+      "de": "Das Boot liegt am Kai."
     },
-    "note": "Auch: putzen (vaske trappa = die Treppe putzen). vaske seg = sich waschen, vaske opp = abspülen."
+    "note": "In Bergen und Trondheim heißen auch die alten Speicherhäuser am Wasser brygger."
+  },
+  {
+    "id": "w20_tett",
+    "no": "tett",
+    "de": "dicht",
+    "pos": "adj",
+    "forms": [
+      "tett",
+      "tett",
+      "tette"
+    ],
+    "lesson": 6,
+    "wk": true,
+    "ex": {
+      "no": "Det snødde så tett at vi ikke så noe.",
+      "de": "Es schneite so dicht, dass wir nichts sahen."
+    }
+  },
+  {
+    "id": "w22_gratulerer_med_dagen",
+    "no": "gratulerer med dagen",
+    "de": "herzlichen Glückwunsch",
+    "deAlt": [
+      "alles Gute zum Geburtstag"
+    ],
+    "pos": "phrase",
+    "lesson": 6,
+    "ex": {
+      "no": "Gratulerer med dagen, alle sammen!",
+      "de": "Herzlichen Glückwunsch, alle zusammen!"
+    },
+    "note": "Sagt man zum Geburtstag – und am 17. Mai zu allen."
   }
 ]

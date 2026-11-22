@@ -30,25 +30,6 @@
     }
   },
   {
-    "id": "w20_glede_seg_til",
-    "no": "glede seg til",
-    "de": "sich freuen auf",
-    "pos": "verb",
-    "vf": [
-      "gleder seg til",
-      "gledet seg til",
-      "gledet seg til",
-      "gled deg til"
-    ],
-    "vg": "1",
-    "lesson": 21,
-    "ex": {
-      "no": "Jeg gleder meg til å se hytta.",
-      "de": "Ich freue mich darauf, die Hütte zu sehen."
-    },
-    "note": "glede seg til = sich auf etwas Kommendes freuen; glede seg over = sich über etwas freuen."
-  },
-  {
     "id": "w20_klemme",
     "no": "klemme",
     "de": "(ein)klemmen",
@@ -129,31 +110,6 @@
     "ex": {
       "no": "Om sommeren vokser det blomster på torvtaket.",
       "de": "Im Sommer wachsen Blumen auf dem Grasdach."
-    }
-  },
-  {
-    "id": "w20_for_seg_selv",
-    "no": "for seg selv",
-    "de": "für sich allein",
-    "deAlt": [
-      "abgelegen"
-    ],
-    "pos": "phrase",
-    "lesson": 21,
-    "ex": {
-      "no": "Hytta ligger helt for seg selv.",
-      "de": "Die Hütte liegt ganz für sich allein."
-    }
-  },
-  {
-    "id": "w20_innlagt_vann",
-    "no": "innlagt vann",
-    "de": "fließendes Wasser",
-    "pos": "phrase",
-    "lesson": 21,
-    "ex": {
-      "no": "Mange gamle hytter har ikke innlagt vann.",
-      "de": "Viele alte Hütten haben kein fließendes Wasser."
     }
   },
   {
@@ -329,25 +285,6 @@
     }
   },
   {
-    "id": "w20_langrenn",
-    "no": "langrenn",
-    "de": "der Langlauf",
-    "deAlt": [
-      "der Skilanglauf"
-    ],
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "langrenn",
-      "langrennet"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "Per mener at langrenn er den eneste ekte skisporten.",
-      "de": "Per meint, Langlauf sei die einzige echte Skisportart."
-    }
-  },
-  {
     "id": "w20_paaskekrim",
     "no": "påskekrim",
     "de": "der Osterkrimi",
@@ -445,20 +382,6 @@
     }
   },
   {
-    "id": "w20_i_stedet_for",
-    "no": "i stedet for",
-    "de": "statt",
-    "deAlt": [
-      "anstatt"
-    ],
-    "pos": "prep",
-    "lesson": 21,
-    "ex": {
-      "no": "I stedet for å gå på ski leste hun.",
-      "de": "Statt Ski zu fahren, las sie."
-    }
-  },
-  {
     "id": "w20_noe_som_helst",
     "no": "noe som helst",
     "de": "überhaupt etwas",
@@ -470,29 +393,6 @@
     "ex": {
       "no": "Han sa ikke noe som helst.",
       "de": "Er sagte überhaupt nichts."
-    }
-  },
-  {
-    "id": "w20_melde",
-    "no": "melde",
-    "de": "ansagen",
-    "deAlt": [
-      "melden",
-      "vorhersagen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "melder",
-      "meldte",
-      "meldt",
-      "meld"
-    ],
-    "vg": "2",
-    "lesson": 21,
-    "wk": true,
-    "ex": {
-      "no": "Det er meldt sol hele påsken.",
-      "de": "Für die ganzen Ostertage ist Sonne angesagt."
     }
   },
   {
@@ -607,23 +507,6 @@
     }
   },
   {
-    "id": "w20_tett",
-    "no": "tett",
-    "de": "dicht",
-    "pos": "adj",
-    "forms": [
-      "tett",
-      "tett",
-      "tette"
-    ],
-    "lesson": 21,
-    "wk": true,
-    "ex": {
-      "no": "Det snødde så tett at vi ikke så noe.",
-      "de": "Es schneite so dicht, dass wir nichts sahen."
-    }
-  },
-  {
     "id": "w20_skispor",
     "no": "skispor",
     "de": "die Skispur",
@@ -642,27 +525,6 @@
     "ex": {
       "no": "Vi fulgte skisporet opp til toppen.",
       "de": "Wir folgten der Skispur bis zum Gipfel."
-    }
-  },
-  {
-    "id": "w20_ta_fram",
-    "no": "ta fram",
-    "de": "hervorholen",
-    "deAlt": [
-      "herausnehmen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "tar fram",
-      "tok fram",
-      "tatt fram",
-      "ta fram"
-    ],
-    "vg": "sterk",
-    "lesson": 21,
-    "ex": {
-      "no": "Han tok fram kartet.",
-      "de": "Er holte die Karte hervor."
     }
   },
   {
@@ -737,27 +599,6 @@
     "ex": {
       "no": "Kari var redd for at vi skulle gå oss vill.",
       "de": "Kari hatte Angst, dass wir uns verirren würden."
-    }
-  },
-  {
-    "id": "w20_gaa_seg_vill",
-    "no": "gå seg vill",
-    "de": "sich verirren",
-    "deAlt": [
-      "sich verlaufen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "går seg vill",
-      "gikk seg vill",
-      "gått seg vill",
-      "gå deg vill"
-    ],
-    "vg": "sterk",
-    "lesson": 21,
-    "ex": {
-      "no": "I tåka er det lett å gå seg vill.",
-      "de": "Im Nebel verirrt man sich leicht."
     }
   },
   {
@@ -930,27 +771,6 @@
     }
   },
   {
-    "id": "w20_lade",
-    "no": "lade",
-    "de": "aufladen",
-    "deAlt": [
-      "laden"
-    ],
-    "pos": "verb",
-    "vf": [
-      "lader",
-      "ladet/ladde",
-      "ladet/ladd",
-      "lad"
-    ],
-    "vg": "1",
-    "lesson": 21,
-    "ex": {
-      "no": "Jeg må lade mobilen.",
-      "de": "Ich muss mein Handy aufladen."
-    }
-  },
-  {
     "id": "w20_sitte_fast",
     "no": "sitte fast",
     "de": "feststecken",
@@ -1036,43 +856,6 @@
     }
   },
   {
-    "id": "w20_lek",
-    "no": "lek",
-    "de": "das Spiel",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "lek",
-      "leken",
-      "leker",
-      "lekene"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "For Bamse var alt bare en lek.",
-      "de": "Für Bamse war alles nur ein Spiel."
-    },
-    "note": "lek = freies Spiel (Kinder, Tiere); ein Spiel mit Regeln heißt spill."
-  },
-  {
-    "id": "w20_losning",
-    "no": "løsning",
-    "de": "die Lösung",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "løsning",
-      "løsningen/løsninga",
-      "løsninger",
-      "løsningene"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "Det var Matthias som fant løsningen.",
-      "de": "Matthias war es, der die Lösung fand."
-    }
-  },
-  {
     "id": "w20_granbar",
     "no": "granbar",
     "de": "die Fichtenzweige",
@@ -1133,29 +916,6 @@
     }
   },
   {
-    "id": "w20_slippe",
-    "no": "slippe",
-    "de": "loslassen",
-    "deAlt": [
-      "nicht müssen",
-      "davonkommen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "slipper",
-      "slapp",
-      "sluppet",
-      "slipp"
-    ],
-    "vg": "sterk",
-    "lesson": 21,
-    "ex": {
-      "no": "Da hadde vi sluppet å fryse.",
-      "de": "Dann hätten wir nicht frieren müssen."
-    },
-    "note": "slippe å gjøre noe = etwas nicht tun müssen"
-  },
-  {
     "id": "w20_det_gaar_an",
     "no": "det går an",
     "de": "es ist möglich",
@@ -1167,17 +927,6 @@
     "ex": {
       "no": "Det går an å ha det gøy uten mobil.",
       "de": "Man kann auch ohne Handy Spaß haben."
-    }
-  },
-  {
-    "id": "w20_skulle_onske",
-    "no": "jeg skulle ønske",
-    "de": "ich wünschte",
-    "pos": "phrase",
-    "lesson": 21,
-    "ex": {
-      "no": "Jeg skulle ønske at det var sommer.",
-      "de": "Ich wünschte, es wäre Sommer."
     }
   },
   {
@@ -1489,29 +1238,6 @@
     }
   },
   {
-    "id": "w20_gi_seg",
-    "no": "gi seg",
-    "de": "nachlassen",
-    "deAlt": [
-      "aufhören",
-      "aufgeben"
-    ],
-    "pos": "verb",
-    "vf": [
-      "gir seg",
-      "ga seg",
-      "gitt seg",
-      "gi deg"
-    ],
-    "vg": "sterk",
-    "lesson": 21,
-    "wk": true,
-    "ex": {
-      "no": "Uværet har gitt seg.",
-      "de": "Das Unwetter hat sich gelegt."
-    }
-  },
-  {
     "id": "w20_skjaertorsdag",
     "no": "skjærtorsdag",
     "de": "der Gründonnerstag",
@@ -1582,28 +1308,6 @@
       "no": "Toget ble plyndret om natta.",
       "de": "Der Zug wurde in der Nacht ausgeraubt."
     }
-  },
-  {
-    "id": "w20_nyhet",
-    "no": "nyhet",
-    "de": "die Nachricht",
-    "deAlt": [
-      "die Neuigkeit"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "nyhet",
-      "nyheten",
-      "nyheter",
-      "nyhetene"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "Har du hørt nyheten?",
-      "de": "Hast du die Neuigkeit gehört?"
-    },
-    "note": "nyhetene = die Nachrichten (im Fernsehen)"
   },
   {
     "id": "w20_reklame",
@@ -1778,42 +1482,6 @@
     }
   },
   {
-    "id": "w20_dromme_om",
-    "no": "drømme om",
-    "de": "träumen von",
-    "pos": "verb",
-    "vf": [
-      "drømmer om",
-      "drømte om",
-      "drømt om",
-      "drøm om"
-    ],
-    "vg": "2",
-    "lesson": 21,
-    "ex": {
-      "no": "Anna drømmer om å bli barnelege.",
-      "de": "Anna träumt davon, Kinderärztin zu werden."
-    }
-  },
-  {
-    "id": "w20_onsdag",
-    "no": "onsdag",
-    "de": "der Mittwoch",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "onsdag",
-      "onsdagen",
-      "onsdager",
-      "onsdagene"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "Anna og Susanne tok toget på onsdag.",
-      "de": "Anna und Susanne fuhren am Mittwoch mit dem Zug."
-    }
-  },
-  {
     "id": "w20_klippe",
     "no": "klippe",
     "de": "schneiden",
@@ -1891,60 +1559,6 @@
     "note": "Kurz für kriminalroman, kriminalhistorie; oft ohne Artikel: lese krim."
   },
   {
-    "id": "w20_telefon",
-    "no": "telefon",
-    "de": "das Telefon",
-    "deAlt": [
-      "das Handy"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "telefon",
-      "telefonen",
-      "telefoner",
-      "telefonene"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "Matthias sjekket værmeldingen på telefonen.",
-      "de": "Matthias schaute auf dem Handy nach dem Wetterbericht."
-    }
-  },
-  {
-    "id": "w20_internett",
-    "no": "internett",
-    "de": "das Internet",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "internett",
-      "internettet"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "På hytta var det ikke noe internett.",
-      "de": "In der Hütte gab es kein Internet."
-    }
-  },
-  {
-    "id": "w20_vill",
-    "no": "vill",
-    "de": "wild",
-    "pos": "adj",
-    "forms": [
-      "vill",
-      "vilt",
-      "ville"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "Bamse ble helt vill av glede i snøen.",
-      "de": "Bamse wurde im Schnee ganz wild vor Freude."
-    },
-    "note": "gå seg vill = sich verirren"
-  },
-  {
     "id": "w20_los",
     "no": "løs",
     "de": "los",
@@ -1962,48 +1576,6 @@
     "ex": {
       "no": "Etter en time kom bilen endelig løs.",
       "de": "Nach einer Stunde kam das Auto endlich frei."
-    }
-  },
-  {
-    "id": "w20_ferie",
-    "no": "ferie",
-    "de": "der Urlaub",
-    "deAlt": [
-      "die Ferien"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "ferie",
-      "ferien",
-      "ferier",
-      "feriene"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "Hvor skal dere på ferie i sommer?",
-      "de": "Wohin fahrt ihr diesen Sommer in den Urlaub?"
-    }
-  },
-  {
-    "id": "w20_papir",
-    "no": "papir",
-    "de": "das Papier",
-    "deAlt": [
-      "die Verpackung"
-    ],
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "papir",
-      "papiret",
-      "papirer",
-      "papirene"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "Han skrev telefonnummeret på et papir.",
-      "de": "Er schrieb die Telefonnummer auf einen Zettel."
     }
   },
   {
@@ -2025,20 +1597,6 @@
     }
   },
   {
-    "id": "w20_dessuten",
-    "no": "dessuten",
-    "de": "außerdem",
-    "deAlt": [
-      "zudem"
-    ],
-    "pos": "adv",
-    "lesson": 21,
-    "ex": {
-      "no": "Det var kaldt, og dessuten hadde vi ikke strøm.",
-      "de": "Es war kalt, und außerdem hatten wir keinen Strom."
-    }
-  },
-  {
     "id": "w20_lose",
     "no": "løse",
     "de": "lösen",
@@ -2055,57 +1613,6 @@
       "no": "Bestemor løste krimgåta før alle andre.",
       "de": "Oma löste das Krimirätsel vor allen anderen."
     }
-  },
-  {
-    "id": "w20_litteratur",
-    "no": "litteratur",
-    "de": "die Literatur",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "litteratur",
-      "litteraturen"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "Susanne studerer nordisk litteratur.",
-      "de": "Susanne studiert nordische Literatur."
-    }
-  },
-  {
-    "id": "w20_roman",
-    "no": "roman",
-    "de": "der Roman",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "roman",
-      "romanen",
-      "romaner",
-      "romanene"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "Kari leser en ny roman hver påske.",
-      "de": "Kari liest jedes Jahr zu Ostern einen neuen Roman."
-    }
-  },
-  {
-    "id": "w20_naerhet",
-    "no": "nærhet",
-    "de": "die Nähe",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "nærhet",
-      "nærheten"
-    ],
-    "ex": {
-      "no": "Det finnes ingen butikk i nærheten av hytta.",
-      "de": "In der Nähe der Hütte gibt es keinen Laden."
-    },
-    "note": "i nærheten (av) = in der Nähe (von).",
-    "lesson": 21
   },
   {
     "id": "w20_fortsette",
@@ -2160,22 +1667,6 @@
     "lesson": 21
   },
   {
-    "id": "w21_mot",
-    "no": "mot",
-    "de": "gegen",
-    "deAlt": [
-      "in Richtung",
-      "nach"
-    ],
-    "pos": "prep",
-    "ex": {
-      "no": "Vi dro av gårde mot en topp i nærheten.",
-      "de": "Wir brachen zu einem Gipfel in der Nähe auf."
-    },
-    "note": "Richtung: mot nord (nach Norden), mot Slottet (zum Schloss hin); Gegensatz: Norge mot Sverige.",
-    "lesson": 21
-  },
-  {
     "id": "w21_tykk",
     "no": "tykk",
     "de": "dick",
@@ -2192,24 +1683,6 @@
     }
   },
   {
-    "id": "w21_vind",
-    "no": "vind",
-    "de": "der Wind",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "vind",
-      "vinden",
-      "vinder",
-      "vindene"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "Ved tolvtiden økte vinden.",
-      "de": "Gegen zwölf nahm der Wind zu."
-    }
-  },
-  {
     "id": "w21_skam",
     "no": "skam",
     "de": "die Schande",
@@ -2223,74 +1696,6 @@
     "ex": {
       "no": "Det er ingen skam å snu.",
       "de": "Es ist keine Schande umzukehren."
-    }
-  },
-  {
-    "id": "w21_snu",
-    "no": "snu",
-    "de": "umkehren",
-    "deAlt": [
-      "wenden",
-      "sich umdrehen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "snur",
-      "snudde",
-      "snudd",
-      "snu"
-    ],
-    "vg": "4",
-    "lesson": 21,
-    "ex": {
-      "no": "Vend i tide, det er ingen skam å snu.",
-      "de": "Kehr rechtzeitig um, es ist keine Schande umzukehren."
-    }
-  },
-  {
-    "id": "w21_sliten",
-    "no": "sliten",
-    "de": "müde, erschöpft",
-    "pos": "adj",
-    "forms": [
-      "sliten",
-      "slitent",
-      "slitne"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "Etter turen var vi våte og slitne.",
-      "de": "Nach der Tour waren wir nass und müde."
-    }
-  },
-  {
-    "id": "w21_heldigvis",
-    "no": "heldigvis",
-    "de": "zum Glück",
-    "pos": "adv",
-    "lesson": 21,
-    "note": "Gegenteil: dessverre (leider).",
-    "ex": {
-      "no": "Heldigvis hadde Kari laget fårikål.",
-      "de": "Zum Glück hatte Kari Fårikål gekocht."
-    }
-  },
-  {
-    "id": "w21_meter",
-    "no": "meter",
-    "de": "der Meter",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "meter",
-      "meteren",
-      "meter",
-      "meterne"
-    ],
-    "lesson": 21,
-    "ex": {
-      "no": "Det lå nesten en meter nysnø rundt hytta.",
-      "de": "Um die Hütte lag fast ein Meter Neuschnee."
     }
   },
   {
@@ -2410,27 +1815,6 @@
     "lesson": 21
   },
   {
-    "id": "w21_forsyne_seg",
-    "no": "forsyne seg",
-    "de": "sich (vom Essen) nehmen",
-    "deAlt": [
-      "sich bedienen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "forsyner seg",
-      "forsynte seg",
-      "forsynt seg",
-      "forsyn deg"
-    ],
-    "vg": "2",
-    "ex": {
-      "no": "Forsyn dere, det er nok til alle!",
-      "de": "Nehmt euch, es ist genug für alle da!"
-    },
-    "lesson": 21
-  },
-  {
     "id": "w21_nedsnodd",
     "no": "nedsnødd",
     "de": "eingeschneit",
@@ -2445,27 +1829,6 @@
       "de": "Am Morgen war das Auto völlig eingeschneit."
     },
     "note": "Von snø ned (zuschneien): als Adjektiv die feste Zusammensetzung.",
-    "lesson": 21
-  },
-  {
-    "id": "w21_dekke",
-    "no": "dekke",
-    "de": "decken (Tisch)",
-    "deAlt": [
-      "bedecken"
-    ],
-    "pos": "verb",
-    "vf": [
-      "dekker",
-      "dekket/dekte",
-      "dekket/dekt",
-      "dekk"
-    ],
-    "vg": "1",
-    "ex": {
-      "no": "Kan du dekke bordet?",
-      "de": "Kannst du den Tisch decken?"
-    },
     "lesson": 21
   },
   {
@@ -2518,17 +1881,6 @@
       "de": "Alle sind schlafen gegangen."
     },
     "note": "gå til sengs = schlafen gehen; ligge til sengs = (krank) im Bett liegen.",
-    "lesson": 21
-  },
-  {
-    "id": "w21_til_bords",
-    "no": "til bords",
-    "de": "zu Tisch",
-    "pos": "phrase",
-    "ex": {
-      "no": "Vær så god, gå til bords!",
-      "de": "Bitte, kommt zu Tisch!"
-    },
     "lesson": 21
   },
   {
@@ -2596,60 +1948,6 @@
       "de": "Meine Füße sind eiskalt."
     },
     "note": "Unregelmäßiger Plural wie Fuß – Füße. til fots = zu Fuß.",
-    "lesson": 21
-  },
-  {
-    "id": "w21_tann",
-    "no": "tann",
-    "de": "der Zahn",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "tann",
-      "tanna",
-      "tenner",
-      "tennene"
-    ],
-    "ex": {
-      "no": "Ola pusser tennene før han legger seg.",
-      "de": "Ola putzt sich die Zähne, bevor er ins Bett geht."
-    },
-    "lesson": 21
-  },
-  {
-    "id": "w21_ku",
-    "no": "ku",
-    "de": "die Kuh",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "ku",
-      "kua",
-      "kyr/kuer",
-      "kyrne/kuene"
-    ],
-    "ex": {
-      "no": "Om sommeren går kyrne ute på fjellet.",
-      "de": "Im Sommer sind die Kühe draußen in den Bergen."
-    },
-    "lesson": 21
-  },
-  {
-    "id": "w21_kne",
-    "no": "kne",
-    "de": "das Knie",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "kne",
-      "kneet",
-      "knær",
-      "knærne"
-    ],
-    "ex": {
-      "no": "Bestemor har vondt i knærne.",
-      "de": "Oma tun die Knie weh."
-    },
     "lesson": 21
   },
   {
@@ -2769,29 +2067,6 @@
     "wk": true
   },
   {
-    "id": "w21_lag",
-    "no": "lag",
-    "de": "die Schicht",
-    "deAlt": [
-      "die Lage"
-    ],
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "lag",
-      "laget",
-      "lag",
-      "laga/lagene"
-    ],
-    "ex": {
-      "no": "Strø salt og pepper mellom lagene.",
-      "de": "Streu Salz und Pfeffer zwischen die Schichten."
-    },
-    "note": "Auch: die Mannschaft (et fotballag).",
-    "lesson": 21,
-    "wk": true
-  },
-  {
     "id": "w21_lagvis",
     "no": "lagvis",
     "de": "schichtweise",
@@ -2907,5 +2182,16 @@
     "note": "koke = in Wasser kochen; lage mat = Essen kochen (allgemein).",
     "lesson": 21,
     "wk": true
+  },
+  {
+    "id": "w23_daarlig_vaer",
+    "no": "det finnes ikke dårlig vær, bare dårlige klær",
+    "de": "es gibt kein schlechtes Wetter, nur schlechte Kleidung",
+    "pos": "phrase",
+    "lesson": 21,
+    "ex": {
+      "no": "Ta på deg regnjakka! Det finnes ikke dårlig vær, bare dårlige klær.",
+      "de": "Zieh die Regenjacke an! Es gibt kein schlechtes Wetter, nur schlechte Kleidung."
+    }
   }
 ]

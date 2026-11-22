@@ -426,24 +426,6 @@
     }
   },
   {
-    "id": "w02_dag",
-    "no": "dag",
-    "de": "der Tag",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "dag",
-      "dagen",
-      "dager",
-      "dagene"
-    ],
-    "lesson": 2,
-    "ex": {
-      "no": "En uke har sju dager.",
-      "de": "Eine Woche hat sieben Tage."
-    }
-  },
-  {
     "id": "w02_fredag",
     "no": "fredag",
     "de": "der Freitag",
@@ -863,28 +845,6 @@
     }
   },
   {
-    "id": "w02_god",
-    "no": "god",
-    "de": "gut",
-    "deAlt": [
-      "lecker"
-    ],
-    "pos": "adj",
-    "forms": [
-      "god",
-      "godt",
-      "gode",
-      "bedre",
-      "best"
-    ],
-    "lesson": 2,
-    "ex": {
-      "no": "Torunn er en god lærer.",
-      "de": "Torunn ist eine gute Lehrerin."
-    },
-    "note": "Bei Essen auch »lecker«: Kaka er god."
-  },
-  {
     "id": "w02_endelig",
     "no": "endelig",
     "de": "endlich",
@@ -1273,21 +1233,6 @@
       "no": "Vann koster null kroner.",
       "de": "Wasser kostet null Kronen."
     }
-  },
-  {
-    "id": "w02_en_tall",
-    "no": "en",
-    "de": "eins",
-    "alt": [
-      "ett"
-    ],
-    "pos": "num",
-    "lesson": 2,
-    "ex": {
-      "no": "Jeg har en bror.",
-      "de": "Ich habe einen Bruder."
-    },
-    "note": "Vor et-Wörtern: ett (ett glass, ett år)."
   },
   {
     "id": "w02_to",
@@ -1862,5 +1807,458 @@
       "de": "Morgen arbeite ich nicht."
     },
     "note": "i morgen = morgen; i dag = heute; i kveld = heute Abend."
+  },
+  {
+    "id": "w03_skje",
+    "no": "skje",
+    "de": "geschehen, passieren",
+    "deAlt": [
+      "geschehen",
+      "passieren",
+      "los sein"
+    ],
+    "pos": "verb",
+    "vf": [
+      "skjer",
+      "skjedde",
+      "skjedd",
+      ""
+    ],
+    "vg": "4",
+    "lesson": 2,
+    "ex": {
+      "no": "Hva skjer?",
+      "de": "Was gibt's? / Was ist los?"
+    }
+  },
+  {
+    "id": "w03_se",
+    "no": "se",
+    "de": "sehen",
+    "deAlt": [
+      "schauen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "ser",
+      "så",
+      "sett",
+      "se"
+    ],
+    "vg": "sterk",
+    "lesson": 2,
+    "ex": {
+      "no": "Se, her er fersk laks!",
+      "de": "Schau, hier gibt es frischen Lachs!"
+    }
+  },
+  {
+    "id": "w03_lang",
+    "no": "lang",
+    "de": "lang",
+    "pos": "adj",
+    "forms": [
+      "lang",
+      "langt",
+      "lange",
+      "lengre",
+      "lengst"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Norge har en lang kyst.",
+      "de": "Norwegen hat eine lange Küste."
+    }
+  },
+  {
+    "id": "w03_der",
+    "no": "der",
+    "de": "da, dort",
+    "deAlt": [
+      "da",
+      "dort"
+    ],
+    "pos": "adv",
+    "lesson": 2,
+    "ex": {
+      "no": "Kniven er der, i skuffen.",
+      "de": "Das Messer ist da, in der Schublade."
+    }
+  },
+  {
+    "id": "w04_hel",
+    "no": "hel",
+    "de": "ganz",
+    "pos": "adj",
+    "forms": [
+      "hel",
+      "helt",
+      "hele"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Jeg må jobbe hele helgen.",
+      "de": "Ich muss das ganze Wochenende arbeiten."
+    },
+    "note": "hele + bestimmte Form: hele dagen, hele helgen."
+  },
+  {
+    "id": "w04_lenge",
+    "no": "lenge",
+    "de": "lange",
+    "pos": "adv",
+    "lesson": 2,
+    "ex": {
+      "no": "Hvor lenge skal vi gå?",
+      "de": "Wie lange wandern wir?"
+    },
+    "note": "Nur für Zeit; „lang“ (Länge) = lang."
+  },
+  {
+    "id": "w04_kunne",
+    "no": "kunne",
+    "de": "können",
+    "pos": "verb",
+    "vf": [
+      "kan",
+      "kunne",
+      "kunnet",
+      ""
+    ],
+    "vg": "modal",
+    "lesson": 2,
+    "ex": {
+      "no": "Jeg kan ikke komme i morgen.",
+      "de": "Ich kann morgen nicht kommen."
+    }
+  },
+  {
+    "id": "w04_skulle",
+    "no": "skulle",
+    "de": "sollen",
+    "deAlt": [
+      "vorhaben",
+      "werden"
+    ],
+    "pos": "verb",
+    "vf": [
+      "skal",
+      "skulle",
+      "skullet",
+      ""
+    ],
+    "vg": "modal",
+    "lesson": 2,
+    "ex": {
+      "no": "I morgen skal jeg gå på tur.",
+      "de": "Morgen gehe ich wandern."
+    },
+    "note": "skal drückt meist einen Plan oder die Zukunft aus."
+  },
+  {
+    "id": "w05_natt",
+    "no": "natt",
+    "de": "die Nacht",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "natt",
+      "natta",
+      "netter",
+      "nettene"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Om natta er det mørkt.",
+      "de": "Nachts ist es dunkel."
+    },
+    "note": "om natta = nachts; Plural mit Umlaut: netter."
+  },
+  {
+    "id": "w05_passe",
+    "no": "passe",
+    "de": "passen",
+    "pos": "verb",
+    "vf": [
+      "passer",
+      "passet",
+      "passet",
+      "pass"
+    ],
+    "vg": "1",
+    "lesson": 2,
+    "wk": true,
+    "ex": {
+      "no": "Den passer fint!",
+      "de": "Die passt gut!"
+    },
+    "note": "passe = (in der Größe) passen. passe på = aufpassen."
+  },
+  {
+    "id": "w06_kveld",
+    "no": "kveld",
+    "de": "der Abend",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "kveld",
+      "kvelden",
+      "kvelder",
+      "kveldene"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Om kvelden spiser vi på en restaurant.",
+      "de": "Am Abend essen wir in einem Restaurant."
+    },
+    "note": "om kvelden = am Abend; i kveld = heute Abend."
+  },
+  {
+    "id": "w07_selv",
+    "no": "selv",
+    "de": "selbst",
+    "pos": "adv",
+    "lesson": 2,
+    "ex": {
+      "no": "Jeg bakte kaka selv.",
+      "de": "Ich habe den Kuchen selbst gebacken."
+    }
+  },
+  {
+    "id": "w07_takk_i_like_maate",
+    "no": "takk i like måte",
+    "de": "danke, gleichfalls",
+    "pos": "phrase",
+    "lesson": 2,
+    "wk": true,
+    "ex": {
+      "no": "God helg! – Takk i like måte!",
+      "de": "Schönes Wochenende! – Danke, gleichfalls!"
+    }
+  },
+  {
+    "id": "w07_sist",
+    "no": "sist",
+    "de": "letzte(r, s), zuletzt",
+    "pos": "adv",
+    "lesson": 2,
+    "wk": true,
+    "ex": {
+      "no": "Sist fredag kom jeg for sent til kurset.",
+      "de": "Letzten Freitag kam ich zu spät zum Kurs."
+    },
+    "note": "sist fredag = letzten Freitag (auch: forrige fredag). Takk for sist = Danke für das letzte Mal."
+  },
+  {
+    "id": "w08_ikke_saa_verst",
+    "no": "ikke så verst",
+    "de": "gar nicht so schlecht",
+    "pos": "phrase",
+    "lesson": 2,
+    "ex": {
+      "no": "Kaka var faktisk ikke så verst.",
+      "de": "Der Kuchen war tatsächlich gar nicht so schlecht."
+    },
+    "note": "Typisch norwegisches Understatement – oft ein Lob!"
+  },
+  {
+    "id": "w08_morgen",
+    "no": "morgen",
+    "de": "der Morgen",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "morgen",
+      "morgenen",
+      "morgener",
+      "morgenene"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Om morgenen drikker Per kaffe.",
+      "de": "Morgens trinkt Per Kaffee."
+    },
+    "note": "i morgen = morgen (Tag); om morgenen = morgens; i morges = heute früh"
+  },
+  {
+    "id": "w12_daarlig",
+    "no": "dårlig",
+    "de": "schlecht",
+    "pos": "adj",
+    "forms": [
+      "dårlig",
+      "dårlig",
+      "dårlige",
+      "verre/dårligere",
+      "verst/dårligst"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Været blir enda verre i morgen.",
+      "de": "Das Wetter wird morgen noch schlechter."
+    },
+    "note": "dårlig – verre – verst (schlimmer, wenn es schon schlecht ist) oder dårligere – dårligst (weniger gut)."
+  },
+  {
+    "id": "w10_fare",
+    "no": "fare",
+    "de": "fahren, eilen",
+    "deAlt": [
+      "fahren",
+      "eilen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "farer",
+      "for",
+      "fart",
+      "far"
+    ],
+    "vg": "sterk",
+    "lesson": 2,
+    "ex": {
+      "no": "Han for ut av døra.",
+      "de": "Er eilte zur Tür hinaus."
+    },
+    "note": "Eher schriftlich; im Alltag sagt man reise, kjøre oder dra."
+  },
+  {
+    "id": "w10_borte",
+    "no": "borte",
+    "de": "weg, verschwunden",
+    "deAlt": [
+      "weg",
+      "fort",
+      "verschwunden",
+      "drüben"
+    ],
+    "pos": "adv",
+    "lesson": 2,
+    "ex": {
+      "no": "Nøkkelen er borte!",
+      "de": "Der Schlüssel ist weg!"
+    },
+    "note": "Ort/Zustand (wo?). Richtung: bort."
+  },
+  {
+    "id": "w14_like_seg",
+    "no": "like seg",
+    "de": "sich wohlfühlen",
+    "pos": "verb",
+    "vf": [
+      "liker seg",
+      "likte seg",
+      "likt seg",
+      "lik deg"
+    ],
+    "vg": "2",
+    "lesson": 2,
+    "ex": {
+      "no": "Susanne kommer til å like seg i Tromsø.",
+      "de": "Susanne wird sich in Tromsø wohlfühlen."
+    }
+  },
+  {
+    "id": "w15_ingen",
+    "no": "ingen",
+    "de": "niemand; kein",
+    "deAlt": [
+      "niemand",
+      "kein",
+      "keine"
+    ],
+    "pos": "pron",
+    "lesson": 2,
+    "note": "ingen = ikke noen. Mit Hilfsverb: Jeg har ikke sett noen.",
+    "ex": {
+      "no": "Ingen klarer å være helt stille.",
+      "de": "Niemand schafft es, ganz leise zu sein."
+    }
+  },
+  {
+    "id": "w16_vi_sees",
+    "no": "vi sees",
+    "de": "wir sehen uns",
+    "alt": [
+      "vi ses"
+    ],
+    "pos": "phrase",
+    "lesson": 2,
+    "note": "Auch: vi ses. Feste Abschiedsformel.",
+    "ex": {
+      "no": "Ha det, vi sees i kveld!",
+      "de": "Tschüss, wir sehen uns heute Abend!"
+    }
+  },
+  {
+    "id": "w17_hele_tiden",
+    "no": "hele tiden",
+    "de": "die ganze Zeit",
+    "pos": "phrase",
+    "lesson": 2,
+    "ex": {
+      "no": "Professoren lo hele tiden.",
+      "de": "Der Professor lachte die ganze Zeit."
+    }
+  },
+  {
+    "id": "w18_saann",
+    "no": "sånn",
+    "de": "so ein, solch; so (Adverb, gesprochen)",
+    "pos": "pron",
+    "forms": [
+      "sånn",
+      "sånt",
+      "sånne"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Jeg har aldri spist noe sånt før.",
+      "de": "So etwas habe ich noch nie gegessen."
+    }
+  },
+  {
+    "id": "w18_i_like_maate",
+    "no": "i like måte",
+    "de": "gleichfalls",
+    "pos": "phrase",
+    "lesson": 2,
+    "ex": {
+      "no": "– God jul! – Takk, i like måte!",
+      "de": "– Frohe Weihnachten! – Danke, gleichfalls!"
+    }
+  },
+  {
+    "id": "w21_sees",
+    "no": "sees",
+    "de": "sich sehen",
+    "pos": "verb",
+    "vf": [
+      "sees/ses",
+      "sås",
+      "setts",
+      ""
+    ],
+    "vg": "sterk",
+    "alt": [
+      "ses"
+    ],
+    "lesson": 2,
+    "ex": {
+      "no": "Vi sees på hytta i påsken!",
+      "de": "Wir sehen uns an Ostern auf der Hütte!"
+    },
+    "note": "Meist im Präsens: Vi sees! = Bis bald! Für andere Zeiten: se hverandre."
+  },
+  {
+    "id": "w22_skaal_for",
+    "no": "skål for",
+    "de": "Prost auf",
+    "pos": "phrase",
+    "lesson": 2,
+    "ex": {
+      "no": "Skål for Norge!",
+      "de": "Prost auf Norwegen!"
+    }
   }
 ]

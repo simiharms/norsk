@@ -589,25 +589,6 @@
     }
   },
   {
-    "id": "w05_natt",
-    "no": "natt",
-    "de": "die Nacht",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "natt",
-      "natta",
-      "netter",
-      "nettene"
-    ],
-    "lesson": 5,
-    "ex": {
-      "no": "Om natta er det mørkt.",
-      "de": "Nachts ist es dunkel."
-    },
-    "note": "om natta = nachts; Plural mit Umlaut: netter."
-  },
-  {
     "id": "w05_sau",
     "no": "sau",
     "de": "das Schaf",
@@ -1154,26 +1135,6 @@
     "note": "Doppel-m vor der Endung: prøverommet (mehr dazu in Lektion 6)."
   },
   {
-    "id": "w05_passe",
-    "no": "passe",
-    "de": "passen",
-    "pos": "verb",
-    "vf": [
-      "passer",
-      "passet",
-      "passet",
-      "pass"
-    ],
-    "vg": "1",
-    "lesson": 5,
-    "wk": true,
-    "ex": {
-      "no": "Den passer fint!",
-      "de": "Die passt gut!"
-    },
-    "note": "passe = (in der Größe) passen. passe på = aufpassen."
-  },
-  {
     "id": "w05_farge",
     "no": "farge",
     "de": "die Farbe",
@@ -1378,29 +1339,6 @@
     }
   },
   {
-    "id": "w05_sende",
-    "no": "sende",
-    "de": "schicken",
-    "deAlt": [
-      "reichen",
-      "senden"
-    ],
-    "pos": "verb",
-    "vf": [
-      "sender",
-      "sendte",
-      "sendt",
-      "send"
-    ],
-    "vg": "2",
-    "lesson": 5,
-    "ex": {
-      "no": "Kan du sende meg brunosten?",
-      "de": "Kannst du mir den Braunkäse reichen?"
-    },
-    "note": "Bei Tisch: etwas reichen."
-  },
-  {
     "id": "w05_vaske_seg",
     "no": "vaske seg",
     "de": "sich waschen",
@@ -1488,22 +1426,6 @@
     "note": "ha fri = frei haben."
   },
   {
-    "id": "w05_rod",
-    "no": "rød",
-    "de": "rot",
-    "pos": "adj",
-    "forms": [
-      "rød",
-      "rødt",
-      "røde"
-    ],
-    "lesson": 5,
-    "ex": {
-      "no": "Familien har et rødt hus.",
-      "de": "Die Familie hat ein rotes Haus."
-    }
-  },
-  {
     "id": "w06_sykkel",
     "no": "sykkel",
     "de": "das Fahrrad",
@@ -1541,22 +1463,6 @@
     "ex": {
       "no": "Et pledd i sofaen er koselig.",
       "de": "Eine Wolldecke auf dem Sofa ist gemütlich."
-    }
-  },
-  {
-    "id": "w05_kald",
-    "no": "kald",
-    "de": "kalt",
-    "pos": "adj",
-    "forms": [
-      "kald",
-      "kaldt",
-      "kalde"
-    ],
-    "lesson": 5,
-    "ex": {
-      "no": "Det er kaldt i dag.",
-      "de": "Es ist kalt heute."
     }
   },
   {
@@ -1752,34 +1658,6 @@
     }
   },
   {
-    "id": "w05_meg",
-    "no": "meg",
-    "de": "mich",
-    "deAlt": [
-      "mir"
-    ],
-    "pos": "pron",
-    "lesson": 5,
-    "ex": {
-      "no": "Kan du hjelpe meg?",
-      "de": "Kannst du mir helfen?"
-    }
-  },
-  {
-    "id": "w05_deg",
-    "no": "deg",
-    "de": "dich",
-    "deAlt": [
-      "dir"
-    ],
-    "pos": "pron",
-    "lesson": 5,
-    "ex": {
-      "no": "Jeg ringer deg i kveld.",
-      "de": "Ich rufe dich heute Abend an."
-    }
-  },
-  {
     "id": "w05_ham",
     "no": "ham",
     "de": "ihn",
@@ -1835,14 +1713,62 @@
     }
   },
   {
-    "id": "w05_seg",
-    "no": "seg",
-    "de": "sich",
+    "id": "w07_hvilken",
+    "no": "hvilken",
+    "de": "welcher, welche, welches",
     "pos": "pron",
     "lesson": 5,
     "ex": {
-      "no": "Ola kler på seg.",
-      "de": "Ola zieht sich an."
-    }
+      "no": "Hvilken buss tar du?",
+      "de": "Welchen Bus nimmst du?"
+    },
+    "note": "hvilken (m/f), hvilket (n), hvilke (Plural)"
+  },
+  {
+    "id": "w10_sette",
+    "no": "sette",
+    "de": "setzen, stellen",
+    "deAlt": [
+      "setzen",
+      "stellen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "setter",
+      "satte",
+      "satt",
+      "sett"
+    ],
+    "vg": "uregelm",
+    "lesson": 5,
+    "ex": {
+      "no": "Vi satte sofaen i stua.",
+      "de": "Wir stellten das Sofa ins Wohnzimmer."
+    },
+    "note": "Nicht verwechseln: sitte – satt – sittet (sitzen)."
+  },
+  {
+    "id": "w10_ute",
+    "no": "ute",
+    "de": "draußen",
+    "pos": "adv",
+    "lesson": 5,
+    "ex": {
+      "no": "Det er kaldt ute.",
+      "de": "Draußen ist es kalt."
+    },
+    "note": "Ort (wo?). Richtung: ut."
+  },
+  {
+    "id": "w10_oppe",
+    "no": "oppe",
+    "de": "oben",
+    "pos": "adv",
+    "lesson": 5,
+    "ex": {
+      "no": "Matthias bor oppe.",
+      "de": "Matthias wohnt oben."
+    },
+    "note": "Ort (wo?). Richtung: opp."
   }
 ]

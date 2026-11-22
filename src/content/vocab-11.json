@@ -237,40 +237,6 @@
     }
   },
   {
-    "id": "w11_mild",
-    "no": "mild",
-    "de": "mild",
-    "pos": "adj",
-    "forms": [
-      "mild",
-      "mildt",
-      "milde",
-      "mildere",
-      "mildest"
-    ],
-    "lesson": 11,
-    "ex": {
-      "no": "Vinteren er mildere i Danmark enn i Norge.",
-      "de": "Der Winter ist in Dänemark milder als in Norwegen."
-    }
-  },
-  {
-    "id": "w11_sno",
-    "no": "snø",
-    "de": "der Schnee",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "snø",
-      "snøen"
-    ],
-    "lesson": 11,
-    "ex": {
-      "no": "Vi har ikke så mye snø som dere.",
-      "de": "Wir haben nicht so viel Schnee wie ihr."
-    }
-  },
-  {
     "id": "w11_skiloper",
     "no": "skiløper",
     "de": "der Skiläufer / die Skiläuferin",
@@ -305,25 +271,6 @@
       "no": "Matthias har kjøpt en kjempestor paraply.",
       "de": "Matthias hat sich einen riesigen Regenschirm gekauft."
     }
-  },
-  {
-    "id": "w11_hoy",
-    "no": "høy",
-    "de": "hoch",
-    "pos": "adj",
-    "forms": [
-      "høy",
-      "høyt",
-      "høye",
-      "høyere",
-      "høyest"
-    ],
-    "lesson": 11,
-    "ex": {
-      "no": "Fjellene i Sveits er høyere enn i Norge.",
-      "de": "Die Berge in der Schweiz sind höher als in Norwegen."
-    },
-    "note": "Regelmäßig: høyere, høyest – anders als hoch – höher. Auch: groß (von Menschen)."
   },
   {
     "id": "w11_oljefond",
@@ -604,18 +551,6 @@
     }
   },
   {
-    "id": "w11_heller",
-    "no": "heller",
-    "de": "lieber",
-    "pos": "adv",
-    "lesson": 11,
-    "ex": {
-      "no": "Da betaler jeg heller litt mer.",
-      "de": "Dann zahle ich lieber ein bisschen mehr."
-    },
-    "note": "gjerne – heller – helst = gern – lieber – am liebsten. Nach Verneinung auch »auch nicht«: Jeg heller ikke."
-  },
-  {
     "id": "w11_helst",
     "no": "helst",
     "de": "am liebsten",
@@ -727,24 +662,6 @@
     "note": "Ohne på heißt lure »reinlegen«: Du lurte meg! (Du hast mich reingelegt!)"
   },
   {
-    "id": "w11_staa_opp",
-    "no": "stå opp",
-    "de": "aufstehen",
-    "pos": "verb",
-    "vf": [
-      "står opp",
-      "sto opp/stod opp",
-      "stått opp",
-      "stå opp"
-    ],
-    "vg": "sterk",
-    "lesson": 11,
-    "ex": {
-      "no": "Mads står alltid opp tidligst.",
-      "de": "Mads steht immer am frühesten auf."
-    }
-  },
-  {
     "id": "w11_mulig",
     "no": "mulig",
     "de": "möglich",
@@ -839,30 +756,6 @@
     }
   },
   {
-    "id": "w11_fort_adv",
-    "no": "fort",
-    "de": "schnell",
-    "pos": "adv",
-    "lesson": 11,
-    "ex": {
-      "no": "Nordmenn går fortere på ski enn tyskere.",
-      "de": "Norweger laufen schneller Ski als Deutsche."
-    },
-    "note": "fort – fortere – fortest. Nur Adverb; das Adjektiv ist rask."
-  },
-  {
-    "id": "w11_ofte_adv",
-    "no": "ofte",
-    "de": "oft",
-    "pos": "adv",
-    "lesson": 11,
-    "ex": {
-      "no": "I Bergen regner det oftere enn i Oslo.",
-      "de": "In Bergen regnet es öfter als in Oslo."
-    },
-    "note": "ofte – oftere – oftest."
-  },
-  {
     "id": "w11_godt_adv",
     "no": "godt",
     "de": "gut (Adverb)",
@@ -885,18 +778,6 @@
       "de": "Mads trainiert wenig, aber Elin trainiert noch weniger."
     },
     "note": "lite – mindre – minst."
-  },
-  {
-    "id": "w11_gjerne_adv",
-    "no": "gjerne",
-    "de": "gern",
-    "pos": "adv",
-    "lesson": 11,
-    "ex": {
-      "no": "Jeg drikker gjerne te, heller kaffe, helst kakao.",
-      "de": "Ich trinke gern Tee, lieber Kaffee, am liebsten Kakao."
-    },
-    "note": "gjerne – heller – helst."
   },
   {
     "id": "w11_trene",
@@ -1099,24 +980,6 @@
     }
   },
   {
-    "id": "w11_t_bane",
-    "no": "T-bane",
-    "de": "die U-Bahn",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "T-bane",
-      "T-banen",
-      "T-baner",
-      "T-banene"
-    ],
-    "lesson": 11,
-    "ex": {
-      "no": "Vi tar T-banen til Nordmarka.",
-      "de": "Wir nehmen die U-Bahn in die Nordmarka."
-    }
-  },
-  {
     "id": "w11_skitur",
     "no": "skitur",
     "de": "die Skitour",
@@ -1289,7 +1152,9 @@
     "gender": "m",
     "forms": [
       "strøm",
-      "strømmen"
+      "strømmen",
+      "strømmer",
+      "strømmene"
     ],
     "lesson": 11,
     "wk": true,
@@ -1363,18 +1228,6 @@
     "ex": {
       "no": "Er frokosten inkludert i prisen?",
       "de": "Ist das Frühstück im Preis inbegriffen?"
-    }
-  },
-  {
-    "id": "w11_per",
-    "no": "per",
-    "de": "pro",
-    "pos": "prep",
-    "lesson": 11,
-    "wk": true,
-    "ex": {
-      "no": "Rommet koster ni hundre kroner per natt.",
-      "de": "Das Zimmer kostet neunhundert Kronen pro Nacht."
     }
   },
   {
@@ -1712,18 +1565,6 @@
     }
   },
   {
-    "id": "w12_mer",
-    "no": "mer",
-    "de": "mehr",
-    "pos": "adv",
-    "lesson": 11,
-    "ex": {
-      "no": "Det regner mer i Bergen enn i Oslo.",
-      "de": "In Bergen regnet es mehr als in Oslo."
-    },
-    "note": "mer + Adjektiv = Komparativ langer Adjektive."
-  },
-  {
     "id": "w12_mest",
     "no": "mest",
     "de": "am meisten",
@@ -1809,22 +1650,6 @@
     }
   },
   {
-    "id": "w12_perfekt",
-    "no": "perfekt",
-    "de": "perfekt",
-    "pos": "adj",
-    "forms": [
-      "perfekt",
-      "perfekt",
-      "perfekte"
-    ],
-    "lesson": 11,
-    "ex": {
-      "no": "Planen er perfekt.",
-      "de": "Der Plan ist perfekt."
-    }
-  },
-  {
     "id": "w12_goy",
     "no": "gøy",
     "de": "lustig, toll (es macht Spaß)",
@@ -1881,21 +1706,196 @@
     }
   },
   {
-    "id": "w12_interessant",
-    "no": "interessant",
-    "de": "interessant",
+    "id": "w12_diskutere",
+    "no": "diskutere",
+    "de": "diskutieren",
+    "pos": "verb",
+    "vf": [
+      "diskuterer",
+      "diskuterte",
+      "diskutert",
+      "diskuter"
+    ],
+    "vg": "2",
+    "lesson": 11,
+    "ex": {
+      "no": "De diskuterer hva de skal gjøre på søndag.",
+      "de": "Sie diskutieren, was sie am Sonntag machen sollen."
+    }
+  },
+  {
+    "id": "w12_foreslaa",
+    "no": "foreslå",
+    "de": "vorschlagen",
+    "pos": "verb",
+    "vf": [
+      "foreslår",
+      "foreslo",
+      "foreslått",
+      "foreslå"
+    ],
+    "vg": "sterk",
+    "lesson": 11,
+    "ex": {
+      "no": "Jeg foreslår at vi tar bussen.",
+      "de": "Ich schlage vor, dass wir den Bus nehmen."
+    }
+  },
+  {
+    "id": "w12_fodt",
+    "no": "født",
+    "de": "geboren",
     "pos": "adj",
     "forms": [
-      "interessant",
-      "interessant",
-      "interessante",
-      "mer interessant",
-      "mest interessant"
+      "født",
+      "født",
+      "fødte"
     ],
     "lesson": 11,
     "ex": {
-      "no": "Hvilket land er mest interessant?",
-      "de": "Welches Land ist am interessantesten?"
+      "no": "Munch ble født i 1863.",
+      "de": "Munch wurde 1863 geboren."
+    },
+    "note": "ble født = wurde geboren; Jeg er født i Freiburg = Ich bin in Freiburg geboren."
+  },
+  {
+    "id": "w12_elske",
+    "no": "elske",
+    "de": "lieben",
+    "pos": "verb",
+    "vf": [
+      "elsker",
+      "elsket/elska",
+      "elsket/elska",
+      "elsk"
+    ],
+    "vg": "1",
+    "lesson": 11,
+    "wk": true,
+    "ex": {
+      "no": "Jonas elsker gamle skip.",
+      "de": "Jonas liebt alte Schiffe."
+    },
+    "note": "Auch für Dinge: Jeg elsker brunost."
+  },
+  {
+    "id": "w10_seng",
+    "no": "seng",
+    "de": "das Bett",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "seng",
+      "senga",
+      "senger",
+      "sengene"
+    ],
+    "lesson": 11,
+    "wk": true,
+    "ex": {
+      "no": "Senga står på soverommet.",
+      "de": "Das Bett steht im Schlafzimmer."
+    }
+  },
+  {
+    "id": "w10_bort",
+    "no": "bort",
+    "de": "weg, fort",
+    "deAlt": [
+      "weg",
+      "fort",
+      "hinüber"
+    ],
+    "pos": "adv",
+    "lesson": 11,
+    "ex": {
+      "no": "Paraplyen blåste bort.",
+      "de": "Der Regenschirm wurde weggeweht."
+    },
+    "note": "Richtung (wohin?). Ort: borte."
+  },
+  {
+    "id": "w16_omtrent",
+    "no": "omtrent",
+    "de": "ungefähr, etwa",
+    "deAlt": [
+      "ungefähr",
+      "etwa"
+    ],
+    "pos": "adv",
+    "lesson": 11,
+    "ex": {
+      "no": "Omtrent ni av ti elever har bokmål som hovedmål.",
+      "de": "Etwa neun von zehn Schülern haben Bokmål als Hauptsprache."
+    }
+  },
+  {
+    "id": "w19_bestemme",
+    "no": "bestemme",
+    "de": "bestimmen",
+    "deAlt": [
+      "entscheiden"
+    ],
+    "pos": "verb",
+    "vf": [
+      "bestemmer",
+      "bestemte",
+      "bestemt",
+      "bestem"
+    ],
+    "vg": "2",
+    "lesson": 11,
+    "ex": {
+      "no": "Det er ikke jeg som bestemmer.",
+      "de": "Ich bin es nicht, die das entscheidet."
+    }
+  },
+  {
+    "id": "w19_plan",
+    "no": "plan",
+    "de": "der Plan",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "plan",
+      "planen",
+      "planer",
+      "planene"
+    ],
+    "lesson": 11,
+    "ex": {
+      "no": "Matthias har ingen planer for påsken.",
+      "de": "Matthias hat für Ostern keine Pläne."
+    }
+  },
+  {
+    "id": "w19_flere",
+    "no": "flere",
+    "de": "mehrere",
+    "deAlt": [
+      "mehr"
+    ],
+    "pos": "pron",
+    "lesson": 11,
+    "ex": {
+      "no": "Kirken har brent flere ganger.",
+      "de": "Die Kirche hat mehrmals gebrannt."
+    },
+    "note": "Komparativ von mange: mange – flere – flest. Det er ikke plass til flere = Es ist kein Platz für mehr."
+  },
+  {
+    "id": "w21_unna",
+    "no": "unna",
+    "de": "entfernt",
+    "deAlt": [
+      "weg",
+      "aus dem Weg"
+    ],
+    "pos": "adv",
+    "lesson": 11,
+    "ex": {
+      "no": "Fyret ligger ikke langt unna.",
+      "de": "Der Leuchtturm liegt nicht weit entfernt."
     }
   }
 ]

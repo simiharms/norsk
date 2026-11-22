@@ -193,24 +193,6 @@
     "note": "flink til = gut in: Han er flink til å synge."
   },
   {
-    "id": "w07_hente",
-    "no": "hente",
-    "de": "holen, abholen",
-    "pos": "verb",
-    "vf": [
-      "henter",
-      "hentet",
-      "hentet",
-      "hent"
-    ],
-    "vg": "1",
-    "lesson": 7,
-    "ex": {
-      "no": "Jonas henter kaffe til alle.",
-      "de": "Jonas holt Kaffee für alle."
-    }
-  },
-  {
     "id": "w07_ko",
     "no": "kø",
     "de": "die (Warte-)Schlange",
@@ -645,17 +627,6 @@
     "note": "spandere noe på noen = jemandem etwas spendieren"
   },
   {
-    "id": "w07_sent",
-    "no": "sent",
-    "de": "spät",
-    "pos": "adv",
-    "lesson": 7,
-    "ex": {
-      "no": "Det er sent. Vi må gå hjem.",
-      "de": "Es ist spät. Wir müssen nach Hause gehen."
-    }
-  },
-  {
     "id": "w07_like_ved",
     "no": "like ved",
     "de": "ganz in der Nähe von",
@@ -864,17 +835,6 @@
     }
   },
   {
-    "id": "w07_selv",
-    "no": "selv",
-    "de": "selbst",
-    "pos": "adv",
-    "lesson": 7,
-    "ex": {
-      "no": "Jeg bakte kaka selv.",
-      "de": "Ich habe den Kuchen selbst gebacken."
-    }
-  },
-  {
     "id": "w07_foran",
     "no": "foran",
     "de": "vor (räumlich)",
@@ -904,35 +864,6 @@
     }
   },
   {
-    "id": "w07_verden",
-    "no": "verden",
-    "de": "die Welt",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "verden",
-      "verden"
-    ],
-    "lesson": 7,
-    "ex": {
-      "no": "Ibsen er kjent over hele verden.",
-      "de": "Ibsen ist auf der ganzen Welt bekannt."
-    },
-    "note": "Die bestimmte Form hat keine Endung: verden = die Welt."
-  },
-  {
-    "id": "w07_hvilken",
-    "no": "hvilken",
-    "de": "welcher, welche, welches",
-    "pos": "pron",
-    "lesson": 7,
-    "ex": {
-      "no": "Hvilken buss tar du?",
-      "de": "Welchen Bus nimmst du?"
-    },
-    "note": "hvilken (m/f), hvilket (n), hvilke (Plural)"
-  },
-  {
     "id": "w07_denne",
     "no": "denne",
     "de": "dieser, diese",
@@ -945,17 +876,6 @@
     "note": "denne (m/f), dette (n), disse (Pl.) + bestimmte Form"
   },
   {
-    "id": "w07_dette",
-    "no": "dette",
-    "de": "dieses; das",
-    "pos": "pron",
-    "lesson": 7,
-    "ex": {
-      "no": "Dette er Jonas.",
-      "de": "Das ist Jonas."
-    }
-  },
-  {
     "id": "w07_disse",
     "no": "disse",
     "de": "diese (Plural)",
@@ -965,60 +885,6 @@
       "no": "Disse billettene er dyre.",
       "de": "Diese Karten sind teuer."
     }
-  },
-  {
-    "id": "w07_som",
-    "no": "som",
-    "de": "der, die, das (Relativpronomen)",
-    "deAlt": [
-      "welcher",
-      "welche"
-    ],
-    "pos": "pron",
-    "lesson": 7,
-    "ex": {
-      "no": "Mannen som står der, heter Jonas.",
-      "de": "Der Mann, der dort steht, heißt Jonas."
-    },
-    "note": "Auch: wie (som et barn = wie ein Kind)."
-  },
-  {
-    "id": "w07_kjenne",
-    "no": "kjenne",
-    "de": "kennen",
-    "pos": "verb",
-    "vf": [
-      "kjenner",
-      "kjente",
-      "kjent",
-      "kjenn"
-    ],
-    "vg": "2",
-    "lesson": 7,
-    "ex": {
-      "no": "Jeg kjenner en god pizzarestaurant.",
-      "de": "Ich kenne eine gute Pizzeria."
-    },
-    "note": "kjenne = Personen und Orte kennen; vite = wissen."
-  },
-  {
-    "id": "w08_klokke",
-    "no": "klokke",
-    "de": "die Uhr",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "klokke",
-      "klokka/klokken",
-      "klokker",
-      "klokkene"
-    ],
-    "lesson": 7,
-    "ex": {
-      "no": "Hvor mye er klokka?",
-      "de": "Wie spät ist es?"
-    },
-    "note": "Bei der Uhrzeit: klokka fem = um fünf (Uhr) – ohne Präposition."
   },
   {
     "id": "w08_kvart_over",
@@ -1048,22 +914,6 @@
       "de": "Das Stück fing um halb acht an."
     },
     "note": "halv åtte = halb acht (7.30), wie im Deutschen. en halv time = eine halbe Stunde."
-  },
-  {
-    "id": "w08_over",
-    "no": "over",
-    "de": "nach (bei der Uhrzeit); über",
-    "deAlt": [
-      "über",
-      "nach"
-    ],
-    "pos": "prep",
-    "lesson": 7,
-    "ex": {
-      "no": "Klokka er ti over sju.",
-      "de": "Es ist zehn nach sieben."
-    },
-    "note": "Bei der Uhrzeit: over = nach, på = vor."
   },
   {
     "id": "w08_halvtime",
@@ -1103,24 +953,6 @@
     }
   },
   {
-    "id": "w08_begynne",
-    "no": "begynne",
-    "de": "anfangen, beginnen",
-    "pos": "verb",
-    "vf": [
-      "begynner",
-      "begynte",
-      "begynt",
-      "begynn"
-    ],
-    "vg": "2",
-    "lesson": 7,
-    "ex": {
-      "no": "Stykket begynner halv åtte.",
-      "de": "Das Stück beginnt um halb acht."
-    }
-  },
-  {
     "id": "w07_kvart_paa",
     "no": "kvart på",
     "de": "Viertel vor",
@@ -1131,18 +963,6 @@
       "de": "Die Pause beginnt um Viertel vor neun."
     },
     "note": "Bei der Uhrzeit: på = vor, over = nach."
-  },
-  {
-    "id": "w07_tusen",
-    "no": "tusen",
-    "de": "tausend",
-    "pos": "num",
-    "lesson": 7,
-    "ex": {
-      "no": "Jeg ble født i to tusen og ett.",
-      "de": "Ich bin 2001 geboren."
-    },
-    "note": "Jahreszahlen ab 2000: to tusen og fem (2005). Auch: ett tusen (1000)."
   },
   {
     "id": "w07_aarhundre",
@@ -1203,28 +1023,6 @@
       "de": "Letzte Woche hat Susanne Theaterkarten gekauft."
     },
     "note": "Unveränderlich und ohne Artikel: forrige uke, forrige år."
-  },
-  {
-    "id": "w07_billett",
-    "no": "billett",
-    "de": "die Eintrittskarte, die Fahrkarte",
-    "deAlt": [
-      "die Karte",
-      "das Ticket"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "billett",
-      "billetten",
-      "billetter",
-      "billettene"
-    ],
-    "lesson": 7,
-    "ex": {
-      "no": "Susanne kjøpte billettene forrige uke.",
-      "de": "Susanne hat die Karten letzte Woche gekauft."
-    }
   },
   {
     "id": "w07_i_fjor",
@@ -1335,42 +1133,6 @@
       "de": "Wie findest du das Stück?"
     },
     "note": "Präsens = Infinitiv: jeg synes, du synes. Präteritum: syntes."
-  },
-  {
-    "id": "w07_skrive",
-    "no": "skrive",
-    "de": "schreiben",
-    "pos": "verb",
-    "vf": [
-      "skriver",
-      "skrev",
-      "skrevet",
-      "skriv"
-    ],
-    "vg": "sterk",
-    "lesson": 7,
-    "ex": {
-      "no": "Ibsen skrev «Et dukkehjem» i 1879.",
-      "de": "Ibsen schrieb »Et dukkehjem« 1879."
-    }
-  },
-  {
-    "id": "w07_kald",
-    "no": "kald",
-    "de": "kalt",
-    "pos": "adj",
-    "forms": [
-      "kald",
-      "kaldt",
-      "kalde",
-      "kaldere",
-      "kaldest"
-    ],
-    "lesson": 7,
-    "ex": {
-      "no": "Kaffen blir kald.",
-      "de": "Der Kaffee wird kalt."
-    }
   },
   {
     "id": "w07_inn",
@@ -1613,18 +1375,6 @@
     "note": "Antwort auf »Takk for sist« oder »Takk for i dag«."
   },
   {
-    "id": "w07_takk_i_like_maate",
-    "no": "takk i like måte",
-    "de": "danke, gleichfalls",
-    "pos": "phrase",
-    "lesson": 7,
-    "wk": true,
-    "ex": {
-      "no": "God helg! – Takk i like måte!",
-      "de": "Schönes Wochenende! – Danke, gleichfalls!"
-    }
-  },
-  {
     "id": "w07_ingen_aarsak",
     "no": "ingen årsak",
     "de": "keine Ursache",
@@ -1759,16 +1509,101 @@
     }
   },
   {
-    "id": "w07_sist",
-    "no": "sist",
-    "de": "letzte(r, s), zuletzt",
+    "id": "w08_fort",
+    "no": "fort",
+    "de": "schnell",
     "pos": "adv",
     "lesson": 7,
-    "wk": true,
     "ex": {
-      "no": "Sist fredag kom jeg for sent til kurset.",
-      "de": "Letzten Freitag kam ich zu spät zum Kurs."
+      "no": "Tiden gikk så fort!",
+      "de": "Die Zeit verging so schnell!"
+    }
+  },
+  {
+    "id": "w08_nesten",
+    "no": "nesten",
+    "de": "fast, beinahe",
+    "pos": "adv",
+    "lesson": 7,
+    "ex": {
+      "no": "De satt ved bordet i nesten tre timer.",
+      "de": "Sie saßen fast drei Stunden am Tisch."
+    }
+  },
+  {
+    "id": "w11_forste",
+    "no": "første",
+    "de": "erste",
+    "pos": "num",
+    "lesson": 7,
+    "ex": {
+      "no": "Matthias begynte i jobben den første oktober.",
+      "de": "Matthias hat am ersten Oktober in der Stelle angefangen."
+    }
+  },
+  {
+    "id": "w10_ut",
+    "no": "ut",
+    "de": "hinaus, heraus",
+    "deAlt": [
+      "hinaus",
+      "heraus",
+      "raus"
+    ],
+    "pos": "adv",
+    "lesson": 7,
+    "ex": {
+      "no": "Vi går ut i regnet.",
+      "de": "Wir gehen hinaus in den Regen."
     },
-    "note": "sist fredag = letzten Freitag (auch: forrige fredag). Takk for sist = Danke für das letzte Mal."
+    "note": "Richtung (wohin?). Ort: ute."
+  },
+  {
+    "id": "w14_fru",
+    "no": "fru",
+    "de": "Frau (vor dem Namen)",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "fru",
+      "frua",
+      "fruer",
+      "fruene"
+    ],
+    "lesson": 7,
+    "ex": {
+      "no": "Fru Solheim bor nede.",
+      "de": "Frau Solheim wohnt unten."
+    },
+    "note": "Als Anrede heute selten; man duzt und nennt meist den Vornamen."
+  },
+  {
+    "id": "w17_i_fjor",
+    "no": "i fjor",
+    "de": "letztes Jahr",
+    "pos": "adv",
+    "lesson": 7,
+    "ex": {
+      "no": "I fjor var Inga forelsket i en fyr fra Bodø.",
+      "de": "Letztes Jahr war Inga in einen Typen aus Bodø verliebt."
+    }
+  },
+  {
+    "id": "w23_staa_opp",
+    "no": "stå opp",
+    "de": "aufstehen",
+    "pos": "verb",
+    "vf": [
+      "står opp",
+      "sto/stod opp",
+      "stått opp",
+      "stå opp"
+    ],
+    "vg": "sterk",
+    "lesson": 7,
+    "ex": {
+      "no": "I går sto Matthias opp klokka fire.",
+      "de": "Gestern stand Matthias um vier Uhr auf."
+    }
   }
 ]

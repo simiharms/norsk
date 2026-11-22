@@ -1,42 +1,5 @@
 [
   {
-    "id": "w18_jul",
-    "no": "jul",
-    "de": "das Weihnachten, das Weihnachtsfest",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "jul",
-      "jula/julen",
-      "juler",
-      "julene"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "Hvor skal du feire jul?",
-      "de": "Wo feierst du Weihnachten?"
-    },
-    "note": "i jula = an Weihnachten; til jul = zu/bis Weihnachten"
-  },
-  {
-    "id": "w18_julaften",
-    "no": "julaften",
-    "de": "der Heiligabend",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "julaften",
-      "julaftenen",
-      "julaftener",
-      "julaftenene"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "På julaften åpner vi gavene etter middagen.",
-      "de": "An Heiligabend öffnen wir die Geschenke nach dem Abendessen."
-    }
-  },
-  {
     "id": "w18_lille_julaften",
     "no": "lille julaften",
     "de": "der 23. Dezember",
@@ -240,60 +203,6 @@
     "ex": {
       "no": "Juletreet ble pyntet på lille julaften.",
       "de": "Der Weihnachtsbaum wurde am 23. Dezember geschmückt."
-    }
-  },
-  {
-    "id": "w18_julenisse",
-    "no": "julenisse",
-    "de": "der Weihnachtsmann",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "julenisse",
-      "julenissen",
-      "julenisser",
-      "julenissene"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "Julenissen kommer etter middagen.",
-      "de": "Der Weihnachtsmann kommt nach dem Abendessen."
-    }
-  },
-  {
-    "id": "w18_nisse",
-    "no": "nisse",
-    "de": "der Wichtel; der Weihnachtsmann",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "nisse",
-      "nissen",
-      "nisser",
-      "nissene"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "Det finnes mange nisser i norske hjem.",
-      "de": "In norwegischen Häusern gibt es viele Wichtel."
-    }
-  },
-  {
-    "id": "w18_fjosnisse",
-    "no": "fjøsnisse",
-    "de": "der Stallwichtel",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "fjøsnisse",
-      "fjøsnissen",
-      "fjøsnisser",
-      "fjøsnissene"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "Fjøsnissen vil ha grøt med smør på julaften.",
-      "de": "Der Stallwichtel will an Heiligabend Brei mit Butter."
     }
   },
   {
@@ -572,40 +481,6 @@
     "note": "hva slags = was für ein"
   },
   {
-    "id": "w18_grot",
-    "no": "grøt",
-    "de": "der Brei",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "grøt",
-      "grøten"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "Til lunsj på julaften spiser mange risengrynsgrøt.",
-      "de": "Zum Mittagessen an Heiligabend essen viele Milchreis."
-    }
-  },
-  {
-    "id": "w18_skinn",
-    "no": "skinn",
-    "de": "das Fell, die Haut, das Leder",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "skinn",
-      "skinnet",
-      "skinn",
-      "skinna/skinnene"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "Det ble solgt reinskinn på markedet.",
-      "de": "Auf dem Markt wurden Rentierfelle verkauft."
-    }
-  },
-  {
     "id": "w18_tran",
     "no": "tran",
     "de": "der Lebertran",
@@ -671,24 +546,6 @@
     "ex": {
       "no": "Jeg hentet ham på flyplassen.",
       "de": "Ich holte ihn am Flughafen ab."
-    }
-  },
-  {
-    "id": "w18_skjegg",
-    "no": "skjegg",
-    "de": "der Bart",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "skjegg",
-      "skjegget",
-      "skjegg",
-      "skjegga/skjeggene"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "Nissen har langt, hvitt skjegg.",
-      "de": "Der Weihnachtsmann hat einen langen, weißen Bart."
     }
   },
   {
@@ -800,42 +657,6 @@
     }
   },
   {
-    "id": "w18_pakke_inn",
-    "no": "pakke inn",
-    "de": "einpacken",
-    "pos": "verb",
-    "vf": [
-      "pakker inn",
-      "pakket/pakka inn",
-      "pakket/pakka inn",
-      "pakk inn"
-    ],
-    "vg": "1",
-    "lesson": 18,
-    "ex": {
-      "no": "Jeg har pakket inn gavene.",
-      "de": "Ich habe die Geschenke eingepackt."
-    }
-  },
-  {
-    "id": "w18_onske_seg",
-    "no": "ønske seg",
-    "de": "sich wünschen",
-    "pos": "verb",
-    "vf": [
-      "ønsker seg",
-      "ønsket/ønska seg",
-      "ønsket/ønska seg",
-      "ønsk deg"
-    ],
-    "vg": "1",
-    "lesson": 18,
-    "ex": {
-      "no": "Hva ønsker du deg til jul?",
-      "de": "Was wünschst du dir zu Weihnachten?"
-    }
-  },
-  {
     "id": "w18_knuse",
     "no": "knuse",
     "de": "zerbrechen, zerschlagen",
@@ -851,24 +672,6 @@
     "ex": {
       "no": "De fleste krumkakene ble knust.",
       "de": "Die meisten Krumkaker zerbrachen."
-    }
-  },
-  {
-    "id": "w18_gjemme",
-    "no": "gjemme",
-    "de": "verstecken",
-    "pos": "verb",
-    "vf": [
-      "gjemmer",
-      "gjemte",
-      "gjemt",
-      "gjem"
-    ],
-    "vg": "2",
-    "lesson": 18,
-    "ex": {
-      "no": "Kari gjemmer en mandel i riskremen.",
-      "de": "Kari versteckt eine Mandel im Riskrem."
     }
   },
   {
@@ -905,43 +708,6 @@
     "ex": {
       "no": "Barna kler seg ut og går julebukk.",
       "de": "Die Kinder verkleiden sich und ziehen von Haus zu Haus."
-    }
-  },
-  {
-    "id": "w18_trives",
-    "no": "trives",
-    "de": "sich wohlfühlen",
-    "pos": "verb",
-    "vf": [
-      "trives",
-      "trivdes",
-      "trivdes",
-      ""
-    ],
-    "vg": "uregelm",
-    "lesson": 18,
-    "ex": {
-      "no": "Jeg trives veldig godt i Tromsø.",
-      "de": "Ich fühle mich in Tromsø sehr wohl."
-    },
-    "note": "s-Verb: Präsens = Infinitiv, kein „sich“."
-  },
-  {
-    "id": "w18_finnes",
-    "no": "finnes",
-    "de": "es gibt, existieren",
-    "pos": "verb",
-    "vf": [
-      "finnes",
-      "fantes",
-      "funnes",
-      ""
-    ],
-    "vg": "sterk",
-    "lesson": 18,
-    "ex": {
-      "no": "Det finnes mange nisser i Norge.",
-      "de": "Es gibt viele Wichtel in Norwegen."
     }
   },
   {
@@ -1035,22 +801,6 @@
     "note": "slik = eher geschrieben; sånn = gesprochen"
   },
   {
-    "id": "w18_saann",
-    "no": "sånn",
-    "de": "so ein, solch; so (Adverb, gesprochen)",
-    "pos": "pron",
-    "forms": [
-      "sånn",
-      "sånt",
-      "sånne"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "Jeg har aldri spist noe sånt før.",
-      "de": "So etwas habe ich noch nie gegessen."
-    }
-  },
-  {
     "id": "w18_sproe",
     "no": "sprø",
     "de": "knusprig; verrückt (umgangssprachlich)",
@@ -1126,17 +876,6 @@
     }
   },
   {
-    "id": "w18_begge_deler",
-    "no": "begge deler",
-    "de": "beides",
-    "pos": "phrase",
-    "lesson": 18,
-    "ex": {
-      "no": "Lutefisk eller ribbe? Jeg smakte begge deler.",
-      "de": "Lutefisk oder Ribbe? Ich habe beides probiert."
-    }
-  },
-  {
     "id": "w18_noe_saant",
     "no": "noe sånt",
     "de": "so etwas",
@@ -1185,17 +924,6 @@
     "ex": {
       "no": "Noen steder går barna julebukk i romjula.",
       "de": "An manchen Orten ziehen die Kinder zwischen den Jahren verkleidet von Haus zu Haus."
-    }
-  },
-  {
-    "id": "w18_i_like_maate",
-    "no": "i like måte",
-    "de": "gleichfalls",
-    "pos": "phrase",
-    "lesson": 18,
-    "ex": {
-      "no": "– God jul! – Takk, i like måte!",
-      "de": "– Frohe Weihnachten! – Danke, gleichfalls!"
     }
   },
   {
@@ -1343,53 +1071,6 @@
     }
   },
   {
-    "id": "w18_desember",
-    "no": "desember",
-    "de": "der Dezember",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "desember",
-      "desemberen"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "Matthias landet i Tromsø den 22. desember.",
-      "de": "Matthias landete am 22. Dezember in Tromsø."
-    }
-  },
-  {
-    "id": "w18_begynnelse",
-    "no": "begynnelse",
-    "de": "der Anfang, der Beginn",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "begynnelse",
-      "begynnelsen",
-      "begynnelser",
-      "begynnelsene"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "I begynnelsen av desember var det julebord.",
-      "de": "Anfang Dezember gab es ein Weihnachtsessen."
-    },
-    "note": "i begynnelsen av … = am Anfang von …, Anfang (Monat)"
-  },
-  {
-    "id": "w18_nord",
-    "no": "nord",
-    "de": "nördlich, im Norden, nach Norden",
-    "pos": "adv",
-    "lesson": 18,
-    "ex": {
-      "no": "Matthias hadde aldri vært så langt nord før.",
-      "de": "Matthias war noch nie so weit im Norden gewesen."
-    },
-    "note": "i nord = im Norden; nord for = nördlich von"
-  },
-  {
     "id": "w18_haand",
     "no": "hånd",
     "de": "die Hand",
@@ -1423,22 +1104,6 @@
     "ex": {
       "no": "Tromsø er den største byen i regionen.",
       "de": "Tromsø ist die größte Stadt der Region."
-    }
-  },
-  {
-    "id": "w18_mett",
-    "no": "mett",
-    "de": "satt",
-    "pos": "adj",
-    "forms": [
-      "mett",
-      "mett",
-      "mette"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "Nå er jeg altfor mett!",
-      "de": "Jetzt bin ich viel zu satt!"
     }
   },
   {
@@ -1478,25 +1143,6 @@
     }
   },
   {
-    "id": "w18_onske",
-    "no": "ønske",
-    "de": "wünschen",
-    "pos": "verb",
-    "vf": [
-      "ønsker",
-      "ønsket",
-      "ønsket",
-      "ønsk"
-    ],
-    "vg": "1",
-    "lesson": 18,
-    "ex": {
-      "no": "Vi ønsker dere en god jul!",
-      "de": "Wir wünschen euch frohe Weihnachten!"
-    },
-    "note": "ønske seg noe = sich etwas wünschen; Jeg skulle ønske … = Ich wünschte …"
-  },
-  {
     "id": "w18_takk_for_i_fjor",
     "no": "takk for i fjor",
     "de": "danke fürs vergangene Jahr (beim ersten Wiedersehen im neuen Jahr)",
@@ -1505,146 +1151,6 @@
     "ex": {
       "no": "Hei, Inga! Takk for i fjor!",
       "de": "Hallo, Inga! Danke fürs vergangene Jahr!"
-    }
-  },
-  {
-    "id": "w18_de_fleste",
-    "no": "de fleste",
-    "de": "die meisten",
-    "pos": "phrase",
-    "lesson": 18,
-    "ex": {
-      "no": "De fleste krumkakene ble knust.",
-      "de": "Die meisten Krumkaker zerbrachen."
-    }
-  },
-  {
-    "id": "w18_baade",
-    "no": "både",
-    "de": "sowohl (både … og = sowohl … als auch)",
-    "pos": "conj",
-    "lesson": 18,
-    "ex": {
-      "no": "Det ble servert både lutefisk og ribbe.",
-      "de": "Es wurden sowohl Lutefisk als auch Ribbe serviert."
-    }
-  },
-  {
-    "id": "w18_hoy",
-    "no": "høy",
-    "de": "hoch; laut",
-    "pos": "adj",
-    "forms": [
-      "høy",
-      "høyt",
-      "høye",
-      "høyere",
-      "høyest"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "Matthias sang høyest av alle.",
-      "de": "Matthias sang am lautesten von allen."
-    },
-    "note": "Von der Stimme: høy = laut. snakke høyt = laut sprechen."
-  },
-  {
-    "id": "w18_ung",
-    "no": "ung",
-    "de": "jung",
-    "pos": "adj",
-    "forms": [
-      "ung",
-      "ungt",
-      "unge",
-      "yngre",
-      "yngst"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "De yngre studentene likte ikke lutefisk.",
-      "de": "Die jüngeren Studierenden mochten keinen Lutefisk."
-    }
-  },
-  {
-    "id": "w18_din",
-    "no": "din",
-    "de": "dein",
-    "deAlt": [
-      "deine",
-      "deiner"
-    ],
-    "alt": [
-      "di",
-      "ditt",
-      "dine"
-    ],
-    "pos": "pron",
-    "lesson": 18,
-    "note": "din, di, ditt, dine – wie min. In Schimpfwörtern steht din, wo das Deutsche „du“ sagt: Din tosk! = Du Dummkopf!",
-    "ex": {
-      "no": "Din tosk!",
-      "de": "Du Dummkopf!"
-    }
-  },
-  {
-    "id": "w18_vaar",
-    "no": "vår",
-    "de": "unser",
-    "deAlt": [
-      "unsere"
-    ],
-    "pos": "pron",
-    "lesson": 18,
-    "note": "vår (en- und ei-Wort), vårt (et-Wort), våre (Plural).",
-    "ex": {
-      "no": "Julaften feiret vi i leiligheten vår.",
-      "de": "Heiligabend feierten wir in unserer Wohnung."
-    }
-  },
-  {
-    "id": "w18_tilbake",
-    "no": "tilbake",
-    "de": "zurück",
-    "pos": "adv",
-    "lesson": 18,
-    "ex": {
-      "no": "Sola kommer tilbake i midten av januar.",
-      "de": "Die Sonne kommt Mitte Januar zurück."
-    }
-  },
-  {
-    "id": "w18_derfor",
-    "no": "derfor",
-    "de": "deshalb, darum",
-    "deAlt": [
-      "deshalb",
-      "darum"
-    ],
-    "pos": "adv",
-    "lesson": 18,
-    "note": "Adverb: Am Satzanfang folgt Inversion – Derfor setter noen ut grøt.",
-    "ex": {
-      "no": "Nissen liker grøt. Derfor setter noen ut en bolle til ham.",
-      "de": "Der Wichtel mag Brei. Deshalb stellen manche ihm eine Schüssel hinaus."
-    }
-  },
-  {
-    "id": "w18_lue",
-    "no": "lue",
-    "de": "die Mütze",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "lue",
-      "lua",
-      "luer",
-      "luene"
-    ],
-    "lesson": 18,
-    "ex": {
-      "no": "Julenissen har rød lue.",
-      "de": "Der Weihnachtsmann hat eine rote Mütze."
     }
   },
   {
@@ -1728,25 +1234,6 @@
     "note": "Harmlos und liebevoll."
   },
   {
-    "id": "w18_tulle",
-    "no": "tulle",
-    "de": "Unsinn machen, Quatsch reden",
-    "pos": "verb",
-    "vf": [
-      "tuller",
-      "tullet",
-      "tullet",
-      "tull"
-    ],
-    "vg": "1",
-    "lesson": 18,
-    "wk": true,
-    "ex": {
-      "no": "Slutt å tulle!",
-      "de": "Hör auf mit dem Unsinn!"
-    }
-  },
-  {
     "id": "w18_erte",
     "no": "erte",
     "de": "necken, aufziehen",
@@ -1767,25 +1254,6 @@
     "note": "Nicht verwechseln mit „ärgern“ im Sinn von wütend machen: erte ist meist spielerisch."
   },
   {
-    "id": "w18_dum",
-    "no": "dum",
-    "de": "dumm",
-    "pos": "adj",
-    "forms": [
-      "dum",
-      "dumt",
-      "dumme",
-      "dummere",
-      "dummest"
-    ],
-    "lesson": 18,
-    "wk": true,
-    "ex": {
-      "no": "Ikke vær så dum!",
-      "de": "Sei nicht so dumm!"
-    }
-  },
-  {
     "id": "w18_skjerpe_seg",
     "no": "skjerpe seg",
     "de": "sich zusammenreißen",
@@ -1802,25 +1270,6 @@
     "ex": {
       "no": "Nå må du skjerpe deg!",
       "de": "Jetzt musst du dich zusammenreißen!"
-    }
-  },
-  {
-    "id": "w18_gi_seg",
-    "no": "gi seg",
-    "de": "aufhören, lockerlassen; aufgeben",
-    "pos": "verb",
-    "vf": [
-      "gir seg",
-      "ga seg",
-      "gitt seg",
-      "gi deg"
-    ],
-    "vg": "sterk",
-    "lesson": 18,
-    "wk": true,
-    "ex": {
-      "no": "Gi deg nå, jeg er lei av det!",
-      "de": "Jetzt hör aber auf, ich habe es satt!"
     }
   },
   {
@@ -1971,23 +1420,6 @@
     }
   },
   {
-    "id": "w18_stille",
-    "no": "stille",
-    "de": "still, leise",
-    "pos": "adj",
-    "forms": [
-      "stille",
-      "stille",
-      "stille"
-    ],
-    "lesson": 18,
-    "wk": true,
-    "ex": {
-      "no": "Kan du være litt stille?",
-      "de": "Kannst du ein bisschen leise sein?"
-    }
-  },
-  {
     "id": "w18_fy_soren",
     "no": "fy søren",
     "de": "verflixt!",
@@ -2025,5 +1457,38 @@
       "de": "Donnerwetter, ist das kalt!"
     },
     "note": "Sehr harmlos und ein bisschen komisch."
+  },
+  {
+    "id": "w19_paaske",
+    "no": "påske",
+    "de": "Ostern",
+    "deAlt": [
+      "das Osterfest"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "påske",
+      "påsken",
+      "påsker",
+      "påskene"
+    ],
+    "lesson": 18,
+    "ex": {
+      "no": "Vi skal på hytta i påsken.",
+      "de": "Über Ostern fahren wir zur Hütte."
+    },
+    "note": "i påsken = an Ostern, über Ostern; God påske! = Frohe Ostern!"
+  },
+  {
+    "id": "w21_til_bords",
+    "no": "til bords",
+    "de": "zu Tisch",
+    "pos": "phrase",
+    "ex": {
+      "no": "Vær så god, gå til bords!",
+      "de": "Bitte, kommt zu Tisch!"
+    },
+    "lesson": 18
   }
 ]

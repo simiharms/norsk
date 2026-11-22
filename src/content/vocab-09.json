@@ -306,18 +306,6 @@
     "note": "Betonung auf -nel: Das e bleibt im Plural (tunneler)."
   },
   {
-    "id": "w09_vestlandet",
-    "no": "Vestlandet",
-    "de": "Westnorwegen",
-    "pos": "name",
-    "lesson": 9,
-    "ex": {
-      "no": "Bergen ligger på Vestlandet.",
-      "de": "Bergen liegt in Westnorwegen."
-    },
-    "note": "Mit på: på Vestlandet."
-  },
-  {
     "id": "w09_trehus",
     "no": "trehus",
     "de": "das Holzhaus",
@@ -616,23 +604,6 @@
     }
   },
   {
-    "id": "w09_feil",
-    "no": "feil",
-    "de": "falsch",
-    "pos": "adj",
-    "forms": [
-      "feil",
-      "feil",
-      "feil"
-    ],
-    "lesson": 9,
-    "ex": {
-      "no": "Jeg er redd for å velge feil.",
-      "de": "Ich habe Angst, falsch zu wählen."
-    },
-    "note": "Unveränderlich. Auch Substantiv: en feil = ein Fehler."
-  },
-  {
     "id": "w09_slott",
     "no": "slott",
     "de": "das Schloss",
@@ -729,49 +700,6 @@
     }
   },
   {
-    "id": "w09_avtale",
-    "no": "avtale",
-    "de": "die Abmachung, die Verabredung",
-    "deAlt": [
-      "die Abmachung",
-      "die Verabredung",
-      "der Termin"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "avtale",
-      "avtalen",
-      "avtaler",
-      "avtalene"
-    ],
-    "lesson": 9,
-    "ex": {
-      "no": "Avtale! Vi sees i Bergen.",
-      "de": "Abgemacht! Wir sehen uns in Bergen."
-    },
-    "note": "Avtale! = Abgemacht!"
-  },
-  {
-    "id": "w09_liten",
-    "no": "liten",
-    "de": "klein",
-    "pos": "adj",
-    "forms": [
-      "liten",
-      "lite",
-      "små",
-      "mindre",
-      "minst"
-    ],
-    "lesson": 9,
-    "ex": {
-      "no": "Det lille firmaet ligger i Bergen.",
-      "de": "Die kleine Firma liegt in Bergen."
-    },
-    "note": "ei lita bok; bestimmt: den/det lille; Plural: små, de små."
-  },
-  {
     "id": "w09_beromt",
     "no": "berømt",
     "de": "berühmt",
@@ -800,44 +728,6 @@
     "note": "den/det/de + bestimmtes Substantiv + der (da) oder her (hier)."
   },
   {
-    "id": "w09_onkel",
-    "no": "onkel",
-    "de": "der Onkel",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "onkel",
-      "onkelen",
-      "onkler",
-      "onklene"
-    ],
-    "lesson": 9,
-    "ex": {
-      "no": "Onkel Arne bor i Ålesund.",
-      "de": "Onkel Arne wohnt in Ålesund."
-    },
-    "note": "Plural ohne e: onkler."
-  },
-  {
-    "id": "w09_nokkel",
-    "no": "nøkkel",
-    "de": "der Schlüssel",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "nøkkel",
-      "nøkkelen",
-      "nøkler",
-      "nøklene"
-    ],
-    "lesson": 9,
-    "ex": {
-      "no": "Jeg har to nøkler: en til huset og en til sykkelen.",
-      "de": "Ich habe zwei Schlüssel: einen für das Haus und einen für das Fahrrad."
-    },
-    "note": "Plural ohne e und mit einem k: nøkler."
-  },
-  {
     "id": "w09_regel",
     "no": "regel",
     "de": "die Regel",
@@ -854,25 +744,6 @@
       "no": "I Sveits er det mange regler.",
       "de": "In der Schweiz gibt es viele Regeln."
     }
-  },
-  {
-    "id": "w09_eksempel",
-    "no": "eksempel",
-    "de": "das Beispiel",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "eksempel",
-      "eksempelet/eksemplet",
-      "eksempler",
-      "eksemplene"
-    ],
-    "lesson": 9,
-    "ex": {
-      "no": "Kan du gi meg et eksempel?",
-      "de": "Kannst du mir ein Beispiel geben?"
-    },
-    "note": "for eksempel (f.eks.) = zum Beispiel"
   },
   {
     "id": "w09_himmel",
@@ -1302,21 +1173,6 @@
     "note": "kjent heißt auch »bekannt«: en kjent bygning."
   },
   {
-    "id": "w09_bare_hyggelig",
-    "no": "Bare hyggelig!",
-    "de": "Gern geschehen!",
-    "deAlt": [
-      "Keine Ursache!"
-    ],
-    "pos": "phrase",
-    "lesson": 9,
-    "wk": true,
-    "ex": {
-      "no": "Tusen takk! – Bare hyggelig!",
-      "de": "Vielen Dank! – Gern geschehen!"
-    }
-  },
-  {
     "id": "w09_langt",
     "no": "langt",
     "de": "weit",
@@ -1441,45 +1297,6 @@
     "lesson": 9
   },
   {
-    "id": "w09_tog",
-    "no": "tog",
-    "de": "der Zug",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "tog",
-      "toget",
-      "tog",
-      "toga/togene"
-    ],
-    "wk": true,
-    "ex": {
-      "no": "Toget til Bergen går fra Oslo S.",
-      "de": "Der Zug nach Bergen fährt von Oslo S."
-    },
-    "note": "Auch: der Umzug (barnetoget = der Kinderumzug).",
-    "lesson": 9
-  },
-  {
-    "id": "w09_plass",
-    "no": "plass",
-    "de": "der Platz",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "plass",
-      "plassen",
-      "plasser",
-      "plassene"
-    ],
-    "wk": true,
-    "ex": {
-      "no": "Foran Slottet er det en stor plass.",
-      "de": "Vor dem Schloss ist ein großer Platz."
-    },
-    "lesson": 9
-  },
-  {
     "id": "w09_torg",
     "no": "torg",
     "de": "der Markt, der Platz",
@@ -1496,25 +1313,6 @@
       "no": "Karl Johan begynner ved Jernbanetorget.",
       "de": "Die Karl Johan beginnt am Jernbanetorget (Bahnhofsplatz)."
     },
-    "lesson": 9
-  },
-  {
-    "id": "w09_sommer",
-    "no": "sommer",
-    "de": "der Sommer",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "sommer",
-      "sommeren",
-      "somrer",
-      "somrene"
-    ],
-    "ex": {
-      "no": "Om sommeren er Karl Johan full av turister.",
-      "de": "Im Sommer ist die Karl Johan voller Touristen."
-    },
-    "note": "Plural ohne e: somrer (wie vinter – vintrer).",
     "lesson": 9
   },
   {
@@ -1546,25 +1344,6 @@
       "de": "Die Bergenbahn fährt von Oslo nach Bergen."
     },
     "lesson": 9
-  },
-  {
-    "id": "w09_skole",
-    "no": "skole",
-    "de": "die Schule",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "skole",
-      "skolen",
-      "skoler",
-      "skolene"
-    ],
-    "lesson": 9,
-    "ex": {
-      "no": "Ola går på skolen på Sagene.",
-      "de": "Ola geht in Sagene zur Schule."
-    },
-    "note": "gå på skolen = zur Schule gehen; begynne på skolen = in die Schule kommen."
   },
   {
     "id": "w09_barnehage",
@@ -1626,18 +1405,6 @@
     }
   },
   {
-    "id": "w09_videregaaende_skole",
-    "no": "videregående skole",
-    "de": "die weiterführende Schule (ab der 11. Klasse)",
-    "pos": "phrase",
-    "lesson": 9,
-    "ex": {
-      "no": "Ola går på videregående skole.",
-      "de": "Ola geht auf die weiterführende Schule."
-    },
-    "note": "Drei Jahre bis zum Studium – oder eine Berufsausbildung."
-  },
-  {
     "id": "w09_klasse",
     "no": "klasse",
     "de": "die Klasse",
@@ -1671,24 +1438,6 @@
       "de": "Die Pflichtschule ist Pflicht."
     },
     "note": "Adjektive auf -isk bekommen kein -t (Lektion 4)."
-  },
-  {
-    "id": "w09_vare",
-    "no": "vare",
-    "de": "dauern",
-    "pos": "verb",
-    "vf": [
-      "varer",
-      "varte",
-      "vart",
-      "var"
-    ],
-    "vg": "2",
-    "lesson": 9,
-    "ex": {
-      "no": "Kurset varer i tre måneder.",
-      "de": "Der Kurs dauert drei Monate."
-    }
   },
   {
     "id": "w09_fag",
@@ -1852,5 +1601,127 @@
       "no": "Susanne har fått et stipend for året i Norge.",
       "de": "Susanne hat für das Jahr in Norwegen ein Stipendium bekommen."
     }
+  },
+  {
+    "id": "w12_redd",
+    "no": "redd",
+    "de": "ängstlich",
+    "deAlt": [
+      "Angst haben"
+    ],
+    "pos": "adj",
+    "forms": [
+      "redd",
+      "redd",
+      "redde"
+    ],
+    "lesson": 9,
+    "wk": true,
+    "ex": {
+      "no": "Er du redd for hunder?",
+      "de": "Hast du Angst vor Hunden?"
+    },
+    "note": "være redd for = Angst haben vor"
+  },
+  {
+    "id": "w10_fram",
+    "no": "fram",
+    "de": "nach vorn, vorwärts",
+    "deAlt": [
+      "nach vorn",
+      "vorwärts"
+    ],
+    "alt": [
+      "frem"
+    ],
+    "pos": "adv",
+    "lesson": 9,
+    "ex": {
+      "no": "Gå rett fram!",
+      "de": "Geh geradeaus!"
+    },
+    "note": "Richtung (wohin?). Ort: framme. Auch geschrieben: frem."
+  },
+  {
+    "id": "w10_til_venstre",
+    "no": "til venstre",
+    "de": "links",
+    "deAlt": [
+      "nach links"
+    ],
+    "pos": "phrase",
+    "lesson": 9,
+    "wk": true,
+    "ex": {
+      "no": "Badet er til venstre.",
+      "de": "Das Bad ist links."
+    }
+  },
+  {
+    "id": "w10_til_hoyre",
+    "no": "til høyre",
+    "de": "rechts",
+    "deAlt": [
+      "nach rechts"
+    ],
+    "pos": "phrase",
+    "lesson": 9,
+    "wk": true,
+    "ex": {
+      "no": "Til høyre er soverommet.",
+      "de": "Rechts ist das Schlafzimmer."
+    }
+  },
+  {
+    "id": "w20_i_stedet_for",
+    "no": "i stedet for",
+    "de": "statt",
+    "deAlt": [
+      "anstatt"
+    ],
+    "pos": "prep",
+    "lesson": 9,
+    "ex": {
+      "no": "I stedet for å gå på ski leste hun.",
+      "de": "Statt Ski zu fahren, las sie."
+    }
+  },
+  {
+    "id": "w20_gaa_seg_vill",
+    "no": "gå seg vill",
+    "de": "sich verirren",
+    "deAlt": [
+      "sich verlaufen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "går seg vill",
+      "gikk seg vill",
+      "gått seg vill",
+      "gå deg vill"
+    ],
+    "vg": "sterk",
+    "lesson": 9,
+    "ex": {
+      "no": "I tåka er det lett å gå seg vill.",
+      "de": "Im Nebel verirrt man sich leicht."
+    }
+  },
+  {
+    "id": "w20_vill",
+    "no": "vill",
+    "de": "wild",
+    "pos": "adj",
+    "forms": [
+      "vill",
+      "vilt",
+      "ville"
+    ],
+    "lesson": 9,
+    "ex": {
+      "no": "Bamse ble helt vill av glede i snøen.",
+      "de": "Bamse wurde im Schnee ganz wild vor Freude."
+    },
+    "note": "gå seg vill = sich verirren"
   }
 ]

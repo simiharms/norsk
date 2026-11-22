@@ -57,25 +57,6 @@
     }
   },
   {
-    "id": "w16_semesteravgift",
-    "no": "semesteravgift",
-    "de": "die Semestergebühr",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "semesteravgift",
-      "semesteravgifta/semesteravgiften",
-      "semesteravgifter",
-      "semesteravgiftene"
-    ],
-    "lesson": 16,
-    "wk": true,
-    "ex": {
-      "no": "Du må betale semesteravgifta før fristen.",
-      "de": "Du musst die Semestergebühr vor Ablauf der Frist bezahlen."
-    }
-  },
-  {
     "id": "w16_forelesning",
     "no": "forelesning",
     "de": "die Vorlesung",
@@ -227,25 +208,6 @@
     "ex": {
       "no": "Hun skal skrive semesteroppgaven sin om nordnorsk.",
       "de": "Sie wird ihre Semesterarbeit über Nordnorwegisch schreiben."
-    }
-  },
-  {
-    "id": "w16_frist",
-    "no": "frist",
-    "de": "die Frist",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "frist",
-      "fristen",
-      "frister",
-      "fristene"
-    ],
-    "lesson": 16,
-    "wk": true,
-    "ex": {
-      "no": "Fristen er på fredag.",
-      "de": "Die Frist läuft am Freitag ab."
     }
   },
   {
@@ -435,25 +397,6 @@
     "ex": {
       "no": "Jeg leser til eksamen sammen med kollokviegruppen min.",
       "de": "Ich lerne mit meiner Lerngruppe für die Prüfung."
-    }
-  },
-  {
-    "id": "w16_stipend",
-    "no": "stipend",
-    "de": "das Stipendium",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "stipend",
-      "stipendet",
-      "stipend/stipender",
-      "stipenda/stipendene"
-    ],
-    "lesson": 16,
-    "wk": true,
-    "ex": {
-      "no": "Hun får lån og stipend fra Lånekassen.",
-      "de": "Sie bekommt Darlehen und Stipendium von der Lånekassen."
     }
   },
   {
@@ -682,42 +625,6 @@
     }
   },
   {
-    "id": "w16_kalle",
-    "no": "kalle",
-    "de": "nennen, rufen",
-    "pos": "verb",
-    "vf": [
-      "kaller",
-      "kalte",
-      "kalt",
-      "kall"
-    ],
-    "vg": "2",
-    "lesson": 16,
-    "ex": {
-      "no": "I dag kaller vi det bokmål.",
-      "de": "Heute nennen wir es Bokmål."
-    }
-  },
-  {
-    "id": "w16_gi_ut",
-    "no": "gi ut",
-    "de": "herausgeben, veröffentlichen",
-    "pos": "verb",
-    "vf": [
-      "gir ut",
-      "ga/gav ut",
-      "gitt ut",
-      "gi ut"
-    ],
-    "vg": "sterk",
-    "lesson": 16,
-    "ex": {
-      "no": "Aasen ga ut en ordbok i 1850.",
-      "de": "Aasen gab 1850 ein Wörterbuch heraus."
-    }
-  },
-  {
     "id": "w16_sno",
     "no": "snø",
     "de": "schneien",
@@ -736,18 +643,6 @@
     }
   },
   {
-    "id": "w16_ikke_noe",
-    "no": "ikke noe",
-    "de": "nichts; kein",
-    "pos": "phrase",
-    "lesson": 16,
-    "note": "= ingenting. Mit Hilfs- oder Modalverb nur ikke … noe: Jeg har ikke sett noe.",
-    "ex": {
-      "no": "Jeg har ikke spist noe i dag.",
-      "de": "Ich habe heute nichts gegessen."
-    }
-  },
-  {
     "id": "w16_ikke_noen",
     "no": "ikke noen",
     "de": "niemand; keine",
@@ -760,23 +655,6 @@
     }
   },
   {
-    "id": "w16_egen",
-    "no": "egen",
-    "de": "eigen",
-    "pos": "adj",
-    "forms": [
-      "egen",
-      "eget",
-      "egne"
-    ],
-    "lesson": 16,
-    "note": "Nach einem Possessiv im Singular ohne -e: min egen bil, mitt eget rom; Plural: mine egne bøker.",
-    "ex": {
-      "no": "Inga har sitt eget rom.",
-      "de": "Inga hat ihr eigenes Zimmer."
-    }
-  },
-  {
     "id": "w16_paa_egen_haand",
     "no": "på egen hånd",
     "de": "auf eigene Faust",
@@ -785,22 +663,6 @@
     "ex": {
       "no": "Susanne gikk rundt i byen på egen hånd.",
       "de": "Susanne ging auf eigene Faust durch die Stadt."
-    }
-  },
-  {
-    "id": "w16_hverandre",
-    "no": "hverandre",
-    "de": "einander, sich (gegenseitig)",
-    "deAlt": [
-      "einander",
-      "sich gegenseitig"
-    ],
-    "pos": "pron",
-    "lesson": 16,
-    "note": "Unveränderlich; Genitiv: hverandres. seg ist nur reflexiv, nie gegenseitig.",
-    "ex": {
-      "no": "Inga og Susanne hjelper hverandre med oppgavene.",
-      "de": "Inga und Susanne helfen sich gegenseitig bei den Aufgaben."
     }
   },
   {
@@ -839,33 +701,6 @@
     "ex": {
       "no": "Når kan vi treffes igjen?",
       "de": "Wann können wir uns wieder treffen?"
-    }
-  },
-  {
-    "id": "w16_vi_sees",
-    "no": "vi sees",
-    "de": "wir sehen uns",
-    "alt": [
-      "vi ses"
-    ],
-    "pos": "phrase",
-    "lesson": 16,
-    "note": "Auch: vi ses. Feste Abschiedsformel.",
-    "ex": {
-      "no": "Ha det, vi sees i kveld!",
-      "de": "Tschüss, wir sehen uns heute Abend!"
-    }
-  },
-  {
-    "id": "w16_vi_snakkes",
-    "no": "vi snakkes",
-    "de": "wir hören uns, bis bald",
-    "pos": "phrase",
-    "lesson": 16,
-    "note": "Typisch am Ende von Telefonaten und Nachrichten.",
-    "ex": {
-      "no": "Jeg må gå nå. Vi snakkes!",
-      "de": "Ich muss jetzt gehen. Wir hören uns!"
     }
   },
   {
@@ -1368,25 +1203,6 @@
     }
   },
   {
-    "id": "w16_fag",
-    "no": "fag",
-    "de": "das Fach",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "fag",
-      "faget",
-      "fag",
-      "faga/fagene"
-    ],
-    "lesson": 16,
-    "wk": true,
-    "ex": {
-      "no": "Biologi er Ingas favorittfag.",
-      "de": "Biologie ist Ingas Lieblingsfach."
-    }
-  },
-  {
     "id": "w16_same",
     "no": "same",
     "de": "der Same / die Samin",
@@ -1402,61 +1218,6 @@
     "ex": {
       "no": "Inga er same og snakker nordsamisk.",
       "de": "Inga ist Samin und spricht Nordsamisch."
-    }
-  },
-  {
-    "id": "w16_etter_at",
-    "no": "etter at",
-    "de": "nachdem",
-    "pos": "conj",
-    "lesson": 16,
-    "ex": {
-      "no": "Etter at møtet var slutt, gikk hun til biblioteket.",
-      "de": "Nachdem die Veranstaltung zu Ende war, ging sie in die Bibliothek."
-    }
-  },
-  {
-    "id": "w16_saa_snart",
-    "no": "så snart",
-    "de": "sobald",
-    "pos": "conj",
-    "lesson": 16,
-    "ex": {
-      "no": "Han svarte så snart han hadde lest meldingen.",
-      "de": "Er antwortete, sobald er die Nachricht gelesen hatte."
-    }
-  },
-  {
-    "id": "w16_siden",
-    "no": "siden",
-    "de": "seit(dem); da (Grund)",
-    "pos": "conj",
-    "lesson": 16,
-    "ex": {
-      "no": "Siden du ikke forstår dialekten, kan du spørre Inga.",
-      "de": "Da du den Dialekt nicht verstehst, kannst du Inga fragen."
-    }
-  },
-  {
-    "id": "w16_som_om",
-    "no": "som om",
-    "de": "als ob",
-    "pos": "conj",
-    "lesson": 16,
-    "ex": {
-      "no": "Han lo som om han fortalte vitser.",
-      "de": "Er lachte, als ob er Witze erzählte."
-    }
-  },
-  {
-    "id": "w16_for_at",
-    "no": "for at",
-    "de": "damit",
-    "pos": "conj",
-    "lesson": 16,
-    "ex": {
-      "no": "Hun snakker langsomt for at alle skal forstå.",
-      "de": "Sie spricht langsam, damit alle verstehen."
     }
   },
   {
@@ -1611,28 +1372,6 @@
     }
   },
   {
-    "id": "w16_tv",
-    "no": "tv",
-    "de": "der Fernseher, das Fernsehen",
-    "alt": [
-      "TV"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "tv",
-      "tv-en",
-      "tv-er",
-      "tv-ene"
-    ],
-    "lesson": 16,
-    "ex": {
-      "no": "Folk snakker dialekt på tv.",
-      "de": "Im Fernsehen sprechen die Leute Dialekt."
-    },
-    "note": "på tv = im Fernsehen; man schreibt tv oder TV."
-  },
-  {
     "id": "w16_forklare",
     "no": "forklare",
     "de": "erklären",
@@ -1710,85 +1449,6 @@
     }
   },
   {
-    "id": "w16_inngang",
-    "no": "inngang",
-    "de": "der Eingang",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "inngang",
-      "inngangen",
-      "innganger",
-      "inngangene"
-    ],
-    "lesson": 16,
-    "ex": {
-      "no": "Leiligheten har en egen inngang.",
-      "de": "Die Wohnung hat einen separaten Eingang."
-    }
-  },
-  {
-    "id": "w16_min",
-    "no": "min",
-    "de": "mein",
-    "deAlt": [
-      "meine",
-      "meiner"
-    ],
-    "alt": [
-      "mi",
-      "mitt",
-      "mine"
-    ],
-    "pos": "pron",
-    "lesson": 16,
-    "note": "min (en-Wort), mi (ei-Wort), mitt (et-Wort), mine (Plural). Meist nachgestellt: rommet mitt, boka mi.",
-    "ex": {
-      "no": "Det nye rommet mitt er lite.",
-      "de": "Mein neues Zimmer ist klein."
-    }
-  },
-  {
-    "id": "w16_din",
-    "no": "din",
-    "de": "dein",
-    "deAlt": [
-      "deine",
-      "deiner"
-    ],
-    "alt": [
-      "di",
-      "ditt",
-      "dine"
-    ],
-    "pos": "pron",
-    "lesson": 16,
-    "note": "din, di, ditt, dine – wie min.",
-    "ex": {
-      "no": "Er dette den nye notatboka di?",
-      "de": "Ist das dein neues Notizbuch?"
-    }
-  },
-  {
-    "id": "w16_daarlig",
-    "no": "dårlig",
-    "de": "schlecht",
-    "pos": "adj",
-    "forms": [
-      "dårlig",
-      "dårlig",
-      "dårlige",
-      "verre/dårligere",
-      "verst/dårligst"
-    ],
-    "lesson": 16,
-    "note": "verre/verst = schlimmer, am schlimmsten; dårligere/dårligst = weniger gut.",
-    "ex": {
-      "no": "Susanne sov dårlig natta før den første dagen.",
-      "de": "Susanne schlief in der Nacht vor dem ersten Tag schlecht."
-    }
-  },
-  {
     "id": "w16_dame",
     "no": "dame",
     "de": "die Dame, die Frau",
@@ -1808,37 +1468,6 @@
     "ex": {
       "no": "En dame fra det internasjonale kontoret ønsket alle velkommen.",
       "de": "Eine Frau vom International Office hieß alle willkommen."
-    }
-  },
-  {
-    "id": "w16_fru",
-    "no": "fru",
-    "de": "Frau (Anrede)",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "fru",
-      "frua",
-      "fruer",
-      "fruene"
-    ],
-    "lesson": 16,
-    "note": "Als Anrede heute selten; man duzt und nennt meist den Vornamen.",
-    "ex": {
-      "no": "Fru Solheim er naboen til Matthias i Bergen.",
-      "de": "Frau Solheim ist Matthias’ Nachbarin in Bergen."
-    }
-  },
-  {
-    "id": "w16_baade",
-    "no": "både",
-    "de": "sowohl (… als auch)",
-    "pos": "conj",
-    "lesson": 16,
-    "note": "både … og = sowohl … als auch",
-    "ex": {
-      "no": "Mange samer snakker både samisk og norsk.",
-      "de": "Viele Samen sprechen sowohl Samisch als auch Norwegisch."
     }
   },
   {
@@ -1886,39 +1515,90 @@
     }
   },
   {
-    "id": "w16_omtrent",
-    "no": "omtrent",
-    "de": "ungefähr, etwa",
-    "deAlt": [
-      "ungefähr",
-      "etwa"
+    "id": "w18_onske_seg",
+    "no": "ønske seg",
+    "de": "sich wünschen",
+    "pos": "verb",
+    "vf": [
+      "ønsker seg",
+      "ønsket/ønska seg",
+      "ønsket/ønska seg",
+      "ønsk deg"
     ],
-    "pos": "adv",
+    "vg": "1",
     "lesson": 16,
     "ex": {
-      "no": "Omtrent ni av ti elever har bokmål som hovedmål.",
-      "de": "Etwa neun von zehn Schülern haben Bokmål als Hauptsprache."
+      "no": "Hva ønsker du deg til jul?",
+      "de": "Was wünschst du dir zu Weihnachten?"
     }
   },
   {
-    "id": "w16_kjempefin",
-    "no": "kjempefin",
-    "de": "super, prima, sehr schön",
-    "deAlt": [
-      "super",
-      "prima"
+    "id": "w18_nord",
+    "no": "nord",
+    "de": "nördlich, im Norden, nach Norden",
+    "pos": "adv",
+    "lesson": 16,
+    "ex": {
+      "no": "Matthias hadde aldri vært så langt nord før.",
+      "de": "Matthias war noch nie so weit im Norden gewesen."
+    },
+    "note": "i nord = im Norden; nord for = nördlich von"
+  },
+  {
+    "id": "w18_onske",
+    "no": "ønske",
+    "de": "wünschen",
+    "pos": "verb",
+    "vf": [
+      "ønsker",
+      "ønsket",
+      "ønsket",
+      "ønsk"
     ],
-    "pos": "adj",
+    "vg": "1",
+    "lesson": 16,
+    "ex": {
+      "no": "Vi ønsker dere en god jul!",
+      "de": "Wir wünschen euch frohe Weihnachten!"
+    },
+    "note": "ønske seg noe = sich etwas wünschen; Jeg skulle ønske … = Ich wünschte …"
+  },
+  {
+    "id": "w19_sitte_paa",
+    "no": "sitte på",
+    "de": "mitfahren",
+    "deAlt": [
+      "im Auto mitfahren"
+    ],
+    "pos": "verb",
+    "vf": [
+      "sitter på",
+      "satt på",
+      "sittet på",
+      "sitt på"
+    ],
+    "vg": "sterk",
+    "lesson": 16,
+    "ex": {
+      "no": "Kan jeg sitte på med deg til Oslo?",
+      "de": "Kann ich mit dir nach Oslo mitfahren?"
+    },
+    "note": "Nur für das Mitfahren in einem privaten Auto."
+  },
+  {
+    "id": "w20_litteratur",
+    "no": "litteratur",
+    "de": "die Literatur",
+    "pos": "noun",
+    "gender": "m",
     "forms": [
-      "kjempefin",
-      "kjempefint",
-      "kjempefine"
+      "litteratur",
+      "litteraturen"
     ],
     "lesson": 16,
-    "note": "kjempe- verstärkt (umgangssprachlich): kjempebra, kjempestor. Jeg har det kjempefint = Mir geht es super.",
     "ex": {
-      "no": "Jeg har det kjempefint i Tromsø!",
-      "de": "Mir geht es in Tromsø super!"
+      "no": "Susanne studerer nordisk litteratur.",
+      "de": "Susanne studiert nordische Literatur."
     }
   }
 ]

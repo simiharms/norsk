@@ -1,5 +1,28 @@
 [
   {
+    "id": "w03_forsyne_seg",
+    "no": "forsyne seg",
+    "de": "sich bedienen",
+    "deAlt": [
+      "zugreifen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "forsyner seg",
+      "forsynte seg",
+      "forsynt seg",
+      "forsyn deg"
+    ],
+    "vg": "2",
+    "lesson": 8,
+    "wk": true,
+    "ex": {
+      "no": "Vær så god og forsyn dere!",
+      "de": "Bitte schön, greift zu!"
+    },
+    "note": "Zu mehreren: Forsyn dere!"
+  },
+  {
     "id": "w08_provokasjon",
     "no": "provokasjon",
     "de": "die Provokation",
@@ -129,24 +152,6 @@
       "de": "Ich kam eine halbe Stunde zu spät zum Kurs."
     },
     "note": "for = zu (zu viel): for sent, for dyrt, for kaldt"
-  },
-  {
-    "id": "w08_le",
-    "no": "le",
-    "de": "lachen",
-    "pos": "verb",
-    "vf": [
-      "ler",
-      "lo",
-      "ledd",
-      "le"
-    ],
-    "vg": "sterk",
-    "lesson": 8,
-    "ex": {
-      "no": "Alle lo av Arne.",
-      "de": "Alle lachten über Arne."
-    }
   },
   {
     "id": "w08_gjore_store_oyne",
@@ -431,18 +436,6 @@
     }
   },
   {
-    "id": "w08_ikke_saa_verst",
-    "no": "ikke så verst",
-    "de": "gar nicht so schlecht",
-    "pos": "phrase",
-    "lesson": 8,
-    "ex": {
-      "no": "Kaka var faktisk ikke så verst.",
-      "de": "Der Kuchen war tatsächlich gar nicht so schlecht."
-    },
-    "note": "Typisch norwegisches Understatement – oft ein Lob!"
-  },
-  {
     "id": "w08_kjaerlighetserklaering",
     "no": "kjærlighetserklæring",
     "de": "die Liebeserklärung",
@@ -478,19 +471,6 @@
       "de": "Um sieben stand Ola vom Tisch auf."
     },
     "note": "Morgens aus dem Bett: stå opp."
-  },
-  {
-    "id": "w08_takk_for_maten",
-    "no": "takk for maten",
-    "de": "danke für das Essen",
-    "pos": "phrase",
-    "lesson": 8,
-    "wk": true,
-    "ex": {
-      "no": "Takk for maten, Kari!",
-      "de": "Danke für das Essen, Kari!"
-    },
-    "note": "Sagt man nach jeder Mahlzeit – auch zu Hause in der Familie."
   },
   {
     "id": "w08_velbekomme",
@@ -653,42 +633,6 @@
     }
   },
   {
-    "id": "w08_gi",
-    "no": "gi",
-    "de": "geben",
-    "pos": "verb",
-    "vf": [
-      "gir",
-      "ga/gav",
-      "gitt",
-      "gi"
-    ],
-    "vg": "sterk",
-    "lesson": 8,
-    "ex": {
-      "no": "Arne ga Kari en pose klippfisk.",
-      "de": "Arne gab Kari eine Tüte Klippfisch."
-    }
-  },
-  {
-    "id": "w08_sitte",
-    "no": "sitte",
-    "de": "sitzen",
-    "pos": "verb",
-    "vf": [
-      "sitter",
-      "satt",
-      "sittet",
-      "sitt"
-    ],
-    "vg": "sterk",
-    "lesson": 8,
-    "ex": {
-      "no": "Vi satt ved bordet i tre timer.",
-      "de": "Wir saßen drei Stunden am Tisch."
-    }
-  },
-  {
     "id": "w08_ligge",
     "no": "ligge",
     "de": "liegen",
@@ -774,25 +718,6 @@
     "note": "om + Zeitraum = in (Zukunft); om morgenen = morgens. Sonst auch: über, ob."
   },
   {
-    "id": "w08_morgen",
-    "no": "morgen",
-    "de": "der Morgen",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "morgen",
-      "morgenen",
-      "morgener",
-      "morgenene"
-    ],
-    "lesson": 8,
-    "ex": {
-      "no": "Om morgenen drikker Per kaffe.",
-      "de": "Morgens trinkt Per Kaffee."
-    },
-    "note": "i morgen = morgen (Tag); om morgenen = morgens; i morges = heute früh"
-  },
-  {
     "id": "w08_formiddag",
     "no": "formiddag",
     "de": "der Vormittag",
@@ -837,17 +762,6 @@
     "ex": {
       "no": "I morges regnet det.",
       "de": "Heute früh hat es geregnet."
-    }
-  },
-  {
-    "id": "w08_fort",
-    "no": "fort",
-    "de": "schnell",
-    "pos": "adv",
-    "lesson": 8,
-    "ex": {
-      "no": "Tiden gikk så fort!",
-      "de": "Die Zeit verging so schnell!"
     }
   },
   {
@@ -940,25 +854,6 @@
     }
   },
   {
-    "id": "w08_forsyne_seg",
-    "no": "forsyne seg",
-    "de": "sich bedienen",
-    "pos": "verb",
-    "vf": [
-      "forsyner seg",
-      "forsynte seg",
-      "forsynt seg",
-      "forsyn deg"
-    ],
-    "vg": "2",
-    "lesson": 8,
-    "wk": true,
-    "ex": {
-      "no": "Vær så god, forsyn dere!",
-      "de": "Bitte schön, bedient euch!"
-    }
-  },
-  {
     "id": "w08_salt",
     "no": "salt",
     "de": "das Salz",
@@ -973,30 +868,6 @@
     "ex": {
       "no": "Maten trenger litt salt.",
       "de": "Das Essen braucht ein bisschen Salz."
-    }
-  },
-  {
-    "id": "w08_smake",
-    "no": "smake",
-    "de": "schmecken; probieren",
-    "deAlt": [
-      "schmecken",
-      "probieren",
-      "kosten"
-    ],
-    "pos": "verb",
-    "vf": [
-      "smaker",
-      "smakte",
-      "smakt",
-      "smak"
-    ],
-    "vg": "2",
-    "lesson": 8,
-    "wk": true,
-    "ex": {
-      "no": "Laksen smakte deilig.",
-      "de": "Der Lachs hat köstlich geschmeckt."
     }
   },
   {
@@ -1015,24 +886,6 @@
       "no": "Det smaker deilig!",
       "de": "Das schmeckt köstlich!"
     }
-  },
-  {
-    "id": "w08_mett",
-    "no": "mett",
-    "de": "satt",
-    "pos": "adj",
-    "forms": [
-      "mett",
-      "mett",
-      "mette"
-    ],
-    "lesson": 8,
-    "wk": true,
-    "ex": {
-      "no": "Nei takk, jeg er god og mett.",
-      "de": "Nein danke, ich bin richtig satt."
-    },
-    "note": "god og mett = richtig satt"
   },
   {
     "id": "w08_dekke_bordet",
@@ -1161,17 +1014,6 @@
     "ex": {
       "no": "Bamse ligger under bordet.",
       "de": "Bamse liegt unter dem Tisch."
-    }
-  },
-  {
-    "id": "w08_nesten",
-    "no": "nesten",
-    "de": "fast, beinahe",
-    "pos": "adv",
-    "lesson": 8,
-    "ex": {
-      "no": "De satt ved bordet i nesten tre timer.",
-      "de": "Sie saßen fast drei Stunden am Tisch."
     }
   },
   {
@@ -1342,26 +1184,6 @@
     }
   },
   {
-    "id": "w08_oppskrift",
-    "no": "oppskrift",
-    "de": "das Rezept",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "oppskrift",
-      "oppskriften",
-      "oppskrifter",
-      "oppskriftene"
-    ],
-    "lesson": 8,
-    "wk": true,
-    "ex": {
-      "no": "Kan jeg få oppskriften på eplekaka?",
-      "de": "Kann ich das Rezept für den Apfelkuchen bekommen?"
-    },
-    "note": "Falscher Freund: en resept = ein Rezept vom Arzt."
-  },
-  {
     "id": "w08_bestikk",
     "no": "bestikk",
     "de": "das Besteck",
@@ -1458,24 +1280,6 @@
     "note": "nyhetene = die Nachrichten (im Radio, im Fernsehen, in der Zeitung)."
   },
   {
-    "id": "w08_postkasse",
-    "no": "postkasse",
-    "de": "der Briefkasten",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "postkasse",
-      "postkassa/postkassen",
-      "postkasser",
-      "postkassene"
-    ],
-    "lesson": 8,
-    "ex": {
-      "no": "Avisa ligger i postkassa.",
-      "de": "Die Zeitung liegt im Briefkasten."
-    }
-  },
-  {
     "id": "w08_bilde",
     "no": "bilde",
     "de": "das Bild, das Foto",
@@ -1556,36 +1360,6 @@
       "de": "Ola möchte ein eigenes Zimmer."
     },
     "note": "egen (m/f), eget (n), egne (Plural)."
-  },
-  {
-    "id": "w08_skje_v",
-    "no": "skje",
-    "de": "geschehen, passieren",
-    "pos": "verb",
-    "vf": [
-      "skjer",
-      "skjedde",
-      "skjedd",
-      ""
-    ],
-    "vg": "4",
-    "lesson": 8,
-    "ex": {
-      "no": "Hva skjer i Oslo i helga?",
-      "de": "Was ist am Wochenende in Oslo los?"
-    },
-    "note": "Nicht verwechseln mit ei skje = ein Löffel."
-  },
-  {
-    "id": "w08_i_naerheten",
-    "no": "i nærheten",
-    "de": "in der Nähe",
-    "pos": "phrase",
-    "lesson": 8,
-    "ex": {
-      "no": "Er det en kafé i nærheten?",
-      "de": "Gibt es hier in der Nähe ein Café?"
-    }
   },
   {
     "id": "w08_paa_nett",
@@ -1724,6 +1498,136 @@
     "ex": {
       "no": "Kan du svømme? – Ja, det kan jeg.",
       "de": "Kannst du schwimmen? – Ja, kann ich."
+    }
+  },
+  {
+    "id": "w09_onkel",
+    "no": "onkel",
+    "de": "der Onkel",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "onkel",
+      "onkelen",
+      "onkler",
+      "onklene"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "Onkel Arne bor i Ålesund.",
+      "de": "Onkel Arne wohnt in Ålesund."
+    },
+    "note": "Plural ohne e: onkler."
+  },
+  {
+    "id": "w11_per",
+    "no": "per",
+    "de": "pro",
+    "pos": "prep",
+    "lesson": 8,
+    "wk": true,
+    "ex": {
+      "no": "Rommet koster ni hundre kroner per natt.",
+      "de": "Das Zimmer kostet neunhundert Kronen pro Nacht."
+    }
+  },
+  {
+    "id": "w10_legge",
+    "no": "legge",
+    "de": "legen",
+    "pos": "verb",
+    "vf": [
+      "legger",
+      "la",
+      "lagt",
+      "legg"
+    ],
+    "vg": "uregelm",
+    "lesson": 8,
+    "ex": {
+      "no": "Han la nøkkelen på bordet.",
+      "de": "Er legte den Schlüssel auf den Tisch."
+    },
+    "note": "Nicht verwechseln: ligge – lå – ligget (liegen). Gleich geschrieben: la = lass (la oss … = lass uns …)."
+  },
+  {
+    "id": "w10_inne",
+    "no": "inne",
+    "de": "drinnen",
+    "pos": "adv",
+    "lesson": 8,
+    "ex": {
+      "no": "Inne på kafeen var det varmt.",
+      "de": "Drinnen im Café war es warm."
+    },
+    "note": "Ort (wo?). Richtung: inn."
+  },
+  {
+    "id": "w16_gi_ut",
+    "no": "gi ut",
+    "de": "herausgeben, veröffentlichen",
+    "pos": "verb",
+    "vf": [
+      "gir ut",
+      "ga/gav ut",
+      "gitt ut",
+      "gi ut"
+    ],
+    "vg": "sterk",
+    "lesson": 8,
+    "ex": {
+      "no": "Aasen ga ut en ordbok i 1850.",
+      "de": "Aasen gab 1850 ein Wörterbuch heraus."
+    }
+  },
+  {
+    "id": "w21_dekke",
+    "no": "dekke",
+    "de": "decken (Tisch)",
+    "deAlt": [
+      "bedecken"
+    ],
+    "pos": "verb",
+    "vf": [
+      "dekker",
+      "dekket/dekte",
+      "dekket/dekt",
+      "dekk"
+    ],
+    "vg": "1",
+    "ex": {
+      "no": "Kan du dekke bordet?",
+      "de": "Kannst du den Tisch decken?"
+    },
+    "lesson": 8
+  },
+  {
+    "id": "w22_innerst",
+    "no": "innerst",
+    "de": "ganz innen, ganz hinten",
+    "pos": "adv",
+    "ex": {
+      "no": "Hytta ligger innerst i dalen.",
+      "de": "Die Hütte liegt ganz hinten im Tal."
+    },
+    "lesson": 8
+  },
+  {
+    "id": "w23_gi_opp",
+    "no": "gi opp",
+    "de": "aufgeben",
+    "pos": "verb",
+    "vf": [
+      "gir opp",
+      "ga/gav opp",
+      "gitt opp",
+      "gi opp"
+    ],
+    "vg": "sterk",
+    "lesson": 8,
+    "ex": {
+      "no": "Vi gir ikke opp.",
+      "de": "Wir geben nicht auf."
     }
   }
 ]

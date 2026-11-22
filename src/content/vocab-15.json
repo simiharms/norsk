@@ -110,34 +110,6 @@
     }
   },
   {
-    "id": "w15_noe",
-    "no": "noe",
-    "de": "etwas",
-    "pos": "pron",
-    "lesson": 15,
-    "ex": {
-      "no": "Vil du ha noe å spise?",
-      "de": "Möchtest du etwas zu essen?"
-    }
-  },
-  {
-    "id": "w15_ingen",
-    "no": "ingen",
-    "de": "niemand; kein",
-    "deAlt": [
-      "niemand",
-      "kein",
-      "keine"
-    ],
-    "pos": "pron",
-    "lesson": 15,
-    "note": "ingen = ikke noen. Mit Hilfsverb: Jeg har ikke sett noen.",
-    "ex": {
-      "no": "Ingen klarer å være helt stille.",
-      "de": "Niemand schafft es, ganz leise zu sein."
-    }
-  },
-  {
     "id": "w15_vekke",
     "no": "vekke",
     "de": "wecken",
@@ -174,24 +146,6 @@
     }
   },
   {
-    "id": "w15_bjeffe",
-    "no": "bjeffe",
-    "de": "bellen",
-    "pos": "verb",
-    "vf": [
-      "bjeffer",
-      "bjeffet",
-      "bjeffet",
-      "bjeff"
-    ],
-    "vg": "1",
-    "lesson": 15,
-    "ex": {
-      "no": "Bamse bjeffer på alle som går forbi.",
-      "de": "Bamse bellt jeden an, der vorbeigeht."
-    }
-  },
-  {
     "id": "w15_rette",
     "no": "rette",
     "de": "korrigieren",
@@ -207,25 +161,6 @@
     "ex": {
       "no": "Kari retter prøvene til elevene sine.",
       "de": "Kari korrigiert die Klassenarbeiten ihrer Schüler."
-    }
-  },
-  {
-    "id": "w15_vaske_opp",
-    "no": "vaske opp",
-    "de": "abspülen",
-    "pos": "verb",
-    "vf": [
-      "vasker opp",
-      "vasket opp",
-      "vasket opp",
-      "vask opp"
-    ],
-    "vg": "1",
-    "lesson": 15,
-    "wk": true,
-    "ex": {
-      "no": "Etter middagen vasker Per opp.",
-      "de": "Nach dem Abendessen spült Per ab."
     }
   },
   {
@@ -281,28 +216,6 @@
     "ex": {
       "no": "Ingen klarer å være stille.",
       "de": "Niemand schafft es, leise zu sein."
-    }
-  },
-  {
-    "id": "w15_ligne_paa",
-    "no": "ligne på",
-    "de": "ähnlich sehen, ähneln",
-    "alt": [
-      "likne på"
-    ],
-    "pos": "verb",
-    "vf": [
-      "ligner på",
-      "lignet på",
-      "lignet på",
-      ""
-    ],
-    "vg": "1",
-    "lesson": 15,
-    "wk": true,
-    "ex": {
-      "no": "Ola ligner på faren sin.",
-      "de": "Ola sieht seinem Vater ähnlich."
     }
   },
   {
@@ -477,25 +390,6 @@
     "ex": {
       "no": "Morfar lærte meg å fiske.",
       "de": "Opa (mütterlicherseits) hat mir das Angeln beigebracht."
-    }
-  },
-  {
-    "id": "w15_barnebarn",
-    "no": "barnebarn",
-    "de": "das Enkelkind",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "barnebarn",
-      "barnebarnet",
-      "barnebarn",
-      "barnebarna"
-    ],
-    "lesson": 15,
-    "wk": true,
-    "ex": {
-      "no": "Ola er barnebarnet til bestemor Ingrid.",
-      "de": "Ola ist Oma Ingrids Enkel."
     }
   },
   {
@@ -975,27 +869,6 @@
     }
   },
   {
-    "id": "w15_praksis",
-    "no": "praksis",
-    "de": "das Praktikum",
-    "deAlt": [
-      "die Praxis"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "praksis",
-      "praksisen",
-      "praksiser",
-      "praksisene"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "Anna har praksis på sykehuset.",
-      "de": "Anna macht ein Praktikum im Krankenhaus."
-    }
-  },
-  {
     "id": "w15_nattevakt",
     "no": "nattevakt",
     "de": "der Nachtdienst",
@@ -1015,24 +888,6 @@
     "ex": {
       "no": "Etter nattevakta sover Anna til klokka to.",
       "de": "Nach dem Nachtdienst schläft Anna bis zwei."
-    }
-  },
-  {
-    "id": "w15_sykehus",
-    "no": "sykehus",
-    "de": "das Krankenhaus",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "sykehus",
-      "sykehuset",
-      "sykehus",
-      "sykehusa/sykehusene"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "Anna sykler til sykehuset.",
-      "de": "Anna radelt zum Krankenhaus."
     }
   },
   {
@@ -1180,27 +1035,6 @@
     }
   },
   {
-    "id": "w15_barnehage",
-    "no": "barnehage",
-    "de": "der Kindergarten",
-    "deAlt": [
-      "die Kita"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "barnehage",
-      "barnehagen",
-      "barnehager",
-      "barnehagene"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "De fleste barn går i barnehage.",
-      "de": "Die meisten Kinder gehen in den Kindergarten."
-    }
-  },
-  {
     "id": "w15_trening",
     "no": "trening",
     "de": "das Training",
@@ -1208,7 +1042,9 @@
     "gender": "f",
     "forms": [
       "trening",
-      "treninga"
+      "treninga/treningen",
+      "treninger",
+      "treningene"
     ],
     "lesson": 15,
     "ex": {
@@ -1336,22 +1172,6 @@
     }
   },
   {
-    "id": "w15_irritert",
-    "no": "irritert",
-    "de": "gereizt, genervt",
-    "pos": "adj",
-    "forms": [
-      "irritert",
-      "irritert",
-      "irriterte"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "Begge to blir litt irriterte.",
-      "de": "Beide werden ein bisschen gereizt."
-    }
-  },
-  {
     "id": "w15_voksen",
     "no": "voksen",
     "de": "erwachsen",
@@ -1450,43 +1270,6 @@
     }
   },
   {
-    "id": "w15_tirsdag",
-    "no": "tirsdag",
-    "de": "der Dienstag",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "tirsdag",
-      "tirsdagen",
-      "tirsdager",
-      "tirsdagene"
-    ],
-    "lesson": 15,
-    "note": "Wochentage schreibt man klein: på tirsdag = am Dienstag, på tirsdager = dienstags.",
-    "ex": {
-      "no": "På tirsdager lager Per middag.",
-      "de": "Dienstags kocht Per."
-    }
-  },
-  {
-    "id": "w15_avis",
-    "no": "avis",
-    "de": "die Zeitung",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "avis",
-      "avisa",
-      "aviser",
-      "avisene"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "Kari leser avisa på nettbrettet.",
-      "de": "Kari liest die Zeitung auf dem Tablet."
-    }
-  },
-  {
     "id": "w15_haar",
     "no": "hår",
     "de": "das Haar, die Haare",
@@ -1559,77 +1342,6 @@
     "ex": {
       "no": "Ola spiller på datamaskinen sin til midnatt.",
       "de": "Ola spielt bis Mitternacht an seinem Computer."
-    }
-  },
-  {
-    "id": "w15_derfor",
-    "no": "derfor",
-    "de": "deshalb, darum",
-    "deAlt": [
-      "deshalb",
-      "darum"
-    ],
-    "pos": "adv",
-    "lesson": 15,
-    "note": "Am Satzanfang folgt Inversion: Derfor skriver jeg …",
-    "ex": {
-      "no": "Om en uke flytter jeg. Derfor skriver jeg dagbok.",
-      "de": "In einer Woche ziehe ich um. Deshalb schreibe ich Tagebuch."
-    }
-  },
-  {
-    "id": "w15_skole",
-    "no": "skole",
-    "de": "die Schule",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "skole",
-      "skolen",
-      "skoler",
-      "skolene"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "Kari retter prøver på skolen.",
-      "de": "Kari korrigiert in der Schule Klassenarbeiten."
-    }
-  },
-  {
-    "id": "w15_lue",
-    "no": "lue",
-    "de": "die Mütze",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "lue",
-      "lua",
-      "luer",
-      "luene"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "Bestemor strikker ei lue til Susanne.",
-      "de": "Oma strickt Susanne eine Mütze."
-    }
-  },
-  {
-    "id": "w15_sokkelleilighet",
-    "no": "sokkelleilighet",
-    "de": "die Einliegerwohnung (im Untergeschoss)",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "sokkelleilighet",
-      "sokkelleiligheten",
-      "sokkelleiligheter",
-      "sokkelleilighetene"
-    ],
-    "lesson": 15,
-    "note": "sokkel = das Untergeschoss eines Hauses (oft am Hang). Viele Familien vermieten so eine kleine Wohnung.",
-    "ex": {
-      "no": "Anna bor i sokkelleiligheten til familien Nygård.",
-      "de": "Anna wohnt in der Einliegerwohnung der Familie Nygård."
     }
   },
   {
@@ -1913,25 +1625,6 @@
     }
   },
   {
-    "id": "w15_telle",
-    "no": "telle",
-    "de": "zählen",
-    "pos": "verb",
-    "vf": [
-      "teller",
-      "talte",
-      "talt",
-      "tell"
-    ],
-    "vg": "uregelm",
-    "lesson": 15,
-    "note": "Unregelmäßig: telle – talte – talt.",
-    "ex": {
-      "no": "Ola teller til ti før han begynner å lete.",
-      "de": "Ola zählt bis zehn, bevor er anfängt zu suchen."
-    }
-  },
-  {
     "id": "w15_telleregle",
     "no": "telleregle",
     "de": "der Abzählreim",
@@ -1966,25 +1659,6 @@
     "ex": {
       "no": "Ola peker på klokka: «Nå må jeg gå!»",
       "de": "Ola zeigt auf die Uhr: „Jetzt muss ich gehen!“"
-    }
-  },
-  {
-    "id": "w15_lek",
-    "no": "lek",
-    "de": "das Spiel (von Kindern)",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "lek",
-      "leken",
-      "leker",
-      "lekene"
-    ],
-    "lesson": 15,
-    "note": "lek = freies Spiel; ein Spiel mit festen Regeln (Karten, Brettspiel) ist meist et spill.",
-    "ex": {
-      "no": "Gjemsel er en populær lek.",
-      "de": "Verstecken ist ein beliebtes Spiel."
     }
   },
   {
@@ -2133,6 +1807,27 @@
     "ex": {
       "no": "Ola merker ikke at bestemor ser på ham.",
       "de": "Ola merkt nicht, dass Oma ihn ansieht."
+    }
+  },
+  {
+    "id": "w21_kant",
+    "no": "kant",
+    "de": "der Rand",
+    "deAlt": [
+      "die Kante"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "kant",
+      "kanten",
+      "kanter",
+      "kantene"
+    ],
+    "lesson": 15,
+    "ex": {
+      "no": "Ikke gå for nær kanten!",
+      "de": "Geh nicht zu nah an den Rand!"
     }
   }
 ]
