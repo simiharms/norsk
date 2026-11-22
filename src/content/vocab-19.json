@@ -1469,13 +1469,13 @@
   {
     "id": "w19_heia",
     "no": "heia",
-    "de": "hopp!, los! (beim Anfeuern)",
+    "de": "los!, auf geht’s! (beim Anfeuern)",
     "pos": "interj",
     "lesson": 19,
     "wk": true,
     "ex": {
       "no": "Heia Norge!",
-      "de": "Hopp, Norwegen!"
+      "de": "Auf geht’s, Norwegen!"
     }
   },
   {

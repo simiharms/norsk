@@ -528,7 +528,7 @@
         "de": "Hast du einen Führerschein?"
       },
       {
-        "no": "Vi har leid en bil for hele helgen.",
+        "no": "Vi har leid en bil for hele helga.",
         "de": "Wir haben für das ganze Wochenende ein Auto gemietet."
       },
       {
@@ -1006,8 +1006,8 @@
           "explain": "kommende helg = nächstes Wochenende, ohne Artikel."
         },
         {
-          "prompt": "Noen ___ turister stoppet for å puste. (pese)",
-          "de": "Ein paar keuchende Touristen blieben stehen, um Luft zu holen.",
+          "prompt": "Noen ___ turister stoppet for å få igjen pusten. (pese)",
+          "de": "Ein paar keuchende Touristen blieben stehen, um wieder zu Atem zu kommen.",
           "answer": [
             "pesende"
           ],
@@ -1180,7 +1180,7 @@
           "answer": [
             "diskusjon"
           ],
-          "explain": "diskutere → diskusjon: hier ändert sich der Stamm (-t- fällt weg)."
+          "explain": "diskutere → diskusjon: hier ändert sich der Stamm (aus -ut- wird -us-)."
         },
         {
           "prompt": "Den norske ___ er ikke alltid lett for tyskere. (uttale, bestimmte Form)",
@@ -1570,7 +1570,8 @@
         "Hvis du hadde hørt på meg, hadde vi rukket ferja.",
         "Hvis du hadde hørt på meg, ville vi ha rukket ferja.",
         "Hadde du hørt på meg, hadde vi rukket ferja.",
-        "Hvis du hadde hørt på meg, hadde vi rukket ferjen."
+        "Hvis du hadde hørt på meg, hadde vi rukket ferjen.",
+        "Hadde du hørt på meg, ville vi ha rukket ferja."
       ],
       "hint": "Plusquamperfekt im hvis-Satz; rekke – rakk – rukket"
     },
@@ -1696,8 +1697,7 @@
   ],
   "dictation": [
     8,
-    11,
-    12
+    11
   ],
   "writing": {
     "prompt": "Zurück in Tromsø schreibst du (als Susanne) Matthias eine versöhnliche Nachricht über die Reise: Was wäre anders gelaufen, wenn …? Was bereust du, worin hatte er recht, und worauf freust du dich an Ostern? Verwende mindestens zwei irreale Sätze (Hvis …, hadde …; Jeg skulle ønske …) und eine Präposition mit Infinitiv (uten å, i stedet for å, glede seg til å).",

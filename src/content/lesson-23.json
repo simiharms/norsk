@@ -44,7 +44,7 @@
       },
       {
         "no": "Når jeg tenker tilbake på året, blir jeg nesten svimmel. I august, da jeg satt i et klasserom på Blindern, forsto jeg nesten ingenting. Siden da har jeg reist med Bergensbanen og Hurtigruta, tatt båt gjennom Nærøyfjorden, feiret jul i mørketida og påske i snøstorm og kranglet med Matthias på Sørlandet. Og på 17. mai sto jeg på Karl Johan og ropte «Hurra!» sammen med tusenvis av nordmenn.",
-        "de": "Wenn ich an das Jahr zurückdenke, wird mir fast schwindelig. Im August, als ich in einem Klassenzimmer in Blindern saß, verstand ich fast nichts. Seitdem bin ich mit der Bergensbahn und der Hurtigrute gefahren, mit dem Boot durch den Nærøyfjord gefahren, habe Weihnachten in der Polarnacht und Ostern im Schneesturm gefeiert und mich mit Matthias an der Südküste gestritten. Und am 17. Mai stand ich auf der Karl Johan und rief zusammen mit Tausenden von Norwegern „Hurra!“."
+        "de": "Wenn ich an das Jahr zurückdenke, wird mir fast schwindelig. Im August, als ich in einem Klassenzimmer in Blindern saß, verstand ich fast nichts. Seitdem bin ich mit der Bergensbahn und der Hurtigrute gefahren, habe eine Bootsfahrt durch den Nærøyfjord gemacht, Weihnachten in der Polarnacht und Ostern im Schneesturm gefeiert und mich mit Matthias an der Südküste gestritten. Und am 17. Mai stand ich auf der Karl Johan und rief zusammen mit Tausenden von Norwegern „Hurra!“."
       },
       {
         "no": "Jeg har lært mye mer enn språket. Jeg har lært å gå på tur i all slags vær, å spise brunost uten å klage og å si «takk for maten». Jeg har lært at nordmenn er stille på bussen, men varme når man først blir kjent med dem – og at de gjerne snakker rett fra levra. Takket være en viss sjarmerende mann fra Hurtigruta vet jeg også at man ikke skal kjøpe katta i sekken. Og jeg har lært at det ikke finnes dårlig vær, bare dårlige klær.",
@@ -639,7 +639,7 @@
         },
         {
           "prompt": "Inga har bodd i Tromsø ___ hun var nitten. (seit)",
-          "de": "Inga wohnt in Tromsø, seit sie neunzehn war.",
+          "de": "Inga wohnt seit ihrem neunzehnten Lebensjahr in Tromsø.",
           "answer": [
             "siden"
           ],
@@ -1064,7 +1064,7 @@
         },
         {
           "h": "Das Präsens ist (fast) immer regelmäßig",
-          "body": "Auch bei starken Verben ist das Präsens einfach: Infinitiv + **-r**: **drikker, skriver, bærer, sover**. Nur wenige Verben sind auch im Präsens unregelmäßig: **er, gjør, sier, spør, vet**.\n\nLerne neue Verben deshalb immer mit drei Formen: **bære – bar – båret**."
+          "body": "Auch bei starken Verben ist das Präsens einfach: Infinitiv + **-r**: **drikker, skriver, bærer, sover**. Nur wenige Verben sind auch im Präsens unregelmäßig: **er, gjør, sier, spør, vet** und die Modalverben (**kan, vil, skal, må, tør**).\n\nLerne neue Verben deshalb immer mit drei Formen: **bære – bar – båret**."
         }
       ],
       "drills": [
@@ -1452,10 +1452,10 @@
   ],
   "summary": [
     {
-      "prompt": "Susanne sitter på en stein og ___ på havet.",
-      "de": "Susanne sitzt auf einem Stein und schaut aufs Meer.",
+      "prompt": "Susanne sitter på en stein i Telegrafbukta og ___ det siste innlegget til bloggen sin.",
+      "de": "Susanne sitzt auf einem Stein in der Telegrafbukta und schreibt den letzten Beitrag für ihren Blog.",
       "answer": [
-        "ser"
+        "skriver"
       ]
     },
     {

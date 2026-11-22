@@ -1013,7 +1013,7 @@
         },
         {
           "prompt": "Susanne har ___ og skrevet i dagboka hele kvelden. (sitte, Perfekt)",
-          "de": "Susanne hat den ganzen Abend am Tagebuch geschrieben.",
+          "de": "Susanne hat den ganzen Abend dagesessen und in ihr Tagebuch geschrieben.",
           "answer": [
             "sittet"
           ],
@@ -1449,7 +1449,7 @@
         },
         {
           "prompt": "Vi bodde fem ___ på hytta. (natt, Plural)",
-          "de": "Wir haben fünf Nächte auf der Hütte gewohnt.",
+          "de": "Wir waren fünf Nächte auf der Hütte.",
           "answer": [
             "netter"
           ],

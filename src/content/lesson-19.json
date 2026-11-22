@@ -139,7 +139,7 @@
       },
       {
         "s": "a",
-        "no": "Tenk deg godt om før du svarer. Forresten, det var egentlig påsken jeg ringte om. Jeg fikk vite i dag at jeg har fri hele påskeuka!",
+        "no": "Tenk deg godt om før du svarer. Forresten var det egentlig påsken jeg ringte om. Jeg fikk vite i dag at jeg har fri hele påskeuka!",
         "de": "Denk gut nach, bevor du antwortest. Übrigens habe ich eigentlich wegen Ostern angerufen. Ich habe heute erfahren, dass ich die ganze Osterwoche frei habe!"
       },
       {
@@ -209,8 +209,8 @@
       },
       {
         "s": "s",
-        "no": "Familien Nygård har invitert oss begge med på hytta i Gudbrandsdalen! Og Kari spurte om Matthias også ville bli med.",
-        "de": "Die Familie Nygård hat uns beide auf ihre Hütte im Gudbrandsdal eingeladen! Und Kari hat gefragt, ob Matthias auch mitkommen möchte."
+        "no": "Familien Nygård har invitert Anna og meg med på hytta i Gudbrandsdalen! Og Kari spurte om Matthias også ville bli med.",
+        "de": "Die Familie Nygård hat Anna und mich auf ihre Hütte im Gudbrandsdal eingeladen! Und Kari hat gefragt, ob Matthias auch mitkommen möchte."
       },
       {
         "s": "i",
@@ -429,8 +429,8 @@
         "de": "die Biathletinnen und Biathleten"
       },
       {
-        "no": "invitert oss begge med",
-        "de": "uns beide eingeladen"
+        "no": "invitert Anna og meg med",
+        "de": "Anna und mich eingeladen"
       },
       {
         "no": "Supert",
@@ -698,7 +698,7 @@
       },
       {
         "no": "Heia Norge!",
-        "de": "Hopp, Norwegen!"
+        "de": "Auf geht’s, Norwegen!"
       },
       {
         "no": "Kom igjen!",
@@ -1520,7 +1520,11 @@
         "Det står en mann utenfor døra.",
         "Utenfor døra står det en mann.",
         "Det står en mann utenfor døren.",
-        "Utenfor døren står det en mann."
+        "Utenfor døren står det en mann.",
+        "Det står en mann foran døra.",
+        "Foran døra står det en mann.",
+        "Det står en mann foran døren.",
+        "Foran døren står det en mann."
       ],
       "hint": "präsentierender Satz mit det"
     },
@@ -1544,7 +1548,8 @@
         "Hvem var det du snakket med?",
         "Hvem var det du snakka med?",
         "Hvem er det du har snakket med?",
-        "Hvem snakket du med?"
+        "Hvem snakket du med?",
+        "Hvem har du snakket med?"
       ],
       "hint": "am natürlichsten als Spaltsatz"
     }

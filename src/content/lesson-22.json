@@ -1025,7 +1025,7 @@
           "explain": "Absender, Herkunft: fra – nicht av!"
         },
         {
-          "prompt": "En fordel ___ å bo i Sagene er at det er kort vei til sentrum.",
+          "prompt": "En fordel ___ å bo på Sagene er at det er kort vei til sentrum.",
           "de": "Ein Vorteil, wenn man in Sagene wohnt, ist, dass es nicht weit ins Zentrum ist.",
           "answer": [
             "ved",
@@ -1666,7 +1666,8 @@
       "de": "Das Schöne am 17. Mai sind die Kinder.",
       "no": [
         "Det fine ved 17. mai er barna.",
-        "Det fineste ved 17. mai er barna."
+        "Det fineste ved 17. mai er barna.",
+        "Det fine med 17. mai er barna."
       ]
     }
   ],
