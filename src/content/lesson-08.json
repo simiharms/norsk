@@ -243,8 +243,8 @@
       "intro": "In Norwegen wird viel Zeitung gelesen – heute meist auf dem Handy. Ein kurzer Überblick über die norwegische Presse.",
       "lines": [
         {
-          "no": "Nordmenn leser mye avis. Før kom avisa i postkassa tidlig om morgenen, og mange leste den til frokost. I dag leser de fleste nyhetene på mobilen, men noen vil fortsatt ha papiravisa i postkassa.",
-          "de": "Die Norweger lesen viel Zeitung. Früher kam die Zeitung frühmorgens in den Briefkasten, und viele lasen sie beim Frühstück. Heute lesen die meisten die Nachrichten auf dem Handy, aber manche wollen immer noch die gedruckte Zeitung im Briefkasten haben."
+          "no": "Nordmenn leser mye avis. Før kom avisa i postkassa tidlig om morgenen, og mange leste den til frokost. I dag leser de fleste nyhetene på mobilen, men noen leser fortsatt avisa på papir.",
+          "de": "Die Norweger lesen viel Zeitung. Früher kam die Zeitung frühmorgens in den Briefkasten, und viele lasen sie beim Frühstück. Heute lesen die meisten die Nachrichten auf dem Handy, aber manche lesen die Zeitung immer noch auf Papier."
         },
         {
           "no": "Aftenposten er en stor avis fra Oslo. Den er over 150 år gammel. VG (Verdens Gang) og Dagbladet kommer også fra Oslo. De har store bilder og store overskrifter, og de skriver mye om sport og kjente mennesker.",
@@ -255,12 +255,12 @@
           "de": "Die meisten Städte haben außerdem eine eigene Lokalzeitung. Dort kann man über die Schulen, die Fußballmannschaft und alles lesen, was in der Nähe passiert. In Bergen lesen viele Bergens Tidende, und in Ålesund lesen die Leute die Sunnmørsposten."
         },
         {
-          "no": "Adresseavisen i Trondheim kom ut første gang i 1767. Den er den eldste avisa i Norge som fortsatt kommer ut.",
+          "no": "Adresseavisen i Trondheim kom ut første gang i 1767. Det er den eldste avisa i Norge som fortsatt kommer ut.",
           "de": "Die Adresseavisen in Trondheim erschien zum ersten Mal 1767. Sie ist die älteste Zeitung Norwegens, die heute noch erscheint."
         },
         {
-          "no": "Mange nordmenn betaler for å lese avisa på nett. NRK er ikke en avis, men Norges store radio- og TV-kanal. NRK har også nyheter på nett, og de er gratis for alle.",
-          "de": "Viele Norweger bezahlen dafür, die Zeitung im Internet zu lesen. NRK ist keine Zeitung, sondern Norwegens großer Radio- und Fernsehsender. NRK hat auch Nachrichten im Internet, und die sind für alle kostenlos."
+          "no": "Mange nordmenn betaler for å lese avisa på nett. NRK er ikke en avis. NRK lager radio og TV for hele landet, og på nett har NRK også mange nyheter – gratis for alle.",
+          "de": "Viele Norweger bezahlen dafür, die Zeitung im Internet zu lesen. NRK ist keine Zeitung. NRK macht Radio und Fernsehen für das ganze Land, und im Internet hat NRK auch viele Nachrichten – kostenlos für alle."
         },
         {
           "no": "Et tips når du lærer norsk: Les en kort nyhet på norsk hver dag. Har du allerede lest en norsk avis i dag?",
@@ -301,8 +301,8 @@
           "de": "auf dem Handy"
         },
         {
-          "no": "papiravisa",
-          "de": "die gedruckte Zeitung, die Papierausgabe"
+          "no": "på papir",
+          "de": "auf Papier, gedruckt"
         },
         {
           "no": "over 150 år gammel",
@@ -373,8 +373,12 @@
           "de": "NRK (Norsk rikskringkasting) – der öffentlich-rechtliche Rundfunk Norwegens"
         },
         {
-          "no": "radio- og TV-kanal",
-          "de": "Radio- und Fernsehsender"
+          "no": "lager radio og TV",
+          "de": "macht Radio und Fernsehen"
+        },
+        {
+          "no": "for hele landet",
+          "de": "für das ganze Land"
         },
         {
           "no": "gratis for alle",
@@ -1421,7 +1425,7 @@
           "answer": [
             "milliarder"
           ],
-          "explain": "en milliard – milliarder. Achtung: en milliard = eine Milliarde, nicht »eine Billion«."
+          "explain": "million und milliard sind Substantive mit Plural: en milliard – milliarder (wie im Deutschen: eine Milliarde – Milliarden)."
         },
         {
           "prompt": "En million er tusen ganger ___. (1000)",

@@ -1617,24 +1617,6 @@
     }
   },
   {
-    "id": "w08_kanal",
-    "no": "kanal",
-    "de": "der Sender, der Kanal",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "kanal",
-      "kanalen",
-      "kanaler",
-      "kanalene"
-    ],
-    "lesson": 8,
-    "ex": {
-      "no": "NRK er en norsk TV-kanal.",
-      "de": "NRK ist ein norwegischer Fernsehsender."
-    }
-  },
-  {
     "id": "w08_tips",
     "no": "tips",
     "de": "der Tipp",
@@ -1706,7 +1688,7 @@
       "no": "Norge har mange milliarder kroner i oljepenger.",
       "de": "Norwegen hat viele Milliarden Kronen an Ölgeld."
     },
-    "note": "en milliard = 1 000 000 000 (eine Milliarde, keine »Billion«)."
+    "note": "en milliard = 1 000 000 000, wie im Deutschen (eine Milliarde)."
   },
   {
     "id": "w08_komma",
