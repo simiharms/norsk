@@ -1625,6 +1625,18 @@
     "note": "Plural mit mm: ensomme."
   },
   {
+    "id": "w12_ok",
+    "no": "ok",
+    "de": "okay",
+    "pos": "interj",
+    "lesson": 12,
+    "ex": {
+      "no": "Ok, hva skal vi gjøre i morgen?",
+      "de": "Okay, was machen wir morgen?"
+    },
+    "note": "Auch »okei« geschrieben."
+  },
+  {
     "id": "w12_daarlig",
     "no": "dårlig",
     "de": "schlecht",

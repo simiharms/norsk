@@ -823,7 +823,7 @@
           "explain": "glede seg til + å + Infinitiv."
         },
         {
-          "prompt": "Matthias var redd ___ at de skulle gå seg vill.",
+          "prompt": "Matthias var redd ___ at de skulle kjøre seg vill.",
           "de": "Matthias hatte Angst, dass sie sich verfahren würden.",
           "answer": [
             "for"
