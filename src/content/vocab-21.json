@@ -2125,5 +2125,787 @@
     },
     "note": "Wie sette: fortsatte – har fortsatt. fortsatt heißt auch »immer noch«.",
     "lesson": 21
+  },
+  {
+    "id": "w22_brekke",
+    "no": "brekke",
+    "de": "brechen",
+    "pos": "verb",
+    "vf": [
+      "brekker",
+      "brakk",
+      "brukket",
+      "brekk"
+    ],
+    "vg": "sterk",
+    "lesson": 21,
+    "ex": {
+      "no": "Gutten har et brukket bein og kan ikke gå på ski.",
+      "de": "Der Junge hat ein gebrochenes Bein und kann nicht Ski fahren."
+    }
+  },
+  {
+    "id": "w21_derfra",
+    "no": "derfra",
+    "de": "von dort",
+    "deAlt": [
+      "von da aus"
+    ],
+    "pos": "adv",
+    "ex": {
+      "no": "Jeg fløy til Trondheim, og derfra tok vi toget.",
+      "de": "Ich flog nach Trondheim, und von dort nahmen wir den Zug."
+    },
+    "note": "der (dort) + fra (von); ebenso: herfra (von hier), dit (dorthin).",
+    "lesson": 21
+  },
+  {
+    "id": "w21_mot",
+    "no": "mot",
+    "de": "gegen",
+    "deAlt": [
+      "in Richtung",
+      "nach"
+    ],
+    "pos": "prep",
+    "ex": {
+      "no": "Vi dro av gårde mot en topp i nærheten.",
+      "de": "Wir brachen zu einem Gipfel in der Nähe auf."
+    },
+    "note": "Richtung: mot nord (nach Norden), mot Slottet (zum Schloss hin); Gegensatz: Norge mot Sverige.",
+    "lesson": 21
+  },
+  {
+    "id": "w21_tykk",
+    "no": "tykk",
+    "de": "dick",
+    "pos": "adj",
+    "forms": [
+      "tykk",
+      "tykt",
+      "tykke"
+    ],
+    "lesson": 21,
+    "ex": {
+      "no": "Kari leste en tykk kriminalroman.",
+      "de": "Kari las einen dicken Kriminalroman."
+    }
+  },
+  {
+    "id": "w21_vind",
+    "no": "vind",
+    "de": "der Wind",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "vind",
+      "vinden",
+      "vinder",
+      "vindene"
+    ],
+    "lesson": 21,
+    "ex": {
+      "no": "Ved tolvtiden økte vinden.",
+      "de": "Gegen zwölf nahm der Wind zu."
+    }
+  },
+  {
+    "id": "w21_skam",
+    "no": "skam",
+    "de": "die Schande",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "skam",
+      "skammen"
+    ],
+    "lesson": 21,
+    "ex": {
+      "no": "Det er ingen skam å snu.",
+      "de": "Es ist keine Schande umzukehren."
+    }
+  },
+  {
+    "id": "w21_snu",
+    "no": "snu",
+    "de": "umkehren",
+    "deAlt": [
+      "wenden",
+      "sich umdrehen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "snur",
+      "snudde",
+      "snudd",
+      "snu"
+    ],
+    "vg": "4",
+    "lesson": 21,
+    "ex": {
+      "no": "Vend i tide, det er ingen skam å snu.",
+      "de": "Kehr rechtzeitig um, es ist keine Schande umzukehren."
+    }
+  },
+  {
+    "id": "w21_sliten",
+    "no": "sliten",
+    "de": "müde, erschöpft",
+    "pos": "adj",
+    "forms": [
+      "sliten",
+      "slitent",
+      "slitne"
+    ],
+    "lesson": 21,
+    "ex": {
+      "no": "Etter turen var vi våte og slitne.",
+      "de": "Nach der Tour waren wir nass und müde."
+    }
+  },
+  {
+    "id": "w21_heldigvis",
+    "no": "heldigvis",
+    "de": "zum Glück",
+    "pos": "adv",
+    "lesson": 21,
+    "note": "Gegenteil: dessverre (leider).",
+    "ex": {
+      "no": "Heldigvis hadde Kari laget fårikål.",
+      "de": "Zum Glück hatte Kari Fårikål gekocht."
+    }
+  },
+  {
+    "id": "w21_meter",
+    "no": "meter",
+    "de": "der Meter",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "meter",
+      "meteren",
+      "meter",
+      "meterne"
+    ],
+    "lesson": 21,
+    "ex": {
+      "no": "Det lå nesten en meter nysnø rundt hytta.",
+      "de": "Um die Hütte lag fast ein Meter Neuschnee."
+    }
+  },
+  {
+    "id": "w21_fryse",
+    "no": "fryse",
+    "de": "frieren",
+    "pos": "verb",
+    "vf": [
+      "fryser",
+      "frøs",
+      "frosset",
+      "frys"
+    ],
+    "vg": "sterk",
+    "lesson": 21,
+    "ex": {
+      "no": "Det blåste mye, men vi frøs ikke.",
+      "de": "Es war sehr windig, aber wir froren nicht."
+    }
+  },
+  {
+    "id": "w21_frossen",
+    "no": "frossen",
+    "de": "gefroren",
+    "deAlt": [
+      "durchgefroren"
+    ],
+    "pos": "adj",
+    "forms": [
+      "frossen",
+      "frossent",
+      "frosne"
+    ],
+    "ex": {
+      "no": "Vi kom tilbake med frosne fingre.",
+      "de": "Wir kamen mit gefrorenen Fingern zurück."
+    },
+    "note": "Partizip von fryse (frøs – frosset); Plural und bestimmte Form: frosne.",
+    "lesson": 21
+  },
+  {
+    "id": "w21_finger",
+    "no": "finger",
+    "de": "der Finger",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "finger",
+      "fingeren",
+      "fingrer",
+      "fingrene"
+    ],
+    "ex": {
+      "no": "Fingrene mine var helt stive av kulde.",
+      "de": "Meine Finger waren ganz steif vor Kälte."
+    },
+    "note": "Im Plural fällt das e weg: fingrer, fingrene.",
+    "lesson": 21
+  },
+  {
+    "id": "w21_loype",
+    "no": "løype",
+    "de": "die Loipe",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "løype",
+      "løypa",
+      "løyper",
+      "løypene"
+    ],
+    "ex": {
+      "no": "Løypene rundt hytta var nettopp kjørt opp.",
+      "de": "Die Loipen um die Hütte waren gerade gespurt worden."
+    },
+    "note": "kjøre opp løyper = Loipen spuren.",
+    "lesson": 21
+  },
+  {
+    "id": "w21_oppkjort",
+    "no": "oppkjørt",
+    "de": "gespurt (Loipe)",
+    "pos": "adj",
+    "forms": [
+      "oppkjørt",
+      "oppkjørt",
+      "oppkjørte"
+    ],
+    "ex": {
+      "no": "Det er mange oppkjørte løyper i Gudbrandsdalen.",
+      "de": "Im Gudbrandsdal gibt es viele gespurte Loipen."
+    },
+    "note": "Partizip von kjøre opp – als Adjektiv die feste Form mit der Partikel vorne.",
+    "lesson": 21
+  },
+  {
+    "id": "w21_sette_paa",
+    "no": "sette på",
+    "de": "aufsetzen (zum Kochen)",
+    "deAlt": [
+      "anstellen",
+      "einschalten"
+    ],
+    "pos": "verb",
+    "vf": [
+      "setter på",
+      "satte på",
+      "satt på",
+      "sett på"
+    ],
+    "vg": "uregelm",
+    "ex": {
+      "no": "Kari satte på en stor gryte fårikål.",
+      "de": "Kari setzte einen großen Topf Fårikål auf."
+    },
+    "note": "Auch: sette på kaffe (Kaffee aufsetzen), sette på musikk (Musik anmachen).",
+    "lesson": 21
+  },
+  {
+    "id": "w21_forsyne_seg",
+    "no": "forsyne seg",
+    "de": "sich (vom Essen) nehmen",
+    "deAlt": [
+      "sich bedienen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "forsyner seg",
+      "forsynte seg",
+      "forsynt seg",
+      "forsyn deg"
+    ],
+    "vg": "2",
+    "ex": {
+      "no": "Forsyn dere, det er nok til alle!",
+      "de": "Nehmt euch, es ist genug für alle da!"
+    },
+    "lesson": 21
+  },
+  {
+    "id": "w21_nedsnodd",
+    "no": "nedsnødd",
+    "de": "eingeschneit",
+    "pos": "adj",
+    "forms": [
+      "nedsnødd",
+      "nedsnødd",
+      "nedsnødde"
+    ],
+    "ex": {
+      "no": "Om morgenen var bilen helt nedsnødd.",
+      "de": "Am Morgen war das Auto völlig eingeschneit."
+    },
+    "note": "Von snø ned (zuschneien): als Adjektiv die feste Zusammensetzung.",
+    "lesson": 21
+  },
+  {
+    "id": "w21_dekke",
+    "no": "dekke",
+    "de": "decken (Tisch)",
+    "deAlt": [
+      "bedecken"
+    ],
+    "pos": "verb",
+    "vf": [
+      "dekker",
+      "dekket/dekte",
+      "dekket/dekt",
+      "dekk"
+    ],
+    "vg": "1",
+    "ex": {
+      "no": "Kan du dekke bordet?",
+      "de": "Kannst du den Tisch decken?"
+    },
+    "lesson": 21
+  },
+  {
+    "id": "w21_stenge",
+    "no": "stenge",
+    "de": "schließen, sperren",
+    "pos": "verb",
+    "vf": [
+      "stenger",
+      "stengte",
+      "stengt",
+      "steng"
+    ],
+    "vg": "2",
+    "ex": {
+      "no": "Veien ble stengt på grunn av snøen.",
+      "de": "Die Straße wurde wegen des Schnees gesperrt."
+    },
+    "lesson": 21
+  },
+  {
+    "id": "w21_pusse",
+    "no": "pusse",
+    "de": "putzen",
+    "deAlt": [
+      "polieren"
+    ],
+    "pos": "verb",
+    "vf": [
+      "pusser",
+      "pusset",
+      "pusset",
+      "puss"
+    ],
+    "vg": "1",
+    "ex": {
+      "no": "Husk å pusse tennene!",
+      "de": "Denk daran, dir die Zähne zu putzen!"
+    },
+    "note": "pusse tennene = sich die Zähne putzen (ohne „sich“).",
+    "lesson": 21
+  },
+  {
+    "id": "w21_til_sengs",
+    "no": "til sengs",
+    "de": "ins Bett; im Bett",
+    "pos": "phrase",
+    "ex": {
+      "no": "Alle har gått til sengs.",
+      "de": "Alle sind schlafen gegangen."
+    },
+    "note": "gå til sengs = schlafen gehen; ligge til sengs = (krank) im Bett liegen.",
+    "lesson": 21
+  },
+  {
+    "id": "w21_til_bords",
+    "no": "til bords",
+    "de": "zu Tisch",
+    "pos": "phrase",
+    "ex": {
+      "no": "Vær så god, gå til bords!",
+      "de": "Bitte, kommt zu Tisch!"
+    },
+    "lesson": 21
+  },
+  {
+    "id": "w21_til_fots",
+    "no": "til fots",
+    "de": "zu Fuß",
+    "pos": "phrase",
+    "ex": {
+      "no": "Det tar en time til fots ned til bygda.",
+      "de": "Zu Fuß braucht man eine Stunde hinunter ins Dorf."
+    },
+    "lesson": 21
+  },
+  {
+    "id": "w21_til_sjos",
+    "no": "til sjøs",
+    "de": "zur See",
+    "pos": "phrase",
+    "ex": {
+      "no": "Bestefaren hans var til sjøs i tjue år.",
+      "de": "Sein Großvater war zwanzig Jahre lang zur See."
+    },
+    "lesson": 21
+  },
+  {
+    "id": "w21_til_topps",
+    "no": "til topps",
+    "de": "bis ganz nach oben",
+    "deAlt": [
+      "bis zum Gipfel"
+    ],
+    "pos": "phrase",
+    "ex": {
+      "no": "Vi gikk helt til topps.",
+      "de": "Wir stiegen ganz bis zum Gipfel."
+    },
+    "lesson": 21
+  },
+  {
+    "id": "w21_til_stede",
+    "no": "til stede",
+    "de": "anwesend",
+    "pos": "phrase",
+    "ex": {
+      "no": "Alle studentene var til stede.",
+      "de": "Alle Studierenden waren anwesend."
+    },
+    "note": "In zwei Wörtern schreiben (nicht *tilstede).",
+    "lesson": 21
+  },
+  {
+    "id": "w21_fot",
+    "no": "fot",
+    "de": "der Fuß",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "fot",
+      "foten",
+      "føtter",
+      "føttene"
+    ],
+    "ex": {
+      "no": "Føttene mine er iskalde.",
+      "de": "Meine Füße sind eiskalt."
+    },
+    "note": "Unregelmäßiger Plural wie Fuß – Füße. til fots = zu Fuß.",
+    "lesson": 21
+  },
+  {
+    "id": "w21_tann",
+    "no": "tann",
+    "de": "der Zahn",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "tann",
+      "tanna",
+      "tenner",
+      "tennene"
+    ],
+    "ex": {
+      "no": "Ola pusser tennene før han legger seg.",
+      "de": "Ola putzt sich die Zähne, bevor er ins Bett geht."
+    },
+    "lesson": 21
+  },
+  {
+    "id": "w21_ku",
+    "no": "ku",
+    "de": "die Kuh",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "ku",
+      "kua",
+      "kyr/kuer",
+      "kyrne/kuene"
+    ],
+    "ex": {
+      "no": "Om sommeren går kyrne ute på fjellet.",
+      "de": "Im Sommer sind die Kühe draußen in den Bergen."
+    },
+    "lesson": 21
+  },
+  {
+    "id": "w21_kne",
+    "no": "kne",
+    "de": "das Knie",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "kne",
+      "kneet",
+      "knær",
+      "knærne"
+    ],
+    "ex": {
+      "no": "Bestemor har vondt i knærne.",
+      "de": "Oma tun die Knie weh."
+    },
+    "lesson": 21
+  },
+  {
+    "id": "w21_feil",
+    "no": "feil",
+    "de": "der Fehler",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "feil",
+      "feilen",
+      "feil",
+      "feilene"
+    ],
+    "ex": {
+      "no": "Susanne gjør nesten ingen feil lenger.",
+      "de": "Susanne macht kaum noch Fehler."
+    },
+    "note": "Plural ohne Endung. Als Adjektiv heißt feil „falsch“.",
+    "lesson": 21
+  },
+  {
+    "id": "w21_ting",
+    "no": "ting",
+    "de": "das Ding, die Sache",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "ting",
+      "tingen",
+      "ting",
+      "tingene"
+    ],
+    "lesson": 21,
+    "note": "Plural ohne Endung: mange ting.",
+    "ex": {
+      "no": "Vi hadde med oss altfor mange ting på hytta.",
+      "de": "Wir hatten viel zu viele Sachen mit auf die Hütte genommen."
+    }
+  },
+  {
+    "id": "w21_nasjonalrett",
+    "no": "nasjonalrett",
+    "de": "das Nationalgericht",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "nasjonalrett",
+      "nasjonalretten",
+      "nasjonalretter",
+      "nasjonalrettene"
+    ],
+    "ex": {
+      "no": "Fårikål blir ofte kalt Norges nasjonalrett.",
+      "de": "Fårikål wird oft als Norwegens Nationalgericht bezeichnet."
+    },
+    "lesson": 21,
+    "wk": true
+  },
+  {
+    "id": "w21_festdag",
+    "no": "festdag",
+    "de": "der Festtag",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "festdag",
+      "festdagen",
+      "festdager",
+      "festdagene"
+    ],
+    "ex": {
+      "no": "Den siste torsdagen i september er fårikålens festdag.",
+      "de": "Der letzte Donnerstag im September ist der Festtag des Fårikål."
+    },
+    "lesson": 21,
+    "wk": true
+  },
+  {
+    "id": "w21_faarekjott",
+    "no": "fårekjøtt",
+    "de": "das Schaffleisch",
+    "deAlt": [
+      "das Hammelfleisch",
+      "das Lammfleisch"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "fårekjøtt",
+      "fårekjøttet"
+    ],
+    "ex": {
+      "no": "Til fårikål trenger man fårekjøtt med bein.",
+      "de": "Für Fårikål braucht man Schaffleisch mit Knochen."
+    },
+    "note": "et får = ein Schaf (Plural: får).",
+    "lesson": 21,
+    "wk": true
+  },
+  {
+    "id": "w21_pepper",
+    "no": "pepper",
+    "de": "der Pfeffer",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "pepper",
+      "pepperen"
+    ],
+    "ex": {
+      "no": "I fårikål bruker man hel pepper.",
+      "de": "In Fårikål nimmt man ganze Pfefferkörner."
+    },
+    "note": "hel pepper = ganze Pfefferkörner.",
+    "lesson": 21,
+    "wk": true
+  },
+  {
+    "id": "w21_lag",
+    "no": "lag",
+    "de": "die Schicht",
+    "deAlt": [
+      "die Lage"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "lag",
+      "laget",
+      "lag",
+      "laga/lagene"
+    ],
+    "ex": {
+      "no": "Strø salt og pepper mellom lagene.",
+      "de": "Streu Salz und Pfeffer zwischen die Schichten."
+    },
+    "note": "Auch: die Mannschaft (et fotballag).",
+    "lesson": 21,
+    "wk": true
+  },
+  {
+    "id": "w21_lagvis",
+    "no": "lagvis",
+    "de": "schichtweise",
+    "pos": "adv",
+    "ex": {
+      "no": "Legg kjøtt og kål lagvis i gryta.",
+      "de": "Leg Fleisch und Kohl schichtweise in den Topf."
+    },
+    "lesson": 21,
+    "wk": true
+  },
+  {
+    "id": "w21_stro",
+    "no": "strø",
+    "de": "streuen",
+    "pos": "verb",
+    "vf": [
+      "strør",
+      "strødde",
+      "strødd",
+      "strø"
+    ],
+    "vg": "4",
+    "ex": {
+      "no": "Strø litt salt over kålen.",
+      "de": "Streu ein wenig Salz über den Kohl."
+    },
+    "lesson": 21,
+    "wk": true
+  },
+  {
+    "id": "w21_helle",
+    "no": "helle",
+    "de": "gießen",
+    "deAlt": [
+      "schütten"
+    ],
+    "pos": "verb",
+    "vf": [
+      "heller",
+      "helte",
+      "helt",
+      "hell"
+    ],
+    "vg": "2",
+    "ex": {
+      "no": "Hell på litt vann.",
+      "de": "Gieß ein wenig Wasser dazu."
+    },
+    "lesson": 21,
+    "wk": true
+  },
+  {
+    "id": "w21_lokk",
+    "no": "lokk",
+    "de": "der Deckel",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "lokk",
+      "lokket",
+      "lokk",
+      "lokka/lokkene"
+    ],
+    "ex": {
+      "no": "La gryta småkoke under lokk.",
+      "de": "Lass den Topf mit Deckel köcheln."
+    },
+    "lesson": 21,
+    "wk": true
+  },
+  {
+    "id": "w21_smaakoke",
+    "no": "småkoke",
+    "de": "köcheln",
+    "deAlt": [
+      "leicht kochen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "småkoker",
+      "småkokte",
+      "småkokt",
+      "småkok"
+    ],
+    "vg": "2",
+    "ex": {
+      "no": "Fårikålen sto og småkokte på vedovnen.",
+      "de": "Der Fårikål köchelte auf dem Holzofen vor sich hin."
+    },
+    "lesson": 21,
+    "wk": true
+  },
+  {
+    "id": "w21_koke",
+    "no": "koke",
+    "de": "kochen (in Wasser)",
+    "deAlt": [
+      "sieden"
+    ],
+    "pos": "verb",
+    "vf": [
+      "koker",
+      "kokte",
+      "kokt",
+      "kok"
+    ],
+    "vg": "2",
+    "ex": {
+      "no": "Fårikål serveres med kokte poteter.",
+      "de": "Fårikål wird mit Salzkartoffeln serviert."
+    },
+    "note": "koke = in Wasser kochen; lage mat = Essen kochen (allgemein).",
+    "lesson": 21,
+    "wk": true
   }
 ]

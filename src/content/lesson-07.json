@@ -5,11 +5,11 @@
   "titleDe": "Theater und Eifersucht",
   "place": "Oslo, Nationaltheatret",
   "goals": [
-    "Du kannst über Erlebnisse sprechen und danach fragen: »Har du noen gang …?«",
-    "Du lernst das Perfekt (har + Partizip) und wann man Präteritum oder Perfekt benutzt.",
+    "Du kannst erzählen, was passiert ist: Du lernst das Präteritum der regelmäßigen Verben und wann man es benutzt (i går, i fjor, i 1879).",
     "Du fragst mit hvilken/hvilket/hvilke nach und zeigst mit denne/dette/disse auf etwas.",
-    "Du verbindest Sätze mit dem Relativpronomen som.",
-    "Du kannst Gefühle ausdrücken: glad, sint, sjalu, lei seg."
+    "Du kannst die Uhrzeit sagen (halv åtte, kvart over ti) und Jahreszahlen lesen (atten syttini, to tusen og fem).",
+    "Du kannst dich auf viele Arten bedanken und auf ein Danke antworten, und du kennst die Wochentage.",
+    "Du erfährst das Wichtigste über Henrik Ibsen und sein Stück »Et dukkehjem«."
   ],
   "text": {
     "id": "t07",
@@ -43,28 +43,28 @@
       },
       {
         "s": "m",
-        "no": "Jeg synes det er fantastisk. Har du sett «Et dukkehjem» før, Anna?",
-        "de": "Ich finde es fantastisch. Hast du »Et dukkehjem« schon einmal gesehen, Anna?"
+        "no": "Jeg synes det er fantastisk. Kjente du «Et dukkehjem» fra før, Anna?",
+        "de": "Ich finde es fantastisch. Kanntest du »Et dukkehjem« schon, Anna?"
       },
       {
         "s": "a",
-        "no": "Ja, jeg har sett det to ganger. Vi leste det også på videregående.",
-        "de": "Ja, ich habe es zweimal gesehen. Wir haben es auch auf dem Gymnasium gelesen."
+        "no": "Ja, vi leste det på videregående. Og for to år siden så jeg det i Bergen.",
+        "de": "Ja, wir haben es auf dem Gymnasium gelesen. Und vor zwei Jahren habe ich es in Bergen gesehen."
       },
       {
         "s": "m",
-        "no": "Jeg har lest det på tysk, men jeg har aldri sett det på en scene. Og denne skuespilleren som spiller Nora, er utrolig god!",
-        "de": "Ich habe es auf Deutsch gelesen, aber ich habe es noch nie auf einer Bühne gesehen. Und diese Schauspielerin, die Nora spielt, ist unglaublich gut!"
+        "no": "Jeg leste det på skolen, men i kveld ser jeg det for første gang på en scene. Og denne skuespilleren som spiller Nora, er utrolig god!",
+        "de": "Ich habe es in der Schule gelesen, aber heute Abend sehe ich es zum ersten Mal auf einer Bühne. Und diese Schauspielerin, die Nora spielt, ist unglaublich gut!"
       },
       {
         "s": "a",
-        "no": "Ja, hun er veldig flink. Jeg har sett henne i mange filmer også.",
-        "de": "Ja, sie ist sehr gut. Ich habe sie auch schon in vielen Filmen gesehen."
+        "no": "Ja, hun er veldig flink. Jeg så henne i en norsk film i fjor.",
+        "de": "Ja, sie ist sehr gut. Ich habe sie letztes Jahr in einem norwegischen Film gesehen."
       },
       {
         "s": "j",
-        "no": "Her er kaffe til alle. Jeg har stått i kø i ti minutter.",
-        "de": "Hier ist Kaffee für alle. Ich habe zehn Minuten in der Schlange gestanden."
+        "no": "Her er kaffe til alle. Jeg sto i kø i ti minutter!",
+        "de": "Hier ist Kaffee für alle. Ich habe zehn Minuten in der Schlange gestanden!"
       },
       {
         "s": "s",
@@ -78,8 +78,8 @@
       },
       {
         "s": "a",
-        "no": "Nora, selvfølgelig! Jeg har alltid likt henne. Hun er sterk, men hun vet det ikke ennå.",
-        "de": "Nora natürlich! Ich habe sie immer gemocht. Sie ist stark, aber sie weiß es noch nicht."
+        "no": "Nora, selvfølgelig! Jeg likte henne allerede på videregående. Hun er sterk, men hun vet det ikke ennå.",
+        "de": "Nora natürlich! Ich mochte sie schon auf dem Gymnasium. Sie ist stark, aber sie weiß es noch nicht."
       },
       {
         "s": "m",
@@ -88,8 +88,8 @@
       },
       {
         "s": "s",
-        "no": "Ikke si noe! Jeg har ikke lest stykket ennå, og jeg vil ikke vite hvordan det slutter.",
-        "de": "Sag nichts! Ich habe das Stück noch nicht gelesen, und ich will nicht wissen, wie es ausgeht."
+        "no": "Ikke si noe! Jeg vil ikke vite hvordan det slutter.",
+        "de": "Sag nichts! Ich will nicht wissen, wie es ausgeht."
       },
       {
         "s": "j",
@@ -98,33 +98,48 @@
       },
       {
         "s": "a",
-        "no": "Ja, ja. Oi, nå ringer det. Kom, vi må gå inn igjen!",
-        "de": "Ja, ja. Oh, jetzt klingelt es. Kommt, wir müssen wieder hinein!"
+        "no": "Oi, nå ringer det. Kom, vi må gå inn igjen!",
+        "de": "Oh, jetzt klingelt es. Kommt, wir müssen wieder hinein!"
       },
       {
         "s": "s",
-        "no": "For en slutt! Nora går ut og smeller igjen døra.",
-        "de": "Was für ein Schluss! Nora geht hinaus und knallt die Tür zu."
+        "no": "For en slutt! Nora gikk bare ut, og jeg hoppet nesten i stolen da døra smalt.",
+        "de": "Was für ein Schluss! Nora ging einfach hinaus, und ich bin fast vom Sitz gesprungen, als die Tür knallte."
       },
       {
         "s": "m",
-        "no": "Folk har snakket om dette smellet siden 1879.",
-        "de": "Über diesen Knall reden die Leute seit 1879."
+        "no": "Folk snakket om dette smellet i mange år.",
+        "de": "Über diesen Knall haben die Leute viele Jahre lang geredet."
       },
       {
         "s": "s",
-        "no": "Jeg har aldri sett et stykke som er så gammelt og så moderne samtidig.",
-        "de": "Ich habe noch nie ein Stück gesehen, das so alt und zugleich so modern ist."
+        "no": "Hvilket år skrev Ibsen stykket?",
+        "de": "In welchem Jahr hat Ibsen das Stück geschrieben?"
+      },
+      {
+        "s": "m",
+        "no": "I 1879, i Italia. Det er over hundre år gammelt, men samtidig så moderne.",
+        "de": "1879, in Italien. Es ist über hundert Jahre alt, aber zugleich so modern."
+      },
+      {
+        "s": "s",
+        "no": "Tida gikk så fort! Er klokka allerede kvart over ti?",
+        "de": "Die Zeit ist so schnell vergangen! Ist es schon Viertel nach zehn?"
+      },
+      {
+        "s": "m",
+        "no": "Ja. Stykket begynte halv åtte, så det varte i nesten tre timer.",
+        "de": "Ja. Das Stück hat um halb acht angefangen, es hat also fast drei Stunden gedauert."
       },
       {
         "s": "a",
-        "no": "Jonas, du har ikke sagt et ord siden pausen. Hva er det?",
-        "de": "Jonas, du hast seit der Pause kein Wort gesagt. Was ist los?"
+        "no": "Jonas, du sa ikke et ord etter pausen. Hva er det?",
+        "de": "Jonas, du hast nach der Pause kein Wort gesagt. Was ist los?"
       },
       {
         "s": "j",
-        "no": "Ingenting. Du og Matthias har jo hatt det så hyggelig i kveld.",
-        "de": "Nichts. Du und Matthias, ihr hattet es heute Abend ja so nett."
+        "no": "Ingenting. Du og Matthias hadde det jo så hyggelig i pausen.",
+        "de": "Nichts. Du und Matthias, ihr hattet es in der Pause ja so nett."
       },
       {
         "s": "a",
@@ -143,13 +158,13 @@
       },
       {
         "s": "s",
-        "no": "Har du noen gang vært sjalu på en forfatter som har vært død i over hundre år?",
-        "de": "Warst du schon einmal eifersüchtig auf einen Schriftsteller, der seit über hundert Jahren tot ist?"
+        "no": "Er du sjalu på en forfatter som døde i 1906?",
+        "de": "Bist du eifersüchtig auf einen Schriftsteller, der 1906 gestorben ist?"
       },
       {
         "s": "j",
-        "no": "Ha ha! Nei, det har jeg aldri vært før.",
-        "de": "Haha! Nein, das war ich noch nie."
+        "no": "Ha ha! Nei, ikke på Ibsen.",
+        "de": "Haha! Nein, auf Ibsen nicht."
       },
       {
         "s": "a",
@@ -158,8 +173,8 @@
       },
       {
         "s": "j",
-        "no": "Unnskyld, Anna. Jeg har vært sur hele kvelden. Har dere lyst på pizza? Jeg spanderer.",
-        "de": "Entschuldige, Anna. Ich war den ganzen Abend schlecht gelaunt. Habt ihr Lust auf Pizza? Ich lade euch ein."
+        "no": "Unnskyld, Anna. Jeg var litt sur. Har dere lyst på pizza? Jeg spanderer.",
+        "de": "Entschuldige, Anna. Ich war ein bisschen schlecht gelaunt. Habt ihr Lust auf Pizza? Ich lade euch ein."
       },
       {
         "s": "m",
@@ -168,13 +183,13 @@
       },
       {
         "s": "a",
-        "no": "Jeg kjenner en liten pizzarestaurant som ligger like ved Stortinget. Kom!",
-        "de": "Ich kenne eine kleine Pizzeria, die ganz in der Nähe des Stortings liegt. Kommt!"
+        "no": "Jeg kjenner en liten pizzarestaurant like ved Stortinget. Den er åpen til klokka ett. Kom!",
+        "de": "Ich kenne eine kleine Pizzeria ganz in der Nähe des Stortings. Sie hat bis ein Uhr geöffnet. Kommt!"
       },
       {
         "s": "s",
-        "no": "Matthias, har du noen gang vært sjalu?",
-        "de": "Matthias, warst du schon einmal eifersüchtig?"
+        "no": "Matthias, blir du også sjalu noen ganger?",
+        "de": "Matthias, wirst du auch manchmal eifersüchtig?"
       },
       {
         "s": "m",
@@ -183,10 +198,6 @@
       }
     ],
     "glossary": [
-      {
-        "no": "Endelig",
-        "de": "endlich"
-      },
       {
         "no": "så langt",
         "de": "bis jetzt, bisher"
@@ -200,28 +211,40 @@
         "de": "»Ein Puppenheim« – Ibsens Drama (auf Deutsch meist »Nora«)"
       },
       {
+        "no": "Kjente du",
+        "de": "Kanntest du (kjenne – kjente)"
+      },
+      {
+        "no": "fra før",
+        "de": "schon (von früher)"
+      },
+      {
         "no": "på videregående",
         "de": "auf dem Gymnasium (in der Oberstufe)"
+      },
+      {
+        "no": "for to år siden",
+        "de": "vor zwei Jahren"
+      },
+      {
+        "no": "så jeg",
+        "de": "sah ich (se – så, unregelmäßig)"
+      },
+      {
+        "no": "for første gang",
+        "de": "zum ersten Mal"
       },
       {
         "no": "på en scene",
         "de": "auf einer Bühne"
       },
       {
-        "no": "skuespilleren",
-        "de": "die Schauspielerin (en skuespiller: Schauspieler/in)"
+        "no": "denne skuespilleren",
+        "de": "diese Schauspielerin (en skuespiller: Schauspieler/in)"
       },
       {
-        "no": "utrolig",
-        "de": "unglaublich"
-      },
-      {
-        "no": "flink",
-        "de": "gut, tüchtig, begabt"
-      },
-      {
-        "no": "har stått i kø",
-        "de": "habe in der Schlange gestanden"
+        "no": "sto i kø",
+        "de": "stand in der Schlange (stå – sto)"
       },
       {
         "no": "så snilt av deg",
@@ -229,19 +252,11 @@
       },
       {
         "no": "fru Linde",
-        "de": "Frau Linde (eine Figur im Stück)"
+        "de": "Frau Linde (eine Figur im Stück; fru = Frau vor dem Nachnamen)"
       },
       {
-        "no": "ennå",
-        "de": "noch"
-      },
-      {
-        "no": "Akkurat!",
-        "de": "Genau!"
-      },
-      {
-        "no": "behandler",
-        "de": "behandelt"
+        "no": "likte",
+        "de": "mochte (like – likte)"
       },
       {
         "no": "vent til slutten",
@@ -260,92 +275,88 @@
         "de": "jetzt klingelt es (die Pausenglocke)"
       },
       {
-        "no": "inn igjen",
-        "de": "wieder hinein"
-      },
-      {
         "no": "For en slutt!",
         "de": "Was für ein Schluss!"
       },
       {
-        "no": "smeller igjen døra",
-        "de": "knallt die Tür zu"
+        "no": "gikk bare ut",
+        "de": "ging einfach hinaus (gå – gikk)"
       },
       {
-        "no": "smellet",
-        "de": "der Knall"
+        "no": "hoppet nesten i stolen",
+        "de": "bin fast vom Sitz gesprungen (vor Schreck)"
       },
       {
-        "no": "samtidig",
-        "de": "gleichzeitig, zugleich"
+        "no": "da døra smalt",
+        "de": "als die Tür knallte (smelle – smalt)"
+      },
+      {
+        "no": "dette smellet",
+        "de": "diesen Knall (et smell)"
+      },
+      {
+        "no": "Hvilket år",
+        "de": "In welchem Jahr"
+      },
+      {
+        "no": "skrev",
+        "de": "schrieb (skrive – skrev)"
+      },
+      {
+        "no": "I 1879",
+        "de": "1879 (gelesen: atten syttini)"
+      },
+      {
+        "no": "Tida gikk så fort",
+        "de": "die Zeit ist so schnell vergangen"
+      },
+      {
+        "no": "kvart over ti",
+        "de": "Viertel nach zehn"
+      },
+      {
+        "no": "begynte halv åtte",
+        "de": "fing um halb acht an (begynne – begynte)"
+      },
+      {
+        "no": "varte",
+        "de": "dauerte (vare – varte)"
+      },
+      {
+        "no": "sa ikke et ord",
+        "de": "hast kein Wort gesagt (si – sa)"
       },
       {
         "no": "Hva er det?",
         "de": "Was ist los?"
       },
       {
-        "no": "Ingenting",
-        "de": "nichts"
-      },
-      {
-        "no": "har jo hatt det så hyggelig",
-        "de": "hattet es ja so nett"
-      },
-      {
-        "no": "sjalu",
-        "de": "eifersüchtig"
-      },
-      {
-        "no": "et kvarter",
-        "de": "eine Viertelstunde"
-      },
-      {
-        "no": "kaffekopper",
-        "de": "Kaffeetassen"
+        "no": "hadde det jo så hyggelig",
+        "de": "hattet es ja so nett (ha – hadde)"
       },
       {
         "no": "jeg lover",
         "de": "versprochen (wörtlich: ich verspreche)"
       },
       {
-        "no": "sjalu på",
-        "de": "eifersüchtig auf"
-      },
-      {
-        "no": "forfatter",
-        "de": "der Schriftsteller"
-      },
-      {
-        "no": "død",
-        "de": "tot"
-      },
-      {
-        "no": "glad i deg",
-        "de": "(ich) hab dich lieb"
-      },
-      {
-        "no": "sur",
-        "de": "schlecht gelaunt, sauer"
+        "no": "døde i 1906",
+        "de": "1906 gestorben ist (dø – døde; gelesen: nitten null seks)"
       },
       {
         "no": "Jeg spanderer",
         "de": "Ich lade euch ein (ich bezahle)"
       },
       {
-        "no": "like ved",
-        "de": "ganz in der Nähe von"
+        "no": "til klokka ett",
+        "de": "bis ein Uhr"
       },
       {
-        "no": "Stortinget",
-        "de": "das Storting (das norwegische Parlament)"
+        "no": "noen ganger",
+        "de": "manchmal"
       },
       {
         "no": "en annen gang",
         "de": "ein andermal"
-      },
-      {
-        "no": "fru",
-        "de": "Frau (Anrede vor dem Nachnamen: fru Linde)"
       }
     ]
   },
@@ -432,6 +443,10 @@
           "de": "handelt von"
         },
         {
+          "no": "Peer Gynt",
+          "de": "»Peer Gynt« – Ibsens Versdrama von 1867"
+        },
+        {
           "no": "forlater",
           "de": "verlässt"
         },
@@ -496,9 +511,99 @@
   ],
   "wk": {
     "title": "Takk! · Die Wochentage",
-    "titleDe": "",
-    "phrases": [],
-    "_todo": "NEW"
+    "titleDe": "Danke! · Die Wochentage",
+    "phrases": [
+      {
+        "no": "Tusen takk!",
+        "de": "Vielen Dank!",
+        "note": "Wörtlich »tausend Dank« – das häufigste herzliche Danke."
+      },
+      {
+        "no": "Takk skal du ha!",
+        "de": "Vielen Dank (dir)!",
+        "note": "Herzlich und ein bisschen nachdrücklich. Zu mehreren: Takk skal dere ha!"
+      },
+      {
+        "no": "Takk for hjelpen!",
+        "de": "Danke für die Hilfe!"
+      },
+      {
+        "no": "Takk for maten!",
+        "de": "Danke für das Essen!",
+        "note": "Sagt man nach jeder Mahlzeit, auch in der Familie (mehr in Lektion 8)."
+      },
+      {
+        "no": "Takk for i dag!",
+        "de": "Danke für heute!",
+        "note": "Am Ende eines Kurstags, eines Arbeitstags oder eines Treffens."
+      },
+      {
+        "no": "Takk for i går!",
+        "de": "Danke für gestern!",
+        "note": "Am Tag nach einem Fest, einer Einladung oder einem schönen Abend."
+      },
+      {
+        "no": "Takk for sist!",
+        "de": "Danke für das letzte Mal!",
+        "note": "Wenn man jemanden wiedertrifft, mit dem man zuletzt etwas Schönes erlebt hat – sehr norwegisch. Wer es vergisst, wirkt schnell unhöflich."
+      },
+      {
+        "no": "Selv takk!",
+        "de": "Ich danke dir auch! / Ich habe zu danken!",
+        "note": "Antwort auf »Takk for sist!« oder »Takk for i dag!«: Man bedankt sich zurück."
+      },
+      {
+        "no": "Takk i like måte!",
+        "de": "Danke, gleichfalls!",
+        "note": "Antwort auf einen Wunsch: God helg! – Takk i like måte!"
+      },
+      {
+        "no": "Ingen årsak!",
+        "de": "Keine Ursache!"
+      },
+      {
+        "no": "Bare hyggelig!",
+        "de": "Gern geschehen!",
+        "note": "Wörtlich »nur nett« – die häufigste Antwort auf ein Danke."
+      },
+      {
+        "no": "mandag, tirsdag, onsdag, torsdag, fredag, lørdag, søndag",
+        "de": "Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag",
+        "note": "Wochentage schreibt man klein und ohne Artikel: I dag er det mandag."
+      },
+      {
+        "no": "Hvilken dag er det i dag? – Det er torsdag.",
+        "de": "Welcher Tag ist heute? – Donnerstag."
+      },
+      {
+        "no": "Vi ses på mandag!",
+        "de": "Wir sehen uns am Montag!",
+        "note": "på + Wochentag = am kommenden Montag. Für den letzten Montag sagt man sist mandag oder i mandags."
+      },
+      {
+        "no": "Jeg har norskkurs på mandager og torsdager.",
+        "de": "Ich habe montags und donnerstags Norwegischkurs.",
+        "note": "på + Plural = jede Woche, immer (auch: hver mandag)."
+      },
+      {
+        "no": "fra mandag til fredag",
+        "de": "von Montag bis Freitag"
+      },
+      {
+        "no": "Hva skal du gjøre i helga?",
+        "de": "Was machst du am Wochenende?",
+        "note": "ei helg – helga (auch: helgen). i helga = am (nächsten oder letzten) Wochenende."
+      },
+      {
+        "no": "God helg!",
+        "de": "Schönes Wochenende!"
+      },
+      {
+        "no": "sist fredag – neste fredag",
+        "de": "letzten Freitag – nächsten Freitag",
+        "note": "Statt sist sagt man auch forrige: forrige fredag."
+      }
+    ]
   },
   "grammar": [
     {
@@ -509,7 +614,7 @@
       "sections": [
         {
           "h": "Eine Form für alle Personen",
-          "body": "Mit dem Präteritum erzählst du, was zu einer bestimmten Zeit in der Vergangenheit passiert ist: **I går feiret vi Anna.** – Gestern haben wir Anna gefeiert.\n\nWie im Präsens gibt es nur eine Form für alle Personen: **jeg kjøpte, du kjøpte, hun kjøpte, vi kjøpte, de kjøpte**. Im Deutschen ändert sich die Endung (ich kaufte, du kauftest), im Norwegischen nie.\n\nAnders als im Deutschen ist das Präteritum auch im Gespräch ganz normal: **Hva spiste du i går? – Jeg spiste fiskesuppe.** Ein Deutscher würde hier eher „Ich habe … gegessen“ sagen."
+          "body": "Mit dem Präteritum erzählst du, was zu einer bestimmten Zeit in der Vergangenheit passiert ist: **I går kjøpte vi billetter til teateret.** – Gestern haben wir Theaterkarten gekauft.\n\nWie im Präsens gibt es nur eine Form für alle Personen: **jeg kjøpte, du kjøpte, hun kjøpte, vi kjøpte, de kjøpte**. Im Deutschen ändert sich die Endung (ich kaufte, du kauftest), im Norwegischen nie.\n\nAnders als im Deutschen ist das Präteritum auch im Gespräch ganz normal: **Hva spiste du i går? – Jeg spiste fiskesuppe.** Ein Deutscher würde hier eher »Ich habe … gegessen« sagen."
         },
         {
           "h": "Die vier Klassen",
@@ -544,129 +649,141 @@
         },
         {
           "h": "Gut zu wissen",
-          "body": "• Ein Doppelkonsonant wird vor **-te** vereinfacht (Lektion 5): **tenne – tente, glemme – glemte, kjenne – kjente**.\n• **være – var** und **ha – hadde** sind unregelmäßig, genauso wie die starken Verben (**synge – sang**). Sie kommen in Lektion 8.\n• Achte auf die Wortstellung: Auch im Präteritum steht das Verb auf Platz 2: **I går fylte Anna tjuefem år.**"
+          "body": "• Ein Doppelkonsonant wird vor **-te** vereinfacht (Lektion 5): **kjenne – kjente, spille – spilte, begynne – begynte, glemme – glemte**.\n• **være – var** und **ha – hadde** sind unregelmäßig, genauso wie die starken Verben (**se – så, gå – gikk, stå – sto, skrive – skrev**). Lerne sie einzeln mit; eine Übersicht kommt in Lektion 9.\n• Achte auf die Wortstellung: Auch im Präteritum steht das Verb auf Platz 2: **I går leste jeg hele stykket.**"
         }
       ],
       "drills": [
         {
-          "prompt": "I går ___ Anna tjuefem år. (fylle, Präteritum)",
-          "de": "Gestern wurde Anna fünfundzwanzig.",
+          "prompt": "Stykket ___ halv åtte. (begynne, Präteritum)",
+          "de": "Das Stück fing um halb acht an.",
           "answer": [
-            "fylte"
+            "begynte"
           ],
-          "explain": "Klasse 2: fylle – fylte (ll wird vor -te zu l)."
+          "explain": "Klasse 2: begynne – begynte (nn wird vor -te zu n)."
         },
         {
-          "prompt": "Kari ___ frokostbordet med flagg. (pynte, Präteritum)",
-          "de": "Kari schmückte den Frühstückstisch mit Fähnchen.",
+          "prompt": "I pausen ___ Anna og Matthias om Ibsen. (snakke, Präteritum)",
+          "de": "In der Pause redeten Anna und Matthias über Ibsen.",
           "answer": [
-            "pyntet",
-            "pynta"
+            "snakket",
+            "snakka"
           ],
-          "explain": "Klasse 1: pynte – pyntet."
+          "explain": "Klasse 1: snakke – snakket. Inversion nach »I pausen«."
         },
         {
-          "prompt": "Om kvelden ___ vi fiskesuppe. (spise, Präteritum)",
-          "de": "Am Abend aßen wir Fischsuppe.",
-          "answer": [
-            "spiste"
-          ],
-          "explain": "Klasse 2: spise – spiste."
-        },
-        {
-          "prompt": "Kari og Per ___ en ny sykkel til Anna. (kjøpe, Präteritum)",
-          "de": "Kari und Per kauften Anna ein neues Fahrrad.",
+          "prompt": "Jonas ___ kaffe til alle. (kjøpe, Präteritum)",
+          "de": "Jonas kaufte Kaffee für alle.",
           "answer": [
             "kjøpte"
           ],
           "explain": "Klasse 2: kjøpe – kjøpte."
         },
         {
-          "prompt": "Jeg ___ en tysk sjokoladekake. (bake, Präteritum)",
-          "de": "Ich backte einen deutschen Schokoladenkuchen.",
+          "prompt": "Anna ___ stykket på videregående. (lese, Präteritum)",
+          "de": "Anna las das Stück auf dem Gymnasium.",
           "answer": [
-            "bakte"
+            "leste"
           ],
-          "explain": "Klasse 2: bake – bakte."
+          "explain": "Klasse 2: lese – leste."
         },
         {
-          "prompt": "Anna ___ genseren med en gang. (prøve, Präteritum)",
-          "de": "Anna probierte den Pullover sofort an.",
+          "prompt": "Skuespilleren ___ Nora veldig godt. (spille, Präteritum)",
+          "de": "Die Schauspielerin spielte Nora sehr gut.",
+          "answer": [
+            "spilte"
+          ],
+          "explain": "Klasse 2: spille – spilte (ll wird vor -te zu l)."
+        },
+        {
+          "prompt": "Susanne ___ å forstå alt på norsk. (prøve, Präteritum)",
+          "de": "Susanne versuchte, alles auf Norwegisch zu verstehen.",
           "answer": [
             "prøvde"
           ],
-          "explain": "Klasse 3: prøve – prøvde."
+          "explain": "Klasse 3: prøve – prøvde (nach v: -de)."
         },
         {
-          "prompt": "Matthias ___ menyen lenge. (studere, Präteritum)",
-          "de": "Matthias studierte lange die Speisekarte.",
+          "prompt": "Ibsen ___ fra 1828 til 1906. (leve, Präteritum)",
+          "de": "Ibsen lebte von 1828 bis 1906.",
           "answer": [
-            "studerte"
+            "levde"
           ],
-          "explain": "Verben auf -ere: -erte."
+          "explain": "Klasse 3: leve – levde."
         },
         {
-          "prompt": "Før ___ Elin i Göteborg. (bo, Präteritum)",
-          "de": "Früher wohnte Elin in Göteborg.",
+          "prompt": "Da Ibsen var femten år, ___ han til Grimstad. (flytte, Präteritum)",
+          "de": "Als Ibsen fünfzehn war, zog er nach Grimstad.",
+          "answer": [
+            "flyttet",
+            "flytta"
+          ],
+          "explain": "Klasse 1: flytte – flyttet. Nach dem Nebensatz mit da folgt Inversion: flyttet han."
+        },
+        {
+          "prompt": "Ibsen ___ i Italia og Tyskland i 27 år. (bo, Präteritum)",
+          "de": "Ibsen wohnte 27 Jahre lang in Italien und Deutschland.",
           "answer": [
             "bodde"
           ],
-          "explain": "Klasse 4: bo – bodde; Inversion nach „Før“."
+          "explain": "Klasse 4: bo – bodde."
         },
         {
-          "prompt": "Jeg ___ at Matthias var sulten. (tro, Präteritum)",
-          "de": "Ich dachte, dass Matthias Hunger hatte.",
+          "prompt": "Jeg ___ at Jonas var sint, men han var bare sulten. (tro, Präteritum)",
+          "de": "Ich dachte, Jonas sei wütend, aber er hatte nur Hunger.",
           "answer": [
             "trodde"
           ],
           "explain": "Klasse 4: tro – trodde."
-        },
-        {
-          "prompt": "Etter middagen ___ vi til langt på natt. (danse, Präteritum)",
-          "de": "Nach dem Essen tanzten wir bis spät in die Nacht.",
-          "answer": [
-            "danset",
-            "dansa"
-          ],
-          "explain": "Klasse 1: danse – danset."
         }
       ]
     },
     {
       "id": "g07_pret_bruk",
       "title": "Gebrauch des Präteritums",
-      "titleNo": "preteritum eller perfektum?",
-      "summary": "Präteritum für eine abgeschlossene Zeit (i går, i fjor), Perfekt für Erfahrungen ohne Zeitpunkt und für das, was bis jetzt andauert.",
+      "titleNo": "bruk av preteritum",
+      "summary": "Das Präteritum steht, wenn etwas zu einer abgeschlossenen Zeit passiert ist (i går, i fjor, i 1879) – auch im Gespräch, wo das Deutsche das Perfekt nimmt.",
       "sections": [
         {
-          "h": "Präteritum: Die Zeit ist vorbei",
-          "body": "Wenn die Zeit vorbei ist und genannt wird (oder klar ist), steht das **Präteritum**:\n• **I går så vi «Et dukkehjem».** – Gestern haben wir »Et dukkehjem« gesehen.\n• **Ibsen skrev stykket i 1879.**\n• **For to år siden bodde jeg i Bern.**\n• **Da jeg var barn, gikk jeg ofte i teateret.**\n\nTypischer Fehler: Im Deutschen erzählt man mündlich fast alles im Perfekt (»Gestern haben wir … gesehen«). Im Norwegischen ist das falsch – also nicht »I går har vi sett …«, sondern **I går så vi …**"
-        },
-        {
-          "h": "Perfekt: Erfahrung und Ergebnis",
-          "body": "Ohne Zeitpunkt – es geht um das Erlebnis, nicht um das Wann:\n• **Har du sett «Peer Gynt»?** – Hast du »Peer Gynt« (schon einmal) gesehen?\n• **Har du noen gang vært sjalu?** – Warst du schon einmal eifersüchtig?\n• **Jeg har aldri vært i Paris.** – Ich war noch nie in Paris.\n\nAuch wenn das Ergebnis jetzt wichtig ist: **Jeg har glemt billetten!** (Ich habe die Karte vergessen – jetzt habe ich sie nicht.)\n\nSobald das Wann genannt wird, wechselt man ins Präteritum: **Har du vært i Bergen? – Ja, jeg var der i fjor.**"
-        },
-        {
-          "h": "Perfekt: Es dauert bis jetzt",
-          "body": "Wenn etwas in der Vergangenheit begonnen hat und noch andauert, steht das Perfekt. Das Deutsche nimmt hier Präsens + »seit«:\n• **Jeg har bodd i Oslo i tre uker.** – Ich wohne seit drei Wochen in Oslo.\n• **Jeg har kjent Anna siden august.** – Ich kenne Anna seit August.\n• **Jeg har vært sur hele kvelden.** – Ich war den ganzen Abend schlecht gelaunt (und der Abend ist noch nicht vorbei).\n\nDauer mit **i**, Zeitpunkt mit **siden**. Vergleiche: **Jeg bodde i Bern i fem år.** – Ich habe fünf Jahre in Bern gewohnt (jetzt nicht mehr).",
+          "h": "Eine abgeschlossene Zeit",
+          "body": "Das Präteritum steht, wenn etwas zu einer Zeit passiert ist, die vorbei ist. Oft steht die Zeit direkt dabei:\n• **I går så vi «Et dukkehjem».** – Gestern haben wir »Et dukkehjem« gesehen.\n• **I fjor bodde Matthias i Bern.** – Letztes Jahr hat Matthias in Bern gewohnt.\n• **Forrige uke kjøpte Susanne billettene.** – Letzte Woche hat Susanne die Karten gekauft.\n• **For to år siden så Anna stykket i Bergen.**\n• **Da Ibsen var femten år, flyttet han til Grimstad.**\n• **Ibsen skrev stykket i 1879.**\n\nAuch ohne Zeitangabe, wenn klar ist, dass es vorbei ist – zum Beispiel nach dem Theater: **Likte du stykket?** (Hat dir das Stück gefallen?)",
           "table": [
             [
-              "Präteritum",
-              "Perfekt"
+              "Norwegisch",
+              "Deutsch"
             ],
             [
-              "i går, i fjor, i 1879",
-              "noen gang, aldri, ikke ennå"
+              "i går, i går kveld",
+              "gestern, gestern Abend"
+            ],
+            [
+              "i fjor",
+              "letztes Jahr"
+            ],
+            [
+              "forrige uke, sist fredag",
+              "letzte Woche, letzten Freitag"
             ],
             [
               "for to år siden",
-              "allerede, nettopp"
+              "vor zwei Jahren"
             ],
             [
               "da jeg var barn",
-              "i tre uker (bis jetzt), siden august"
+              "als ich ein Kind war"
+            ],
+            [
+              "i 1879",
+              "1879, im Jahr 1879"
             ]
           ]
+        },
+        {
+          "h": "Im Gespräch: Präteritum statt Perfekt",
+          "body": "Im Deutschen erzählt man mündlich fast alles im Perfekt: »Ich habe gestern Karten gekauft.« Im Norwegischen steht hier das **Präteritum**:\n• **Jeg kjøpte billetter i går.** – Ich habe gestern Karten gekauft.\n• **Hva gjorde du i helga? – Jeg var på tur.** – Was hast du am Wochenende gemacht? – Ich war wandern.\n• **Så du filmen på lørdag?** – Hast du den Film am Samstag gesehen?\n\nTypischer Fehler: »I går har jeg kjøpt …«. Sobald eine abgeschlossene Zeit genannt wird, heißt es **I går kjøpte jeg …**\n\nAber: Was jetzt ist oder immer so ist, steht weiter im Präsens: **Nå bor Matthias i Oslo. Hver fredag spiser Susanne bløtkake.**"
+        },
+        {
+          "h": "Erzählen und feste Wendungen",
+          "body": "Wer eine Geschichte erzählt – im Tagebuch, in einem Bericht oder im Märchen –, erzählt im Präteritum, wie im Deutschen: **Det var en gang et troll som bodde i et stort fjell.** (Es war einmal ein Troll, das in einem großen Berg wohnte.)\n\nAuch nach einem Erlebnis sagt man kurz im Präteritum: **Det var hyggelig!** (Das war schön!), **Det var en fin kveld!** und **Takk for i går!**\n\nWann man das Perfekt (**har sett, har bodd**) benutzt, lernst du in Lektion 8."
         }
       ],
       "drills": [
@@ -676,7 +793,7 @@
           "answer": [
             "så"
           ],
-          "explain": "»i går« ist ein abgeschlossener Zeitpunkt → Präteritum."
+          "explain": "»i går« = abgeschlossene Zeit → Präteritum. se – så (unregelmäßig)."
         },
         {
           "prompt": "Ibsen ___ «Et dukkehjem» i 1879. (skrive)",
@@ -684,31 +801,7 @@
           "answer": [
             "skrev"
           ],
-          "explain": "Jahreszahl in der Vergangenheit → Präteritum. skrive – skrev – har skrevet."
-        },
-        {
-          "prompt": "Vi ___ i Oslo i tre uker nå. (bo)",
-          "de": "Wir wohnen jetzt seit drei Wochen in Oslo.",
-          "answer": [
-            "har bodd"
-          ],
-          "explain": "Es dauert bis jetzt → Perfekt (Deutsch: Präsens + seit)."
-        },
-        {
-          "prompt": "Da jeg var barn, ___ jeg i Bern. (bo)",
-          "de": "Als ich ein Kind war, habe ich in Bern gewohnt.",
-          "answer": [
-            "bodde"
-          ],
-          "explain": "»Da jeg var barn« ist vorbei → Präteritum."
-        },
-        {
-          "prompt": "Anna og Jonas ___ kjærester i to år, og de er fortsatt sammen. (være)",
-          "de": "Anna und Jonas sind seit zwei Jahren ein Paar, und sie sind immer noch zusammen.",
-          "answer": [
-            "har vært"
-          ],
-          "explain": "Sie sind immer noch zusammen → es dauert an → Perfekt."
+          "explain": "Jahreszahl in der Vergangenheit → Präteritum. skrive – skrev."
         },
         {
           "prompt": "For to år siden ___ Anna stykket i Bergen. (se)",
@@ -716,42 +809,65 @@
           "answer": [
             "så"
           ],
-          "explain": "»for to år siden« = abgeschlossene Zeit → Präteritum."
+          "explain": "»for to år siden« = abgeschlossene Zeit → Präteritum (Deutsch: »hat … gesehen«)."
         },
         {
-          "prompt": "Jeg ___ Anna siden august. (kjenne)",
-          "de": "Ich kenne Anna seit August.",
+          "prompt": "Da Matthias var barn, ___ han i Bern. (bo)",
+          "de": "Als Matthias ein Kind war, wohnte er in Bern.",
           "answer": [
-            "har kjent"
+            "bodde"
           ],
-          "explain": "siden + Zeitpunkt, und es dauert bis jetzt → Perfekt."
+          "explain": "»Da … var barn« ist vorbei → Präteritum: bo – bodde."
         },
         {
-          "prompt": "Har du noen gang vært i Paris? – Ja, jeg ___ der i fjor. (være)",
-          "de": "Warst du schon einmal in Paris? – Ja, ich war letztes Jahr dort.",
+          "prompt": "Nå ___ Matthias i Oslo. (bo)",
+          "de": "Jetzt wohnt Matthias in Oslo.",
+          "answer": [
+            "bor"
+          ],
+          "explain": "»nå« = jetzt → Präsens. Nicht jede Zeitangabe verlangt das Präteritum!"
+        },
+        {
+          "prompt": "Forrige uke ___ Susanne billetter til teateret. (kjøpe)",
+          "de": "Letzte Woche hat Susanne Theaterkarten gekauft.",
+          "answer": [
+            "kjøpte"
+          ],
+          "explain": "»forrige uke« ist vorbei → Präteritum (Deutsch meist: »hat … gekauft«)."
+        },
+        {
+          "prompt": "Hva ___ du i helga? – Jeg var på tur. (gjøre)",
+          "de": "Was hast du am Wochenende gemacht? – Ich war wandern.",
+          "answer": [
+            "gjorde"
+          ],
+          "explain": "Das Wochenende ist vorbei (»Jeg var …«) → Präteritum: gjøre – gjorde."
+        },
+        {
+          "prompt": "Det var en gang et troll som ___ i et stort fjell. (bo)",
+          "de": "Es war einmal ein Troll, das in einem großen Berg wohnte.",
+          "answer": [
+            "bodde"
+          ],
+          "explain": "Märchen und Geschichten erzählt man im Präteritum."
+        },
+        {
+          "prompt": "Takk for i går! Det ___ en veldig fin kveld. (være)",
+          "de": "Danke für gestern! Es war ein sehr schöner Abend.",
           "answer": [
             "var"
           ],
-          "explain": "Die Frage fragt nach Erfahrung (Perfekt), die Antwort nennt die Zeit (i fjor) → Präteritum."
+          "explain": "Nach einem Erlebnis: Det var … – Präteritum, denn der Abend ist vorbei."
         },
         {
-          "prompt": "Har du lest «Peer Gynt»? – Nei, ikke ennå. Men jeg ___ «Et dukkehjem». (lese)",
-          "de": "Hast du »Peer Gynt« gelesen? – Nein, noch nicht. Aber ich habe »Et dukkehjem« gelesen.",
+          "prompt": "Hver fredag ___ Susanne bløtkake. (spise)",
+          "de": "Jeden Freitag isst Susanne Sahnetorte.",
           "answer": [
-            "har lest"
+            "spiser"
           ],
-          "explain": "Erfahrung ohne Zeitpunkt → Perfekt."
-        },
-        {
-          "prompt": "I går kveld ___ Jonas sjalu. (være)",
-          "de": "Gestern Abend war Jonas eifersüchtig.",
-          "answer": [
-            "var"
-          ],
-          "explain": "»i går kveld« → Präteritum."
+          "explain": "»hver fredag« = immer wieder → Präsens, nicht Präteritum."
         }
-      ],
-      "_todo": "SPLIT: nur Gebrauch des Präteritums behalten (Perfekt-Gebrauch geht nach L8, g08_perf_bruk)"
+      ]
     },
     {
       "id": "g07_hvilken",
@@ -787,7 +903,7 @@
         },
         {
           "h": "Ohne Substantiv und in der Umgangssprache",
-          "body": "hvilken kann auch allein stehen: **Her er to kjoler. Hvilken vil du ha?** (Welches willst du?)\n\nIm Gespräch hört man oft **hva for en / et / noen**: **Hva for en buss tar du? Hva for et stykke har du sett? Hva for noen sko kjøpte du?** Das klingt wie das deutsche »was für ein«, bedeutet aber meistens einfach »welcher«.\n\nEine Präposition steht am Ende der Frage: **Hvilken restaurant går vi på?**"
+          "body": "hvilken kann auch allein stehen: **Her er to kjoler. Hvilken vil du ha?** (Welches willst du?)\n\nIm Gespräch hört man oft **hva for en / et / noen**: **Hva for en buss tar du? Hva for et stykke så dere? Hva for noen sko kjøpte du?** Das klingt wie das deutsche »was für ein«, bedeutet aber meistens einfach »welcher«.\n\nNach Tag und Jahr fragt man auch mit hvilken: **Hvilken dag er det i dag?** **Hvilket år skrev Ibsen stykket? – I 1879.**\n\nEine Präposition steht am Ende der Frage: **Hvilken restaurant går vi på?**"
         }
       ],
       "drills": [
@@ -810,8 +926,8 @@
           "explain": "en buss → hvilken."
         },
         {
-          "prompt": "___ skuespillere har du sett før?",
-          "de": "Welche Schauspieler hast du schon einmal gesehen?",
+          "prompt": "___ skuespillere spiller i stykket?",
+          "de": "Welche Schauspieler spielen in dem Stück?",
           "answer": [
             "Hvilke",
             "Hva for noen"
@@ -837,8 +953,8 @@
           "explain": "et stykke → hvilket."
         },
         {
-          "prompt": "___ bøker av Ibsen har du lest?",
-          "de": "Welche Bücher von Ibsen hast du gelesen?",
+          "prompt": "___ bøker av Ibsen leste du på skolen?",
+          "de": "Welche Bücher von Ibsen hast du in der Schule gelesen?",
           "answer": [
             "Hvilke",
             "Hva for noen"
@@ -870,6 +986,15 @@
             "et"
           ],
           "explain": "Umgangssprachlich: hva for en/et/noen. teater ist ein et-Wort."
+        },
+        {
+          "prompt": "___ år kom «Et dukkehjem» ut? – I 1879.",
+          "de": "In welchem Jahr ist »Et dukkehjem« erschienen? – 1879.",
+          "answer": [
+            "Hvilket",
+            "Hva for et"
+          ],
+          "explain": "et år → hvilket. Deutsch: »In welchem Jahr …?« – Norwegisch ohne Präposition."
         }
       ]
     },
@@ -941,8 +1066,8 @@
           "explain": "en skuespiller → denne."
         },
         {
-          "prompt": "Har du lest ___ boka? (denne/dette/disse)",
-          "de": "Hast du dieses Buch gelesen?",
+          "prompt": "Kjenner du ___ boka? (denne/dette/disse)",
+          "de": "Kennst du dieses Buch?",
           "answer": [
             "denne"
           ],
@@ -1006,7 +1131,7 @@
       "sections": [
         {
           "h": "Fragen und Antworten",
-          "body": "• **Hvor mye er klokka?** oder **Hva er klokka?** – Wie spät ist es?\n• **Klokka er tre.** – Es ist drei Uhr.\n• **Når kommer du? – Klokka fem.** – Um fünf.\n\nFür »um« brauchst du keine Präposition: **Middagen er klokka fem.** (nicht »om fem«). Statt **klokka** kannst du auch **klokken** sagen."
+          "body": "• **Hvor mye er klokka?** oder **Hva er klokka?** – Wie spät ist es?\n• **Klokka er tre.** – Es ist drei Uhr.\n• **Når begynner stykket? – Klokka halv åtte.** – Um halb acht.\n• **Jonas kommer i sjutiden.** – Jonas kommt gegen sieben (so um sieben).\n\nFür »um« brauchst du keine Präposition: **Stykket begynner klokka åtte.** (nicht »om åtte«). Statt **klokka** kannst du auch **klokken** sagen. Für 1 Uhr sagt man **klokka ett**."
         },
         {
           "h": "Viertel und halb",
@@ -1073,59 +1198,48 @@
       ],
       "drills": [
         {
-          "prompt": "Klokka er ___. (4.30)",
-          "de": "Es ist halb fünf.",
+          "prompt": "Stykket begynner klokka ___. (19.30)",
+          "de": "Das Stück beginnt um halb acht.",
           "answer": [
-            "halv fem",
-            "fire tretti"
+            "halv åtte",
+            "nitten tretti"
           ],
-          "explain": "halv fem = halb fünf – wie im Deutschen die halbe Stunde VOR fünf."
+          "explain": "halv åtte = halb acht – wie im Deutschen die halbe Stunde VOR acht."
         },
         {
-          "prompt": "Arne kom klokka ___. (17.15)",
-          "de": "Arne kam um Viertel nach fünf.",
+          "prompt": "Pausen begynner klokka ___. (20.45)",
+          "de": "Die Pause beginnt um Viertel vor neun.",
           "answer": [
-            "kvart over fem",
-            "sytten femten"
-          ],
-          "explain": "kvart over = Viertel nach. Im Alltag: kvart over fem."
-        },
-        {
-          "prompt": "Kari sa «Vær så god» klokka ___. (17.25)",
-          "de": "Kari sagte um 17.25 Uhr »Vær så god«.",
-          "answer": [
-            "fem på halv seks",
-            "sytten tjuefem"
-          ],
-          "explain": "fem på halv seks = fünf vor halb sechs."
-        },
-        {
-          "prompt": "Desserten kom klokka ___. (18.30)",
-          "de": "Der Nachtisch kam um halb sieben.",
-          "answer": [
-            "halv sju",
-            "halv syv",
-            "atten tretti"
-          ],
-          "explain": "halv sju = halb sieben (sju oder syv)."
-        },
-        {
-          "prompt": "Arne gikk klokka ___. (21.45)",
-          "de": "Arne ging um Viertel vor zehn.",
-          "answer": [
-            "kvart på ti",
-            "tjueen førtifem"
+            "kvart på ni",
+            "tjue førtifem"
           ],
           "explain": "kvart på = Viertel vor."
         },
         {
-          "prompt": "Toget går klokka ___. (8.35)",
-          "de": "Der Zug fährt um 8.35 Uhr.",
+          "prompt": "Stykket sluttet ___. (22.15)",
+          "de": "Das Stück war um Viertel nach zehn zu Ende.",
           "answer": [
-            "fem over halv ni",
-            "åtte trettifem"
+            "kvart over ti",
+            "tjueto femten"
           ],
-          "explain": "fem over halv ni = fünf nach halb neun."
+          "explain": "kvart over = Viertel nach. Im Alltag: kvart over ti."
+        },
+        {
+          "prompt": "Trikken går ___. (22.35)",
+          "de": "Die Straßenbahn fährt um 22.35 Uhr.",
+          "answer": [
+            "fem over halv elleve",
+            "tjueto trettifem"
+          ],
+          "explain": "fem over halv elleve = fünf nach halb elf."
+        },
+        {
+          "prompt": "Pizzarestauranten er åpen til klokka ___. (1.00)",
+          "de": "Die Pizzeria hat bis ein Uhr geöffnet.",
+          "answer": [
+            "ett"
+          ],
+          "explain": "Bei der Uhrzeit heißt es klokka ett (nicht »en«)."
         },
         {
           "prompt": "Hvor mye er klokka? – Den er ___. (2.50)",
@@ -1147,12 +1261,12 @@
           "explain": "ti på halv elleve = zehn vor halb elf; man hört auch tjue over ti."
         },
         {
-          "prompt": "Flyet til Ålesund går klokka ___. (20.40, offiziell)",
-          "de": "Das Flugzeug nach Ålesund geht um 20.40 Uhr.",
+          "prompt": "Toget til Bergen går klokka ___. (8.05, offiziell)",
+          "de": "Der Zug nach Bergen fährt um 8.05 Uhr.",
           "answer": [
-            "tjue førti"
+            "åtte null fem"
           ],
-          "explain": "Offizielle Zeit: Stunden und Minuten einfach als Zahlen."
+          "explain": "Offizielle Zeit: Stunden und Minuten als Zahlen, für 05 sagt man null fem."
         },
         {
           "prompt": "___ er klokka? – Klokka er sju.",
@@ -1162,36 +1276,203 @@
             "Hva"
           ],
           "explain": "Hvor mye er klokka? oder Hva er klokka? – beides ist richtig."
+        },
+        {
+          "prompt": "Jonas kommer ___ sjutiden. (gegen sieben)",
+          "de": "Jonas kommt gegen sieben.",
+          "answer": [
+            "i",
+            "ved"
+          ],
+          "explain": "i sjutiden / ved sjutiden = gegen sieben, ungefähr um sieben."
         }
       ]
     },
     {
       "id": "g07_aarstall",
       "title": "Jahreszahl",
-      "summary": "",
-      "sections": [],
-      "drills": [],
-      "_todo": "NEW"
+      "summary": "Jahreszahlen bis 1999 liest man in Hunderten (1879 = atten syttini), ab 2000 mit to tusen; »im Jahr 1879« heißt einfach i 1879.",
+      "sections": [
+        {
+          "h": "Bis 1999: in Hunderten",
+          "body": "Wie im Deutschen liest man Jahreszahlen bis 1999 in zwei Teilen. Das Wort **hundre** lässt man meist weg:\n• **1879** – **atten syttini** (auch: atten hundre og syttini)\n• **1814** – **atten fjorten**\n• **1999** – **nitten nittini**\n\nIst der zweite Teil kleiner als zehn, sagt man **null** oder **hundre og**: **1905** – **nitten null fem** oder **nitten hundre og fem**.\n\nDeutsch: achtzehnhundertneunundsiebzig. Im Norwegischen fällt »hundert« meist weg, und die Zehner kommen wie bei allen Zahlen ab 21 zuerst: **sytti**ni (Lektion 4).",
+          "table": [
+            [
+              "Jahr",
+              "Norwegisch"
+            ],
+            [
+              "1814",
+              "atten fjorten"
+            ],
+            [
+              "1828",
+              "atten tjueåtte"
+            ],
+            [
+              "1879",
+              "atten syttini"
+            ],
+            [
+              "1905",
+              "nitten null fem / nitten hundre og fem"
+            ],
+            [
+              "1999",
+              "nitten nittini"
+            ]
+          ]
+        },
+        {
+          "h": "Ab 2000: to tusen …",
+          "body": "Ab dem Jahr 2000 sagt man **to tusen** (zweitausend) und hängt den Rest mit **og** an:\n• **2000** – **to tusen**\n• **2005** – **to tusen og fem**\n• **2025** – **to tusen og tjuefem** oder kurz **tjue tjuefem**\n\nDie kurze Form mit **tjue** hört man ab 2010 immer öfter: **2016** – **to tusen og seksten** oder **tjue seksten**. Beides ist richtig.",
+          "table": [
+            [
+              "Jahr",
+              "Norwegisch"
+            ],
+            [
+              "2000",
+              "to tusen"
+            ],
+            [
+              "2005",
+              "to tusen og fem"
+            ],
+            [
+              "2019",
+              "to tusen og nitten / tjue nitten"
+            ],
+            [
+              "2025",
+              "to tusen og tjuefem / tjue tjuefem"
+            ]
+          ]
+        },
+        {
+          "h": "i 1879 – und på 1800-tallet",
+          "body": "»1879« oder »im Jahr 1879« heißt immer **i 1879**. Ohne **i** geht es nicht: **Ibsen skrev stykket i 1879.** Gefragt wird mit **Hvilket år …?** oder **Når …?**: **Hvilket år kom stykket ut? – I 1879.**\n\nJahrhunderte und Jahrzehnte bildet man mit **-tallet** und **på**:\n• **på 1800-tallet** (gelesen: attenhundretallet) – im 19. Jahrhundert\n• **på 1900-tallet** – im 20. Jahrhundert\n• **på nittitallet** (**på 90-tallet**) – in den Neunzigern\n\nAchtung: **1800-tallet** sind die Jahre 1800 bis 1899 – auf Deutsch das **19.** Jahrhundert, nicht das achtzehnte!"
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "«Et dukkehjem» kom ut i ___. (1879)",
+          "de": "»Et dukkehjem« erschien 1879.",
+          "answer": [
+            "atten syttini",
+            "atten hundre og syttini",
+            "atten niogsytti",
+            "atten hundre og niogsytti"
+          ],
+          "explain": "Bis 1999 in zwei Teilen: 18 | 79 → atten syttini."
+        },
+        {
+          "prompt": "Henrik Ibsen ble født i ___. (1828)",
+          "de": "Henrik Ibsen wurde 1828 geboren.",
+          "answer": [
+            "atten tjueåtte",
+            "atten hundre og tjueåtte",
+            "atten åtteogtjue",
+            "atten hundre og åtteogtjue"
+          ],
+          "explain": "18 | 28 → atten tjueåtte."
+        },
+        {
+          "prompt": "Ibsen reiste ut av Norge i ___. (1864)",
+          "de": "Ibsen verließ Norwegen 1864.",
+          "answer": [
+            "atten sekstifire",
+            "atten hundre og sekstifire",
+            "atten fireogseksti",
+            "atten hundre og fireogseksti"
+          ],
+          "explain": "18 | 64 → atten sekstifire."
+        },
+        {
+          "prompt": "Ibsen flyttet hjem til Norge igjen i ___. (1891)",
+          "de": "Ibsen zog 1891 wieder nach Norwegen zurück.",
+          "answer": [
+            "atten nittien",
+            "atten hundre og nittien",
+            "atten enognitti",
+            "atten hundre og enognitti"
+          ],
+          "explain": "18 | 91 → atten nittien."
+        },
+        {
+          "prompt": "Ibsen døde i ___. (1906)",
+          "de": "Ibsen starb 1906.",
+          "answer": [
+            "nitten null seks",
+            "nitten hundre og seks"
+          ],
+          "explain": "Der zweite Teil ist kleiner als zehn: nitten null seks oder nitten hundre og seks."
+        },
+        {
+          "prompt": "Jeg begynte på skolen i ___. (2006)",
+          "de": "Ich bin 2006 in die Schule gekommen.",
+          "answer": [
+            "to tusen og seks"
+          ],
+          "explain": "Ab 2000: to tusen + og + Rest."
+        },
+        {
+          "prompt": "Jeg bodde i Bergen fra 2019 til ___. (2023)",
+          "de": "Ich habe von 2019 bis 2023 in Bergen gewohnt.",
+          "answer": [
+            "to tusen og tjuetre",
+            "tjue tjuetre",
+            "to tusen og treogtjue"
+          ],
+          "explain": "to tusen og tjuetre – oder kurz: tjue tjuetre."
+        },
+        {
+          "prompt": "Ibsen skrev «Peer Gynt» ___ 1867.",
+          "de": "Ibsen schrieb »Peer Gynt« im Jahr 1867.",
+          "answer": [
+            "i"
+          ],
+          "explain": "Vor einer Jahreszahl steht immer i – kein »im Jahr«."
+        },
+        {
+          "prompt": "Ibsen levde på ___. (19. Jahrhundert)",
+          "de": "Ibsen lebte im 19. Jahrhundert.",
+          "answer": [
+            "1800-tallet",
+            "attenhundretallet"
+          ],
+          "explain": "1800-tallet = die Jahre 1800–1899 = das 19. Jahrhundert."
+        },
+        {
+          "prompt": "Bestemor Ingrid var ung ___ sekstitallet.",
+          "de": "Großmutter Ingrid war in den Sechzigern jung.",
+          "answer": [
+            "på"
+          ],
+          "explain": "Jahrzehnte und Jahrhunderte: på + -tallet."
+        }
+      ],
+      "titleNo": "årstall"
     }
   ],
   "tf": [
     {
-      "s": "Anna har sett «Et dukkehjem» før.",
-      "de": "Anna hat »Et dukkehjem« schon einmal gesehen.",
+      "s": "Anna så «Et dukkehjem» i Bergen for to år siden.",
+      "de": "Anna hat »Et dukkehjem« vor zwei Jahren in Bergen gesehen.",
       "a": true,
-      "why": "Sie sagt: »Ja, jeg har sett det to ganger.«"
+      "why": "Sie sagt: »Og for to år siden så jeg det i Bergen.«"
     },
     {
-      "s": "Matthias har sett stykket på en scene i Bern.",
+      "s": "Matthias så stykket på en scene i Bern.",
       "de": "Matthias hat das Stück in Bern auf einer Bühne gesehen.",
       "a": false,
-      "why": "Er hat es nur auf Deutsch gelesen, aber noch nie auf einer Bühne gesehen."
+      "why": "Er hat es in der Schule gelesen und sieht es heute Abend zum ersten Mal auf einer Bühne."
     },
     {
       "s": "Jonas henter kaffe til alle i pausen.",
       "de": "Jonas holt in der Pause Kaffee für alle.",
       "a": true,
-      "why": "»Her er kaffe til alle. Jeg har stått i kø i ti minutter.«"
+      "why": "»Her er kaffe til alle. Jeg sto i kø i ti minutter!«"
     },
     {
       "s": "Anna vil spille fru Linde.",
@@ -1203,34 +1484,34 @@
       "s": "Susanne vil vite hvordan stykket slutter.",
       "de": "Susanne will wissen, wie das Stück ausgeht.",
       "a": false,
-      "why": "Sie sagt: »Ikke si noe! … jeg vil ikke vite hvordan det slutter.«"
+      "why": "Sie sagt: »Ikke si noe! Jeg vil ikke vite hvordan det slutter.«"
     },
     {
-      "s": "Jonas har vært sjalu på en død forfatter før.",
-      "de": "Jonas war schon einmal eifersüchtig auf einen toten Schriftsteller.",
+      "s": "Stykket begynte klokka åtte.",
+      "de": "Das Stück fing um acht Uhr an.",
       "a": false,
-      "why": "»Nei, det har jeg aldri vært før.«"
+      "why": "Es fing um halb acht an: »Stykket begynte halv åtte.«"
     },
     {
-      "s": "Til slutt vil Jonas spandere pizza.",
-      "de": "Am Ende will Jonas Pizza spendieren.",
+      "s": "Ibsen skrev «Et dukkehjem» i 1879.",
+      "de": "Ibsen schrieb »Et dukkehjem« 1879.",
       "a": true,
-      "why": "»Har dere lyst på pizza? Jeg spanderer.«"
+      "why": "Matthias sagt: »I 1879, i Italia.«"
     }
   ],
   "questions": [
     {
-      "q": "Hvor mange ganger har Anna sett «Et dukkehjem»?",
-      "qDe": "Wie oft hat Anna »Et dukkehjem« gesehen?",
-      "answer": "Hun har sett det to ganger.",
-      "answerDe": "Sie hat es zweimal gesehen.",
+      "q": "Når så Anna stykket i Bergen?",
+      "qDe": "Wann hat Anna das Stück in Bergen gesehen?",
+      "answer": "Hun så det for to år siden.",
+      "answerDe": "Sie hat es vor zwei Jahren gesehen.",
       "keywords": [
         [
-          "to"
+          "to år"
         ],
         [
-          "ganger",
-          "gang"
+          "så",
+          "se"
         ]
       ]
     },
@@ -1251,32 +1532,29 @@
       ]
     },
     {
-      "q": "Hva gjør Nora på slutten av stykket?",
-      "qDe": "Was macht Nora am Ende des Stücks?",
-      "answer": "Hun går ut og smeller igjen døra.",
-      "answerDe": "Sie geht hinaus und knallt die Tür zu.",
+      "q": "Hvilket år skrev Ibsen «Et dukkehjem»?",
+      "qDe": "In welchem Jahr hat Ibsen »Et dukkehjem« geschrieben?",
+      "answer": "Han skrev det i 1879.",
+      "answerDe": "Er hat es 1879 geschrieben.",
       "keywords": [
         [
-          "går",
-          "gikk",
-          "forlater"
-        ],
-        [
-          "døra",
-          "døren",
-          "dør",
-          "smeller"
+          "1879",
+          "atten syttini"
         ]
       ]
     },
     {
-      "q": "Hva sier Anna til Jonas når han er sjalu?",
-      "qDe": "Was sagt Anna zu Jonas, als er eifersüchtig ist?",
-      "answer": "Hun sier at han er dum, men at hun er glad i ham.",
-      "answerDe": "Sie sagt, dass er doof ist, aber dass sie ihn lieb hat.",
+      "q": "Hvor lenge varte stykket?",
+      "qDe": "Wie lange hat das Stück gedauert?",
+      "answer": "Det varte i nesten tre timer.",
+      "answerDe": "Es hat fast drei Stunden gedauert.",
       "keywords": [
         [
-          "glad i"
+          "tre"
+        ],
+        [
+          "timer",
+          "time"
         ]
       ]
     },
@@ -1311,9 +1589,9 @@
       ]
     },
     {
-      "de": "habe in der Schlange gestanden",
+      "de": "zum ersten Mal",
       "answer": [
-        "har stått i kø"
+        "for første gang"
       ]
     },
     {
@@ -1323,9 +1601,9 @@
       ]
     },
     {
-      "de": "knallt die Tür zu",
+      "de": "als die Tür knallte",
       "answer": [
-        "smeller igjen døra"
+        "da døra smalt"
       ]
     },
     {
@@ -1349,22 +1627,6 @@
   ],
   "translate": [
     {
-      "de": "Hast du schon einmal »Peer Gynt« gesehen?",
-      "no": [
-        "Har du noen gang sett «Peer Gynt»?",
-        "Har du sett «Peer Gynt» før?",
-        "Har du sett «Peer Gynt»?"
-      ]
-    },
-    {
-      "de": "Ich war noch nie in Bergen.",
-      "no": [
-        "Jeg har aldri vært i Bergen.",
-        "Jeg har aldri vært i Bergen før."
-      ],
-      "hint": "Erfahrung ohne Zeitpunkt → Perfekt mit har."
-    },
-    {
       "de": "Gestern haben wir ein Stück von Ibsen gesehen.",
       "no": [
         "I går så vi et stykke av Ibsen.",
@@ -1375,12 +1637,20 @@
       "hint": "»gestern« → Präteritum!"
     },
     {
-      "de": "Ich wohne seit drei Wochen in Oslo.",
+      "de": "Ibsen hat »Et dukkehjem« 1879 geschrieben.",
       "no": [
-        "Jeg har bodd i Oslo i tre uker.",
-        "Jeg har bodd tre uker i Oslo."
+        "Ibsen skrev «Et dukkehjem» i 1879.",
+        "I 1879 skrev Ibsen «Et dukkehjem»."
       ],
-      "hint": "seit + Dauer → har … i …"
+      "hint": "Jahreszahl → i 1879, Präteritum."
+    },
+    {
+      "de": "Das Stück fängt um halb acht an.",
+      "no": [
+        "Stykket begynner halv åtte.",
+        "Stykket begynner klokka halv åtte.",
+        "Stykket begynner klokken halv åtte."
+      ]
     },
     {
       "de": "Welches Theater ist das?",
@@ -1400,44 +1670,55 @@
       ]
     },
     {
-      "de": "Der Mann, der dort steht, heißt Jonas.",
+      "de": "Welchen Film hast du am Samstag gesehen?",
       "no": [
-        "Mannen som står der, heter Jonas.",
-        "Mannen som står der borte, heter Jonas."
+        "Hvilken film så du på lørdag?",
+        "Hva for en film så du på lørdag?"
+      ],
+      "hint": "Präteritum; am Samstag = på lørdag"
+    },
+    {
+      "de": "Vielen Dank für die Hilfe! – Gern geschehen!",
+      "no": [
+        "Tusen takk for hjelpen! – Bare hyggelig!",
+        "Takk for hjelpen! – Bare hyggelig!",
+        "Tusen takk for hjelpen! – Ingen årsak!",
+        "Takk for hjelpen! – Ingen årsak!"
       ]
     },
     {
-      "de": "Jonas ist eifersüchtig auf Matthias.",
+      "de": "Jonas war gestern Abend eifersüchtig auf Matthias.",
       "no": [
-        "Jonas er sjalu på Matthias."
+        "Jonas var sjalu på Matthias i går kveld.",
+        "I går kveld var Jonas sjalu på Matthias."
       ]
     }
   ],
   "summary": [
     {
-      "prompt": "I pausen sier Anna at hun ___ stykket to ganger før.",
-      "de": "In der Pause sagt Anna, dass sie das Stück schon zweimal gesehen hat.",
+      "prompt": "I pausen forteller Anna at hun ___ stykket i Bergen for to år siden.",
+      "de": "In der Pause erzählt Anna, dass sie das Stück vor zwei Jahren in Bergen gesehen hat.",
       "answer": [
-        "har sett"
+        "så"
       ]
     },
     {
-      "prompt": "Matthias har lest stykket, men han har aldri ___ det på en scene.",
-      "de": "Matthias hat das Stück gelesen, aber er hat es noch nie auf einer Bühne gesehen.",
+      "prompt": "Jonas ___ i kø i ti minutter og kjøpte kaffe til alle.",
+      "de": "Jonas stand zehn Minuten in der Schlange und kaufte Kaffee für alle.",
       "answer": [
-        "sett"
+        "sto",
+        "stod"
       ]
     },
     {
-      "prompt": "Jonas henter kaffe og ___ i kø i ti minutter.",
-      "de": "Jonas holt Kaffee und steht zehn Minuten in der Schlange.",
+      "prompt": "Stykket ___ halv åtte og varte i nesten tre timer.",
+      "de": "Das Stück fing um halb acht an und dauerte fast drei Stunden.",
       "answer": [
-        "står",
-        "har stått"
+        "begynte"
       ]
     },
     {
-      "prompt": "Etter stykket er Jonas ___ fordi Anna har snakket så mye med Matthias.",
+      "prompt": "Etter stykket er Jonas ___ fordi Anna snakket så mye med Matthias.",
       "de": "Nach dem Stück ist Jonas eifersüchtig, weil Anna so viel mit Matthias geredet hat.",
       "answer": [
         "sjalu",
@@ -1454,18 +1735,18 @@
   ],
   "dictation": [
     5,
-    13,
-    20,
-    23
+    18,
+    22
   ],
   "writing": {
-    "prompt": "Du warst gestern im Theater oder im Kino. Schreib einer Freundin eine kurze Nachricht: Was hast du gesehen, mit wem warst du dort, und wie hat es dir gefallen? Frag sie auch, ob sie schon einmal etwas Ähnliches gesehen hat.",
+    "prompt": "Du warst gestern im Theater oder im Kino. Schreib einer Freundin eine kurze Nachricht: Was hast du gesehen und mit wem, wann hat es angefangen, und wie hat es dir gefallen? Schlag zum Schluss ein Treffen an einem Wochentag vor.",
     "minWords": 50,
     "useWords": [
       "i går",
-      "noen gang",
-      "som",
-      "denne"
+      "begynte",
+      "klokka",
+      "denne",
+      "på lørdag"
     ],
     "checklist": [
       {
@@ -1475,24 +1756,36 @@
         ]
       },
       {
+        "de": "Wann es angefangen hat (Uhrzeit)",
+        "keywords": [
+          "klokka",
+          "klokken",
+          "halv",
+          "kvart"
+        ]
+      },
+      {
         "de": "Wie es dir gefallen hat",
         "keywords": [
           "likte",
           "fantastisk",
-          "synes",
           "syntes"
         ]
       },
       {
-        "de": "Eine Frage nach Erfahrung (Perfekt)",
+        "de": "Ein Vorschlag mit Wochentag",
         "keywords": [
-          "noen gang",
-          "har du sett",
-          "har du vært"
+          "på mandag",
+          "på tirsdag",
+          "på onsdag",
+          "på torsdag",
+          "på fredag",
+          "på lørdag",
+          "på søndag"
         ]
       }
     ],
-    "model": "Hei, Elin! I går var jeg på Nationaltheatret med Anna, Jonas og Matthias. Vi så «Et dukkehjem» av Ibsen. Skuespilleren som spilte Nora, var fantastisk, og jeg likte stykket veldig godt. Men denne slutten! Jeg har aldri hørt ei dør som smeller så høyt. Har du noen gang sett et stykke av Ibsen? Hvis du vil, kan vi gå sammen neste gang. Hilsen Susanne",
-    "modelDe": "Hallo Elin! Gestern war ich mit Anna, Jonas und Matthias im Nationaltheatret. Wir haben »Et dukkehjem« von Ibsen gesehen. Die Schauspielerin, die Nora gespielt hat, war fantastisch, und mir hat das Stück sehr gut gefallen. Aber dieser Schluss! Ich habe noch nie eine Tür so laut knallen hören. Hast du schon einmal ein Stück von Ibsen gesehen? Wenn du willst, können wir das nächste Mal zusammen gehen. Viele Grüße, Susanne"
+    "model": "Hei, Elin! I går var jeg på Nationaltheatret med Anna, Jonas og Matthias. Vi så «Et dukkehjem» av Ibsen. Stykket begynte klokka halv åtte og varte i nesten tre timer. Skuespilleren som spilte Nora, var fantastisk, og jeg likte stykket veldig godt. Men denne slutten! Døra smalt så høyt at jeg hoppet i stolen. Vil du gå på kino med meg på lørdag? Hilsen Susanne",
+    "modelDe": "Hallo Elin! Gestern war ich mit Anna, Jonas und Matthias im Nationaltheatret. Wir haben »Et dukkehjem« von Ibsen gesehen. Das Stück fing um halb acht an und dauerte fast drei Stunden. Die Schauspielerin, die Nora spielte, war fantastisch, und mir hat das Stück sehr gut gefallen. Aber dieser Schluss! Die Tür knallte so laut, dass ich auf meinem Sitz zusammengezuckt bin. Willst du am Samstag mit mir ins Kino gehen? Viele Grüße, Susanne"
   }
 }

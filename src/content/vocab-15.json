@@ -47,6 +47,69 @@
     }
   },
   {
+    "id": "w15_annen",
+    "no": "annen",
+    "de": "anderer, andere, anderes",
+    "pos": "adj",
+    "forms": [
+      "annen",
+      "annet",
+      "andre"
+    ],
+    "lesson": 15,
+    "note": "annen (en/ei-Wort), annet (et-Wort), andre (Plural und bestimmt). andre heißt auch »zweiter«.",
+    "ex": {
+      "no": "Bamse vil ikke ligge på et annet teppe.",
+      "de": "Bamse will auf keiner anderen Decke liegen."
+    }
+  },
+  {
+    "id": "w15_hver_sin",
+    "no": "hver sin",
+    "de": "jeder sein eigenes",
+    "pos": "phrase",
+    "lesson": 15,
+    "note": "Richtet sich nach dem Ding: hver sin sykkel, hvert sitt rom.",
+    "ex": {
+      "no": "Ola og Per har hver sin sykkel.",
+      "de": "Ola und Per haben jeder ein eigenes Fahrrad."
+    }
+  },
+  {
+    "id": "w15_begge_deler",
+    "no": "begge deler",
+    "de": "beides",
+    "pos": "phrase",
+    "lesson": 15,
+    "ex": {
+      "no": "– Te eller kaffe? – Begge deler, takk!",
+      "de": "– Tee oder Kaffee? – Beides, bitte!"
+    }
+  },
+  {
+    "id": "w15_noe_annet",
+    "no": "noe annet",
+    "de": "etwas anderes",
+    "pos": "phrase",
+    "lesson": 15,
+    "ex": {
+      "no": "Har du lyst på noe annet enn fisk?",
+      "de": "Hast du Lust auf etwas anderes als Fisch?"
+    }
+  },
+  {
+    "id": "w15_vi_andre",
+    "no": "vi andre",
+    "de": "wir anderen",
+    "pos": "phrase",
+    "lesson": 15,
+    "note": "Ebenso: dere andre (ihr anderen), de andre (die anderen).",
+    "ex": {
+      "no": "Vi andre spiser frokost, mens Anna sover.",
+      "de": "Wir anderen frühstücken, während Anna schläft."
+    }
+  },
+  {
     "id": "w15_noe",
     "no": "noe",
     "de": "etwas",
@@ -185,24 +248,6 @@
     }
   },
   {
-    "id": "w15_innfore",
-    "no": "innføre",
-    "de": "einführen",
-    "pos": "verb",
-    "vf": [
-      "innfører",
-      "innførte",
-      "innført",
-      "innfør"
-    ],
-    "vg": "2",
-    "lesson": 15,
-    "ex": {
-      "no": "Norge innførte fedrekvoten i 1993.",
-      "de": "Norwegen führte die Väterquote 1993 ein."
-    }
-  },
-  {
     "id": "w15_krangle",
     "no": "krangle",
     "de": "streiten",
@@ -216,8 +261,8 @@
     "vg": "1",
     "lesson": 15,
     "ex": {
-      "no": "Ola og Anna krangler om badet.",
-      "de": "Ola und Anna streiten sich ums Bad."
+      "no": "Ola krangler med foreldrene sine om mobilen.",
+      "de": "Ola streitet mit seinen Eltern ums Handy."
     }
   },
   {
@@ -372,8 +417,8 @@
     "wk": true,
     "note": "far + mor = die Mutter des Vaters.",
     "ex": {
-      "no": "Bestemor Ingrid er farmora til Ola og Anna.",
-      "de": "Oma Ingrid ist Olas und Annas Großmutter väterlicherseits."
+      "no": "Bestemor Ingrid er farmora til Ola.",
+      "de": "Oma Ingrid ist Olas Großmutter väterlicherseits."
     }
   },
   {
@@ -449,8 +494,8 @@
     "lesson": 15,
     "wk": true,
     "ex": {
-      "no": "Bestemor har to barnebarn.",
-      "de": "Oma hat zwei Enkelkinder."
+      "no": "Ola er barnebarnet til bestemor Ingrid.",
+      "de": "Ola ist Oma Ingrids Enkel."
     }
   },
   {
@@ -544,8 +589,8 @@
     "lesson": 15,
     "wk": true,
     "ex": {
-      "no": "Anna er niesa til onkel Arne.",
-      "de": "Anna ist Onkel Arnes Nichte."
+      "no": "Niesa mi er tre år.",
+      "de": "Meine Nichte ist drei Jahre alt."
     }
   },
   {
@@ -1135,52 +1180,6 @@
     }
   },
   {
-    "id": "w15_arbeidsliv",
-    "no": "arbeidsliv",
-    "de": "das Arbeitsleben",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "arbeidsliv",
-      "arbeidslivet"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "Det norske arbeidslivet er ganske uformelt.",
-      "de": "Das norwegische Arbeitsleben ist ziemlich informell."
-    }
-  },
-  {
-    "id": "w15_arbeidsuke",
-    "no": "arbeidsuke",
-    "de": "die Arbeitswoche",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "arbeidsuke",
-      "arbeidsuka",
-      "arbeidsuker",
-      "arbeidsukene"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "For mange er en arbeidsuke 37,5 timer.",
-      "de": "Für viele hat eine Arbeitswoche 37,5 Stunden."
-    }
-  },
-  {
-    "id": "w15_jobbe_deltid",
-    "no": "jobbe deltid",
-    "de": "Teilzeit arbeiten",
-    "pos": "phrase",
-    "lesson": 15,
-    "note": "Gegenteil: jobbe heltid (Vollzeit arbeiten).",
-    "ex": {
-      "no": "Mange kvinner jobber deltid.",
-      "de": "Viele Frauen arbeiten Teilzeit."
-    }
-  },
-  {
     "id": "w15_barnehage",
     "no": "barnehage",
     "de": "der Kindergarten",
@@ -1199,135 +1198,6 @@
     "ex": {
       "no": "De fleste barn går i barnehage.",
       "de": "Die meisten Kinder gehen in den Kindergarten."
-    }
-  },
-  {
-    "id": "w15_skolefritidsordning",
-    "no": "skolefritidsordning",
-    "de": "die Nachmittagsbetreuung (an der Schule)",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "skolefritidsordning",
-      "skolefritidsordninga",
-      "skolefritidsordninger",
-      "skolefritidsordningene"
-    ],
-    "lesson": 15,
-    "note": "Abkürzung: SFO, für die jüngsten Schüler.",
-    "ex": {
-      "no": "Etter skolen går de minste barna på SFO.",
-      "de": "Nach der Schule gehen die Kleinsten in die Nachmittagsbetreuung."
-    }
-  },
-  {
-    "id": "w15_foreldrepermisjon",
-    "no": "foreldrepermisjon",
-    "de": "die Elternzeit",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "foreldrepermisjon",
-      "foreldrepermisjonen",
-      "foreldrepermisjoner",
-      "foreldrepermisjonene"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "Han tar foreldrepermisjon i sommer.",
-      "de": "Er nimmt diesen Sommer Elternzeit."
-    }
-  },
-  {
-    "id": "w15_fedrekvote",
-    "no": "fedrekvote",
-    "de": "die Väterquote",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "fedrekvote",
-      "fedrekvoten",
-      "fedrekvoter",
-      "fedrekvotene"
-    ],
-    "lesson": 15,
-    "note": "Teil der Elternzeit, der nur für den Vater da ist.",
-    "ex": {
-      "no": "Fedrekvoten kom i 1993.",
-      "de": "Die Väterquote kam 1993."
-    }
-  },
-  {
-    "id": "w15_barnevogn",
-    "no": "barnevogn",
-    "de": "der Kinderwagen",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "barnevogn",
-      "barnevogna",
-      "barnevogner",
-      "barnevognene"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "Mange fedre går tur med barnevogna.",
-      "de": "Viele Väter gehen mit dem Kinderwagen spazieren."
-    }
-  },
-  {
-    "id": "w15_likestilling",
-    "no": "likestilling",
-    "de": "die Gleichstellung",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "likestilling",
-      "likestillinga"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "Likestilling er en viktig verdi i Norge.",
-      "de": "Gleichstellung ist in Norwegen ein wichtiger Wert."
-    }
-  },
-  {
-    "id": "w15_verdi",
-    "no": "verdi",
-    "de": "der Wert",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "verdi",
-      "verdien",
-      "verdier",
-      "verdiene"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "Familien er en viktig verdi for ham.",
-      "de": "Die Familie ist für ihn ein wichtiger Wert."
-    }
-  },
-  {
-    "id": "w15_mulighet",
-    "no": "mulighet",
-    "de": "die Möglichkeit",
-    "deAlt": [
-      "die Chance"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "mulighet",
-      "muligheten",
-      "muligheter",
-      "mulighetene"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "Kvinner og menn skal ha de samme mulighetene.",
-      "de": "Frauen und Männer sollen die gleichen Chancen haben."
     }
   },
   {
@@ -1434,6 +1304,22 @@
     }
   },
   {
+    "id": "w15_syk",
+    "no": "syk",
+    "de": "krank",
+    "pos": "adj",
+    "forms": [
+      "syk",
+      "sykt",
+      "syke"
+    ],
+    "lesson": 15,
+    "ex": {
+      "no": "Når Ola er syk, jobber Per hjemmefra.",
+      "de": "Wenn Ola krank ist, arbeitet Per von zu Hause aus."
+    }
+  },
+  {
     "id": "w15_spesiell",
     "no": "spesiell",
     "de": "besonders, speziell",
@@ -1502,17 +1388,6 @@
     "ex": {
       "no": "Til slutt kommer Ola ned.",
       "de": "Schließlich kommt Ola herunter."
-    }
-  },
-  {
-    "id": "w15_hit_og_dit",
-    "no": "hit og dit",
-    "de": "hin und her",
-    "pos": "phrase",
-    "lesson": 15,
-    "ex": {
-      "no": "Foreldrene kjører barna hit og dit.",
-      "de": "Die Eltern fahren die Kinder hin und her."
     }
   },
   {
@@ -1669,99 +1544,6 @@
     }
   },
   {
-    "id": "w15_kvinne",
-    "no": "kvinne",
-    "de": "die Frau",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "kvinne",
-      "kvinna",
-      "kvinner",
-      "kvinnene"
-    ],
-    "lesson": 15,
-    "note": "kvinne = Frau allgemein; die Ehefrau heißt kone.",
-    "ex": {
-      "no": "Mange kvinner jobber deltid.",
-      "de": "Viele Frauen arbeiten Teilzeit."
-    }
-  },
-  {
-    "id": "w15_permisjon",
-    "no": "permisjon",
-    "de": "die Freistellung (von der Arbeit)",
-    "deAlt": [
-      "die Freistellung",
-      "die Beurlaubung"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "permisjon",
-      "permisjonen",
-      "permisjoner",
-      "permisjonene"
-    ],
-    "lesson": 15,
-    "note": "ta permisjon = sich (vom Job) freistellen lassen; foreldrepermisjon = Elternzeit.",
-    "ex": {
-      "no": "Per tok permisjon da Ola ble født.",
-      "de": "Per hat sich freistellen lassen, als Ola geboren wurde."
-    }
-  },
-  {
-    "id": "w15_dit",
-    "no": "dit",
-    "de": "dorthin",
-    "pos": "adv",
-    "lesson": 15,
-    "note": "hit og dit = hin und her. Ort: der (dort).",
-    "ex": {
-      "no": "Tromsø? Dit flytter jeg neste uke.",
-      "de": "Tromsø? Dorthin ziehe ich nächste Woche."
-    }
-  },
-  {
-    "id": "w15_syk",
-    "no": "syk",
-    "de": "krank",
-    "pos": "adj",
-    "forms": [
-      "syk",
-      "sykt",
-      "syke"
-    ],
-    "lesson": 15,
-    "ex": {
-      "no": "Når et barn er sykt, hjelper besteforeldrene ofte til.",
-      "de": "Wenn ein Kind krank ist, helfen die Großeltern oft mit."
-    }
-  },
-  {
-    "id": "w15_hjem_heim",
-    "no": "hjem",
-    "de": "das Zuhause, das Heim",
-    "deAlt": [
-      "das Zuhause",
-      "das Heim"
-    ],
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "hjem",
-      "hjemmet",
-      "hjem",
-      "hjemma/hjemmene"
-    ],
-    "lesson": 15,
-    "note": "Auch Adverb: hjem = nach Hause, hjemme = zu Hause.",
-    "ex": {
-      "no": "Mange barn har to hjem.",
-      "de": "Viele Kinder haben zwei Zuhause."
-    }
-  },
-  {
     "id": "w15_datamaskin",
     "no": "datamaskin",
     "de": "der Computer",
@@ -1777,6 +1559,580 @@
     "ex": {
       "no": "Ola spiller på datamaskinen sin til midnatt.",
       "de": "Ola spielt bis Mitternacht an seinem Computer."
+    }
+  },
+  {
+    "id": "w15_derfor",
+    "no": "derfor",
+    "de": "deshalb, darum",
+    "deAlt": [
+      "deshalb",
+      "darum"
+    ],
+    "pos": "adv",
+    "lesson": 15,
+    "note": "Am Satzanfang folgt Inversion: Derfor skriver jeg …",
+    "ex": {
+      "no": "Om en uke flytter jeg. Derfor skriver jeg dagbok.",
+      "de": "In einer Woche ziehe ich um. Deshalb schreibe ich Tagebuch."
+    }
+  },
+  {
+    "id": "w15_skole",
+    "no": "skole",
+    "de": "die Schule",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "skole",
+      "skolen",
+      "skoler",
+      "skolene"
+    ],
+    "lesson": 15,
+    "ex": {
+      "no": "Kari retter prøver på skolen.",
+      "de": "Kari korrigiert in der Schule Klassenarbeiten."
+    }
+  },
+  {
+    "id": "w15_lue",
+    "no": "lue",
+    "de": "die Mütze",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "lue",
+      "lua",
+      "luer",
+      "luene"
+    ],
+    "lesson": 15,
+    "ex": {
+      "no": "Bestemor strikker ei lue til Susanne.",
+      "de": "Oma strickt Susanne eine Mütze."
+    }
+  },
+  {
+    "id": "w15_sokkelleilighet",
+    "no": "sokkelleilighet",
+    "de": "die Einliegerwohnung (im Untergeschoss)",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "sokkelleilighet",
+      "sokkelleiligheten",
+      "sokkelleiligheter",
+      "sokkelleilighetene"
+    ],
+    "lesson": 15,
+    "note": "sokkel = das Untergeschoss eines Hauses (oft am Hang). Viele Familien vermieten so eine kleine Wohnung.",
+    "ex": {
+      "no": "Anna bor i sokkelleiligheten til familien Nygård.",
+      "de": "Anna wohnt in der Einliegerwohnung der Familie Nygård."
+    }
+  },
+  {
+    "id": "w15_regle",
+    "no": "regle",
+    "de": "der Kinderreim (gesprochen)",
+    "deAlt": [
+      "der Reim",
+      "der Abzählreim"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "regle",
+      "regla",
+      "regler",
+      "reglene"
+    ],
+    "lesson": 15,
+    "note": "Plural regler – genau wie der Plural von en regel (die Regel). Der Zusammenhang zeigt, was gemeint ist.",
+    "ex": {
+      "no": "Bestemor kan mange gamle regler.",
+      "de": "Oma kann viele alte Kinderreime."
+    }
+  },
+  {
+    "id": "w15_barnerim",
+    "no": "barnerim",
+    "de": "der Kinderreim",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "barnerim",
+      "barnerimet",
+      "barnerim",
+      "barnerima/barnerimene"
+    ],
+    "lesson": 15,
+    "ex": {
+      "no": "Ola kan fortsatt barnerimene fra barnehagen.",
+      "de": "Ola kann immer noch die Kinderreime aus dem Kindergarten."
+    }
+  },
+  {
+    "id": "w15_rim",
+    "no": "rim",
+    "de": "der Reim",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "rim",
+      "rimet",
+      "rim",
+      "rima/rimene"
+    ],
+    "lesson": 15,
+    "ex": {
+      "no": "Bestemor finner alltid et rim på navnet ditt.",
+      "de": "Oma findet immer einen Reim auf deinen Namen."
+    }
+  },
+  {
+    "id": "w15_rime",
+    "no": "rime",
+    "de": "sich reimen",
+    "pos": "verb",
+    "vf": [
+      "rimer",
+      "rimte",
+      "rimt",
+      "rim"
+    ],
+    "vg": "2",
+    "lesson": 15,
+    "ex": {
+      "no": "«Sol» og «stol» rimer.",
+      "de": "„Sol“ und „stol“ reimen sich."
+    }
+  },
+  {
+    "id": "w15_utenat",
+    "no": "utenat",
+    "de": "auswendig",
+    "pos": "adv",
+    "lesson": 15,
+    "ex": {
+      "no": "Ola kan alle reglene utenat.",
+      "de": "Ola kann alle Reime auswendig."
+    }
+  },
+  {
+    "id": "w15_rytme",
+    "no": "rytme",
+    "de": "der Rhythmus",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "rytme",
+      "rytmen",
+      "rytmer",
+      "rytmene"
+    ],
+    "lesson": 15,
+    "ex": {
+      "no": "Regla har en rytme som barna liker.",
+      "de": "Der Reim hat einen Rhythmus, den die Kinder mögen."
+    }
+  },
+  {
+    "id": "w15_generasjon",
+    "no": "generasjon",
+    "de": "die Generation",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "generasjon",
+      "generasjonen",
+      "generasjoner",
+      "generasjonene"
+    ],
+    "lesson": 15,
+    "ex": {
+      "no": "Tre generasjoner sitter rundt bordet: bestemor, Per og Ola.",
+      "de": "Drei Generationen sitzen um den Tisch: Oma, Per und Ola."
+    }
+  },
+  {
+    "id": "w15_laere_bort",
+    "no": "lære bort",
+    "de": "beibringen",
+    "deAlt": [
+      "lehren"
+    ],
+    "pos": "verb",
+    "vf": [
+      "lærer bort",
+      "lærte bort",
+      "lært bort",
+      "lær bort"
+    ],
+    "vg": "2",
+    "lesson": 15,
+    "note": "lære bort noe til noen = jdm. etwas beibringen; lære noe = etwas lernen.",
+    "ex": {
+      "no": "Bestemor lærte bort regla til meg.",
+      "de": "Oma hat mir den Reim beigebracht."
+    }
+  },
+  {
+    "id": "w15_fang",
+    "no": "fang",
+    "de": "der Schoß",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "fang",
+      "fanget",
+      "fang",
+      "fanga/fangene"
+    ],
+    "lesson": 15,
+    "note": "på fanget = auf dem Schoß",
+    "ex": {
+      "no": "Bamse vil alltid ligge på fanget til bestemor.",
+      "de": "Bamse will immer auf Omas Schoß liegen."
+    }
+  },
+  {
+    "id": "w15_kne",
+    "no": "kne",
+    "de": "das Knie",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "kne",
+      "kneet",
+      "knær",
+      "knærne"
+    ],
+    "lesson": 15,
+    "note": "Plural unregelmäßig: knær, knærne.",
+    "ex": {
+      "no": "Ola har vondt i kneet etter fotballkampen.",
+      "de": "Ola tut nach dem Fußballspiel das Knie weh."
+    }
+  },
+  {
+    "id": "w15_ri",
+    "no": "ri",
+    "de": "reiten",
+    "pos": "verb",
+    "vf": [
+      "rir",
+      "red",
+      "ridd",
+      "ri"
+    ],
+    "vg": "sterk",
+    "lesson": 15,
+    "note": "Auch die Form ride kommt vor, z. B. in alten Reimen.",
+    "ex": {
+      "no": "Kari lærte å ri da hun var liten.",
+      "de": "Kari hat als Kind reiten gelernt."
+    }
+  },
+  {
+    "id": "w15_overraskelse",
+    "no": "overraskelse",
+    "de": "die Überraschung",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "overraskelse",
+      "overraskelsen",
+      "overraskelser",
+      "overraskelsene"
+    ],
+    "lesson": 15,
+    "ex": {
+      "no": "Lua fra bestemor var en fin overraskelse.",
+      "de": "Die Mütze von Oma war eine schöne Überraschung."
+    }
+  },
+  {
+    "id": "w15_late_som",
+    "no": "late som",
+    "de": "so tun, als ob",
+    "pos": "verb",
+    "vf": [
+      "later som",
+      "lot som",
+      "latt som",
+      "lat som"
+    ],
+    "vg": "sterk",
+    "lesson": 15,
+    "note": "late som (om) + Hauptsatz-Wortstellung: Han later som om han ikke hører.",
+    "ex": {
+      "no": "Ola later som om han sover.",
+      "de": "Ola tut so, als ob er schläft."
+    }
+  },
+  {
+    "id": "w15_kile",
+    "no": "kile",
+    "de": "kitzeln",
+    "pos": "verb",
+    "vf": [
+      "kiler",
+      "kilte",
+      "kilt",
+      "kil"
+    ],
+    "vg": "2",
+    "lesson": 15,
+    "ex": {
+      "no": "Ikke kil meg!",
+      "de": "Kitzle mich nicht!"
+    }
+  },
+  {
+    "id": "w15_mage",
+    "no": "mage",
+    "de": "der Bauch, der Magen",
+    "deAlt": [
+      "der Bauch",
+      "der Magen"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "mage",
+      "magen",
+      "mager",
+      "magene"
+    ],
+    "lesson": 15,
+    "ex": {
+      "no": "Jeg har vondt i magen.",
+      "de": "Ich habe Bauchschmerzen."
+    }
+  },
+  {
+    "id": "w15_telle",
+    "no": "telle",
+    "de": "zählen",
+    "pos": "verb",
+    "vf": [
+      "teller",
+      "talte",
+      "talt",
+      "tell"
+    ],
+    "vg": "uregelm",
+    "lesson": 15,
+    "note": "Unregelmäßig: telle – talte – talt.",
+    "ex": {
+      "no": "Ola teller til ti før han begynner å lete.",
+      "de": "Ola zählt bis zehn, bevor er anfängt zu suchen."
+    }
+  },
+  {
+    "id": "w15_telleregle",
+    "no": "telleregle",
+    "de": "der Abzählreim",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "telleregle",
+      "telleregla",
+      "telleregler",
+      "tellereglene"
+    ],
+    "lesson": 15,
+    "ex": {
+      "no": "Barna sier ei telleregle før leken.",
+      "de": "Die Kinder sagen vor dem Spiel einen Abzählreim auf."
+    }
+  },
+  {
+    "id": "w15_peke",
+    "no": "peke",
+    "de": "zeigen (auf)",
+    "pos": "verb",
+    "vf": [
+      "peker",
+      "pekte",
+      "pekt",
+      "pek"
+    ],
+    "vg": "2",
+    "lesson": 15,
+    "note": "peke på = (mit dem Finger) zeigen auf",
+    "ex": {
+      "no": "Ola peker på klokka: «Nå må jeg gå!»",
+      "de": "Ola zeigt auf die Uhr: „Jetzt muss ich gehen!“"
+    }
+  },
+  {
+    "id": "w15_lek",
+    "no": "lek",
+    "de": "das Spiel (von Kindern)",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "lek",
+      "leken",
+      "leker",
+      "lekene"
+    ],
+    "lesson": 15,
+    "note": "lek = freies Spiel; ein Spiel mit festen Regeln (Karten, Brettspiel) ist meist et spill.",
+    "ex": {
+      "no": "Gjemsel er en populær lek.",
+      "de": "Verstecken ist ein beliebtes Spiel."
+    }
+  },
+  {
+    "id": "w15_gjemsel",
+    "no": "gjemsel",
+    "de": "das Versteckspiel",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "gjemsel",
+      "gjemselen"
+    ],
+    "lesson": 15,
+    "note": "leke gjemsel = Verstecken spielen",
+    "ex": {
+      "no": "Barna leker gjemsel i hagen.",
+      "de": "Die Kinder spielen im Garten Verstecken."
+    }
+  },
+  {
+    "id": "w15_lete",
+    "no": "lete",
+    "de": "suchen",
+    "pos": "verb",
+    "vf": [
+      "leter",
+      "lette",
+      "lett",
+      "let"
+    ],
+    "vg": "2",
+    "lesson": 15,
+    "note": "lete etter noe = nach etwas suchen",
+    "ex": {
+      "no": "Ola leter alltid etter nøklene sine.",
+      "de": "Ola sucht immer seine Schlüssel."
+    }
+  },
+  {
+    "id": "w15_tullord",
+    "no": "tullord",
+    "de": "das Fantasiewort, das Quatschwort",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "tullord",
+      "tullordet",
+      "tullord",
+      "tullorda/tullordene"
+    ],
+    "lesson": 15,
+    "ex": {
+      "no": "Regla er full av tullord.",
+      "de": "Der Reim ist voller Fantasiewörter."
+    }
+  },
+  {
+    "id": "w15_lyd",
+    "no": "lyd",
+    "de": "der Laut, der Klang, das Geräusch",
+    "deAlt": [
+      "der Laut",
+      "der Klang",
+      "das Geräusch"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "lyd",
+      "lyden",
+      "lyder",
+      "lydene"
+    ],
+    "lesson": 15,
+    "ex": {
+      "no": "Bamse bjeffer når han hører en lyd ute.",
+      "de": "Bamse bellt, wenn er draußen ein Geräusch hört."
+    }
+  },
+  {
+    "id": "w15_innhold",
+    "no": "innhold",
+    "de": "der Inhalt",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "innhold",
+      "innholdet"
+    ],
+    "lesson": 15,
+    "ex": {
+      "no": "Innholdet i regla er ikke så viktig.",
+      "de": "Der Inhalt des Reims ist nicht so wichtig."
+    }
+  },
+  {
+    "id": "w15_bevege_seg",
+    "no": "bevege seg",
+    "de": "sich bewegen",
+    "pos": "verb",
+    "vf": [
+      "beveger seg",
+      "beveget seg/bevegde seg",
+      "beveget seg/bevegd seg",
+      "beveg deg"
+    ],
+    "vg": "1",
+    "lesson": 15,
+    "ex": {
+      "no": "Bestemor beveger seg langsomt, men hun går tur hver dag.",
+      "de": "Oma bewegt sich langsam, aber sie geht jeden Tag spazieren."
+    }
+  },
+  {
+    "id": "w15_lytte",
+    "no": "lytte",
+    "de": "zuhören, lauschen",
+    "pos": "verb",
+    "vf": [
+      "lytter",
+      "lyttet",
+      "lyttet",
+      "lytt"
+    ],
+    "vg": "1",
+    "lesson": 15,
+    "note": "lytte til = hören auf, zuhören",
+    "ex": {
+      "no": "Ola lytter til historiene til bestemor.",
+      "de": "Ola hört Omas Geschichten zu."
+    }
+  },
+  {
+    "id": "w15_merke",
+    "no": "merke",
+    "de": "merken, bemerken",
+    "pos": "verb",
+    "vf": [
+      "merker",
+      "merket",
+      "merket",
+      "merk"
+    ],
+    "vg": "1",
+    "lesson": 15,
+    "ex": {
+      "no": "Ola merker ikke at bestemor ser på ham.",
+      "de": "Ola merkt nicht, dass Oma ihn ansieht."
     }
   }
 ]

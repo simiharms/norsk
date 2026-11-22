@@ -5,10 +5,11 @@
   "titleDe": "Ein ganz normaler Alltag bei Familie Nygård",
   "place": "Oslo, bei Familie Nygård",
   "goals": [
-    "Du kannst mit sin/si/sitt/sine und hans/hennes eindeutig sagen, wem etwas gehört.",
-    "Du kannst Indefinitpronomen wie alle, hver, begge, noen, ingen und ingenting richtig einsetzen.",
-    "Du kannst Meinungen und Vermutungen mit synes, tro und tenke unterscheiden.",
-    "Du kannst über Verwandtschaft und den Familienalltag sprechen und weißt, wie Familie und Arbeit in Norwegen zusammengehen."
+    "Du kannst den Alltag einer Familie beschreiben: wer wann aufsteht, arbeitet, kocht und schlafen geht.",
+    "Du unterscheidest sin/si/sitt/sine (das eigene) von hans/hennes/deres (das eines anderen).",
+    "Du verwendest all/alt/alle, hver/hvert und begge mit der richtigen Form des Substantivs: alle barna, hver dag, begge foreldrene.",
+    "Du beugst annen/annet/andre richtig und kennst noe annet, ingen andre und en annen gang.",
+    "Du kannst über Verwandtschaft sprechen und erfährst, was norwegische Kinderreime (regler) ausmacht."
   ],
   "text": {
     "id": "t15",
@@ -38,8 +39,8 @@
         "de": "Ola ist am schwersten aus dem Bett zu kriegen. Kari ruft dreimal nach ihm, und Per klopft an seine Tür. Schließlich kommt er herunter, die Haare stehen in alle Richtungen ab. Er findet nie seine Schlüssel oder sein Handyladegerät, und sein Frühstück isst er im Bus. Ola geht auf die weiterführende Schule und hat vor, Ingenieur zu werden – oder Fußballprofi."
       },
       {
-        "no": "Anna har praksis på Ullevål sykehus denne uka, og hun går nattevakter. Når vi andre spiser frokost, kommer hun hjem og legger seg. Alle prøver å være stille, men ingen klarer det helt. Bamse bjeffer nemlig på alle som går forbi huset.",
-        "de": "Anna hat diese Woche ein Praktikum im Krankenhaus Ullevål und macht Nachtdienste. Wenn wir anderen frühstücken, kommt sie nach Hause und legt sich schlafen. Alle versuchen, leise zu sein, aber niemand schafft es ganz. Bamse bellt nämlich jeden an, der am Haus vorbeigeht."
+        "no": "Anna, tandempartneren min, har nettopp flyttet inn i sokkelleiligheten som Kari og Per leier ut. Hun har praksis på Ullevål sykehus, og denne uka går hun nattevakter. Når vi andre spiser frokost, kommer hun hjem og legger seg. Alle prøver å være stille, men ingen klarer det helt. Bamse bjeffer nemlig på alle som går forbi huset.",
+        "de": "Anna, meine Tandempartnerin, ist gerade in die Einliegerwohnung im Untergeschoss gezogen, die Kari und Per vermieten. Sie macht ein Praktikum im Krankenhaus Ullevål, und diese Woche hat sie Nachtdienste. Wenn wir anderen frühstücken, kommt sie nach Hause und legt sich schlafen. Alle versuchen, leise zu sein, aber niemand schafft es ganz. Bamse bellt nämlich jeden an, der am Haus vorbeigeht."
       },
       {
         "no": "Bestemor Ingrid er på besøk fra Lillehammer. Hun sover på gjesterommet og har strikketøyet sitt med seg overalt. Nå strikker hun ei lue til meg. «Jeg tror ikke du vet hvor kaldt det blir der oppe», sier hun. Om ettermiddagen forteller hun Ola historier om troll. Han synes at han er for gammel for troll, men jeg tror han liker dem likevel.",
@@ -168,12 +169,28 @@
         "de": "Fußballprofi"
       },
       {
+        "no": "tandempartneren min",
+        "de": "meine Tandempartnerin"
+      },
+      {
+        "no": "har nettopp flyttet inn",
+        "de": "ist gerade eingezogen"
+      },
+      {
+        "no": "sokkelleiligheten",
+        "de": "die Einliegerwohnung (im Untergeschoss)"
+      },
+      {
+        "no": "leier ut",
+        "de": "vermieten"
+      },
+      {
         "no": "har praksis",
         "de": "hat ein Praktikum"
       },
       {
-        "no": "går nattevakter",
-        "de": "macht Nachtdienste"
+        "no": "går hun nattevakter",
+        "de": "hat sie Nachtdienste"
       },
       {
         "no": "vi andre",
@@ -194,6 +211,10 @@
       {
         "no": "strikketøyet sitt",
         "de": "ihr Strickzeug"
+      },
+      {
+        "no": "lue",
+        "de": "Mütze"
       },
       {
         "no": "likevel",
@@ -237,11 +258,189 @@
     {
       "id": "x15a",
       "title": "Norske barnerim",
-      "titleDe": "",
+      "titleDe": "Norwegische Kinderreime",
       "kind": "info",
-      "lines": [],
-      "glossary": [],
-      "_todo": "NEW TEXT"
+      "intro": "Im Buch steht hier der Kinderreim »Min onkel triller piller«; hier erfährst du mehr über norwegische Kinderreime.",
+      "lines": [
+        {
+          "no": "De fleste nordmenn kan noen barnerim utenat. På norsk kaller man dem ofte regler. Ei regle er et kort vers med rytme og rim, og man sier den – man synger den ikke. Mange regler er svært gamle. Ofte vet ingen hvem som har laget dem, for foreldre og besteforeldre har lært dem bort til barna i mange generasjoner.",
+          "de": "Die meisten Norweger können ein paar Kinderreime auswendig. Auf Norwegisch nennt man sie oft »regler«. Eine »regle« ist ein kurzer Vers mit Rhythmus und Reim, und man spricht ihn – man singt ihn nicht. Viele dieser Reime sind sehr alt. Oft weiß niemand, wer sie gemacht hat, denn Eltern und Großeltern haben sie den Kindern über viele Generationen beigebracht."
+        },
+        {
+          "no": "De første reglene hører barna lenge før de kan snakke. Mange regler sier man med et lite barn på fanget. Den voksne lar barnet «ri» på knærne sine i takt med ordene, og på slutten kommer en overraskelse: Den voksne later som om barnet faller ned, eller kiler det på magen. En av de mest kjente reglene av denne typen begynner med «Ride, ride ranke».",
+          "de": "Die ersten Reime hören Kinder schon lange, bevor sie sprechen können. Viele Reime sagt man mit einem kleinen Kind auf dem Schoß. Der Erwachsene lässt das Kind im Takt der Wörter auf seinen Knien »reiten«, und am Ende kommt eine Überraschung: Der Erwachsene tut so, als ob das Kind herunterfällt, oder er kitzelt es am Bauch. Einer der bekanntesten Reime dieser Art beginnt mit »Ride, ride ranke«."
+        },
+        {
+          "no": "Når barna blir eldre, bruker de regler i lek med andre barn. Før en lek må de ofte finne ut hvem som skal begynne, eller hvem som skal lete når de leker gjemsel. Da står alle i en ring, og ett av barna sier ei telleregle. For hvert ord peker det på et nytt barn. Den som får det siste ordet, er ute, og man fortsetter til bare ett barn står igjen. Barna har også regler til hoppetau og klappeleker.",
+          "de": "Wenn die Kinder älter werden, benutzen sie Reime beim Spielen mit anderen Kindern. Vor einem Spiel müssen sie oft herausfinden, wer anfangen soll oder wer suchen soll, wenn sie Verstecken spielen. Dann stellen sich alle in einen Kreis, und eines der Kinder sagt einen Abzählreim auf. Bei jedem Wort zeigt es auf ein neues Kind. Wer das letzte Wort bekommt, ist raus, und man macht weiter, bis nur noch ein Kind übrig ist. Die Kinder haben auch Reime zum Seilspringen und für Klatschspiele."
+        },
+        {
+          "no": "Hvorfor er barn så glade i regler? Ofte betyr ordene ikke noe særlig. Reglene er fulle av rare tullord og ord som rimer, og rytmen er så sterk at man nesten må bevege seg. Barna lytter mer til lydene enn til innholdet, og de vil høre den samme regla igjen og igjen. På den måten lærer de mye om språket nesten uten å merke det: lyder, rytme og nye ord. Derfor er regler en viktig del av hverdagen i mange barnehager.",
+          "de": "Warum mögen Kinder Reime so sehr? Oft bedeuten die Wörter nicht viel. Die Reime sind voller seltsamer Fantasiewörter und Wörter, die sich reimen, und der Rhythmus ist so stark, dass man sich fast bewegen muss. Die Kinder hören mehr auf die Laute als auf den Inhalt, und sie wollen denselben Reim immer wieder hören. Auf diese Weise lernen sie viel über die Sprache, fast ohne es zu merken: Laute, Rhythmus und neue Wörter. Deshalb sind Reime in vielen Kindergärten ein wichtiger Teil des Alltags."
+        }
+      ],
+      "glossary": [
+        {
+          "no": "barnerim",
+          "de": "Kinderreime"
+        },
+        {
+          "no": "utenat",
+          "de": "auswendig"
+        },
+        {
+          "no": "regler",
+          "de": "Kinderreime (Plural von regle; auch: Regeln, von regel)"
+        },
+        {
+          "no": "Ei regle",
+          "de": "ein (gesprochener) Kinderreim"
+        },
+        {
+          "no": "vers",
+          "de": "Vers"
+        },
+        {
+          "no": "rytme",
+          "de": "Rhythmus"
+        },
+        {
+          "no": "rim",
+          "de": "Reim"
+        },
+        {
+          "no": "har lært dem bort til",
+          "de": "haben sie … beigebracht"
+        },
+        {
+          "no": "generasjoner",
+          "de": "Generationen"
+        },
+        {
+          "no": "på fanget",
+          "de": "auf dem Schoß"
+        },
+        {
+          "no": "ri",
+          "de": "reiten"
+        },
+        {
+          "no": "knærne sine",
+          "de": "seine (eigenen) Knie"
+        },
+        {
+          "no": "i takt med",
+          "de": "im Takt mit"
+        },
+        {
+          "no": "overraskelse",
+          "de": "Überraschung"
+        },
+        {
+          "no": "later som om",
+          "de": "tut so, als ob"
+        },
+        {
+          "no": "kiler det på magen",
+          "de": "kitzelt es am Bauch"
+        },
+        {
+          "no": "av denne typen",
+          "de": "dieser Art"
+        },
+        {
+          "no": "Ride, ride ranke",
+          "de": "Anfang eines alten Kniereiterreims (ride = reiten)"
+        },
+        {
+          "no": "i lek med",
+          "de": "beim Spielen mit"
+        },
+        {
+          "no": "finne ut",
+          "de": "herausfinden"
+        },
+        {
+          "no": "skal lete",
+          "de": "suchen soll"
+        },
+        {
+          "no": "leker gjemsel",
+          "de": "Verstecken spielen"
+        },
+        {
+          "no": "telleregle",
+          "de": "Abzählreim"
+        },
+        {
+          "no": "peker",
+          "de": "zeigt"
+        },
+        {
+          "no": "er ute",
+          "de": "ist raus"
+        },
+        {
+          "no": "står igjen",
+          "de": "übrig bleibt"
+        },
+        {
+          "no": "hoppetau",
+          "de": "Springseil, Seilspringen"
+        },
+        {
+          "no": "klappeleker",
+          "de": "Klatschspiele"
+        },
+        {
+          "no": "glade i",
+          "de": "mögen, lieben (glad i = gern haben)"
+        },
+        {
+          "no": "ikke noe særlig",
+          "de": "nicht viel (Besonderes)"
+        },
+        {
+          "no": "tullord",
+          "de": "Fantasiewörter, Quatschwörter"
+        },
+        {
+          "no": "rimer",
+          "de": "sich reimen"
+        },
+        {
+          "no": "bevege seg",
+          "de": "sich bewegen"
+        },
+        {
+          "no": "lytter mer til",
+          "de": "hören mehr auf"
+        },
+        {
+          "no": "lydene",
+          "de": "die Laute, die Klänge"
+        },
+        {
+          "no": "innholdet",
+          "de": "den Inhalt"
+        },
+        {
+          "no": "igjen og igjen",
+          "de": "immer wieder"
+        },
+        {
+          "no": "På den måten",
+          "de": "auf diese Weise"
+        },
+        {
+          "no": "uten å merke det",
+          "de": "ohne es zu merken"
+        },
+        {
+          "no": "en viktig del av",
+          "de": "ein wichtiger Teil von"
+        }
+      ]
     }
   ],
   "wk": {
@@ -367,7 +566,7 @@
         },
         {
           "h": "Nie im Subjekt",
-          "body": "**sin** zeigt auf das Subjekt zurück – darum kann es nie selbst im Subjekt stehen:\n\n• **Kari og broren hennes snakker i telefonen.** (nicht *broren sin*)\n• **Ola og søstera hans ser på TV.**\n• **Døra deres står alltid åpen.**\n\nIm Nebensatz zählt das Subjekt des Nebensatzes:\n\n• **Kari er sur fordi Per har gitt bort jakka hennes.** – Subjekt im Nebensatz ist Per; die Jacke gehört Kari → hennes.\n• **Ola sier at han ikke finner nøklene sine.** – Subjekt im Nebensatz ist han (= Ola) → sine.\n\nUnd im Objekt einer anderen Person: **Kari hjelper Ola med matteleksene hans.** – Die Hausaufgaben gehören Ola, nicht dem Subjekt Kari → hans."
+          "body": "**sin** zeigt auf das Subjekt zurück – darum kann es nie selbst im Subjekt stehen:\n\n• **Kari og broren hennes snakker i telefonen.** (nicht *broren sin*)\n• **Per og moren hans drikker kaffe.** (Bestemor Ingrid ist Pers Mutter.)\n• **Døra deres står alltid åpen.**\n\nIm Nebensatz zählt das Subjekt des Nebensatzes:\n\n• **Kari er sur fordi Per har gitt bort jakka hennes.** – Subjekt im Nebensatz ist Per; die Jacke gehört Kari → hennes.\n• **Ola sier at han ikke finner nøklene sine.** – Subjekt im Nebensatz ist han (= Ola) → sine.\n\nUnd im Objekt einer anderen Person: **Kari hjelper Ola med matteleksene hans.** – Die Hausaufgaben gehören Ola, nicht dem Subjekt Kari → hans."
         },
         {
           "h": "Plural, hver sin und hvem sin",
@@ -417,12 +616,12 @@
           "explain": "et strikketøy → sitt."
         },
         {
-          "prompt": "Jonas låner sykkelen ___. (= Olas Fahrrad)",
-          "de": "Jonas leiht sich sein Fahrrad (Olas Fahrrad).",
+          "prompt": "Per låner sykkelen ___ i dag. (= Olas Fahrrad)",
+          "de": "Per leiht sich heute sein Fahrrad (Olas Fahrrad).",
           "answer": [
             "hans"
           ],
-          "explain": "Das Fahrrad gehört Ola, nicht dem Subjekt Jonas → hans."
+          "explain": "Das Fahrrad gehört Ola, nicht dem Subjekt Per → hans."
         },
         {
           "prompt": "Kari og broren ___ snakker i telefonen hver søndag. (Karis Bruder)",
@@ -479,51 +678,49 @@
       "id": "g15_all_hver_begge",
       "title": "Die unbestimmten Pronomina all, hver, begge",
       "titleNo": "ubestemte pronomen",
-      "summary": "all/alt/alle, hver/hvert, begge, annen/annet/andre, noen/noe, ingen/ingenting – und warum es »Jeg har ikke sett noen« heißt.",
+      "summary": "all/alt/alle, hver/hvert und begge – und welche Form das Substantiv danach hat: all maten, alt brødet, alle barna, hver dag, hvert år, begge barna.",
       "sections": [
         {
-          "h": "all, hver, begge",
-          "body": "• **all** (en/ei-Wort), **alt** (et-Wort), **alle** (Plural): **all maten, alt brødet, alle barna**. Allein stehend: **Alt er klart.** (Alles ist fertig.) **Alle er hjemme.** (Alle sind zu Hause.)\n• Meist folgt die **bestimmte Form**: **alle barna** = alle (diese) Kinder; **alle barn** = alle Kinder überhaupt.\n• »den ganzen Tag« heißt **hele dagen**, nicht *all dagen*: **hele uka, hele familien**.\n• **hver** (en/ei-Wort), **hvert** (et-Wort) = jeder, jede, jedes – mit **unbestimmtem** Substantiv im Singular: **hver dag, hver morgen, hvert år**. Verstärkt: **hver eneste dag** – jeden einzelnen Tag.\n• **begge** = beide: **begge barna, begge foreldrene, begge to** (alle beide), **begge deler** (beides)."
-        },
-        {
-          "h": "annen, noen, noe",
-          "body": "• **annen** (en/ei-Wort), **annet** (et-Wort), **andre** (Plural und bestimmt): **en annen gang, et annet sted, andre folk, den andre dagen, vi andre** (wir anderen). Achtung: **andre** heißt auch »zweiter« (Lektion 11).\n• **noen** = jemand; einige (Zählbares): **Er det noen hjemme? Jeg har noen venner i Bergen.**\n• **noe** = etwas; vor Unzählbarem: **Vil du ha noe å drikke? Har du noe melk?**\n• In Fragen steht **noen/noe** oft dort, wo das Deutsche gar kein Wort braucht: **Har du noen søsken?** – Hast du Geschwister?",
+          "h": "all, alt, alle",
+          "body": "**all** richtet sich nach dem Substantiv: **all** (en/ei-Wort), **alt** (et-Wort), **alle** (Plural):\n\n• **all maten, all melka** – das ganze Essen, die ganze Milch\n• **alt brødet** – das ganze Brot\n• **alle barna** – alle Kinder\n\nDanach steht das Substantiv in der **bestimmten Form**, aber **ohne den/det/de** davor: **alle barna** = alle (diese) Kinder, nicht *alle de barna*. Ohne Endung meint man etwas ganz Allgemeines: **Alle barn liker is.** – Alle Kinder (überhaupt) mögen Eis.\n\nAllein stehend: **Alt er klart.** (Alles ist fertig.) **Alle er hjemme.** (Alle sind zu Hause.) **Hei, alle sammen!** (Hallo, ihr alle!)\n\nAchtung: Bei zählbaren Dingen im Singular heißt »ganz« nicht **all**, sondern **hele**: **hele dagen** (den ganzen Tag) – mehr dazu in Lektion 17.",
           "table": [
             [
               "",
-              "Personen / Zählbares",
-              "Dinge / Menge"
+              "en/ei-Wort",
+              "et-Wort",
+              "Plural"
             ],
             [
-              "positiv",
-              "**noen** (jemand, einige)",
-              "**noe** (etwas)"
+              "mit Substantiv",
+              "**all maten**",
+              "**alt brødet**",
+              "**alle barna**"
             ],
             [
-              "negativ",
-              "**ingen** = ikke noen",
-              "**ingenting** = ikke noe"
-            ],
-            [
-              "alle / alles",
-              "**alle**",
-              "**alt**"
+              "allein",
+              "–",
+              "**alt** (alles)",
+              "**alle** (alle, jeder)"
             ]
           ]
         },
         {
-          "h": "ingen, ingenting – und ikke noen",
-          "body": "**ingen** = niemand, kein(e); **ingenting** = nichts. Sie bedeuten dasselbe wie **ikke noen / ikke noe**:\n\n• **Ingen er hjemme.** = **Det er ikke noen hjemme.**\n• **Jeg har ingen penger.** = **Jeg har ikke noen penger.**\n• **Jeg forstår ingenting.** = **Jeg forstår ikke noe.**\n\nWichtige Regel: Gibt es ein Hilfs- oder Modalverb (Perfekt, kan, vil, må …), steht **ingen/ingenting** normalerweise nicht als Objekt hinter dem Partizip oder Infinitiv. Dann sagt man **ikke … noen / noe**:\n\n• **Jeg har ikke sett noen.** – Ich habe niemanden gesehen. (nicht *Jeg har sett ingen*)\n• **Ola har ikke gjort noe i dag.** – Ola hat heute nichts gemacht.\n• **Vi kan ikke gjøre noe.** – Wir können nichts machen."
+          "h": "hver und hvert",
+          "body": "**hver** (en/ei-Wort) und **hvert** (et-Wort) heißen »jeder, jede, jedes«. Danach steht das Substantiv im **unbestimmten Singular**:\n\n• **hver dag, hver morgen, hver uke** – jeden Tag, jeden Morgen, jede Woche\n• **hvert år, hvert rom** – jedes Jahr, jedes Zimmer\n• verstärkt: **hver eneste morgen** – jeden einzelnen Morgen\n\nTypischer Fehler: *hver dagen* oder *hver dager*. Nach **hver** hat das Substantiv nie eine Endung.\n\n**hver av** + bestimmter Plural oder Pronomen = jeder von: **hver av elevene** (jeder der Schüler), **hver av oss** (jeder von uns).\n\n**hver sin / hvert sitt** = jeder sein eigenes. Beide Wörter richten sich nach dem Ding, das folgt: **Ola og Per har hver sin sykkel.** – Ola und Per haben jeder sein eigenes Fahrrad. **Barna har hvert sitt rom.** – Die Kinder haben jedes sein eigenes Zimmer."
+        },
+        {
+          "h": "begge",
+          "body": "**begge** = beide. Anders als im Deutschen steht das Substantiv danach in der **bestimmten Form Plural**:\n\n• **begge barna** – beide Kinder\n• **begge foreldrene** – beide Eltern\n\nAllein oder nach einem Pronomen sagt man gern **begge to** (alle beide): **Begge to blir litt irriterte.** **Vi lo begge to.**\n\n**begge deler** = beides: **Vil du ha te eller kaffe? – Begge deler!**"
         }
       ],
       "drills": [
         {
-          "prompt": "___ foreldrene jobber. (beide)",
-          "de": "Beide Eltern arbeiten.",
+          "prompt": "___ foreldrene til Ola jobber. (beide)",
+          "de": "Beide Eltern von Ola arbeiten.",
           "answer": [
             "Begge"
           ],
-          "explain": "begge = beide, mit bestimmter Form: begge foreldrene."
+          "explain": "begge + bestimmter Plural: begge foreldrene."
         },
         {
           "prompt": "Per går tur med Bamse ___ morgen. (jeden)",
@@ -531,7 +728,7 @@
           "answer": [
             "hver"
           ],
-          "explain": "en morgen → hver morgen (unbestimmter Singular)."
+          "explain": "en morgen → hver morgen: unbestimmter Singular ohne Endung."
         },
         {
           "prompt": "___ år reiser familien til hytta i påsken. (jedes)",
@@ -548,193 +745,115 @@
             "all"
           ],
           "hint": "all / alt / alle",
-          "explain": "melk ist ein en/ei-Wort und unzählbar → all melka."
+          "explain": "melk ist ein en/ei-Wort → all melka."
         },
         {
-          "prompt": "Er det ___ hjemme? (jemand)",
-          "de": "Ist jemand zu Hause?",
+          "prompt": "Ola har spist opp ___ brødet! (das ganze)",
+          "de": "Ola hat das ganze Brot aufgegessen!",
           "answer": [
-            "noen"
+            "alt"
           ],
-          "explain": "noen = jemand."
+          "hint": "all / alt / alle",
+          "explain": "brød ist ein et-Wort → alt brødet."
         },
         {
-          "prompt": "Vil du ha ___ å spise? (etwas)",
-          "de": "Möchtest du etwas zu essen?",
+          "prompt": "Kari må rette ___ prøvene før fredag. (alle die)",
+          "de": "Kari muss alle Klassenarbeiten vor Freitag korrigieren.",
           "answer": [
-            "noe"
+            "alle"
           ],
-          "explain": "noe = etwas."
+          "explain": "alle + bestimmte Form, aber ohne de davor: alle prøvene."
         },
         {
-          "prompt": "Det er ___ hjemme. (niemand)",
-          "de": "Es ist niemand zu Hause.",
+          "prompt": "«Nå er ___ klart», sier Per. (alles)",
+          "de": "„Jetzt ist alles fertig“, sagt Per.",
           "answer": [
-            "ingen",
-            "ikke noen"
+            "alt"
           ],
-          "explain": "ingen = ikke noen = niemand."
+          "explain": "Allein stehend heißt alt »alles«."
         },
         {
-          "prompt": "Ola har ikke gjort ___ i dag. (nichts)",
-          "de": "Ola hat heute nichts gemacht.",
+          "prompt": "Kari og Ola blir ___ to litt irriterte. (beide)",
+          "de": "Kari und Ola werden beide ein bisschen gereizt.",
           "answer": [
-            "noe"
+            "begge"
           ],
-          "explain": "Mit Hilfsverb (har gjort) sagt man ikke … noe, nicht *har gjort ingenting."
+          "explain": "begge to = (alle) beide."
         },
         {
-          "prompt": "Jeg har ikke sett ___ i dag. (niemanden)",
-          "de": "Ich habe heute niemanden gesehen.",
+          "prompt": "Ola og Per har ___ sin sykkel. (jeder sein eigenes)",
+          "de": "Ola und Per haben jeder sein eigenes Fahrrad.",
           "answer": [
-            "noen"
+            "hver"
           ],
-          "explain": "ikke … noen = niemand(en); mit Perfekt nicht *har sett ingen."
+          "explain": "en sykkel → hver sin sykkel."
         },
         {
-          "prompt": "Kari og Ola går ikke på samme skole. Kari jobber på ___ skole. (einer anderen)",
-          "de": "Kari und Ola sind nicht an derselben Schule. Kari arbeitet an einer anderen Schule.",
+          "prompt": "Kari og bestemor har ___ sitt nettbrett. (jede ihr eigenes)",
+          "de": "Kari und Oma haben jede ihr eigenes Tablet.",
           "answer": [
-            "en annen"
+            "hvert"
           ],
-          "explain": "en skole → en annen skole."
+          "explain": "et nettbrett → hvert sitt nettbrett: beide Wörter richten sich nach dem et-Wort."
         },
         {
-          "prompt": "___ dag er helt lik en annen. (kein)",
-          "de": "Kein Tag ist genau wie der andere.",
+          "prompt": "Vil du ha te eller kaffe? – ___ deler, takk! (beides)",
+          "de": "Möchtest du Tee oder Kaffee? – Beides, bitte!",
           "answer": [
-            "Ingen"
+            "Begge"
           ],
-          "explain": "ingen = kein(e), für alle Geschlechter."
+          "explain": "begge deler = beides."
         },
         {
-          "prompt": "Jeg forstår ___! (nichts)",
-          "de": "Ich verstehe nichts!",
+          "prompt": "Kari kjenner ___ av elevene sine. (jeden)",
+          "de": "Kari kennt jeden ihrer Schüler.",
           "answer": [
-            "ingenting",
-            "ikke noe"
+            "hver"
           ],
-          "explain": "ingenting = ikke noe = nichts. Ohne Hilfsverb geht beides."
+          "explain": "hver av + bestimmter Plural = jeder von."
         }
-      ],
-      "_todo": "SPLIT: nur all/alt/alle, hver/hvert, begge"
+      ]
     },
     {
       "id": "g15_annen",
       "title": "annen",
-      "titleNo": "ubestemte pronomen",
-      "summary": "all/alt/alle, hver/hvert, begge, annen/annet/andre, noen/noe, ingen/ingenting – und warum es »Jeg har ikke sett noen« heißt.",
+      "titleNo": "annen, annet, andre",
+      "summary": "annen (en/ei-Wort), annet (et-Wort), andre (Plural und bestimmt) – und den andre heißt »der andere« oder »der zweite«.",
       "sections": [
         {
-          "h": "all, hver, begge",
-          "body": "• **all** (en/ei-Wort), **alt** (et-Wort), **alle** (Plural): **all maten, alt brødet, alle barna**. Allein stehend: **Alt er klart.** (Alles ist fertig.) **Alle er hjemme.** (Alle sind zu Hause.)\n• Meist folgt die **bestimmte Form**: **alle barna** = alle (diese) Kinder; **alle barn** = alle Kinder überhaupt.\n• »den ganzen Tag« heißt **hele dagen**, nicht *all dagen*: **hele uka, hele familien**.\n• **hver** (en/ei-Wort), **hvert** (et-Wort) = jeder, jede, jedes – mit **unbestimmtem** Substantiv im Singular: **hver dag, hver morgen, hvert år**. Verstärkt: **hver eneste dag** – jeden einzelnen Tag.\n• **begge** = beide: **begge barna, begge foreldrene, begge to** (alle beide), **begge deler** (beides)."
-        },
-        {
-          "h": "annen, noen, noe",
-          "body": "• **annen** (en/ei-Wort), **annet** (et-Wort), **andre** (Plural und bestimmt): **en annen gang, et annet sted, andre folk, den andre dagen, vi andre** (wir anderen). Achtung: **andre** heißt auch »zweiter« (Lektion 11).\n• **noen** = jemand; einige (Zählbares): **Er det noen hjemme? Jeg har noen venner i Bergen.**\n• **noe** = etwas; vor Unzählbarem: **Vil du ha noe å drikke? Har du noe melk?**\n• In Fragen steht **noen/noe** oft dort, wo das Deutsche gar kein Wort braucht: **Har du noen søsken?** – Hast du Geschwister?",
+          "h": "annen, annet, andre",
+          "body": "**annen** heißt »anderer, andere, anderes« und wird gebeugt wie ein Adjektiv – aber mit eigenen Formen:\n\n• **en annen dag, ei annen uke** – ein anderer Tag, eine andere Woche\n• **et annet sted** – ein anderer Ort\n• **andre folk** – andere Leute\n\nIn der bestimmten Form heißt es immer **andre**: **den andre bilen, det andre huset, de andre barna**. Allein: **de andre** (die anderen), **vi andre** (wir anderen).\n\nAnders als im Deutschen gibt es für en- und ei-Wörter nur eine Form: **en annen dag, ei annen uke**. Typischer Fehler: *en anden* – das ist Dänisch!",
           "table": [
             [
               "",
-              "Personen / Zählbares",
-              "Dinge / Menge"
+              "en/ei-Wort",
+              "et-Wort",
+              "Plural"
             ],
             [
-              "positiv",
-              "**noen** (jemand, einige)",
-              "**noe** (etwas)"
+              "unbestimmt",
+              "**en annen dag**",
+              "**et annet sted**",
+              "**andre folk**"
             ],
             [
-              "negativ",
-              "**ingen** = ikke noen",
-              "**ingenting** = ikke noe"
-            ],
-            [
-              "alle / alles",
-              "**alle**",
-              "**alt**"
+              "bestimmt",
+              "**den andre dagen**",
+              "**det andre huset**",
+              "**de andre barna**"
             ]
           ]
         },
         {
-          "h": "ingen, ingenting – und ikke noen",
-          "body": "**ingen** = niemand, kein(e); **ingenting** = nichts. Sie bedeuten dasselbe wie **ikke noen / ikke noe**:\n\n• **Ingen er hjemme.** = **Det er ikke noen hjemme.**\n• **Jeg har ingen penger.** = **Jeg har ikke noen penger.**\n• **Jeg forstår ingenting.** = **Jeg forstår ikke noe.**\n\nWichtige Regel: Gibt es ein Hilfs- oder Modalverb (Perfekt, kan, vil, må …), steht **ingen/ingenting** normalerweise nicht als Objekt hinter dem Partizip oder Infinitiv. Dann sagt man **ikke … noen / noe**:\n\n• **Jeg har ikke sett noen.** – Ich habe niemanden gesehen. (nicht *Jeg har sett ingen*)\n• **Ola har ikke gjort noe i dag.** – Ola hat heute nichts gemacht.\n• **Vi kan ikke gjøre noe.** – Wir können nichts machen."
+          "h": "den andre: der andere oder der zweite",
+          "body": "**andre** ist auch die Ordnungszahl »zweite« (Lektion 10). **den andre dagen** kann also »der andere Tag« oder »der zweite Tag« heißen; meist zeigt der Zusammenhang, was gemeint ist:\n\n• **Ola finner bare den ene skoen. Hvor er den andre?** – Wo ist der andere?\n• **Tirsdag er den andre dagen i uka.** – Dienstag ist der zweite Tag der Woche.\n\nDas Paar **den ene – den andre** entspricht dem deutschen »der eine – der andere«: **Den ene sover, den andre spiller.**"
+        },
+        {
+          "h": "Feste Verbindungen",
+          "body": "• **noe annet** – etwas anderes: **Vil du ha noe annet?**\n• **ingen andre** – niemand anders, sonst niemand: **Ingen andre står opp så tidlig som Kari.**\n• **alle andre** – alle anderen\n• **en annen gang** – ein andermal: **Vi kan gjøre det en annen gang.**\n• aber: **en gang til** – noch einmal: **Kan du si det en gang til?**\n\nAchte auf den Unterschied: **en annen gang** = zu einem anderen Zeitpunkt, **en gang til** = noch einmal (gleich jetzt)."
         }
       ],
       "drills": [
-        {
-          "prompt": "___ foreldrene jobber. (beide)",
-          "de": "Beide Eltern arbeiten.",
-          "answer": [
-            "Begge"
-          ],
-          "explain": "begge = beide, mit bestimmter Form: begge foreldrene."
-        },
-        {
-          "prompt": "Per går tur med Bamse ___ morgen. (jeden)",
-          "de": "Per geht jeden Morgen mit Bamse Gassi.",
-          "answer": [
-            "hver"
-          ],
-          "explain": "en morgen → hver morgen (unbestimmter Singular)."
-        },
-        {
-          "prompt": "___ år reiser familien til hytta i påsken. (jedes)",
-          "de": "Jedes Jahr fährt die Familie über Ostern zur Hütte.",
-          "answer": [
-            "Hvert"
-          ],
-          "explain": "et år → hvert år."
-        },
-        {
-          "prompt": "Hvem har drukket ___ melka? (die ganze)",
-          "de": "Wer hat die ganze Milch getrunken?",
-          "answer": [
-            "all"
-          ],
-          "hint": "all / alt / alle",
-          "explain": "melk ist ein en/ei-Wort und unzählbar → all melka."
-        },
-        {
-          "prompt": "Er det ___ hjemme? (jemand)",
-          "de": "Ist jemand zu Hause?",
-          "answer": [
-            "noen"
-          ],
-          "explain": "noen = jemand."
-        },
-        {
-          "prompt": "Vil du ha ___ å spise? (etwas)",
-          "de": "Möchtest du etwas zu essen?",
-          "answer": [
-            "noe"
-          ],
-          "explain": "noe = etwas."
-        },
-        {
-          "prompt": "Det er ___ hjemme. (niemand)",
-          "de": "Es ist niemand zu Hause.",
-          "answer": [
-            "ingen",
-            "ikke noen"
-          ],
-          "explain": "ingen = ikke noen = niemand."
-        },
-        {
-          "prompt": "Ola har ikke gjort ___ i dag. (nichts)",
-          "de": "Ola hat heute nichts gemacht.",
-          "answer": [
-            "noe"
-          ],
-          "explain": "Mit Hilfsverb (har gjort) sagt man ikke … noe, nicht *har gjort ingenting."
-        },
-        {
-          "prompt": "Jeg har ikke sett ___ i dag. (niemanden)",
-          "de": "Ich habe heute niemanden gesehen.",
-          "answer": [
-            "noen"
-          ],
-          "explain": "ikke … noen = niemand(en); mit Perfekt nicht *har sett ingen."
-        },
         {
           "prompt": "Kari og Ola går ikke på samme skole. Kari jobber på ___ skole. (einer anderen)",
           "de": "Kari und Ola sind nicht an derselben Schule. Kari arbeitet an einer anderen Schule.",
@@ -744,24 +863,86 @@
           "explain": "en skole → en annen skole."
         },
         {
-          "prompt": "___ dag er helt lik en annen. (kein)",
-          "de": "Kein Tag ist genau wie der andere.",
+          "prompt": "Ingen dag er helt lik en ___. (anderer)",
+          "de": "Kein Tag ist genau wie ein anderer.",
           "answer": [
-            "Ingen"
+            "annen"
           ],
-          "explain": "ingen = kein(e), für alle Geschlechter."
+          "explain": "en dag → en annen (dag)."
         },
         {
-          "prompt": "Jeg forstår ___! (nichts)",
-          "de": "Ich verstehe nichts!",
+          "prompt": "Når vi ___ spiser frokost, legger Anna seg. (anderen)",
+          "de": "Wenn wir anderen frühstücken, legt sich Anna schlafen.",
           "answer": [
-            "ingenting",
-            "ikke noe"
+            "andre"
           ],
-          "explain": "ingenting = ikke noe = nichts. Ohne Hilfsverb geht beides."
+          "explain": "vi andre = wir anderen; bestimmt bzw. Plural → andre."
+        },
+        {
+          "prompt": "Bamse vil bare ligge på teppet sitt, ikke på et ___ teppe. (anderen)",
+          "de": "Bamse will nur auf seiner Decke liegen, nicht auf einer anderen.",
+          "answer": [
+            "annet"
+          ],
+          "explain": "et teppe → et annet teppe."
+        },
+        {
+          "prompt": "___ familier spiser middag mye senere. (andere)",
+          "de": "Andere Familien essen viel später zu Abend.",
+          "answer": [
+            "Andre"
+          ],
+          "explain": "Plural unbestimmt → andre."
+        },
+        {
+          "prompt": "Ola finner bare den ene skoen sin. Hvor er den ___? (andere)",
+          "de": "Ola findet nur den einen Schuh. Wo ist der andere?",
+          "answer": [
+            "andre"
+          ],
+          "explain": "bestimmte Form: den andre."
+        },
+        {
+          "prompt": "Vil du ha noe ___ å drikke? (anderes)",
+          "de": "Möchtest du etwas anderes zu trinken?",
+          "answer": [
+            "annet"
+          ],
+          "explain": "noe annet = etwas anderes (nach noe steht die et-Form)."
+        },
+        {
+          "prompt": "Ingen ___ i huset står opp så tidlig som Kari. (sonst)",
+          "de": "Niemand sonst im Haus steht so früh auf wie Kari.",
+          "answer": [
+            "andre"
+          ],
+          "explain": "ingen andre = niemand anders, sonst niemand."
+        },
+        {
+          "prompt": "Jeg har ikke tid i dag. Kan vi ta det en ___ gang? (andermal)",
+          "de": "Ich habe heute keine Zeit. Können wir das ein andermal machen?",
+          "answer": [
+            "annen"
+          ],
+          "explain": "en annen gang = ein andermal."
+        },
+        {
+          "prompt": "Bestemor, kan du fortelle historien en gang ___? (noch einmal)",
+          "de": "Oma, kannst du die Geschichte noch einmal erzählen?",
+          "answer": [
+            "til"
+          ],
+          "explain": "»noch einmal« heißt en gang til, nicht en annen gang."
+        },
+        {
+          "prompt": "Tirsdag er den ___ dagen i uka. (zweite)",
+          "de": "Dienstag ist der zweite Tag der Woche.",
+          "answer": [
+            "andre"
+          ],
+          "explain": "andre ist auch die Ordnungszahl: den andre = der zweite."
         }
-      ],
-      "_todo": "SPLIT: nur annen/annet/andre"
+      ]
     }
   ],
   "tf": [
@@ -982,14 +1163,13 @@
       "hint": "Das Auto gehört Per."
     },
     {
-      "de": "Ola und seine Schwester sehen fern.",
+      "de": "Per und seine Mutter trinken Kaffee.",
       "no": [
-        "Ola og søstera hans ser på TV.",
-        "Ola og søsteren hans ser på TV.",
-        "Ola og søster hans ser på TV.",
-        "Ola og søstera hans ser TV.",
-        "Ola og søsteren hans ser TV."
-      ]
+        "Per og moren hans drikker kaffe.",
+        "Per og mora hans drikker kaffe.",
+        "Per og mor hans drikker kaffe."
+      ],
+      "hint": "Oma Ingrid ist Pers Mutter. Gehört »seine Mutter« zum Subjekt?"
     },
     {
       "de": "Sie denkt oft an ihre Familie.",
@@ -1008,44 +1188,51 @@
       ]
     },
     {
-      "de": "Ich glaube, es regnet morgen.",
+      "de": "Jedes Jahr fahren wir zur Hütte.",
       "no": [
-        "Jeg tror det regner i morgen.",
-        "Jeg tror at det regner i morgen.",
-        "Jeg tror det kommer til å regne i morgen.",
-        "Jeg tror at det kommer til å regne i morgen.",
-        "Jeg tror det blir regn i morgen."
+        "Hvert år reiser vi til hytta/hytten.",
+        "Vi reiser til hytta/hytten hvert år.",
+        "Hvert år drar vi på hytta/hytten.",
+        "Vi drar på hytta/hytten hvert år.",
+        "Hvert år drar vi til hytta/hytten."
       ]
     },
     {
-      "de": "Ich finde, das Essen ist gut.",
+      "de": "Kari steht jeden Morgen um sechs Uhr auf.",
       "no": [
-        "Jeg synes maten er god.",
-        "Jeg synes at maten er god.",
-        "Jeg synes middagen er god.",
-        "Jeg synes at middagen er god."
+        "Kari står opp klokka/klokken seks hver morgen.",
+        "Kari står opp hver morgen klokka/klokken seks.",
+        "Hver morgen står Kari opp klokka/klokken seks."
       ]
     },
     {
-      "de": "Niemand ist zu Hause.",
+      "de": "Wer hat das ganze Brot gegessen?",
       "no": [
-        "Ingen er hjemme.",
-        "Det er ingen hjemme.",
-        "Det er ikke noen hjemme."
+        "Hvem har spist alt brødet?",
+        "Hvem har spist opp alt brødet?",
+        "Hvem spiste alt brødet?"
       ]
     },
     {
-      "de": "Hast du etwas gegessen?",
+      "de": "Beide Kinder schlafen.",
       "no": [
-        "Har du spist noe?"
+        "Begge barna sover."
+      ],
+      "hint": "begge + bestimmter Plural"
+    },
+    {
+      "de": "Möchtest du etwas anderes?",
+      "no": [
+        "Vil du ha noe annet?",
+        "Har du lyst på noe annet?"
       ]
     },
     {
-      "de": "Ich habe niemanden gesehen.",
+      "de": "Wir können das ein andermal machen.",
       "no": [
-        "Jeg har ikke sett noen.",
-        "Jeg så ingen.",
-        "Jeg så ikke noen."
+        "Vi kan gjøre det en annen gang.",
+        "Det kan vi gjøre en annen gang.",
+        "Vi kan ta det en annen gang."
       ]
     }
   ],
@@ -1101,33 +1288,42 @@
     11
   ],
   "writing": {
-    "prompt": "Beschreibe einen ganz normalen Tag in deiner Familie oder deiner WG (90–110 Wörter): Wer steht wann auf? Wer macht was im Haushalt? Benutze sin/si/sitt/sine, hans/hennes und Wörter wie alle, hver, ingen. Sag auch, was du darüber denkst (synes, tror).",
+    "prompt": "Beschreibe einen ganz normalen Tag in deiner Familie oder deiner WG (90–110 Wörter): Wer steht wann auf? Wer macht was im Haushalt? Benutze sin/si/sitt/sine und hans/hennes, Wörter wie alle, hver, begge und andre – und sag, was du darüber denkst (synes, tror).",
     "minWords": 90,
     "useWords": [
       "sin",
       "sitt",
       "hver",
-      "ingen",
-      "synes"
+      "begge",
+      "andre"
     ],
     "checklist": [
       {
         "de": "sin/si/sitt/sine",
         "keywords": [
           "sin",
+          "si",
           "sitt",
           "sine"
         ]
       },
       {
-        "de": "Indefinitpronomen",
+        "de": "all/alt/alle, hver oder begge",
         "keywords": [
           "alle",
+          "alt",
+          "all",
           "hver",
-          "ingen",
-          "noen",
-          "begge",
-          "ingenting"
+          "hvert",
+          "begge"
+        ]
+      },
+      {
+        "de": "annen/annet/andre",
+        "keywords": [
+          "annen",
+          "annet",
+          "andre"
         ]
       },
       {
@@ -1138,7 +1334,7 @@
         ]
       }
     ],
-    "model": "Hos oss er hverdagen ganske rolig. Mamma står opp først og drikker kaffen sin på balkongen. Pappa sykler på jobb, og han tar alltid med seg matpakka si. Lillebroren min går på skolen. Han glemmer ofte gymtøyet sitt, så mamma kjører det til skolen hans. Om kvelden spiser vi middag sammen, og hver person forteller noe fra dagen sin. Ingen får bruke mobilen ved bordet. Jeg synes det er en god regel, men broren min synes den er kjedelig. Etter middagen vasker pappa opp, og alle andre rydder. Jeg tror vi er en helt vanlig familie – men jeg synes vi er ganske spesielle!",
-    "modelDe": "Bei uns ist der Alltag ziemlich ruhig. Mama steht als Erste auf und trinkt ihren Kaffee auf dem Balkon. Papa fährt mit dem Rad zur Arbeit und nimmt immer sein Pausenbrot mit. Mein kleiner Bruder geht zur Schule. Er vergisst oft seine Sportsachen, deshalb fährt Mama sie zu seiner Schule. Abends essen wir zusammen, und jeder erzählt etwas von seinem Tag. Niemand darf am Tisch das Handy benutzen. Ich finde, das ist eine gute Regel, aber mein Bruder findet sie langweilig. Nach dem Essen spült Papa ab, und alle anderen räumen auf. Ich glaube, wir sind eine ganz normale Familie – aber ich finde, wir sind ziemlich besonders!"
+    "model": "Hos oss er hverdagen ganske rolig. Begge foreldrene mine jobber. Mamma står opp først og drikker kaffen sin på balkongen. Pappa sykler på jobb, og han tar alltid med seg matpakka si. Lillebroren min går på skolen. Han glemmer ofte gymtøyet sitt, så mamma kjører det til skolen hans. Om kvelden spiser vi middag sammen, og alle forteller litt om dagen sin. Ingen får bruke mobilen ved bordet. Jeg synes det er en god regel, men broren min synes den er kjedelig. Etter middagen vasker pappa opp, og vi andre rydder. Hver fredag er det min tur til å lage middag. Jeg tror vi er en helt vanlig familie – men jeg synes vi er ganske spesielle!",
+    "modelDe": "Bei uns ist der Alltag ziemlich ruhig. Meine Eltern arbeiten beide. Mama steht als Erste auf und trinkt ihren Kaffee auf dem Balkon. Papa fährt mit dem Rad zur Arbeit und nimmt immer sein Pausenbrot mit. Mein kleiner Bruder geht zur Schule. Er vergisst oft seine Sportsachen, deshalb fährt Mama sie zu seiner Schule. Abends essen wir zusammen, und alle erzählen ein bisschen von ihrem Tag. Niemand darf am Tisch das Handy benutzen. Ich finde, das ist eine gute Regel, aber mein Bruder findet sie langweilig. Nach dem Essen spült Papa ab, und wir anderen räumen auf. Jeden Freitag bin ich mit Kochen dran. Ich glaube, wir sind eine ganz normale Familie – aber ich finde, wir sind ziemlich besonders!"
   }
 }

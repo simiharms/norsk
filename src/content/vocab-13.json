@@ -1,1 +1,2119 @@
-[]
+[
+  {
+    "id": "w13_sokkelleilighet",
+    "no": "sokkelleilighet",
+    "de": "die Souterrainwohnung",
+    "deAlt": [
+      "die Einliegerwohnung",
+      "die Kellerwohnung"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "sokkelleilighet",
+      "sokkelleiligheten",
+      "sokkelleiligheter",
+      "sokkelleilighetene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Familien Nygård leier ut en liten sokkelleilighet.",
+      "de": "Familie Nygård vermietet eine kleine Souterrainwohnung."
+    },
+    "note": "Eine kleine Wohnung im Untergeschoss (sokkel = Sockel) eines Einfamilienhauses, oft mit eigenem Eingang – typisch norwegisch."
+  },
+  {
+    "id": "w10_leilighet",
+    "no": "leilighet",
+    "de": "die Wohnung",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "leilighet",
+      "leiligheten",
+      "leiligheter",
+      "leilighetene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Leiligheten er ledig fra 1. november.",
+      "de": "Die Wohnung ist ab dem 1. November frei."
+    }
+  },
+  {
+    "id": "w13_kjellerleilighet",
+    "no": "kjellerleilighet",
+    "de": "die Kellerwohnung",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "kjellerleilighet",
+      "kjellerleiligheten",
+      "kjellerleiligheter",
+      "kjellerleilighetene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Bestemor leide en kald kjellerleilighet i Oslo.",
+      "de": "Oma mietete eine kalte Kellerwohnung in Oslo."
+    }
+  },
+  {
+    "id": "w10_kjeller",
+    "no": "kjeller",
+    "de": "der Keller",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "kjeller",
+      "kjelleren",
+      "kjellere",
+      "kjellerne"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Sykkelen står i kjelleren.",
+      "de": "Das Fahrrad steht im Keller."
+    }
+  },
+  {
+    "id": "w13_kollektiv",
+    "no": "kollektiv",
+    "de": "die Wohngemeinschaft (WG)",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "kollektiv",
+      "kollektivet",
+      "kollektiv",
+      "kollektiva/kollektivene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Anna bor i et kollektiv på Kringsjå sammen med Henrik.",
+      "de": "Anna wohnt mit Henrik in einer WG in Kringsjå."
+    },
+    "note": "Auch: kollektivtrafikk = öffentlicher Nahverkehr."
+  },
+  {
+    "id": "w13_tandempartner",
+    "no": "tandempartner",
+    "de": "der Tandempartner / die Tandempartnerin",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "tandempartner",
+      "tandempartneren",
+      "tandempartnere",
+      "tandempartnerne"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Anna er tandempartneren til Susanne.",
+      "de": "Anna ist Susannes Tandempartnerin."
+    }
+  },
+  {
+    "id": "w13_praksis",
+    "no": "praksis",
+    "de": "das Praktikum",
+    "deAlt": [
+      "die Praxis"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "praksis",
+      "praksisen"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Praksisen til Anna begynner i november.",
+      "de": "Annas Praktikum beginnt im November."
+    },
+    "note": "praksis = Praktikum (im Studium) oder Praxis (Erfahrung); die Arztpraxis heißt legekontor."
+  },
+  {
+    "id": "w13_sykehus",
+    "no": "sykehus",
+    "de": "das Krankenhaus",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "sykehus",
+      "sykehuset",
+      "sykehus",
+      "sykehusa/sykehusene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Ullevål sykehus ligger ikke langt fra Sagene.",
+      "de": "Das Krankenhaus Ullevål liegt nicht weit von Sagene."
+    },
+    "note": "på sykehuset = im Krankenhaus."
+  },
+  {
+    "id": "w13_komme_til_rett_sted",
+    "no": "komme til rett sted",
+    "de": "an der richtigen Adresse sein",
+    "pos": "phrase",
+    "lesson": 13,
+    "ex": {
+      "no": "Trenger du en leilighet? Da har du kommet til rett sted.",
+      "de": "Du brauchst eine Wohnung? Dann bist du hier richtig."
+    }
+  },
+  {
+    "id": "w13_alder",
+    "no": "alder",
+    "de": "das Alter",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "alder",
+      "alderen",
+      "aldrer",
+      "aldrene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Da jeg var på din alder, bodde jeg i Oslo.",
+      "de": "Als ich in deinem Alter war, wohnte ich in Oslo."
+    },
+    "note": "på din alder = in deinem Alter."
+  },
+  {
+    "id": "w13_kalle",
+    "no": "kalle",
+    "de": "nennen",
+    "deAlt": [
+      "rufen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "kaller",
+      "kalte",
+      "kalt",
+      "kall"
+    ],
+    "vg": "2",
+    "lesson": 13,
+    "ex": {
+      "no": "Alle kaller henne bestemor.",
+      "de": "Alle nennen sie Oma."
+    }
+  },
+  {
+    "id": "w13_heldigvis",
+    "no": "heldigvis",
+    "de": "zum Glück",
+    "deAlt": [
+      "glücklicherweise"
+    ],
+    "pos": "adv",
+    "lesson": 13,
+    "ex": {
+      "no": "Leiligheten er heldigvis varm og lys.",
+      "de": "Die Wohnung ist zum Glück warm und hell."
+    },
+    "note": "Gegenteil: dessverre (leider)."
+  },
+  {
+    "id": "w13_baade_og",
+    "no": "både … og",
+    "de": "sowohl … als auch",
+    "pos": "conj",
+    "lesson": 13,
+    "ex": {
+      "no": "Leiligheten er både varm og lys.",
+      "de": "Die Wohnung ist sowohl warm als auch hell."
+    }
+  },
+  {
+    "id": "w13_inngang",
+    "no": "inngang",
+    "de": "der Eingang",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "inngang",
+      "inngangen",
+      "innganger",
+      "inngangene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Inngangen er på baksiden av huset.",
+      "de": "Der Eingang ist auf der Rückseite des Hauses."
+    }
+  },
+  {
+    "id": "w13_inngangsdor",
+    "no": "inngangsdør",
+    "de": "die Haustür, die Eingangstür",
+    "deAlt": [
+      "die Haustür",
+      "die Eingangstür"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "inngangsdør",
+      "inngangsdøra",
+      "inngangsdører",
+      "inngangsdørene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Den store nøkkelen er til inngangsdøra.",
+      "de": "Der große Schlüssel ist für die Haustür."
+    }
+  },
+  {
+    "id": "w13_bakside",
+    "no": "bakside",
+    "de": "die Rückseite",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "bakside",
+      "baksiden",
+      "baksider",
+      "baksidene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Hagen ligger på baksiden av huset.",
+      "de": "Der Garten liegt auf der Rückseite des Hauses."
+    },
+    "note": "Gegenteil: forside (Vorderseite)."
+  },
+  {
+    "id": "w13_postkasse",
+    "no": "postkasse",
+    "de": "der Briefkasten",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "postkasse",
+      "postkassa",
+      "postkasser",
+      "postkassene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Den lille nøkkelen er til postkassa.",
+      "de": "Der kleine Schlüssel ist für den Briefkasten."
+    }
+  },
+  {
+    "id": "w13_laase",
+    "no": "låse",
+    "de": "schließen, abschließen",
+    "deAlt": [
+      "abschließen",
+      "zuschließen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "låser",
+      "låste",
+      "låst",
+      "lås"
+    ],
+    "vg": "2",
+    "lesson": 13,
+    "ex": {
+      "no": "Husk å låse inngangsdøra!",
+      "de": "Denk daran, die Haustür abzuschließen!"
+    },
+    "note": "låse opp = aufschließen."
+  },
+  {
+    "id": "w10_mobel",
+    "no": "møbel",
+    "de": "das Möbelstück",
+    "deAlt": [
+      "Möbel"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "møbel",
+      "møbelet",
+      "møbler",
+      "møblene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Er møblene deres, eller må jeg ta med mine?",
+      "de": "Gehören die Möbel euch, oder muss ich meine mitbringen?"
+    }
+  },
+  {
+    "id": "w13_skrivebord",
+    "no": "skrivebord",
+    "de": "der Schreibtisch",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "skrivebord",
+      "skrivebordet",
+      "skrivebord",
+      "skriveborda/skrivebordene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Skrivebordet var Olas, men nå er det Annas.",
+      "de": "Der Schreibtisch gehörte Ola, aber jetzt gehört er Anna."
+    }
+  },
+  {
+    "id": "w13_leie",
+    "no": "leie",
+    "de": "die Miete",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "leie",
+      "leia"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Leia er ni tusen kroner i måneden.",
+      "de": "Die Miete beträgt neuntausend Kronen im Monat."
+    },
+    "note": "Auch husleie. Das Verb: leie (mieten), leie ut (vermieten)."
+  },
+  {
+    "id": "w13_leie_ut",
+    "no": "leie ut",
+    "de": "vermieten",
+    "pos": "verb",
+    "vf": [
+      "leier ut",
+      "leide ut",
+      "leid ut",
+      "lei ut"
+    ],
+    "vg": "3",
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Familien Nygård leier ut sokkelleiligheten.",
+      "de": "Familie Nygård vermietet die Souterrainwohnung."
+    }
+  },
+  {
+    "id": "w13_utleier",
+    "no": "utleier",
+    "de": "der Vermieter / die Vermieterin",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "utleier",
+      "utleieren",
+      "utleiere",
+      "utleierne"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Kari og Per er utleierne til Anna.",
+      "de": "Kari und Per sind Annas Vermieter."
+    }
+  },
+  {
+    "id": "w13_leietaker",
+    "no": "leietaker",
+    "de": "der Mieter / die Mieterin",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "leietaker",
+      "leietakeren",
+      "leietakere",
+      "leietakerne"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Anna er den nye leietakeren.",
+      "de": "Anna ist die neue Mieterin."
+    }
+  },
+  {
+    "id": "w13_i_maaneden",
+    "no": "i måneden",
+    "de": "im Monat, monatlich",
+    "deAlt": [
+      "im Monat",
+      "monatlich",
+      "pro Monat"
+    ],
+    "pos": "phrase",
+    "lesson": 13,
+    "ex": {
+      "no": "Hvor mye betaler du i måneden?",
+      "de": "Wie viel bezahlst du im Monat?"
+    }
+  },
+  {
+    "id": "w13_internett",
+    "no": "internett",
+    "de": "das Internet",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "internett",
+      "internettet"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Internett er inkludert i leia.",
+      "de": "Das Internet ist in der Miete inbegriffen."
+    }
+  },
+  {
+    "id": "w13_inkludert",
+    "no": "inkludert",
+    "de": "inklusive, inbegriffen",
+    "deAlt": [
+      "inklusive",
+      "inbegriffen"
+    ],
+    "pos": "adj",
+    "forms": [
+      "inkludert",
+      "inkludert",
+      "inkluderte"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Er strøm inkludert?",
+      "de": "Ist der Strom inklusive?"
+    }
+  },
+  {
+    "id": "w10_strom",
+    "no": "strøm",
+    "de": "der Strom",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "strøm",
+      "strømmen",
+      "strømmer",
+      "strømmene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Er strøm inkludert i husleia?",
+      "de": "Ist der Strom in der Miete inbegriffen?"
+    }
+  },
+  {
+    "id": "w13_stromavtale",
+    "no": "strømavtale",
+    "de": "der Stromvertrag",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "strømavtale",
+      "strømavtalen",
+      "strømavtaler",
+      "strømavtalene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Anna må skaffe seg en strømavtale.",
+      "de": "Anna muss sich einen Stromvertrag besorgen."
+    }
+  },
+  {
+    "id": "w13_skaffe_seg",
+    "no": "skaffe seg",
+    "de": "sich besorgen, sich beschaffen",
+    "pos": "verb",
+    "vf": [
+      "skaffer seg",
+      "skaffet seg",
+      "skaffet seg",
+      "skaff deg"
+    ],
+    "vg": "1",
+    "lesson": 13,
+    "ex": {
+      "no": "Du må skaffe deg en bankkonto.",
+      "de": "Du musst dir ein Bankkonto besorgen."
+    }
+  },
+  {
+    "id": "w13_depositum",
+    "no": "depositum",
+    "de": "die Kaution",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "depositum",
+      "depositumet"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Depositumet er tre måneders leie.",
+      "de": "Die Kaution beträgt drei Monatsmieten."
+    },
+    "note": "In Norwegen höchstens sechs Monatsmieten; das Geld liegt auf einem eigenen Kautionskonto (depositumskonto) auf den Namen des Mieters."
+  },
+  {
+    "id": "w13_depositumskonto",
+    "no": "depositumskonto",
+    "de": "das Kautionskonto",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "depositumskonto",
+      "depositumskontoen",
+      "depositumskontoer",
+      "depositumskontoene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Pengene står på en depositumskonto i Annas navn.",
+      "de": "Das Geld liegt auf einem Kautionskonto auf Annas Namen."
+    }
+  },
+  {
+    "id": "w13_konto",
+    "no": "konto",
+    "de": "das Konto",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "konto",
+      "kontoen",
+      "kontoer",
+      "kontoene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Pengene står ikke på kontoen vår.",
+      "de": "Das Geld liegt nicht auf unserem Konto."
+    }
+  },
+  {
+    "id": "w13_lov",
+    "no": "lov",
+    "de": "das Gesetz",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "lov",
+      "loven",
+      "lover",
+      "lovene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Ifølge loven kan depositumet være høyst seks måneders leie.",
+      "de": "Laut Gesetz darf die Kaution höchstens sechs Monatsmieten betragen."
+    },
+    "note": "Nicht verwechseln: lov (Gesetz) – love (versprechen)."
+  },
+  {
+    "id": "w13_ifolge",
+    "no": "ifølge",
+    "de": "laut, gemäß",
+    "deAlt": [
+      "laut",
+      "gemäß",
+      "zufolge"
+    ],
+    "pos": "prep",
+    "lesson": 13,
+    "ex": {
+      "no": "Ifølge værmeldingen blir det regn.",
+      "de": "Laut Wetterbericht gibt es Regen."
+    }
+  },
+  {
+    "id": "w13_hoyst",
+    "no": "høyst",
+    "de": "höchstens",
+    "pos": "adv",
+    "lesson": 13,
+    "ex": {
+      "no": "Du kan betale høyst seks måneders leie i depositum.",
+      "de": "Du kannst höchstens sechs Monatsmieten als Kaution zahlen."
+    },
+    "note": "Gegenteil: minst (mindestens)."
+  },
+  {
+    "id": "w13_i_ditt_navn",
+    "no": "i ditt navn",
+    "de": "auf deinen Namen",
+    "pos": "phrase",
+    "lesson": 13,
+    "ex": {
+      "no": "Kontoen står i ditt navn.",
+      "de": "Das Konto läuft auf deinen Namen."
+    },
+    "note": "Feste Wendung mit vorangestelltem Possessiv: i mitt navn, i hennes navn."
+  },
+  {
+    "id": "w13_signere",
+    "no": "signere",
+    "de": "unterschreiben",
+    "deAlt": [
+      "unterzeichnen",
+      "signieren"
+    ],
+    "pos": "verb",
+    "vf": [
+      "signerer",
+      "signerte",
+      "signert",
+      "signer"
+    ],
+    "vg": "2",
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Anna signerer husleiekontrakten i kveld.",
+      "de": "Anna unterschreibt heute Abend den Mietvertrag."
+    },
+    "note": "Gleichbedeutend: skrive under."
+  },
+  {
+    "id": "w13_flytte_inn",
+    "no": "flytte inn",
+    "de": "einziehen",
+    "pos": "verb",
+    "vf": [
+      "flytter inn",
+      "flyttet inn",
+      "flyttet inn",
+      "flytt inn"
+    ],
+    "vg": "1",
+    "lesson": 13,
+    "ex": {
+      "no": "Anna flytter inn 1. november.",
+      "de": "Anna zieht am 1. November ein."
+    },
+    "note": "Gegenteil: flytte ut (ausziehen)."
+  },
+  {
+    "id": "w13_kontrakt",
+    "no": "kontrakt",
+    "de": "der Vertrag",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "kontrakt",
+      "kontrakten",
+      "kontrakter",
+      "kontraktene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Kontrakten min går ut 31. oktober.",
+      "de": "Mein Vertrag läuft am 31. Oktober aus."
+    }
+  },
+  {
+    "id": "w13_husleiekontrakt",
+    "no": "husleiekontrakt",
+    "de": "der Mietvertrag",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "husleiekontrakt",
+      "husleiekontrakten",
+      "husleiekontrakter",
+      "husleiekontraktene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Per skriver husleiekontrakten i kveld.",
+      "de": "Per schreibt heute Abend den Mietvertrag."
+    }
+  },
+  {
+    "id": "w13_gaa_ut",
+    "no": "gå ut",
+    "de": "ablaufen (Frist, Vertrag)",
+    "deAlt": [
+      "hinausgehen",
+      "auslaufen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "går ut",
+      "gikk ut",
+      "gått ut",
+      "gå ut"
+    ],
+    "vg": "sterk",
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Fristen går ut på fredag.",
+      "de": "Die Frist läuft am Freitag ab."
+    },
+    "note": "Auch: hinausgehen (Vi går ut)."
+  },
+  {
+    "id": "w13_flyttemelding",
+    "no": "flyttemelding",
+    "de": "die Umzugsmeldung",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "flyttemelding",
+      "flyttemeldingen",
+      "flyttemeldinger",
+      "flyttemeldingene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Anna sender flyttemelding til Folkeregisteret.",
+      "de": "Anna meldet dem Folkeregister ihren Umzug."
+    },
+    "note": "Spätestens acht Tage nach dem Umzug, online bei Skatteetaten."
+  },
+  {
+    "id": "w13_folkeregister",
+    "no": "folkeregister",
+    "de": "das Einwohnermelderegister",
+    "deAlt": [
+      "das Melderegister"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "folkeregister",
+      "folkeregisteret",
+      "folkeregistre",
+      "folkeregistrene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Alle som bor i Norge, står i Folkeregisteret.",
+      "de": "Alle, die in Norwegen wohnen, stehen im Melderegister."
+    },
+    "note": "Das Folkeregister führt Skatteetaten."
+  },
+  {
+    "id": "w13_skatteetaten",
+    "no": "Skatteetaten",
+    "de": "die norwegische Steuerverwaltung",
+    "pos": "name",
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Flyttemeldingen sender du på nettsidene til Skatteetaten.",
+      "de": "Die Umzugsmeldung schickst du auf den Webseiten der Steuerverwaltung."
+    },
+    "note": "Sie führt auch das Folkeregister."
+  },
+  {
+    "id": "w13_nettside",
+    "no": "nettside",
+    "de": "die Webseite",
+    "deAlt": [
+      "die Internetseite"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "nettside",
+      "nettsida",
+      "nettsider",
+      "nettsidene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Alt står på nettsidene til Skatteetaten.",
+      "de": "Alles steht auf den Webseiten der Steuerverwaltung."
+    }
+  },
+  {
+    "id": "w13_senest",
+    "no": "senest",
+    "de": "spätestens",
+    "pos": "adv",
+    "lesson": 13,
+    "ex": {
+      "no": "Du må sende flyttemelding senest åtte dager etter at du har flyttet.",
+      "de": "Du musst die Umzugsmeldung spätestens acht Tage nach dem Umzug schicken."
+    },
+    "note": "Gegenteil: tidligst (frühestens)."
+  },
+  {
+    "id": "w13_logge_inn",
+    "no": "logge inn",
+    "de": "sich anmelden, sich einloggen",
+    "deAlt": [
+      "sich einloggen",
+      "sich anmelden"
+    ],
+    "pos": "verb",
+    "vf": [
+      "logger inn",
+      "logget inn",
+      "logget inn",
+      "logg inn"
+    ],
+    "vg": "1",
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Du logger inn med BankID.",
+      "de": "Du meldest dich mit BankID an."
+    }
+  },
+  {
+    "id": "w13_fodselsnummer",
+    "no": "fødselsnummer",
+    "de": "die Personennummer",
+    "deAlt": [
+      "die Identifikationsnummer"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "fødselsnummer",
+      "fødselsnummeret",
+      "fødselsnumre/fødselsnummer",
+      "fødselsnumrene/fødselsnummerne"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Hva er fødselsnummeret ditt?",
+      "de": "Wie lautet deine Personennummer?"
+    },
+    "note": "11 Ziffern: Geburtsdatum (6) und fünf weitere. Wer nur kurz in Norwegen ist, bekommt oft ein D-nummer."
+  },
+  {
+    "id": "w13_bankid",
+    "no": "BankID",
+    "de": "die BankID (elektronischer Ausweis)",
+    "pos": "name",
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Med BankID kan du signere kontrakten digitalt.",
+      "de": "Mit BankID kannst du den Vertrag digital unterschreiben."
+    },
+    "note": "Damit meldet man sich bei Bank und Behörden an und unterschreibt digital."
+  },
+  {
+    "id": "w13_kolapp",
+    "no": "kølapp",
+    "de": "die Wartenummer",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "kølapp",
+      "kølappen",
+      "kølapper",
+      "kølappene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Husk å trekke kølapp!",
+      "de": "Denk daran, eine Wartenummer zu ziehen!"
+    },
+    "note": "trekke kølapp = eine Nummer ziehen."
+  },
+  {
+    "id": "w13_papir",
+    "no": "papir",
+    "de": "das Papier",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "papir",
+      "papiret",
+      "papirer",
+      "papira/papirene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Har du alle papirene med deg?",
+      "de": "Hast du alle Unterlagen dabei?"
+    },
+    "note": "papirer = Unterlagen, Papierkram."
+  },
+  {
+    "id": "w13_byraakrati",
+    "no": "byråkrati",
+    "de": "die Bürokratie",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "byråkrati",
+      "byråkratiet",
+      "byråkratier",
+      "byråkratiene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Etter så mye byråkrati trenger alle kaffe.",
+      "de": "Nach so viel Bürokratie brauchen alle Kaffee."
+    }
+  },
+  {
+    "id": "w13_vaffel",
+    "no": "vaffel",
+    "de": "die Waffel",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "vaffel",
+      "vaffelen",
+      "vafler",
+      "vaflene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Bestemor lager vafler.",
+      "de": "Oma macht Waffeln."
+    },
+    "note": "Norwegische Waffeln sind herzförmig und dünn; man isst sie mit Sauerrahm (rømme) und Marmelade oder mit brunost."
+  },
+  {
+    "id": "w13_tom",
+    "no": "tom",
+    "de": "leer",
+    "pos": "adj",
+    "forms": [
+      "tom",
+      "tomt",
+      "tomme"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Når Susanne har flyttet, står rommet hennes tomt.",
+      "de": "Wenn Susanne ausgezogen ist, steht ihr Zimmer leer."
+    }
+  },
+  {
+    "id": "w13_ro",
+    "no": "ro",
+    "de": "die Ruhe",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "ro",
+      "roen"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Nå får jeg endelig ro.",
+      "de": "Jetzt habe ich endlich Ruhe."
+    },
+    "note": "få ro = Ruhe bekommen; rolig = ruhig."
+  },
+  {
+    "id": "w13_synd",
+    "no": "synd",
+    "de": "schade",
+    "pos": "phrase",
+    "lesson": 13,
+    "ex": {
+      "no": "Synd at du flytter til Tromsø!",
+      "de": "Schade, dass du nach Tromsø ziehst!"
+    },
+    "note": "(Det er) synd at … = Schade, dass … Eigentlich heißt synd »die Sünde«."
+  },
+  {
+    "id": "w13_dusj",
+    "no": "dusj",
+    "de": "die Dusche",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "dusj",
+      "dusjen",
+      "dusjer",
+      "dusjene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Susanne synger i dusjen.",
+      "de": "Susanne singt unter der Dusche."
+    },
+    "note": "i dusjen = unter der Dusche; dusje = duschen."
+  },
+  {
+    "id": "w13_bjeffe",
+    "no": "bjeffe",
+    "de": "bellen",
+    "pos": "verb",
+    "vf": [
+      "bjeffer",
+      "bjeffet",
+      "bjeffet",
+      "bjeff"
+    ],
+    "vg": "1",
+    "lesson": 13,
+    "ex": {
+      "no": "Bamse bjeffer, men han biter ikke.",
+      "de": "Bamse bellt, aber er beißt nicht."
+    }
+  },
+  {
+    "id": "w13_hilse_paa",
+    "no": "hilse på",
+    "de": "begrüßen, kennenlernen",
+    "deAlt": [
+      "kennenlernen",
+      "begrüßen",
+      "Hallo sagen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "hilser på",
+      "hilste på",
+      "hilst på",
+      "hils på"
+    ],
+    "vg": "2",
+    "lesson": 13,
+    "ex": {
+      "no": "Så hyggelig å hilse på deg!",
+      "de": "Wie schön, dich kennenzulernen!"
+    }
+  },
+  {
+    "id": "w13_passe_paa",
+    "no": "passe på",
+    "de": "aufpassen",
+    "pos": "verb",
+    "vf": [
+      "passer på",
+      "passet på",
+      "passet på",
+      "pass på"
+    ],
+    "vg": "1",
+    "lesson": 13,
+    "ex": {
+      "no": "Pass på, det står en sykkel i gangen!",
+      "de": "Pass auf, im Flur steht ein Fahrrad!"
+    },
+    "note": "passe på noe = auf etwas aufpassen."
+  },
+  {
+    "id": "w13_midt_i",
+    "no": "midt i",
+    "de": "mitten in",
+    "pos": "prep",
+    "lesson": 13,
+    "ex": {
+      "no": "Sykkelen står midt i gangen.",
+      "de": "Das Fahrrad steht mitten im Flur."
+    }
+  },
+  {
+    "id": "w13_poss_min",
+    "no": "min",
+    "de": "mein",
+    "deAlt": [
+      "meine",
+      "meiner"
+    ],
+    "alt": [
+      "mi",
+      "mitt",
+      "mine"
+    ],
+    "pos": "pron",
+    "lesson": 13,
+    "ex": {
+      "no": "Rommet mitt er oppe i andre etasje.",
+      "de": "Mein Zimmer ist oben im ersten Stock."
+    },
+    "note": "min (en-Wort), mi (ei-Wort), mitt (et-Wort), mine (Plural). Meist nachgestellt: sykkelen min, boka mi."
+  },
+  {
+    "id": "w13_poss_din",
+    "no": "din",
+    "de": "dein",
+    "deAlt": [
+      "deine",
+      "deiner"
+    ],
+    "alt": [
+      "di",
+      "ditt",
+      "dine"
+    ],
+    "pos": "pron",
+    "lesson": 13,
+    "ex": {
+      "no": "Er det sykkelen din?",
+      "de": "Ist das dein Fahrrad?"
+    },
+    "note": "din, di, ditt, dine – wie min."
+  },
+  {
+    "id": "w13_poss_hans",
+    "no": "hans",
+    "de": "sein",
+    "deAlt": [
+      "seine"
+    ],
+    "pos": "pron",
+    "lesson": 13,
+    "ex": {
+      "no": "Sykkelen hans står i gangen.",
+      "de": "Sein Fahrrad steht im Flur."
+    },
+    "note": "Unveränderlich; der Besitzer ist ein Mann."
+  },
+  {
+    "id": "w13_poss_hennes",
+    "no": "hennes",
+    "de": "ihr (von einer Frau)",
+    "deAlt": [
+      "ihr",
+      "ihre"
+    ],
+    "pos": "pron",
+    "lesson": 13,
+    "ex": {
+      "no": "Rommet hennes er ved siden av mitt.",
+      "de": "Ihr Zimmer ist neben meinem."
+    },
+    "note": "Unveränderlich; die Besitzerin ist eine Frau."
+  },
+  {
+    "id": "w13_poss_vaar",
+    "no": "vår",
+    "de": "unser",
+    "deAlt": [
+      "unsere"
+    ],
+    "alt": [
+      "vårt",
+      "våre"
+    ],
+    "pos": "pron",
+    "lesson": 13,
+    "ex": {
+      "no": "Huset vårt ligger på Sagene.",
+      "de": "Unser Haus liegt in Sagene."
+    },
+    "note": "vår (en- und ei-Wort), vårt (et-Wort), våre (Plural). Nicht verwechseln mit våren (der Frühling)."
+  },
+  {
+    "id": "w13_poss_deres",
+    "no": "deres",
+    "de": "euer; ihr (von mehreren)",
+    "deAlt": [
+      "euer",
+      "eure",
+      "ihr",
+      "ihre"
+    ],
+    "pos": "pron",
+    "lesson": 13,
+    "ex": {
+      "no": "Er møblene deres?",
+      "de": "Gehören die Möbel euch?"
+    },
+    "note": "Unveränderlich. Mit großem D (Deres) = Ihr (Höflichkeitsform, selten)."
+  },
+  {
+    "id": "w13_poss_dens",
+    "no": "dens",
+    "de": "sein / ihr (von Dingen und Tieren)",
+    "alt": [
+      "dets"
+    ],
+    "pos": "pron",
+    "lesson": 13,
+    "ex": {
+      "no": "Oslo og dens historie",
+      "de": "Oslo und seine Geschichte"
+    },
+    "note": "dens (en/ei-Wort als Besitzer), dets (et-Wort als Besitzer); schriftsprachlich und selten."
+  },
+  {
+    "id": "w13_hvem_sin",
+    "no": "hvem sin",
+    "de": "wessen",
+    "pos": "phrase",
+    "lesson": 13,
+    "ex": {
+      "no": "Hvem sin sykkel er dette?",
+      "de": "Wessen Fahrrad ist das?"
+    },
+    "note": "Umgangssprachlich; schriftlich: Hvis sykkel er dette?"
+  },
+  {
+    "id": "w13_tilhore",
+    "no": "tilhøre",
+    "de": "gehören",
+    "pos": "verb",
+    "vf": [
+      "tilhører",
+      "tilhørte",
+      "tilhørt",
+      "tilhør"
+    ],
+    "vg": "2",
+    "lesson": 13,
+    "ex": {
+      "no": "Sofaen tilhører familien Nygård.",
+      "de": "Das Sofa gehört Familie Nygård."
+    },
+    "note": "Im Alltag sagt man meist: Sofaen er deres."
+  },
+  {
+    "id": "w13_etter_at",
+    "no": "etter at",
+    "de": "nachdem",
+    "pos": "conj",
+    "lesson": 13,
+    "ex": {
+      "no": "Etter at Anna har flyttet, sender hun flyttemelding.",
+      "de": "Nachdem Anna umgezogen ist, schickt sie die Umzugsmeldung."
+    },
+    "note": "Vor einem Satz: etter at; vor einem Substantiv nur etter (etter middagen)."
+  },
+  {
+    "id": "w13_saa_snart",
+    "no": "så snart",
+    "de": "sobald",
+    "pos": "conj",
+    "lesson": 13,
+    "ex": {
+      "no": "Så snart kontrakten er signert, får du nøklene.",
+      "de": "Sobald der Vertrag unterschrieben ist, bekommst du die Schlüssel."
+    }
+  },
+  {
+    "id": "w13_til_konj",
+    "no": "til",
+    "de": "bis",
+    "deAlt": [
+      "bis dass"
+    ],
+    "pos": "conj",
+    "lesson": 13,
+    "ex": {
+      "no": "Skrivebordet var mitt til jeg fikk et nytt.",
+      "de": "Der Schreibtisch war meiner, bis ich einen neuen bekam."
+    },
+    "note": "Als Konjunktion »bis«; verstärkt: helt til. Als Präposition »zu, nach«."
+  },
+  {
+    "id": "w13_siden_konj",
+    "no": "siden",
+    "de": "seit(dem)",
+    "deAlt": [
+      "seit",
+      "seitdem",
+      "da",
+      "weil"
+    ],
+    "pos": "conj",
+    "lesson": 13,
+    "ex": {
+      "no": "Siden Susanne kom i august, har hun bodd på Sagene.",
+      "de": "Seit Susanne im August gekommen ist, wohnt sie in Sagene."
+    },
+    "note": "Auch kausal: da, weil (Lektion 14)."
+  },
+  {
+    "id": "w13_straks",
+    "no": "straks",
+    "de": "sofort; sobald",
+    "deAlt": [
+      "sofort",
+      "gleich",
+      "sobald"
+    ],
+    "pos": "adv",
+    "lesson": 13,
+    "ex": {
+      "no": "Jeg kommer straks!",
+      "de": "Ich komme sofort!"
+    }
+  },
+  {
+    "id": "w13_barnelitteratur",
+    "no": "barnelitteratur",
+    "de": "die Kinderliteratur",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "barnelitteratur",
+      "barnelitteraturen"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Norsk barnelitteratur er kjent i mange land.",
+      "de": "Norwegische Kinderliteratur ist in vielen Ländern bekannt."
+    }
+  },
+  {
+    "id": "w13_barnebok",
+    "no": "barnebok",
+    "de": "das Kinderbuch",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "barnebok",
+      "barneboka",
+      "barnebøker",
+      "barnebøkene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Ola leser ikke barnebøker lenger.",
+      "de": "Ola liest keine Kinderbücher mehr."
+    },
+    "note": "Plural mit Umlaut: bøker."
+  },
+  {
+    "id": "w13_tegne",
+    "no": "tegne",
+    "de": "zeichnen",
+    "pos": "verb",
+    "vf": [
+      "tegner",
+      "tegnet",
+      "tegnet",
+      "tegn"
+    ],
+    "vg": "1",
+    "lesson": 13,
+    "ex": {
+      "no": "Egner tegnet bildene i bøkene selv.",
+      "de": "Egner zeichnete die Bilder in den Büchern selbst."
+    }
+  },
+  {
+    "id": "w13_tann",
+    "no": "tann",
+    "de": "der Zahn",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "tann",
+      "tanna",
+      "tenner",
+      "tennene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Karius og Baktus bor i tennene til Jens.",
+      "de": "Karius und Baktus wohnen in Jens’ Zähnen."
+    },
+    "note": "Plural mit Umlaut: tenner."
+  },
+  {
+    "id": "w13_pusse_tennene",
+    "no": "pusse tennene",
+    "de": "die Zähne putzen",
+    "pos": "phrase",
+    "lesson": 13,
+    "ex": {
+      "no": "Husk å pusse tennene før du legger deg!",
+      "de": "Denk daran, dir die Zähne zu putzen, bevor du ins Bett gehst!"
+    }
+  },
+  {
+    "id": "w13_rev",
+    "no": "rev",
+    "de": "der Fuchs",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "rev",
+      "reven",
+      "rever",
+      "revene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Mikkel Rev er en kjent figur i Hakkebakkeskogen.",
+      "de": "Mikkel, der Fuchs, ist eine bekannte Figur im Hackebackewald."
+    }
+  },
+  {
+    "id": "w13_mus",
+    "no": "mus",
+    "de": "die Maus",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "mus",
+      "musa",
+      "mus",
+      "musene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Klatremus er ei lita mus i Hakkebakkeskogen.",
+      "de": "Klatremus ist eine kleine Maus im Hackebackewald."
+    },
+    "note": "Plural ohne Endung: mange mus."
+  },
+  {
+    "id": "w13_dyr",
+    "no": "dyr",
+    "de": "das Tier",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "dyr",
+      "dyret",
+      "dyr",
+      "dyra/dyrene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Alle dyrene i skogen skal være venner.",
+      "de": "Alle Tiere im Wald sollen Freunde sein."
+    },
+    "note": "Achtung: dyr als Adjektiv heißt »teuer«."
+  },
+  {
+    "id": "w13_rover",
+    "no": "røver",
+    "de": "der Räuber",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "røver",
+      "røveren",
+      "røvere",
+      "røverne"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "De tre røverne heter Kasper, Jesper og Jonatan.",
+      "de": "Die drei Räuber heißen Kasper, Jesper und Jonatan."
+    }
+  },
+  {
+    "id": "w13_plage",
+    "no": "plage",
+    "de": "plagen, ärgern",
+    "deAlt": [
+      "quälen",
+      "ärgern"
+    ],
+    "pos": "verb",
+    "vf": [
+      "plager",
+      "plaget",
+      "plaget",
+      "plag"
+    ],
+    "vg": "1",
+    "lesson": 13,
+    "ex": {
+      "no": "Man skal ikke plage andre.",
+      "de": "Man soll andere nicht plagen."
+    }
+  },
+  {
+    "id": "w13_for_ovrig",
+    "no": "for øvrig",
+    "de": "im Übrigen, übrigens",
+    "deAlt": [
+      "übrigens",
+      "im Übrigen"
+    ],
+    "pos": "phrase",
+    "lesson": 13,
+    "ex": {
+      "no": "For øvrig kan man gjøre hva man vil.",
+      "de": "Im Übrigen kann man tun, was man will."
+    }
+  },
+  {
+    "id": "w13_teskje",
+    "no": "teskje",
+    "de": "der Teelöffel",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "teskje",
+      "teskjea",
+      "teskjeer",
+      "teskjeene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Teskjekjerringa blir like lita som ei teskje.",
+      "de": "Die Teelöffelfrau wird so klein wie ein Teelöffel."
+    }
+  },
+  {
+    "id": "w13_klare_seg",
+    "no": "klare seg",
+    "de": "zurechtkommen",
+    "deAlt": [
+      "sich durchschlagen",
+      "zurechtkommen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "klarer seg",
+      "klarte seg",
+      "klart seg",
+      "klar deg"
+    ],
+    "vg": "2",
+    "lesson": 13,
+    "ex": {
+      "no": "Hun klarer seg alltid.",
+      "de": "Sie kommt immer zurecht."
+    }
+  },
+  {
+    "id": "w13_lastebil",
+    "no": "lastebil",
+    "de": "der Lastwagen",
+    "deAlt": [
+      "der Lkw"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "lastebil",
+      "lastebilen",
+      "lastebiler",
+      "lastebilene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Faren i boka kjører lastebil.",
+      "de": "Der Vater im Buch fährt einen Lastwagen."
+    }
+  },
+  {
+    "id": "w13_trang",
+    "no": "trang",
+    "de": "eng",
+    "deAlt": [
+      "beengt",
+      "schmal"
+    ],
+    "pos": "adj",
+    "forms": [
+      "trang",
+      "trangt",
+      "trange"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Familien bor trangt i en liten leilighet.",
+      "de": "Die Familie wohnt beengt in einer kleinen Wohnung."
+    },
+    "note": "bo trangt = beengt wohnen."
+  },
+  {
+    "id": "w13_roman",
+    "no": "roman",
+    "de": "der Roman",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "roman",
+      "romanen",
+      "romaner",
+      "romanene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "«Sofies verden» er en roman om filosofi.",
+      "de": "„Sofies Welt“ ist ein Roman über Philosophie."
+    }
+  },
+  {
+    "id": "w13_filosofi",
+    "no": "filosofi",
+    "de": "die Philosophie",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "filosofi",
+      "filosofien",
+      "filosofier",
+      "filosofiene"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Sofie lærer mye om filosofi.",
+      "de": "Sofie lernt viel über Philosophie."
+    }
+  },
+  {
+    "id": "w13_nynorsk",
+    "no": "nynorsk",
+    "de": "das Nynorsk",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "nynorsk",
+      "nynorsken"
+    ],
+    "lesson": 13,
+    "ex": {
+      "no": "Maria Parr skriver på nynorsk.",
+      "de": "Maria Parr schreibt auf Nynorsk."
+    },
+    "note": "Neben Bokmål die zweite norwegische Schriftsprache, vor allem in Westnorwegen."
+  },
+  {
+    "id": "w13_paa_landet",
+    "no": "på landet",
+    "de": "auf dem Land",
+    "pos": "phrase",
+    "lesson": 13,
+    "ex": {
+      "no": "Maria Parr skriver om barn på landet.",
+      "de": "Maria Parr schreibt über Kinder auf dem Land."
+    }
+  },
+  {
+    "id": "w13_skjema",
+    "no": "skjema",
+    "de": "das Formular",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "skjema",
+      "skjemaet",
+      "skjemaer",
+      "skjemaene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Jeg må fylle ut et skjema.",
+      "de": "Ich muss ein Formular ausfüllen."
+    }
+  },
+  {
+    "id": "w13_fylle_ut",
+    "no": "fylle ut",
+    "de": "ausfüllen",
+    "pos": "verb",
+    "vf": [
+      "fyller ut",
+      "fylte ut",
+      "fylt ut",
+      "fyll ut"
+    ],
+    "vg": "2",
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Fyll ut skjemaet, og skriv under her.",
+      "de": "Füll das Formular aus und unterschreib hier."
+    }
+  },
+  {
+    "id": "w13_legitimasjon",
+    "no": "legitimasjon",
+    "de": "der Ausweis",
+    "deAlt": [
+      "das Ausweisdokument"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "legitimasjon",
+      "legitimasjonen"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Har du legitimasjon?",
+      "de": "Hast du einen Ausweis dabei?"
+    },
+    "note": "Als legitimasjon gelten pass, nasjonalt ID-kort oder førerkort."
+  },
+  {
+    "id": "w13_pass",
+    "no": "pass",
+    "de": "der Reisepass",
+    "deAlt": [
+      "der Pass"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "pass",
+      "passet",
+      "pass",
+      "passa/passene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Kan jeg få se passet ditt?",
+      "de": "Darf ich deinen Pass sehen?"
+    }
+  },
+  {
+    "id": "w13_id_kort",
+    "no": "ID-kort",
+    "de": "der Personalausweis",
+    "deAlt": [
+      "der Ausweis"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "ID-kort",
+      "ID-kortet",
+      "ID-kort",
+      "ID-korta/ID-kortene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Susanne har et tysk ID-kort.",
+      "de": "Susanne hat einen deutschen Personalausweis."
+    }
+  },
+  {
+    "id": "w13_d_nummer",
+    "no": "D-nummer",
+    "de": "die D-Nummer",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "D-nummer",
+      "D-nummeret",
+      "D-numre/D-nummer",
+      "D-numrene/D-nummerne"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Jeg har bare et D-nummer.",
+      "de": "Ich habe nur eine D-Nummer."
+    },
+    "note": "Eine Personennummer für Menschen, die nur kurz in Norwegen sind."
+  },
+  {
+    "id": "w13_adresse",
+    "no": "adresse",
+    "de": "die Adresse",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "adresse",
+      "adressen",
+      "adresser",
+      "adressene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Hva er den nye adressen din?",
+      "de": "Wie ist deine neue Adresse?"
+    }
+  },
+  {
+    "id": "w13_bankkonto",
+    "no": "bankkonto",
+    "de": "das Bankkonto",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "bankkonto",
+      "bankkontoen",
+      "bankkontoer",
+      "bankkontoene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Jeg vil gjerne åpne en bankkonto.",
+      "de": "Ich möchte gern ein Bankkonto eröffnen."
+    }
+  },
+  {
+    "id": "w13_melde_flytting",
+    "no": "melde flytting",
+    "de": "einen Umzug melden",
+    "pos": "phrase",
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Du må melde flytting innen åtte dager.",
+      "de": "Du musst den Umzug innerhalb von acht Tagen melden."
+    }
+  },
+  {
+    "id": "w13_skrive_under",
+    "no": "skrive under",
+    "de": "unterschreiben",
+    "pos": "verb",
+    "vf": [
+      "skriver under",
+      "skrev under",
+      "skrevet under",
+      "skriv under"
+    ],
+    "vg": "sterk",
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Hvor skal jeg skrive under?",
+      "de": "Wo soll ich unterschreiben?"
+    }
+  },
+  {
+    "id": "w13_underskrift",
+    "no": "underskrift",
+    "de": "die Unterschrift",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "underskrift",
+      "underskriften",
+      "underskrifter",
+      "underskriftene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Her mangler underskriften din.",
+      "de": "Hier fehlt deine Unterschrift."
+    }
+  },
+  {
+    "id": "w13_soknad",
+    "no": "søknad",
+    "de": "der Antrag",
+    "deAlt": [
+      "die Bewerbung"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "søknad",
+      "søknaden",
+      "søknader",
+      "søknadene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Søknaden din er under behandling.",
+      "de": "Dein Antrag wird bearbeitet."
+    },
+    "note": "Auch: die Bewerbung (søknad om jobb)."
+  },
+  {
+    "id": "w13_soke_om",
+    "no": "søke om",
+    "de": "beantragen",
+    "deAlt": [
+      "sich bewerben um"
+    ],
+    "pos": "verb",
+    "vf": [
+      "søker om",
+      "søkte om",
+      "søkt om",
+      "søk om"
+    ],
+    "vg": "2",
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Jeg har søkt om skattekort.",
+      "de": "Ich habe eine Steuerkarte beantragt."
+    }
+  },
+  {
+    "id": "w13_skattekort",
+    "no": "skattekort",
+    "de": "die Steuerkarte",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "skattekort",
+      "skattekortet",
+      "skattekort",
+      "skattekorta/skattekortene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Du trenger skattekort når du skal jobbe i Norge.",
+      "de": "Du brauchst eine Steuerkarte, wenn du in Norwegen arbeiten willst."
+    }
+  },
+  {
+    "id": "w13_frist",
+    "no": "frist",
+    "de": "die Frist",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "frist",
+      "fristen",
+      "frister",
+      "fristene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Når er fristen?",
+      "de": "Wann ist die Frist?"
+    }
+  },
+  {
+    "id": "w13_saksbehandler",
+    "no": "saksbehandler",
+    "de": "der Sachbearbeiter / die Sachbearbeiterin",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "saksbehandler",
+      "saksbehandleren",
+      "saksbehandlere",
+      "saksbehandlerne"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Saksbehandleren ringer deg i neste uke.",
+      "de": "Der Sachbearbeiter ruft dich nächste Woche an."
+    }
+  },
+  {
+    "id": "w13_under_behandling",
+    "no": "under behandling",
+    "de": "in Bearbeitung",
+    "pos": "phrase",
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Søknaden er under behandling.",
+      "de": "Der Antrag ist in Bearbeitung."
+    }
+  },
+  {
+    "id": "w13_bekreftelse",
+    "no": "bekreftelse",
+    "de": "die Bestätigung",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "bekreftelse",
+      "bekreftelsen",
+      "bekreftelser",
+      "bekreftelsene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Kan du sende meg en bekreftelse?",
+      "de": "Kannst du mir eine Bestätigung schicken?"
+    }
+  },
+  {
+    "id": "w13_kopi",
+    "no": "kopi",
+    "de": "die Kopie",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "kopi",
+      "kopien",
+      "kopier",
+      "kopiene"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Du må legge ved en kopi av passet.",
+      "de": "Du musst eine Kopie des Passes beilegen."
+    }
+  },
+  {
+    "id": "w13_legge_ved",
+    "no": "legge ved",
+    "de": "beilegen, anhängen",
+    "deAlt": [
+      "anhängen",
+      "beifügen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "legger ved",
+      "la ved",
+      "lagt ved",
+      "legg ved"
+    ],
+    "vg": "uregelm",
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Jeg legger ved en kopi av kontrakten.",
+      "de": "Ich lege eine Kopie des Vertrags bei."
+    }
+  },
+  {
+    "id": "w13_bestille_time",
+    "no": "bestille time",
+    "de": "einen Termin vereinbaren",
+    "pos": "phrase",
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Jeg vil gjerne bestille time.",
+      "de": "Ich möchte gern einen Termin vereinbaren."
+    },
+    "note": "time = Stunde und Termin (beim Arzt, beim Amt)."
+  },
+  {
+    "id": "w13_gyldig",
+    "no": "gyldig",
+    "de": "gültig",
+    "pos": "adj",
+    "forms": [
+      "gyldig",
+      "gyldig",
+      "gyldige"
+    ],
+    "lesson": 13,
+    "wk": true,
+    "ex": {
+      "no": "Passet ditt er ikke gyldig lenger.",
+      "de": "Dein Pass ist nicht mehr gültig."
+    }
+  }
+]

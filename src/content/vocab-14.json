@@ -1,24 +1,5 @@
 [
   {
-    "id": "w10_leilighet",
-    "no": "leilighet",
-    "de": "die Wohnung",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "leilighet",
-      "leiligheten",
-      "leiligheter",
-      "leilighetene"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Leiligheten til Matthias er liten, men koselig.",
-      "de": "Matthias’ Wohnung ist klein, aber gemütlich."
-    }
-  },
-  {
     "id": "w10_liv",
     "no": "liv",
     "de": "das Leben",
@@ -157,25 +138,6 @@
     }
   },
   {
-    "id": "w10_kjeller",
-    "no": "kjeller",
-    "de": "der Keller",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "kjeller",
-      "kjelleren",
-      "kjellere",
-      "kjellerne"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Sykkelen står i kjelleren.",
-      "de": "Das Fahrrad steht im Keller."
-    }
-  },
-  {
     "id": "w10_tak",
     "no": "tak",
     "de": "das Dach",
@@ -238,47 +200,6 @@
     "ex": {
       "no": "Det henger et bilde på veggen.",
       "de": "An der Wand hängt ein Bild."
-    }
-  },
-  {
-    "id": "w10_strom",
-    "no": "strøm",
-    "de": "der Strom",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "strøm",
-      "strømmen",
-      "strømmer",
-      "strømmene"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Er strøm inkludert i husleia?",
-      "de": "Ist der Strom in der Miete inbegriffen?"
-    }
-  },
-  {
-    "id": "w10_mobel",
-    "no": "møbel",
-    "de": "das Möbelstück",
-    "deAlt": [
-      "Möbel"
-    ],
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "møbel",
-      "møbelet",
-      "møbler",
-      "møblene"
-    ],
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Matthias har ikke mange møbler.",
-      "de": "Matthias hat nicht viele Möbel."
     }
   },
   {

@@ -5,62 +5,66 @@
   "titleDe": "Hüttenausflug und Ostergemütlichkeit – oder umgekehrt",
   "place": "Die Hütte der Nygårds im Gudbrandsdal",
   "goals": [
-    "Du kannst über unwirkliche Situationen sprechen: Hvis jeg hadde tid, ville jeg …",
-    "Du kannst sagen, was gewesen wäre, wenn … (Hvis vi hadde hørt …, hadde vi …), und Wünsche äußern (Jeg skulle ønske …).",
-    "Du lernst Präposition + å + Infinitiv oder at-Satz: Jeg gleder meg til å … / Hun er redd for at …",
-    "Du verstehst den Wetterbericht und kannst über das Wetter in den Bergen sprechen.",
-    "Du erfährst etwas über norwegische Osterbräuche, Osterkrimis und norwegische Literatur."
+    "Du kannst von Ostern auf der Hütte erzählen – von Skitouren, Osterkrimis, einem Schneesturm und Fårikål bei Kerzenlicht.",
+    "Du verstehst den Wetterbericht (skiftende skydekke, sterk kuling) und kannst ein Fårikål-Rezept lesen und erklären.",
+    "Du unterscheidest Partikelverben (stå opp, ta med, gi opp) und feste Zusammensetzungen (nedlagt, oppgi) und benutzt Partizipien als Adjektive (en nedsnødd bil, frosne fingre).",
+    "Du drückst laufende Handlungen mit sitte/stå/ligge og … aus (vi satt og så, hun lå og leste) und kennst die festen Wendungen mit til + Genitiv (til fjells, til sengs, til bords).",
+    "Du kennst die wichtigsten unregelmäßigen Substantive mit allen Formen und erfährst etwas über Osterkrimis und norwegische Literatur."
   ],
   "text": {
     "id": "t21",
     "title": "Hyttetur og påskekos – eller omvendt",
     "titleDe": "Hüttenausflug und Ostergemütlichkeit – oder umgekehrt",
     "kind": "prose",
-    "intro": "Ostern auf der Hütte der Familie Nygård im Gudbrandsdal. Am Abend des Ostermontags schreibt Susanne in ihr Tagebuch, wie die Tage verlaufen sind – erst Sonne und Gemütlichkeit, dann Schneesturm und Stromausfall.",
+    "intro": "Ostern auf der Hütte der Familie Nygård im Gudbrandsdal. Susanne ist aus Tromsø gekommen, Anna aus Trondheim, wo sie ihr Praktikum macht, und Matthias aus Bergen. Am Abend des Ostermontags schreibt Susanne in ihr Tagebuch, wie die Tage verlaufen sind – erst Sonne und Gemütlichkeit, dann Schneesturm und Stromausfall.",
     "lines": [
       {
-        "no": "Andre påskedag, sent på kvelden. Alle har lagt seg, og jeg sitter ved peisen med dagboka mi. Denne påsken glemmer jeg aldri – på godt og vondt.",
-        "de": "Ostermontag, spät am Abend. Alle sind schlafen gegangen, und ich sitze mit meinem Tagebuch am Kamin. Dieses Osterfest werde ich nie vergessen – im Guten wie im Schlechten."
+        "no": "Andre påskedag, sent på kvelden. Alle har gått til sengs, og jeg sitter ved peisen og skriver i dagboka. Denne påsken glemmer jeg aldri – på godt og vondt.",
+        "de": "Ostermontag, spät am Abend. Alle sind schlafen gegangen, und ich sitze am Kamin und schreibe in mein Tagebuch. Dieses Osterfest werde ich nie vergessen – im Guten wie im Schlechten."
       },
       {
-        "no": "Jeg hadde gledet meg til å se hytta i flere uker. Anna og jeg tok toget fra Trondheim på onsdag, og Per hentet oss på stasjonen i Vinstra. Resten av familien hadde kjørt fra Oslo, med Matthias klemt inn i baksetet mellom bestemor Ingrid og Bamse.",
-        "de": "Ich hatte mich schon seit Wochen darauf gefreut, die Hütte zu sehen. Anna und ich sind am Mittwoch mit dem Zug von Trondheim gefahren, und Per hat uns am Bahnhof in Vinstra abgeholt. Der Rest der Familie war mit dem Auto von Oslo gekommen, Matthias eingeklemmt auf der Rückbank zwischen Oma Ingrid und Bamse."
+        "no": "Jeg hadde gledet meg til å se hytta i flere uker. På onsdag fløy jeg til Trondheim, og derfra tok Anna og jeg toget til Vinstra, der Per hentet oss. Familien Nygård hadde kjørt fra Oslo dagen før, med Matthias klemt inn i baksetet mellom bestemor Ingrid og Bamse. Matthias og jeg hadde ikke sett hverandre siden Sørlandet.",
+        "de": "Ich hatte mich schon seit Wochen darauf gefreut, die Hütte zu sehen. Am Mittwoch bin ich nach Trondheim geflogen, und von dort sind Anna und ich mit dem Zug nach Vinstra gefahren, wo Per uns abgeholt hat. Familie Nygård war am Tag davor mit dem Auto aus Oslo gekommen, Matthias eingeklemmt auf der Rückbank zwischen Oma Ingrid und Bamse. Matthias und ich hatten uns seit der Fahrt an die Südküste nicht mehr gesehen."
       },
       {
-        "no": "Hytta er en gammel tømmerhytte med torvtak, helt for seg selv på fjellet. Det er strøm her, men ikke innlagt vann, så vi måtte hente vann i bøtter hver morgen. Det var selvfølgelig Ola som alltid «glemte» det.",
-        "de": "Die Hütte ist eine alte Blockhütte mit Grasdach, ganz für sich allein im Gebirge. Es gibt hier Strom, aber kein fließendes Wasser, deshalb mussten wir jeden Morgen Wasser in Eimern holen. Natürlich war es Ola, der das immer „vergaß“."
+        "no": "Hytta er en gammel tømmerhytte med torvtak, helt for seg selv på fjellet. Det er strøm her, men ikke innlagt vann, så vi måtte hente vann i bøtter hver morgen. Det var selvfølgelig Ola som alltid «glemte» det – han lå og sov til langt på dag.",
+        "de": "Die Hütte ist eine alte Blockhütte mit Grasdach, ganz für sich allein im Gebirge. Es gibt hier Strom, aber kein fließendes Wasser, deshalb mussten wir jeden Morgen Wasser in Eimern holen. Natürlich war es Ola, der das immer „vergaß“ – er lag im Bett und schlief bis spät in den Tag hinein."
       },
       {
-        "no": "De tre første dagene var som klippet ut av et postkort: blå himmel, strålende sol og perfekt skiføre. Vi gikk lange turer på ski, og i pausene satt vi i snøen med appelsiner og Kvikk Lunsj. Ola påsto at det er forbudt å gå på påsketur uten Kvikk Lunsj i sekken. Matthias, som vokste opp med alpinski i Sveits, fikk en lang forelesning av Per om at langrenn er den eneste ekte skisporten. Han var tydelig uenig, men for høflig til å si det.",
-        "de": "Die ersten drei Tage waren wie aus einer Postkarte ausgeschnitten: blauer Himmel, strahlende Sonne und perfekter Skischnee. Wir machten lange Skitouren, und in den Pausen saßen wir mit Orangen und Kvikk Lunsj im Schnee. Ola behauptete, es sei verboten, an Ostern ohne Kvikk Lunsj im Rucksack auf Tour zu gehen. Matthias, der in der Schweiz mit Alpinski aufgewachsen ist, musste sich von Per einen langen Vortrag darüber anhören, dass Langlauf die einzige echte Skisportart sei. Er war offensichtlich anderer Meinung, aber zu höflich, um es zu sagen."
+        "no": "De tre første dagene var som klippet ut av et postkort: blå himmel, strålende sol, oppkjørte løyper og perfekt skiføre. Vi gikk lange turer på ski, og i pausene satt vi i snøen og spiste appelsiner og Kvikk Lunsj. Matthias, som vokste opp med alpinski i Sveits, fikk en lang forelesning av Per om at langrenn er den eneste ekte skisporten. Han var tydelig uenig, men for høflig til å si det.",
+        "de": "Die ersten drei Tage waren wie aus einer Postkarte ausgeschnitten: blauer Himmel, strahlende Sonne, gespurte Loipen und perfekter Skischnee. Wir machten lange Skitouren, und in den Pausen saßen wir im Schnee und aßen Orangen und Kvikk Lunsj. Matthias, der in der Schweiz mit Alpinski aufgewachsen ist, musste sich von Per einen langen Vortrag darüber anhören, dass Langlauf die einzige echte Skisportart sei. Er war offensichtlich anderer Meinung, aber zu höflich, um es zu sagen."
       },
       {
-        "no": "Om kveldene var det påskekrim. Vi så en krimserie på TV, og bestemor visste hvem morderen var lenge før politiet. Til frokost leste vi krimhistorien på melkekartongen, og Kari lå på sofaen med en tykk kriminalroman i stedet for å gå på ski. «Påske uten krim er som jul uten ribbe,» sa hun. Aldri før har jeg kost meg så mye uten å gjøre noe som helst.",
-        "de": "Abends gab es Osterkrimis. Wir sahen eine Krimiserie im Fernsehen, und Oma wusste lange vor der Polizei, wer der Mörder war. Zum Frühstück lasen wir die Krimigeschichte auf der Milchtüte, und Kari lag mit einem dicken Kriminalroman auf dem Sofa, statt Ski zu fahren. „Ostern ohne Krimi ist wie Weihnachten ohne Schweinerippe“, sagte sie. Noch nie habe ich es so genossen, überhaupt nichts zu tun."
+        "no": "Om kveldene satt vi og så påskekrim på TV, og bestemor visste hvem morderen var lenge før politiet. Til frokost leste vi krimhistorien på melkekartongen, og Kari lå på sofaen og leste en tykk kriminalroman i stedet for å gå på ski. «Påske uten krim er som jul uten ribbe,» sa hun.",
+        "de": "Abends saßen wir vor dem Fernseher und schauten Osterkrimis, und Oma wusste lange vor der Polizei, wer der Mörder war. Zum Frühstück lasen wir die Krimigeschichte auf der Milchtüte, und Kari lag auf dem Sofa und las einen dicken Kriminalroman, statt Ski zu fahren. „Ostern ohne Krimi ist wie Weihnachten ohne Schweinerippe“, sagte sie."
       },
       {
-        "no": "På langfredag kveld sjekket Matthias værmeldingen på telefonen. «Det er meldt sterk kuling og mye snø fra lørdag ettermiddag,» sa han. Per bare lo: «Værmeldingen tar alltid feil på fjellet. Hvis vi hørte på den hele tiden, ville vi aldri komme oss ut av hytta!» Så på lørdag morgen dro vi av gårde mot en topp i nærheten, alle unntatt bestemor og Kari.",
-        "de": "Am Karfreitagabend schaute Matthias auf dem Handy nach dem Wetterbericht. „Ab Samstagnachmittag sind stürmischer Wind und viel Schnee angesagt“, sagte er. Per lachte nur: „Der Wetterbericht liegt in den Bergen immer daneben. Wenn wir ständig darauf hören würden, kämen wir nie aus der Hütte heraus!“ Also brachen wir am Samstagmorgen zu einem Gipfel in der Nähe auf, alle außer Oma und Kari."
+        "no": "På langfredag kveld sjekket Matthias værmeldingen på telefonen. «Det er meldt sterk kuling og mye snø fra lørdag ettermiddag,» sa han. Per bare lo: «Værmeldingen tar alltid feil på fjellet.» På lørdag sto vi derfor opp tidlig og dro av gårde mot en topp i nærheten, alle unntatt bestemor og Kari.",
+        "de": "Am Karfreitagabend schaute Matthias auf dem Handy nach dem Wetterbericht. „Ab Samstagnachmittag sind stürmischer Wind und viel Schnee angesagt“, sagte er. Per lachte nur: „Der Wetterbericht liegt in den Bergen immer daneben.“ Am Samstag standen wir deshalb früh auf und brachen zu einem Gipfel in der Nähe auf, alle außer Oma und Kari."
       },
       {
-        "no": "Ved tolvtiden ble himmelen grå, og vinden økte. Snart snødde det så tett at vi ikke kunne se skisporet foran oss. Per ville fortsette, men Matthias tok fram Kvikk Lunsj-papiret og leste høyt fra fjellvettreglene: «Vend i tide, det er ingen skam å snu.»",
-        "de": "Gegen zwölf Uhr wurde der Himmel grau, und der Wind nahm zu. Bald schneite es so dicht, dass wir die Skispur vor uns nicht sehen konnten. Per wollte weiter, aber Matthias holte das Kvikk-Lunsj-Papier hervor und las aus den Fjellvettregeln vor: „Kehr rechtzeitig um, es ist keine Schande umzukehren.“"
+        "no": "Ved tolvtiden ble himmelen grå, og vinden økte. Snart snødde det så tett at vi ikke kunne se skisporet foran oss. Per ville ikke gi opp, men Matthias tok fram Kvikk Lunsj-papiret og leste høyt fra fjellvettreglene: «Vend i tide, det er ingen skam å snu.»",
+        "de": "Gegen zwölf Uhr wurde der Himmel grau, und der Wind nahm zu. Bald schneite es so dicht, dass wir die Skispur vor uns nicht sehen konnten. Per wollte nicht aufgeben, aber Matthias holte das Kvikk-Lunsj-Papier hervor und las aus den Fjellvettregeln vor: „Kehr rechtzeitig um, es ist keine Schande umzukehren.“"
       },
       {
-        "no": "Vi snudde. Etter to lange timer i motvind var vi tilbake på hytta, våte, slitne og sure. Kari hadde vært redd for at vi skulle gå oss vill.",
-        "de": "Wir kehrten um. Nach zwei langen Stunden im Gegenwind waren wir zurück in der Hütte, nass, müde und schlecht gelaunt. Kari hatte Angst gehabt, dass wir uns verirren würden."
+        "no": "Vi snudde. Etter to lange timer i motvind var vi tilbake på hytta, våte, slitne og sure, med frosne fingre. Kari hadde vært redd for at vi skulle gå oss vill.",
+        "de": "Wir kehrten um. Nach zwei langen Stunden im Gegenwind waren wir zurück in der Hütte, nass, müde und schlecht gelaunt, mit gefrorenen Fingern. Kari hatte Angst gehabt, dass wir uns verirren würden."
       },
       {
-        "no": "Om kvelden gikk strømmen, og Ola oppdaget til sin store skrekk at mobilen hans nesten var tom. Ikke noe internett, ingen TV, ingen påskekrim! Vi tente stearinlys, fyrte i peisen og laget suppe på den gamle vedovnen. Etter å ha spist fortalte bestemor Ingrid om trollet som skal ha bodd i fjellet bak hytta. «Det var faktisk bedre enn TV,» innrømmet Ola etterpå.",
-        "de": "Am Abend fiel der Strom aus, und Ola stellte zu seinem großen Schrecken fest, dass sein Handy fast leer war. Kein Internet, kein Fernsehen, kein Osterkrimi! Wir zündeten Kerzen an, heizten den Kamin ein und kochten Suppe auf dem alten Holzofen. Nach dem Essen erzählte Oma Ingrid von dem Troll, der angeblich im Berg hinter der Hütte gewohnt hat. „Das war tatsächlich besser als Fernsehen“, gab Ola hinterher zu."
+        "no": "Om kvelden gikk strømmen, og Ola oppdaget til sin store skrekk at mobilen hans nesten var tom. Heldigvis hadde Kari satt på en stor gryte fårikål. Vi tente stearinlys, fyrte i peisen og flyttet gryta over på vedovnen, der den sto og småkokte resten av kvelden.",
+        "de": "Am Abend fiel der Strom aus, und Ola stellte zu seinem großen Schrecken fest, dass sein Handy fast leer war. Zum Glück hatte Kari einen großen Topf Fårikål aufgesetzt. Wir zündeten Kerzen an, heizten den Kamin ein und stellten den Topf auf den Holzofen, wo er den ganzen restlichen Abend vor sich hin köchelte."
       },
       {
-        "no": "På første påskedag skinte sola igjen, men nå lå det nesten en meter nysnø rundt hytta. Ola tryglet Per om å kjøre ham ned i bygda for å lade mobilen, men bilen satt fast i en snøfonn etter bare femti meter. Vi måkte og dyttet i over en time, mens Bamse hoppet rundt oss og trodde at alt var en lek. Til slutt var det Matthias som fant løsningen: Han la granbar under hjulene, og bilen kom løs. Per sa ikke så mye resten av dagen.",
-        "de": "Am Ostersonntag schien wieder die Sonne, aber jetzt lag fast ein Meter Neuschnee um die Hütte. Ola bettelte Per an, ihn ins Dorf hinunterzufahren, damit er sein Handy aufladen konnte, aber das Auto blieb schon nach fünfzig Metern in einer Schneewehe stecken. Wir schaufelten und schoben über eine Stunde lang, während Bamse um uns herumsprang und dachte, alles sei ein Spiel. Am Ende war es Matthias, der die Lösung fand: Er legte Fichtenzweige unter die Räder, und das Auto kam frei. Per sagte den Rest des Tages nicht mehr viel."
+        "no": "Matthias hadde aldri smakt fårikål før. «Er ikke dette høstmat?» spurte han. «Jo,» sa Kari, «men den smaker like godt i påsken.» Da vi satte oss til bords, forsynte han seg tre ganger. Etterpå fortalte bestemor om trollet som skal ha bodd i fjellet bak hytta. «Det var faktisk bedre enn TV,» innrømmet Ola.",
+        "de": "Matthias hatte noch nie Fårikål gegessen. „Ist das nicht ein Herbstessen?“, fragte er. „Doch“, sagte Kari, „aber an Ostern schmeckt es genauso gut.“ Als wir uns zu Tisch setzten, nahm er sich dreimal. Danach erzählte Oma von dem Troll, der angeblich im Berg hinter der Hütte gewohnt hat. „Das war tatsächlich besser als Fernsehen“, gab Ola zu."
       },
       {
-        "no": "Hvis vi hadde hørt på Matthias, ville vi ha blitt inne på lørdag, og vi hadde sluppet å fryse. Men da hadde vi heller ikke fått høre bestemors trollhistorie, og Ola hadde aldri oppdaget at det går an å ha det gøy uten mobil. Jeg skulle ønske at påsken varte en uke til! Om bare Matthias ikke alltid hadde rett …",
-        "de": "Wenn wir auf Matthias gehört hätten, wären wir am Samstag drinnen geblieben, und wir hätten nicht frieren müssen. Aber dann hätten wir auch Omas Trollgeschichte nicht zu hören bekommen, und Ola hätte nie entdeckt, dass man auch ohne Handy Spaß haben kann. Ich wünschte, Ostern würde noch eine Woche dauern! Wenn Matthias doch bloß nicht immer recht hätte …"
+        "no": "På første påskedag skinte sola igjen, men nå lå det nesten en meter nysnø rundt hytta, og bilen var helt nedsnødd. Ola ville ned i bygda for å lade mobilen, men bilen satt fast i en snøfonn etter bare femti meter. Vi måkte og dyttet i over en time. Til slutt var det Matthias som fant løsningen: Han la granbar under hjulene, og bilen kom løs. Per sa ikke så mye resten av dagen, og ingen hadde lyst til å dra til fjells igjen.",
+        "de": "Am Ostersonntag schien wieder die Sonne, aber jetzt lag fast ein Meter Neuschnee um die Hütte, und das Auto war völlig eingeschneit. Ola wollte ins Dorf hinunter, um sein Handy aufzuladen, aber das Auto blieb schon nach fünfzig Metern in einer Schneewehe stecken. Wir schaufelten und schoben über eine Stunde lang. Am Ende war es Matthias, der die Lösung fand: Er legte Fichtenzweige unter die Räder, und das Auto kam frei. Per sagte den Rest des Tages nicht mehr viel, und niemand hatte Lust, noch einmal in die Berge zu gehen."
+      },
+      {
+        "no": "Hvis vi hadde hørt på Matthias, ville vi ha blitt inne på lørdag, og vi hadde sluppet å fryse. Men da hadde vi heller ikke spist fårikål ved stearinlys, og Ola hadde aldri oppdaget at det går an å ha det gøy uten mobil. Jeg skulle ønske at påsken varte en uke til! Om bare Matthias ikke alltid hadde rett …",
+        "de": "Wenn wir auf Matthias gehört hätten, wären wir am Samstag drinnen geblieben, und wir hätten nicht frieren müssen. Aber dann hätten wir auch nicht bei Kerzenlicht Fårikål gegessen, und Ola hätte nie entdeckt, dass man auch ohne Handy Spaß haben kann. Ich wünschte, Ostern würde noch eine Woche dauern! Wenn Matthias doch bloß nicht immer recht hätte …"
       },
       {
         "no": "Per sier at dette var den verste påsken noensinne. Jeg synes det var omvendt: Det var den beste påsken jeg noen gang har hatt.",
@@ -73,8 +77,8 @@
         "de": "Ostermontag"
       },
       {
-        "no": "har lagt seg",
-        "de": "sind schlafen gegangen"
+        "no": "har gått til sengs",
+        "de": "sind schlafen gegangen (til sengs = ins Bett)"
       },
       {
         "no": "ved peisen",
@@ -101,6 +105,10 @@
         "de": "die Rückbank"
       },
       {
+        "no": "siden Sørlandet",
+        "de": "seit (der Fahrt an) die Südküste"
+      },
+      {
         "no": "tømmerhytte",
         "de": "Blockhütte"
       },
@@ -121,16 +129,28 @@
         "de": "Eimer"
       },
       {
+        "no": "lå og sov",
+        "de": "lag (im Bett) und schlief"
+      },
+      {
+        "no": "til langt på dag",
+        "de": "bis spät in den Tag hinein"
+      },
+      {
         "no": "klippet ut av et postkort",
         "de": "aus einer Postkarte ausgeschnitten"
+      },
+      {
+        "no": "oppkjørte løyper",
+        "de": "gespurte Loipen"
       },
       {
         "no": "skiføre",
         "de": "Schneeverhältnisse zum Skifahren"
       },
       {
-        "no": "påsto",
-        "de": "behauptete"
+        "no": "satt vi i snøen og spiste",
+        "de": "saßen wir im Schnee und aßen"
       },
       {
         "no": "alpinski",
@@ -149,6 +169,10 @@
         "de": "offensichtlich anderer Meinung"
       },
       {
+        "no": "satt vi og så",
+        "de": "saßen wir (da) und schauten"
+      },
+      {
         "no": "morderen",
         "de": "der Mörder"
       },
@@ -157,16 +181,12 @@
         "de": "die Milchtüte"
       },
       {
+        "no": "lå på sofaen og leste",
+        "de": "lag auf dem Sofa und las"
+      },
+      {
         "no": "ribbe",
         "de": "Schweinerippe mit Kruste (Weihnachtsessen)"
-      },
-      {
-        "no": "kost meg",
-        "de": "es mir gemütlich gemacht, genossen"
-      },
-      {
-        "no": "noe som helst",
-        "de": "überhaupt etwas"
       },
       {
         "no": "Det er meldt",
@@ -181,12 +201,32 @@
         "de": "liegt immer daneben"
       },
       {
-        "no": "dro vi av gårde",
-        "de": "brachen wir auf"
+        "no": "sto vi derfor opp",
+        "de": "standen wir deshalb auf"
+      },
+      {
+        "no": "dro av gårde",
+        "de": "brachen auf"
+      },
+      {
+        "no": "gårde",
+        "de": "av gårde = los, fort"
       },
       {
         "no": "Ved tolvtiden",
         "de": "gegen zwölf Uhr"
+      },
+      {
+        "no": "tolvtiden",
+        "de": "die Mittagszeit (ved tolvtiden = gegen zwölf Uhr)"
+      },
+      {
+        "no": "ville ikke gi opp",
+        "de": "wollte nicht aufgeben"
+      },
+      {
+        "no": "Lunsj-papiret",
+        "de": "das Papier (die Verpackung) eines Kvikk Lunsj"
       },
       {
         "no": "fjellvettreglene",
@@ -195,6 +235,18 @@
       {
         "no": "Vend i tide",
         "de": "Kehr rechtzeitig um"
+      },
+      {
+        "no": "tide",
+        "de": "i tide = rechtzeitig"
+      },
+      {
+        "no": "sure",
+        "de": "schlecht gelaunt (sur = sauer)"
+      },
+      {
+        "no": "frosne fingre",
+        "de": "gefrorene Finger (frossen, Plural frosne)"
       },
       {
         "no": "gå oss vill",
@@ -209,16 +261,48 @@
         "de": "zu seinem großen Schrecken"
       },
       {
+        "no": "satt på en stor gryte fårikål",
+        "de": "einen großen Topf Fårikål aufgesetzt"
+      },
+      {
         "no": "fyrte i peisen",
         "de": "heizten den Kamin ein"
+      },
+      {
+        "no": "sto og småkokte",
+        "de": "köchelte vor sich hin"
+      },
+      {
+        "no": "høstmat",
+        "de": "Herbstessen"
+      },
+      {
+        "no": "Jo",
+        "de": "doch (Antwort auf eine verneinte Frage)"
+      },
+      {
+        "no": "satte oss til bords",
+        "de": "setzten uns zu Tisch"
+      },
+      {
+        "no": "forsynte han seg",
+        "de": "nahm er sich (vom Essen)"
       },
       {
         "no": "skal ha bodd",
         "de": "soll gewohnt haben, angeblich gewohnt hat"
       },
       {
-        "no": "tryglet Per om å",
-        "de": "bettelte Per an, zu …"
+        "no": "nedsnødd",
+        "de": "eingeschneit"
+      },
+      {
+        "no": "ville ned i bygda",
+        "de": "wollte ins Dorf hinunter"
+      },
+      {
+        "no": "til fjells",
+        "de": "in die Berge"
       },
       {
         "no": "sluppet å fryse",
@@ -233,36 +317,8 @@
         "de": "(nur in: det går an = es geht, es ist möglich)"
       },
       {
-        "no": "mi",
-        "de": "meine (feminin: dagboka mi = mein Tagebuch)"
-      },
-      {
-        "no": "tolvtiden",
-        "de": "die Mittagszeit (ved tolvtiden = gegen zwölf Uhr)"
-      },
-      {
-        "no": "helst",
-        "de": "am liebsten (noe som helst = überhaupt etwas)"
-      },
-      {
         "no": "langfredag",
         "de": "der Karfreitag"
-      },
-      {
-        "no": "gårde",
-        "de": "av gårde = los, fort"
-      },
-      {
-        "no": "tide",
-        "de": "i tide = rechtzeitig"
-      },
-      {
-        "no": "hoppet",
-        "de": "sprang, hüpfte (hoppe = springen)"
-      },
-      {
-        "no": "Lunsj-papiret",
-        "de": "das Papier (die Verpackung) eines Kvikk Lunsj"
       }
     ]
   },
@@ -449,16 +505,12 @@
   ],
   "wk": {
     "title": "Skiftende skydekke · Oppskrift på fårikål",
-    "titleDe": "Wechselnde Bewölkung",
+    "titleDe": "Wechselnde Bewölkung · Rezept für Fårikål",
     "phrases": [
       {
         "no": "Skiftende skydekke.",
         "de": "Wechselnde Bewölkung.",
         "note": "Typischer Ausdruck aus dem Wetterbericht."
-      },
-      {
-        "no": "Hva sier værmeldingen?",
-        "de": "Was sagt der Wetterbericht?"
       },
       {
         "no": "Det er meldt sol i hele påsken.",
@@ -487,10 +539,6 @@
         "note": "Vom schwächsten zum stärksten Wind: bris – kuling – storm – orkan."
       },
       {
-        "no": "Det snør tett.",
-        "de": "Es schneit dicht."
-      },
-      {
         "no": "Det laver ned.",
         "de": "Es schüttet. / Es schneit in Massen.",
         "note": "Umgangssprachlich, für sehr starken Regen oder Schnee."
@@ -517,10 +565,6 @@
         "de": "Es ist mild und matschig."
       },
       {
-        "no": "Det er glatt på veiene.",
-        "de": "Auf den Straßen ist es glatt."
-      },
-      {
         "no": "Det er perfekt skiføre.",
         "de": "Der Schnee ist perfekt zum Skifahren.",
         "note": "føre = Zustand von Schnee oder Weg: godt føre, dårlig føre, glatt føre."
@@ -530,16 +574,55 @@
         "de": "Das Unwetter hat sich gelegt."
       },
       {
-        "no": "Værmeldingen tok feil.",
-        "de": "Der Wetterbericht lag daneben."
-      },
-      {
         "no": "Det finnes ikke dårlig vær, bare dårlige klær.",
         "de": "Es gibt kein schlechtes Wetter, nur schlechte Kleidung.",
         "note": "Beliebtes norwegisches Sprichwort."
+      },
+      {
+        "no": "Fårikål blir ofte kalt Norges nasjonalrett.",
+        "de": "Fårikål wird oft als Norwegens Nationalgericht bezeichnet.",
+        "note": "Wörtlich „Schaf in Kohl“: ein Eintopf aus Schaf- oder Lammfleisch und Weißkohl."
+      },
+      {
+        "no": "Den siste torsdagen i september er fårikålens festdag.",
+        "de": "Der letzte Donnerstag im September ist der Festtag des Fårikål.",
+        "note": "Fårikål ist ein Herbstessen: Im September gibt es frisches Lammfleisch und frischen Kohl."
+      },
+      {
+        "no": "Du trenger fårekjøtt, kål, hel pepper, salt og vann.",
+        "de": "Du brauchst Schaf- oder Lammfleisch, Kohl, ganze Pfefferkörner, Salz und Wasser.",
+        "note": "Mehr nicht! Man nimmt Fleischstücke mit Knochen; im Laden heißen sie oft fårikålkjøtt."
+      },
+      {
+        "no": "Del kålen i båter.",
+        "de": "Schneide den Kohl in Spalten.",
+        "note": "en båt = ein Boot; in Rezepten auch: eine Spalte (Kohl, Apfel, Zitrone)."
+      },
+      {
+        "no": "Legg kjøtt og kål lagvis i en stor gryte.",
+        "de": "Leg Fleisch und Kohl schichtweise in einen großen Topf.",
+        "note": "lagvis = schichtweise (et lag = eine Schicht)."
+      },
+      {
+        "no": "Strø salt og pepper mellom lagene.",
+        "de": "Streu Salz und Pfeffer zwischen die Schichten."
+      },
+      {
+        "no": "Hell på litt vann.",
+        "de": "Gieß ein wenig Wasser dazu.",
+        "note": "Nur wenig: Der Kohl gibt beim Kochen selbst viel Flüssigkeit ab."
+      },
+      {
+        "no": "La det småkoke under lokk i et par timer.",
+        "de": "Lass es mit Deckel ein paar Stunden köcheln.",
+        "note": "småkoke = leicht kochen, köcheln. Das Fleisch soll so weich werden, dass es fast vom Knochen fällt."
+      },
+      {
+        "no": "Fårikål serveres med kokte poteter.",
+        "de": "Fårikål wird mit Salzkartoffeln serviert.",
+        "note": "Viele finden, dass Fårikål am nächsten Tag noch besser schmeckt."
       }
-    ],
-    "_todo": "Oppskrift på fårikål ergänzen"
+    ]
   },
   "grammar": [
     {
@@ -595,24 +678,24 @@
       ],
       "drills": [
         {
-          "prompt": "Matthias sto ___ klokka fire for å fotografere fjellene. (aufstehen)",
-          "de": "Matthias stand um vier Uhr auf, um die Berge zu fotografieren.",
+          "prompt": "Matthias sto ___ klokka fem for å fotografere soloppgangen. (aufstehen)",
+          "de": "Matthias stand um fünf Uhr auf, um den Sonnenaufgang zu fotografieren.",
           "answer": [
             "opp"
           ],
           "explain": "stå opp: Die Partikel steht direkt nach dem Verb."
         },
         {
-          "prompt": "Husk å ta ___ solkrem på turen! (mitnehmen)",
-          "de": "Denk daran, Sonnencreme auf die Tour mitzunehmen!",
+          "prompt": "Husk å ta ___ solkrem på skituren! (mitnehmen)",
+          "de": "Denk daran, Sonnencreme auf die Skitour mitzunehmen!",
           "answer": [
             "med"
           ],
           "explain": "ta med + Substantiv: ta med solkrem."
         },
         {
-          "prompt": "Vi har funnet ___ at det ikke er wifi på stranda. (herausfinden)",
-          "de": "Wir haben herausgefunden, dass es am Strand kein WLAN gibt.",
+          "prompt": "Vi har funnet ___ at det ikke er wifi på hytta. (herausfinden)",
+          "de": "Wir haben herausgefunden, dass es auf der Hütte kein WLAN gibt.",
           "answer": [
             "ut"
           ],
@@ -635,16 +718,16 @@
           "explain": "legge – la – lagt; die Partikel ut folgt direkt: har lagt ut."
         },
         {
-          "prompt": "Jeg skal ___ bildene i morgen. (hochladen)",
-          "de": "Ich lade die Fotos morgen hoch.",
+          "prompt": "Før vi drar, må vi ___ i hytta. (aufräumen)",
+          "de": "Bevor wir fahren, müssen wir in der Hütte aufräumen.",
           "answer": [
-            "laste opp"
+            "rydde opp"
           ],
-          "explain": "laste opp = hochladen; nach skal der Infinitiv mit Partikel."
+          "explain": "rydde opp = aufräumen; nach må steht der Infinitiv mit Partikel."
         },
         {
-          "prompt": "Vennligst ___ brukernavn og passord. (angeben)",
-          "de": "Bitte gib Benutzername und Passwort an.",
+          "prompt": "Vennligst ___ navn og adresse. (angeben)",
+          "de": "Bitte gib Namen und Adresse an.",
           "answer": [
             "oppgi"
           ],
@@ -698,11 +781,11 @@
       "id": "g21_perfektum_partisipp",
       "title": "Partizip Perfekt als Adjektiv",
       "titleNo": "perfektum partisipp som adjektiv",
-      "summary": "Das Partizip Perfekt kann wie ein Adjektiv vor dem Substantiv stehen; Partizipien auf -et bekommen im Plural und in der bestimmten Form -ede.",
+      "summary": "Das Partizip Perfekt kann wie ein Adjektiv vor dem Substantiv stehen (en nedsnødd bil); Partizipien auf -et bekommen im Plural und in der bestimmten Form -ede, starke Partizipien -ne (frosne fingre).",
       "sections": [
         {
           "h": "Die schwachen Verben",
-          "body": "Wie im Deutschen (der geschmückte Bus) kann das Partizip Perfekt vor einem Substantiv stehen: **en pyntet buss**, **et dekket bord**, **nybakte rundstykker**. Die Endungen hängen von der Verbklasse ab:\n\n• Klasse 1 (**-et**): im Singular unverändert, im Plural und in der bestimmten Form **-ede**: **en pyntet buss – pyntede busser – den pyntede bussen**. Mit der a-Form bleibt alles gleich: **pynta busser**.\n• Klassen 2–4 (**-t**, **-d**): wie ein normales Adjektiv, Plural und bestimmte Form **-e**: **kjøpte kaker**, **den håndsydde bunaden**.\n• Im Neutrum kommt **kein** zusätzliches -t dazu: **et pyntet hus**, **et kjøpt brød**, **et håndsydd skjørt**.",
+          "body": "Wie im Deutschen (die geschmückte Hütte) kann das Partizip Perfekt vor einem Substantiv stehen: **en pyntet hytte**, **et dekket bord**, **nybakte kaker**. Die Endungen hängen von der Verbklasse ab:\n\n• Klasse 1 (**-et**): im Singular unverändert, im Plural und in der bestimmten Form **-ede**: **en pyntet hytte – pyntede hytter – den pyntede hytta**. Mit der a-Form bleibt alles gleich: **pynta hytter**.\n• Klassen 2–4 (**-t**, **-d**): wie ein normales Adjektiv, Plural und bestimmte Form **-e**: **kjøpte kaker**, **den nedsnødde bilen**.\n• Im Neutrum kommt **kein** zusätzliches -t dazu: **et pyntet hus**, **et kjøpt brød**, **et nedsnødd tak**.",
           "table": [
             [
               "Klasse",
@@ -729,10 +812,10 @@
               "**prøvde**"
             ],
             [
-              "4: sy",
-              "**sydd**",
-              "**sydd**",
-              "**sydde**"
+              "4: snø (ned)",
+              "**nedsnødd**",
+              "**nedsnødd**",
+              "**nedsnødde**"
             ]
           ]
         },
@@ -742,38 +825,38 @@
         },
         {
           "h": "Nach være und bli",
-          "body": "Nach **være** und **bli** steht das Partizip prädikativ: **Bordet er dekket.** **Bunaden er håndsydd.** Im Plural ist die unveränderte Form üblich: **Bussene er pyntet.** Bei den Klassen 2–4 geht auch **-e**: **Butikkene er stengt/stengte.**\n\n• **være** + Partizip = Zustand: **Bordet er dekket** (ist gedeckt).\n• **bli** + Partizip = Vorgang, also Passiv (Lektion 18): **Bordet ble dekket** (wurde gedeckt).\n• Viele Partizipien sind feste Adjektive geworden: **gift** (verheiratet), **kjent** (bekannt), **opptatt** (beschäftigt), **forelsket** (verliebt)."
+          "body": "Nach **være** und **bli** steht das Partizip prädikativ: **Bordet er dekket.** **Bilen er nedsnødd.** Im Plural ist die unveränderte Form üblich: **Hyttene er pyntet.** Bei den Klassen 2–4 geht auch **-e**: **Butikkene er stengt/stengte.**\n\n• **være** + Partizip = Zustand: **Bordet er dekket** (ist gedeckt).\n• **bli** + Partizip = Vorgang, also Passiv (Lektion 18): **Veien ble stengt** (wurde gesperrt).\n• Viele Partizipien sind feste Adjektive geworden: **gift** (verheiratet), **kjent** (bekannt), **opptatt** (beschäftigt), **forelsket** (verliebt)."
         }
       ],
       "drills": [
         {
-          "prompt": "På 17. mai ser man mange ___ busser i byen. (pynte)",
-          "de": "Am 17. Mai sieht man viele geschmückte Busse in der Stadt.",
+          "prompt": "Bestemor kom med en boks ___ kaker. (hjemme + lage)",
+          "de": "Oma kam mit einer Dose selbst gemachter Kekse.",
           "answer": [
-            "pyntede",
-            "pynta"
+            "hjemmelagede",
+            "hjemmelaga"
           ],
-          "explain": "Klasse 1 im Plural: pyntet → pyntede (mit a-Form: pynta)."
+          "explain": "Klasse 1 im Plural: hjemmelaget → hjemmelagede (mit a-Form: hjemmelaga)."
         },
         {
-          "prompt": "Den ___ bunaden til Kari er fra Sunnmøre. (hånd + sy)",
-          "de": "Karis handgenähte Tracht ist aus Sunnmøre.",
+          "prompt": "Den ___ hytta lå helt for seg selv. (snø ned)",
+          "de": "Die eingeschneite Hütte lag ganz für sich allein.",
           "answer": [
-            "håndsydde"
+            "nedsnødde"
           ],
-          "explain": "Bestimmte Form: håndsydd + -e → den håndsydde bunaden."
+          "explain": "Feste Zusammensetzung als Adjektiv: snø ned → nedsnødd; bestimmte Form + -e."
         },
         {
-          "prompt": "Til frokost spiste vi ___ rundstykker. (ny + bake)",
-          "de": "Zum Frühstück aßen wir frisch gebackene Brötchen.",
+          "prompt": "Bestemor hadde med seg to ___ kaker. (ny + bake)",
+          "de": "Oma hatte zwei frisch gebackene Kuchen dabei.",
           "answer": [
             "nybakte"
           ],
           "explain": "Klasse 2 (bake – bakt) im Plural: nybakte."
         },
         {
-          "prompt": "Bordet er ___, og champagnen er kald. (dekke)",
-          "de": "Der Tisch ist gedeckt, und der Champagner ist kalt.",
+          "prompt": "Bordet er ___, og maten er klar. (dekke)",
+          "de": "Der Tisch ist gedeckt, und das Essen ist fertig.",
           "answer": [
             "dekket",
             "dekka",
@@ -814,30 +897,29 @@
           "explain": "Starkes Partizip in der bestimmten Form: skrevet → det skrevne språket."
         },
         {
-          "prompt": "Gutten har et ___ bein og kan ikke spille fotball. (brekke)",
-          "de": "Der Junge hat ein gebrochenes Bein und kann nicht Fußball spielen.",
+          "prompt": "Etter turen kom vi hjem med ___ fingre. (fryse)",
+          "de": "Nach der Tour kamen wir mit gefrorenen Fingern nach Hause.",
           "answer": [
-            "brukket"
+            "frosne"
           ],
-          "explain": "Singular unbestimmt: brekke – brukket → et brukket bein."
+          "explain": "fryse – frøs – frosset; im Plural wie skrevne: frosne."
         },
         {
-          "prompt": "Mange butikker er ___ på 17. mai. (stenge)",
-          "de": "Viele Geschäfte sind am 17. Mai geschlossen.",
+          "prompt": "Veien ned til bygda ble ___ på grunn av snøen. (stenge)",
+          "de": "Die Straße hinunter ins Dorf wurde wegen des Schnees gesperrt.",
           "answer": [
-            "stengt",
-            "stengte"
+            "stengt"
           ],
-          "explain": "Prädikativ im Plural: meist unverändert stengt, bei Klasse 2 geht auch stengte."
+          "explain": "bli + Partizip = Vorgang (Passiv); Singular: stengt."
         },
         {
-          "prompt": "Kari er stolt av den ___ sølvsølja. (arve)",
-          "de": "Kari ist stolz auf die geerbte Silberbrosche.",
+          "prompt": "Mange nordmenn har en ___ hytte på fjellet. (arve)",
+          "de": "Viele Norweger haben eine geerbte Hütte in den Bergen.",
           "answer": [
-            "arvede",
+            "arvet",
             "arva"
           ],
-          "explain": "Klasse 1, bestimmte Form: arvet → den arvede sølvsølja (mit a-Form: arva)."
+          "explain": "Klasse 1 im Singular unbestimmt: unverändert arvet (oder arva)."
         },
         {
           "prompt": "Ola ser at Matthias er ___ i Susanne. (forelske)",
@@ -922,16 +1004,16 @@
           "explain": "ligge – lå – ligget; dazu passt sov im Präteritum."
         },
         {
-          "prompt": "Vi ___ og så på midnattssola til klokka to. (sitte, Präteritum)",
-          "de": "Wir saßen da und schauten bis zwei Uhr die Mitternachtssonne an.",
+          "prompt": "Vi ___ ved peisen og spilte kort til klokka to. (sitte, Präteritum)",
+          "de": "Wir saßen bis zwei Uhr am Kamin und spielten Karten.",
           "answer": [
             "satt"
           ],
-          "explain": "sitte – satt – sittet; satt og så (beide Präteritum)."
+          "explain": "sitte – satt – sittet; satt og spilte (beide Präteritum)."
         },
         {
-          "prompt": "Susanne har ___ og skrevet på bloggen hele kvelden. (sitte, Perfekt)",
-          "de": "Susanne hat den ganzen Abend an ihrem Blog geschrieben.",
+          "prompt": "Susanne har ___ og skrevet i dagboka hele kvelden. (sitte, Perfekt)",
+          "de": "Susanne hat den ganzen Abend am Tagebuch geschrieben.",
           "answer": [
             "sittet"
           ],
@@ -946,12 +1028,12 @@
           "explain": "lå ist Präteritum, also auch hørte."
         },
         {
-          "prompt": "Barna står rundt bålet og ___. (synge)",
-          "de": "Die Kinder stehen ums Feuer und singen.",
+          "prompt": "Barna står på kjøkkenet og ___ vafler. (lage)",
+          "de": "Die Kinder stehen in der Küche und machen Waffeln.",
           "answer": [
-            "synger"
+            "lager"
           ],
-          "explain": "står (Präsens) og synger (Präsens)."
+          "explain": "står (Präsens) og lager (Präsens)."
         },
         {
           "prompt": "Når jeg kommer hjem, ___ Inga alltid og leser i stua. (sitte)",
@@ -978,8 +1060,8 @@
           "explain": "Hva holder du på med? – die Präposition steht am Ende der Frage."
         },
         {
-          "prompt": "Jeg ___ på å glemme passordet! (holde, Präteritum)",
-          "de": "Ich hätte fast das Passwort vergessen!",
+          "prompt": "Jeg ___ på å falle på isen! (holde, Präteritum)",
+          "de": "Ich wäre fast auf dem Eis hingefallen!",
           "answer": [
             "holdt"
           ],
@@ -998,18 +1080,432 @@
     {
       "id": "g21_til_genitiv",
       "title": "til + Genitiv",
-      "summary": "",
-      "sections": [],
-      "drills": [],
-      "_todo": "NEW"
+      "summary": "Nach til haben sich in festen Wendungen alte Genitivformen auf -s (oder -e) erhalten: til fjells, til sjøs, til bords, til sengs, til fots, til stede.",
+      "sections": [
+        {
+          "h": "Alte Genitivformen nach til",
+          "body": "Im Altnorwegischen stand nach **til** der Genitiv. In einigen festen Wendungen lebt diese alte Form weiter: Das Substantiv bekommt **-s** (selten **-e**) und steht **ohne Artikel**. Auch das Deutsche kennt solche erstarrten Wendungen: **zu Fuß**, **zu Tisch**, **zu Bett**, **zur See** – oft passen sie sogar genau zusammen.",
+          "table": [
+            [
+              "Wendung",
+              "Deutsch",
+              "Beispiel"
+            ],
+            [
+              "**til fjells**",
+              "in die / in den Berge(n)",
+              "**I påsken drar mange til fjells.**"
+            ],
+            [
+              "**til sjøs**",
+              "zur See",
+              "**Han var til sjøs i ti år.**"
+            ],
+            [
+              "**til havs**",
+              "aufs Meer (hinaus)",
+              "**Fiskerne dro til havs.**"
+            ],
+            [
+              "**til lands (og til vanns)**",
+              "zu Lande (und zu Wasser)",
+              "**Vi reiste både til lands og til vanns.**"
+            ],
+            [
+              "**til skogs**",
+              "in den Wald",
+              "**Om søndagen går vi til skogs.**"
+            ],
+            [
+              "**til bords**",
+              "zu Tisch",
+              "**Vær så god, gå til bords!**"
+            ],
+            [
+              "**til sengs**",
+              "ins Bett / im Bett",
+              "**Alle har gått til sengs.**"
+            ],
+            [
+              "**til fots**",
+              "zu Fuß",
+              "**Det tar en time til fots.**"
+            ],
+            [
+              "**til topps**",
+              "bis ganz nach oben",
+              "**Vi gikk helt til topps.**"
+            ],
+            [
+              "**sette til livs**",
+              "verspeisen",
+              "**Ola satte til livs tre sjokolader.**"
+            ],
+            [
+              "**til stede**",
+              "anwesend",
+              "**Alle var til stede.**"
+            ]
+          ]
+        },
+        {
+          "h": "Wohin und wo – beides mit til",
+          "body": "Sonst zeigt **til** immer eine Richtung: **Vi drar til Bergen.** In den Genitivwendungen kann **til** aber auch einen **Ort** oder **Zustand** bezeichnen:\n\n• **Vi drar til fjells i påsken.** – Wir fahren über Ostern in die Berge. (wohin?)\n• **Hele familien er til fjells.** – Die ganze Familie ist in den Bergen. (wo?)\n• **Jeg gikk til sengs klokka ti.** – Ich ging um zehn ins Bett. (wohin?)\n• **Bestemor ligger til sengs med influensa.** – Oma liegt mit Grippe im Bett. (wo?)\n\nDie Wendungen klingen fester und oft etwas feierlicher als die normale Form: **ligge til sengs** heißt meist „krank im Bett liegen“, **ligge i senga** einfach „im Bett liegen“. **Vær så god, gå til bords!** ist die klassische Einladung zum Essen."
+        },
+        {
+          "h": "Feste Wendungen – nicht nachbilden!",
+          "body": "Die Genitivform nach **til** ist **nicht produktiv**: Du kannst sie nicht mit beliebigen Wörtern bilden. Es heißt **til hytta**, **til byen**, **til skolen** – nie *til hyttes. Lerne die Wendungen deshalb als Ganzes, wie Vokabeln.\n\n• **til stede** schreibt man in **zwei Wörtern** (nicht *tilstede).\n• Das **-s** ist kein Plural: **til fjells** kann einen Berg oder viele meinen.\n• Neben **til fjells** gibt es auch die normale Form: **Vi drar på fjellet.** Beides ist richtig."
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "I påsken drar mange nordmenn til ___. (in die Berge)",
+          "de": "Über Ostern fahren viele Norweger in die Berge.",
+          "answer": [
+            "fjells"
+          ],
+          "explain": "til fjells: alte Genitivform auf -s, ohne Artikel."
+        },
+        {
+          "prompt": "Ola var så trøtt at han gikk til ___ klokka ni. (ins Bett)",
+          "de": "Ola war so müde, dass er um neun Uhr ins Bett ging.",
+          "answer": [
+            "sengs"
+          ],
+          "explain": "gå til sengs = ins Bett gehen."
+        },
+        {
+          "prompt": "Middagen er klar – vær så god, gå til ___! (zu Tisch)",
+          "de": "Das Abendessen ist fertig – bitte, kommt zu Tisch!",
+          "answer": [
+            "bords"
+          ],
+          "explain": "gå til bords = sich zu Tisch setzen (wie dt. „zu Tisch“)."
+        },
+        {
+          "prompt": "Bestefaren til Erik var til ___ i over tretti år. (zur See)",
+          "de": "Eriks Großvater war über dreißig Jahre lang zur See.",
+          "answer": [
+            "sjøs"
+          ],
+          "explain": "være til sjøs = zur See fahren, Seemann sein; hier ein Ort (wo?)."
+        },
+        {
+          "prompt": "Fra hytta til butikken tar det en time til ___. (zu Fuß)",
+          "de": "Von der Hütte zum Laden braucht man zu Fuß eine Stunde.",
+          "answer": [
+            "fots"
+          ],
+          "explain": "til fots = zu Fuß."
+        },
+        {
+          "prompt": "Alle studentene var til ___ på forelesningen. (anwesend)",
+          "de": "Alle Studierenden waren bei der Vorlesung anwesend.",
+          "answer": [
+            "stede"
+          ],
+          "explain": "til stede = anwesend; alte Form auf -e, in zwei Wörtern geschrieben."
+        },
+        {
+          "prompt": "Bestemor har influensa og må ligge til ___ i noen dager. (im Bett)",
+          "de": "Oma hat Grippe und muss ein paar Tage im Bett liegen.",
+          "answer": [
+            "sengs"
+          ],
+          "explain": "ligge til sengs = (krank) im Bett liegen – hier ein Ort, keine Richtung."
+        },
+        {
+          "prompt": "Ola satte til ___ tre Kvikk Lunsj på en halvtime. (verspeisen)",
+          "de": "Ola verdrückte in einer halben Stunde drei Kvikk Lunsj.",
+          "answer": [
+            "livs"
+          ],
+          "explain": "sette noe til livs = etwas aufessen, verspeisen."
+        },
+        {
+          "prompt": "Vi gikk helt til ___ og så utover hele dalen. (bis ganz nach oben)",
+          "de": "Wir stiegen ganz bis zum Gipfel und schauten über das ganze Tal.",
+          "answer": [
+            "topps"
+          ],
+          "explain": "til topps = bis ganz nach oben, bis zum Gipfel."
+        },
+        {
+          "prompt": "Fiskerne dro til ___ tidlig om morgenen. (aufs Meer)",
+          "de": "Die Fischer fuhren früh am Morgen aufs Meer hinaus.",
+          "answer": [
+            "havs",
+            "sjøs"
+          ],
+          "explain": "dra til havs = aufs Meer hinausfahren; til sjøs passt hier auch."
+        },
+        {
+          "prompt": "På søndager går mange i Oslo til ___. (in den Wald)",
+          "de": "Sonntags gehen viele in Oslo in den Wald.",
+          "answer": [
+            "skogs"
+          ],
+          "explain": "gå til skogs = in den Wald gehen."
+        },
+        {
+          "prompt": "Før i tiden reiste folk både til lands og til ___. (zu Wasser)",
+          "de": "Früher reisten die Leute zu Lande und zu Wasser.",
+          "answer": [
+            "vanns"
+          ],
+          "explain": "til lands og til vanns = zu Lande und zu Wasser – eine feste Wendung."
+        }
+      ],
+      "titleNo": "til + genitiv (til fjells, til sengs)"
     },
     {
       "id": "g21_uregelmessige_substantiv",
       "title": "Übersicht über unregelmäßige Substantive",
-      "summary": "",
-      "sections": [],
-      "drills": [],
-      "_todo": "NEW"
+      "summary": "Einige häufige Substantive ändern im Plural den Vokal (mann – menn, bok – bøker), andere haben gar keine Pluralendung (sko – sko). Hier stehen die wichtigsten mit allen vier Formen.",
+      "sections": [
+        {
+          "h": "Vokalwechsel im Plural – wie Mann – Männer",
+          "body": "Wie im Deutschen (der Mann – die Männer, das Buch – die Bücher, der Fuß – die Füße) ändern einige häufige Substantive im Plural den Vokal. Meist kommt die Endung **-er** dazu:\n\n• **a → e**: **mann – menn**, **hånd – hender**, **tann – tenner**, **natt – netter**\n• **o → ø**: **bok – bøker**, **fot – føtter**, **bonde – bønder**\n• ganz eigene Formen: **tå – tær**, **ku – kyr** (auch regelmäßig: **kuer**), **gås – gjess**\n\nDie bestimmte Pluralform endet wie immer auf **-ene**; Formen auf bloßes **-r** bekommen nur **-ne**: **tærne**, **kyrne**. Alle Zusammensetzungen folgen dem Grundwort: **nordmann – nordmenn**, **politimann – politimenn**. Bei den ei-Wörtern ist auch die en-Form richtig: **boken**, **hånden**, **tannen**.",
+          "table": [
+            [
+              "Singular",
+              "bestimmt",
+              "Plural",
+              "bestimmt"
+            ],
+            [
+              "**en mann**",
+              "**mannen**",
+              "**menn**",
+              "**mennene**"
+            ],
+            [
+              "**ei bok**",
+              "**boka**",
+              "**bøker**",
+              "**bøkene**"
+            ],
+            [
+              "**en fot**",
+              "**foten**",
+              "**føtter**",
+              "**føttene**"
+            ],
+            [
+              "**ei hånd**",
+              "**hånda**",
+              "**hender**",
+              "**hendene**"
+            ],
+            [
+              "**ei tann**",
+              "**tanna**",
+              "**tenner**",
+              "**tennene**"
+            ],
+            [
+              "**ei natt**",
+              "**natta**",
+              "**netter**",
+              "**nettene**"
+            ],
+            [
+              "**en bonde**",
+              "**bonden**",
+              "**bønder**",
+              "**bøndene**"
+            ],
+            [
+              "**ei tå**",
+              "**tåa**",
+              "**tær**",
+              "**tærne**"
+            ],
+            [
+              "**ei ku**",
+              "**kua**",
+              "**kyr / kuer**",
+              "**kyrne / kuene**"
+            ],
+            [
+              "**ei gås**",
+              "**gåsa**",
+              "**gjess**",
+              "**gjessene**"
+            ]
+          ]
+        },
+        {
+          "h": "Familienwörter und einige Neutra",
+          "body": "Die Familienwörter auf **-er** verlieren im Plural das **e**, und meist ändert sich auch der Vokal: **bror – brødre**, **far – fedre**, **mor – mødre**, **datter – døtre**; nur **søster – søstre** behält ihn. Mit einem Possessivpronomen steht bei **far, mor, bror, søster** meist die Grundform: **far min**, **mor mi**, **søster mi** (Lektion 13).\n\nAuch einige Neutra sind unregelmäßig: **øye – øyne** und **kne – knær** ändern sich ganz, **sted** bekommt als einsilbiges Neutrum trotzdem **-er**, und bei **museum** fällt **-um** weg – wie im Deutschen (Museum – Museen). Genauso: **et studium – studiet – studier**.",
+          "table": [
+            [
+              "Singular",
+              "bestimmt",
+              "Plural",
+              "bestimmt"
+            ],
+            [
+              "**en bror**",
+              "**broren**",
+              "**brødre**",
+              "**brødrene**"
+            ],
+            [
+              "**en far**",
+              "**faren**",
+              "**fedre**",
+              "**fedrene**"
+            ],
+            [
+              "**ei mor**",
+              "**mora**",
+              "**mødre**",
+              "**mødrene**"
+            ],
+            [
+              "**ei datter**",
+              "**dattera**",
+              "**døtre**",
+              "**døtrene**"
+            ],
+            [
+              "**ei søster**",
+              "**søstera**",
+              "**søstre**",
+              "**søstrene**"
+            ],
+            [
+              "**et øye**",
+              "**øyet**",
+              "**øyne**",
+              "**øynene**"
+            ],
+            [
+              "**et kne**",
+              "**kneet**",
+              "**knær**",
+              "**knærne**"
+            ],
+            [
+              "**et sted**",
+              "**stedet**",
+              "**steder**",
+              "**stedene**"
+            ],
+            [
+              "**et museum**",
+              "**museet**",
+              "**museer**",
+              "**museene**"
+            ]
+          ]
+        },
+        {
+          "h": "Ohne Pluralendung",
+          "body": "Einige Maskulina und Feminina haben im unbestimmten Plural **keine Endung** – wie im Deutschen „der Fehler – die Fehler“. Die bestimmte Form ist regelmäßig:\n\n• **en sko – skoen – sko – skoene** (der Schuh): **to par sko**\n• **en ting – tingen – ting – tingene** (das Ding): **mange ting**\n• **en feil – feilen – feil – feilene** (der Fehler): **Jeg gjorde tre feil.**\n• **ei mus – musa – mus – musene** (die Maus)\n\nDazu kommen Maßeinheiten nach Zahlen (**to meter**, **tre kilo**, **ti liter**) und die einsilbigen Neutra aus Lektion 3: **et hus – mange hus**, **et barn – to barn**.\n\nTipp: Lerne bei jedem neuen Substantiv alle vier Formen. In der Vokabelliste der App stehen sie bei jedem Wort."
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Det står tre ___ og venter på bussen. (mann, Plural)",
+          "de": "Drei Männer stehen da und warten auf den Bus.",
+          "answer": [
+            "menn"
+          ],
+          "explain": "mann – mannen – menn – mennene (a → e)."
+        },
+        {
+          "prompt": "Kari har kjøpt to nye ___ til hytta. (bok, Plural)",
+          "de": "Kari hat zwei neue Bücher für die Hütte gekauft.",
+          "answer": [
+            "bøker"
+          ],
+          "explain": "bok – boka – bøker – bøkene (o → ø), wie Buch – Bücher."
+        },
+        {
+          "prompt": "Etter skituren var ___ mine helt iskalde. (fot, bestimmter Plural)",
+          "de": "Nach der Skitour waren meine Füße ganz eiskalt.",
+          "answer": [
+            "føttene"
+          ],
+          "explain": "fot – foten – føtter – føttene; vor dem Possessiv die bestimmte Form."
+        },
+        {
+          "prompt": "Husk å vaske ___ før middag! (hånd, bestimmter Plural)",
+          "de": "Denk daran, dir vor dem Abendessen die Hände zu waschen!",
+          "answer": [
+            "hendene"
+          ],
+          "explain": "hånd – hånda – hender – hendene (å → e)."
+        },
+        {
+          "prompt": "Ola pusser ___ og legger seg. (tann, bestimmter Plural)",
+          "de": "Ola putzt sich die Zähne und geht ins Bett.",
+          "answer": [
+            "tennene"
+          ],
+          "explain": "tann – tanna – tenner – tennene. Norwegisch: pusse tennene (ohne „sich“)."
+        },
+        {
+          "prompt": "Vi bodde fem ___ på hytta. (natt, Plural)",
+          "de": "Wir haben fünf Nächte auf der Hütte gewohnt.",
+          "answer": [
+            "netter"
+          ],
+          "explain": "natt – natta – netter – nettene (a → e)."
+        },
+        {
+          "prompt": "Bonden har tjue ___. (ku, Plural)",
+          "de": "Der Bauer hat zwanzig Kühe.",
+          "answer": [
+            "kyr",
+            "kuer"
+          ],
+          "explain": "ku – kua – kyr/kuer: Beide Pluralformen sind richtig."
+        },
+        {
+          "prompt": "I bygda bor det fortsatt mange ___. (bonde, Plural)",
+          "de": "Im Dorf wohnen immer noch viele Bauern.",
+          "answer": [
+            "bønder"
+          ],
+          "explain": "bonde – bonden – bønder – bøndene (o → ø)."
+        },
+        {
+          "prompt": "Bestemor har vondt i begge ___. (kne, bestimmter Plural)",
+          "de": "Oma tun beide Knie weh.",
+          "answer": [
+            "knærne"
+          ],
+          "explain": "kne – kneet – knær – knærne: Plural auf -r, bestimmt nur -ne."
+        },
+        {
+          "prompt": "Ola har fire par ___ i gangen. (sko, Plural)",
+          "de": "Ola hat vier Paar Schuhe im Flur.",
+          "answer": [
+            "sko"
+          ],
+          "explain": "sko – skoen – sko – skoene: Plural ohne Endung."
+        },
+        {
+          "prompt": "Oslo har mange spennende ___. (museum, Plural)",
+          "de": "Oslo hat viele spannende Museen.",
+          "answer": [
+            "museer"
+          ],
+          "explain": "museum – museet – museer – museene: -um fällt weg."
+        },
+        {
+          "prompt": "Kari og Per har ingen ___, bare en sønn. (datter, Plural)",
+          "de": "Kari und Per haben keine Töchter, nur einen Sohn.",
+          "answer": [
+            "døtre"
+          ],
+          "explain": "datter – dattera – døtre – døtrene: e fällt weg, a → ø."
+        }
+      ],
+      "titleNo": "uregelmessige substantiv"
     }
   ],
   "tf": [
@@ -1017,13 +1513,13 @@
       "s": "Susanne skriver i dagboka si på andre påskedag.",
       "de": "Susanne schreibt am Ostermontag in ihr Tagebuch.",
       "a": true,
-      "why": "Der Eintrag beginnt mit „Andre påskedag, sent på kvelden“."
+      "why": "Der Eintrag beginnt mit „Andre påskedag, sent på kvelden“, und sie schreibt am Kamin in ihr Tagebuch."
     },
     {
       "s": "Anna og Susanne kjørte bil fra Trondheim.",
       "de": "Anna und Susanne sind mit dem Auto von Trondheim gefahren.",
       "a": false,
-      "why": "Sie haben den Zug genommen; Per hat sie in Vinstra abgeholt."
+      "why": "Susanne flog nach Trondheim, und von dort nahmen die beiden den Zug nach Vinstra, wo Per sie abholte."
     },
     {
       "s": "Det er innlagt vann på hytta.",
@@ -1032,10 +1528,10 @@
       "why": "Es gibt Strom, aber kein fließendes Wasser – sie holen Wasser in Eimern."
     },
     {
-      "s": "Ola mener at man ikke kan gå på påsketur uten Kvikk Lunsj.",
-      "de": "Ola meint, dass man an Ostern nicht ohne Kvikk Lunsj auf Tour gehen kann.",
+      "s": "Kari leste en kriminalroman i stedet for å gå på ski.",
+      "de": "Kari las einen Kriminalroman, statt Ski zu fahren.",
       "a": true,
-      "why": "Er behauptet, das sei sogar verboten."
+      "why": "„Kari lå på sofaen og leste en tykk kriminalroman i stedet for å gå på ski.“"
     },
     {
       "s": "Matthias var enig med Per i at langrenn er den eneste ekte skisporten.",
@@ -1050,10 +1546,10 @@
       "why": "Er sagte, der Wetterbericht liege in den Bergen immer daneben."
     },
     {
-      "s": "Det var Per som fant ut hvordan de kunne få bilen løs.",
-      "de": "Per war es, der herausfand, wie sie das Auto freibekommen konnten.",
+      "s": "Matthias hadde spist fårikål mange ganger før.",
+      "de": "Matthias hatte schon oft Fårikål gegessen.",
       "a": false,
-      "why": "Matthias fand die Lösung: Fichtenzweige unter den Rädern."
+      "why": "„Matthias hadde aldri smakt fårikål før.“ Trotzdem nahm er sich dreimal."
     },
     {
       "s": "Ola syntes at bestemors historie var bedre enn TV.",
@@ -1066,8 +1562,8 @@
     {
       "q": "Hvordan kom Susanne og Anna til hytta?",
       "qDe": "Wie kamen Susanne und Anna zur Hütte?",
-      "answer": "De tok toget fra Trondheim, og Per hentet dem på stasjonen i Vinstra.",
-      "answerDe": "Sie nahmen den Zug von Trondheim, und Per holte sie am Bahnhof in Vinstra ab.",
+      "answer": "Susanne fløy til Trondheim, og derfra tok de toget til Vinstra, der Per hentet dem.",
+      "answerDe": "Susanne flog nach Trondheim, und von dort nahmen sie den Zug nach Vinstra, wo Per sie abholte.",
       "keywords": [
         [
           "toget",
@@ -1075,16 +1571,16 @@
         ],
         [
           "Vinstra",
-          "stasjonen",
-          "hentet"
+          "Trondheim",
+          "fløy"
         ]
       ]
     },
     {
       "q": "Hva spiste de i pausene på skiturene?",
       "qDe": "Was aßen sie in den Pausen auf den Skitouren?",
-      "answer": "De spiste appelsiner og Kvikk Lunsj.",
-      "answerDe": "Sie aßen Orangen und Kvikk Lunsj.",
+      "answer": "I pausene satt de i snøen og spiste appelsiner og Kvikk Lunsj.",
+      "answerDe": "In den Pausen saßen sie im Schnee und aßen Orangen und Kvikk Lunsj.",
       "keywords": [
         [
           "appelsiner",
@@ -1136,20 +1632,20 @@
       ]
     },
     {
-      "q": "Hva skjedde om kvelden etter turen?",
-      "qDe": "Was geschah am Abend nach der Tour?",
-      "answer": "Strømmen gikk, og bestemor fortalte en historie om et troll.",
-      "answerDe": "Der Strom fiel aus, und Oma erzählte eine Geschichte über einen Troll.",
+      "q": "Hva spiste de til middag den kvelden strømmen gikk?",
+      "qDe": "Was aßen sie an dem Abend, als der Strom ausfiel, zu Abend?",
+      "answer": "De spiste fårikål som hadde stått og småkokt på vedovnen.",
+      "answerDe": "Sie aßen Fårikål, der auf dem Holzofen vor sich hin geköchelt hatte.",
       "keywords": [
         [
-          "strømmen",
-          "strøm"
+          "fårikål",
+          "fårikålen"
         ],
         [
-          "troll",
-          "trollet",
-          "historie",
-          "trollhistorie"
+          "vedovnen",
+          "vedovn",
+          "stearinlys",
+          "småkokt"
         ]
       ]
     },
@@ -1171,9 +1667,9 @@
   ],
   "find": [
     {
-      "de": "am Kamin",
+      "de": "sind schlafen gegangen",
       "answer": [
-        "ved peisen"
+        "har gått til sengs"
       ]
     },
     {
@@ -1189,9 +1685,9 @@
       ]
     },
     {
-      "de": "perfekter Skischnee",
+      "de": "gespurte Loipen",
       "answer": [
-        "perfekt skiføre"
+        "oppkjørte løyper"
       ]
     },
     {
@@ -1201,101 +1697,110 @@
       ]
     },
     {
-      "de": "der Wetterbericht",
-      "answer": [
-        "værmeldingen"
-      ]
-    },
-    {
       "de": "im Gegenwind",
       "answer": [
         "i motvind"
       ]
     },
     {
-      "de": "Fichtenzweige",
+      "de": "setzten uns zu Tisch",
       "answer": [
-        "granbar"
+        "satte oss til bords"
+      ]
+    },
+    {
+      "de": "eingeschneit",
+      "answer": [
+        "nedsnødd"
       ]
     }
   ],
   "translate": [
     {
-      "de": "Wenn ich Zeit hätte, würde ich jeden Tag Ski fahren.",
+      "de": "Über Ostern fahren viele Norweger in die Berge.",
       "no": [
-        "Hvis jeg hadde tid, ville jeg gå på ski hver dag.",
-        "Hadde jeg tid, ville jeg gå på ski hver dag.",
-        "Hvis jeg hadde tid, ville jeg gått på ski hver dag."
+        "I påsken drar mange nordmenn til fjells.",
+        "I påsken reiser mange nordmenn til fjells.",
+        "Mange nordmenn drar til fjells i påsken.",
+        "Mange nordmenn reiser til fjells i påsken."
       ]
     },
     {
-      "de": "Wenn wir auf den Wetterbericht gehört hätten, wären wir zu Hause geblieben.",
+      "de": "Oma lag mit Fieber im Bett.",
       "no": [
-        "Hvis vi hadde hørt på værmeldingen, hadde vi blitt hjemme.",
-        "Hvis vi hadde hørt på værmeldingen, ville vi ha blitt hjemme.",
-        "Hvis vi hadde hørt på værmeldingen, ville vi blitt hjemme.",
-        "Hadde vi hørt på værmeldingen, hadde vi blitt hjemme."
+        "Bestemor lå til sengs med feber.",
+        "Bestemor lå i senga med feber.",
+        "Bestemor lå i sengen med feber."
       ]
     },
     {
-      "de": "Ich wünschte, es wäre Sommer.",
+      "de": "Kari saß auf dem Sofa und las einen Krimi.",
       "no": [
-        "Jeg skulle ønske at det var sommer.",
-        "Jeg skulle ønske det var sommer."
+        "Kari satt på sofaen og leste en krim.",
+        "Kari satt i sofaen og leste en krim.",
+        "Kari satt på sofaen og leste en krimbok.",
+        "Kari satt på sofaen og leste en kriminalroman."
+      ],
+      "hint": "sitte + og + Verb, beide im Präteritum."
+    },
+    {
+      "de": "Meine Füße sind eiskalt.",
+      "no": [
+        "Føttene mine er iskalde.",
+        "Mine føtter er iskalde."
       ]
     },
     {
-      "de": "Wenn doch nur der Strom zurückkäme!",
+      "de": "Steh auf, das Frühstück ist fertig!",
       "no": [
-        "Om bare strømmen kom tilbake!",
-        "Hvis bare strømmen kom tilbake!"
+        "Stå opp, frokosten er klar!",
+        "Stå opp! Frokosten er klar!",
+        "Stå opp, frokosten er ferdig!"
       ]
     },
     {
-      "de": "Ich freue mich darauf, die Hütte zu sehen.",
+      "de": "Hast du die Taschenlampe mitgenommen?",
       "no": [
-        "Jeg gleder meg til å se hytta.",
-        "Jeg gleder meg til å se hytten."
+        "Har du tatt med lommelykta?",
+        "Har du tatt med deg lommelykta?",
+        "Har du tatt lommelykta med?",
+        "Har du tatt med lommelykten?",
+        "Har du tatt med deg lommelykten?",
+        "Har du tatt lommelykten med?"
       ]
     },
     {
-      "de": "Sie hat Angst, dass das Auto nicht anspringt.",
+      "de": "Das Auto war völlig eingeschneit.",
       "no": [
-        "Hun er redd for at bilen ikke starter.",
-        "Hun er redd for at bilen ikke vil starte.",
-        "Hun er redd for at bilen ikke skal starte."
+        "Bilen var helt nedsnødd.",
+        "Bilen var fullstendig nedsnødd.",
+        "Bilen var helt snødd ned."
       ]
     },
     {
-      "de": "Er ging, ohne etwas zu sagen.",
+      "de": "Auf dem Tisch stand ein frisch gebackener Kuchen.",
       "no": [
-        "Han gikk uten å si noe.",
-        "Han gikk uten å si noe som helst."
+        "På bordet sto ei nybakt kake.",
+        "På bordet sto en nybakt kake.",
+        "Det sto ei nybakt kake på bordet.",
+        "Det sto en nybakt kake på bordet.",
+        "På bordet stod ei nybakt kake.",
+        "På bordet stod en nybakt kake."
       ]
     },
     {
-      "de": "Nachdem wir gegessen hatten, gingen wir hinaus.",
+      "de": "Fårikål wird oft als Norwegens Nationalgericht bezeichnet.",
       "no": [
-        "Etter å ha spist gikk vi ut.",
-        "Etter å ha spist, gikk vi ut.",
-        "Etter at vi hadde spist, gikk vi ut."
+        "Fårikål blir ofte kalt Norges nasjonalrett.",
+        "Fårikål kalles ofte Norges nasjonalrett."
       ]
     },
     {
-      "de": "Statt fernzusehen, spielten wir Karten.",
+      "de": "Lass das Fleisch und den Kohl ein paar Stunden köcheln.",
       "no": [
-        "I stedet for å se på TV spilte vi kort.",
-        "I stedet for å se på TV, spilte vi kort.",
-        "I stedet for å se TV spilte vi kort.",
-        "I stedet for å se TV, spilte vi kort."
-      ]
-    },
-    {
-      "de": "Für morgen ist Sonne angesagt.",
-      "no": [
-        "Det er meldt sol i morgen.",
-        "I morgen er det meldt sol.",
-        "Det er meldt sol for i morgen."
+        "La kjøttet og kålen småkoke i et par timer.",
+        "La kjøttet og kålen småkoke et par timer.",
+        "La kjøttet og kålen småkoke i noen timer."
       ]
     }
   ],
@@ -1331,10 +1836,12 @@
       ]
     },
     {
-      "prompt": "Om kvelden gikk ___, og bestemor fortalte en trollhistorie.",
-      "de": "Am Abend fiel der Strom aus, und Oma erzählte eine Trollgeschichte.",
+      "prompt": "Da strømmen gikk, sto ___ og småkokte på vedovnen.",
+      "de": "Als der Strom ausfiel, köchelte der Fårikål auf dem Holzofen vor sich hin.",
       "answer": [
-        "strømmen"
+        "fårikålen",
+        "gryta",
+        "gryten"
       ]
     },
     {
@@ -1348,44 +1855,63 @@
   "dictation": [
     0,
     7,
-    11
+    12
   ],
   "writing": {
-    "prompt": "Schreib einer Freundin eine E-Mail über einen Ausflug oder Urlaub, bei dem etwas schiefging (Wetter, Auto, Strom …). Erzähle, was passiert ist, überlege, was gewesen wäre, wenn … (Hvis vi hadde …, hadde vi …), und schließe mit einem Wunsch (Jeg skulle ønske …).",
+    "prompt": "Schreib Elin eine E-Mail über ein Wochenende auf einer Hütte oder in den Bergen, an dem das Wetter umschlug. Erzähle, was ihr gemacht habt, und verwende dabei sitte/ligge/stå og …, mindestens einen Ausdruck mit til + Genitiv (til fjells, til sengs, til bords …) und ein paar Partikelverben (stå opp, ta med, gi opp …).",
     "minWords": 130,
     "useWords": [
-      "hvis",
-      "skulle ønske",
-      "glede seg til",
-      "i stedet for"
+      "til fjells",
+      "satt og",
+      "til sengs",
+      "sto opp",
+      "tatt med"
     ],
     "checklist": [
       {
-        "de": "Erzählt, was passiert ist",
+        "de": "Ein Ausdruck mit til + Genitiv",
+        "keywords": [
+          "til fjells",
+          "til sengs",
+          "til bords",
+          "til fots",
+          "til topps"
+        ]
+      },
+      {
+        "de": "Positionsverb + og + Verb",
+        "keywords": [
+          "satt og",
+          "lå og",
+          "sto og",
+          "sitter og",
+          "ligger og",
+          "står og"
+        ]
+      },
+      {
+        "de": "Mindestens ein Partikelverb",
+        "keywords": [
+          "sto opp",
+          "tatt med",
+          "tok med",
+          "gi opp",
+          "ga opp",
+          "fant ut"
+        ]
+      },
+      {
+        "de": "Das Wetter schlug um",
         "keywords": [
           "snødde",
-          "gikk strømmen",
-          "satt fast",
+          "uvær",
+          "storm",
+          "kuling",
           "regnet"
-        ]
-      },
-      {
-        "de": "Irrealer Bedingungssatz in der Vergangenheit",
-        "keywords": [
-          "hvis vi hadde",
-          "hadde vi"
-        ]
-      },
-      {
-        "de": "Unerfüllbarer Wunsch",
-        "keywords": [
-          "skulle ønske",
-          "om bare"
         ]
       }
     ],
-    "model": "Hei Elin!\nHvordan har du det? Nå må jeg fortelle deg om påsken. Alle hadde gledet seg lenge til å gå på ski i fjellet, men på lørdag kom det en skikkelig snøstorm. Matthias hadde sagt at det var meldt uvær, men ingen hørte på ham. Det snødde så tett at vi måtte snu midt på turen, og om kvelden gikk strømmen. I stedet for å se påskekrim spilte vi kort ved stearinlys, og bestemor Ingrid fortalte trollhistorier. Dagen etter satt bilen fast i snøen, og vi måtte måke i over en time.\nHvis vi hadde hørt på værmeldingen, hadde vi sluppet å fryse. Men da hadde vi heller ikke hatt en så morsom kveld! Jeg skulle ønske at du hadde vært med. Neste påske må du bli med oss på hytta.\nKlem fra Susanne",
-    "modelDe": "Hallo Elin!\nWie geht es dir? Jetzt muss ich dir von Ostern erzählen. Alle hatten sich lange darauf gefreut, in den Bergen Ski zu fahren, aber am Samstag kam ein richtiger Schneesturm. Matthias hatte gesagt, dass ein Unwetter angesagt sei, aber niemand hörte auf ihn. Es schneite so dicht, dass wir mitten auf der Tour umkehren mussten, und am Abend fiel der Strom aus. Statt den Osterkrimi zu sehen, spielten wir bei Kerzenlicht Karten, und Oma Ingrid erzählte Trollgeschichten. Am nächsten Tag steckte das Auto im Schnee fest, und wir mussten über eine Stunde lang schaufeln.\nWenn wir auf den Wetterbericht gehört hätten, hätten wir nicht frieren müssen. Aber dann hätten wir auch keinen so lustigen Abend gehabt! Ich wünschte, du wärst dabei gewesen. Nächstes Jahr an Ostern musst du mit uns auf die Hütte kommen.\nUmarmung, Susanne"
-  },
-  "_todo_moved": "Text und Übungen stammen aus der alten Lektion 20; Ziele (goals) und Bezüge (Zeit, Grammatik) prüfen und anpassen"
+    "model": "Hei Elin!\nHvordan har du det? Nå må jeg fortelle deg om påsken. Vi dro til fjells på onsdag, og de første dagene var helt perfekte. Vi sto opp tidlig, gikk på ski i sola og satt og spiste appelsiner i snøen. Ola hadde tatt med seg altfor mye sjokolade, som vanlig. Men på lørdag kom det en skikkelig snøstorm. Matthias hadde sagt at det var meldt kuling, men ingen hørte på ham. Det snødde så tett at vi måtte gi opp og snu midt på turen. Om kvelden gikk strømmen, så vi satt og spilte kort ved stearinlys, mens fårikålen sto og småkokte på vedovnen. Kari lå på sofaen og leste en krim, og bestemor Ingrid fortalte trollhistorier. Alle var så slitne at vi gikk til sengs klokka ni!\nNeste påske må du bli med oss på hytta.\nKlem fra Susanne",
+    "modelDe": "Hallo Elin!\nWie geht es dir? Jetzt muss ich dir von Ostern erzählen. Wir sind am Mittwoch in die Berge gefahren, und die ersten Tage waren absolut perfekt. Wir standen früh auf, fuhren in der Sonne Ski und saßen im Schnee und aßen Orangen. Ola hatte wie immer viel zu viel Schokolade mitgenommen. Aber am Samstag kam ein richtiger Schneesturm. Matthias hatte gesagt, dass stürmischer Wind angesagt sei, aber niemand hörte auf ihn. Es schneite so dicht, dass wir mitten auf der Tour aufgeben und umkehren mussten. Am Abend fiel der Strom aus, also saßen wir bei Kerzenlicht und spielten Karten, während der Fårikål auf dem Holzofen vor sich hin köchelte. Kari lag auf dem Sofa und las einen Krimi, und Oma Ingrid erzählte Trollgeschichten. Alle waren so müde, dass wir um neun ins Bett gingen!\nNächstes Jahr an Ostern musst du mit uns auf die Hütte kommen.\nUmarmung, Susanne"
+  }
 }

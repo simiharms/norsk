@@ -53,21 +53,6 @@
     }
   },
   {
-    "id": "w04_hit",
-    "no": "hit",
-    "de": "hierher",
-    "deAlt": [
-      "her"
-    ],
-    "pos": "adv",
-    "lesson": 4,
-    "ex": {
-      "no": "Kom hit, alle sammen!",
-      "de": "Kommt her, alle zusammen!"
-    },
-    "note": "Richtung: hit (hierher); Ort: her (hier)."
-  },
-  {
     "id": "w04_jordbaer",
     "no": "jordbær",
     "de": "die Erdbeere",
@@ -102,23 +87,6 @@
       "no": "Mads har kaker fra et dansk bakeri.",
       "de": "Mads hat Kuchen aus einer dänischen Bäckerei."
     }
-  },
-  {
-    "id": "w04_sjenert",
-    "no": "sjenert",
-    "de": "schüchtern",
-    "pos": "adj",
-    "forms": [
-      "sjenert",
-      "sjenert",
-      "sjenerte"
-    ],
-    "lesson": 4,
-    "ex": {
-      "no": "Ikke vær så sjenert!",
-      "de": "Sei nicht so schüchtern!"
-    },
-    "note": "Endet schon auf -t: kein weiteres -t im Neutrum."
   },
   {
     "id": "w04_hverandre",
@@ -177,17 +145,6 @@
     "note": "bruke = benutzen; auch für Zeit und Geld: Jeg bruker ti minutter. „brauchen“ im Sinne von „nötig haben“ = trenge."
   },
   {
-    "id": "w04_alltid",
-    "no": "alltid",
-    "de": "immer",
-    "pos": "adv",
-    "lesson": 4,
-    "ex": {
-      "no": "Matthias vil alltid vite alt.",
-      "de": "Matthias will immer alles wissen."
-    }
-  },
-  {
     "id": "w04_ganske",
     "no": "ganske",
     "de": "ziemlich",
@@ -243,7 +200,6 @@
       "bety"
     ],
     "vg": "4",
-    "wk": true,
     "lesson": 4,
     "ex": {
       "no": "Hva betyr «rolig»?",
@@ -327,55 +283,6 @@
     "note": "Auch: det er (Det er mye sol her)."
   },
   {
-    "id": "w04_slappe_av",
-    "no": "slappe av",
-    "de": "sich entspannen",
-    "pos": "verb",
-    "vf": [
-      "slapper av",
-      "slappet av",
-      "slappet av",
-      "slapp av"
-    ],
-    "vg": "1",
-    "lesson": 4,
-    "ex": {
-      "no": "Slapp av og spis en kake til!",
-      "de": "Entspann dich und iss noch ein Stück Kuchen!"
-    }
-  },
-  {
-    "id": "w04_til",
-    "no": "til",
-    "de": "noch (ein)",
-    "pos": "adv",
-    "lesson": 4,
-    "ex": {
-      "no": "Kan jeg få en kaffe til?",
-      "de": "Kann ich noch einen Kaffee bekommen?"
-    },
-    "note": "Nachgestellt: en kake til = noch ein Stück Kuchen, en gang til = noch einmal.",
-    "deAlt": [
-      "noch"
-    ]
-  },
-  {
-    "id": "w04_jo",
-    "no": "jo",
-    "de": "ja, doch",
-    "deAlt": [
-      "doch"
-    ],
-    "pos": "adv",
-    "wk": true,
-    "lesson": 4,
-    "ex": {
-      "no": "Han er jo ingeniør.",
-      "de": "Er ist ja Ingenieur."
-    },
-    "note": "Als Antwort auf eine verneinte Frage = doch: Kommer du ikke? – Jo!"
-  },
-  {
     "id": "w04_riktig",
     "no": "riktig",
     "de": "richtig",
@@ -423,38 +330,6 @@
       "de": "Morgen gehe ich in der Nordmarka wandern."
     },
     "note": "Typisch norwegisch: Am Wochenende geht man på tur in Wald und Berge."
-  },
-  {
-    "id": "w04_bli_med",
-    "no": "bli med",
-    "de": "mitkommen",
-    "deAlt": [
-      "mitmachen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "blir med",
-      "ble med",
-      "blitt med",
-      "bli med"
-    ],
-    "vg": "sterk",
-    "lesson": 4,
-    "ex": {
-      "no": "Vil dere bli med?",
-      "de": "Wollt ihr mitkommen?"
-    }
-  },
-  {
-    "id": "w04_dessverre",
-    "no": "dessverre",
-    "de": "leider",
-    "pos": "adv",
-    "lesson": 4,
-    "ex": {
-      "no": "I morgen kan jeg dessverre ikke.",
-      "de": "Morgen kann ich leider nicht."
-    }
   },
   {
     "id": "w04_hel",
@@ -662,32 +537,6 @@
     }
   },
   {
-    "id": "w04_aldri",
-    "no": "aldri",
-    "de": "nie",
-    "deAlt": [
-      "niemals"
-    ],
-    "pos": "adv",
-    "lesson": 4,
-    "ex": {
-      "no": "Elin drikker aldri kaffe.",
-      "de": "Elin trinkt nie Kaffee."
-    }
-  },
-  {
-    "id": "w04_hvordan",
-    "no": "hvordan",
-    "de": "wie",
-    "pos": "adv",
-    "wk": true,
-    "lesson": 4,
-    "ex": {
-      "no": "Hvordan kan dere forstå hverandre?",
-      "de": "Wie könnt ihr einander verstehen?"
-    }
-  },
-  {
     "id": "w04_naar",
     "no": "når",
     "de": "wann",
@@ -695,7 +544,6 @@
       "wenn"
     ],
     "pos": "adv",
-    "wk": true,
     "lesson": 4,
     "ex": {
       "no": "Når begynner kurset?",
@@ -710,7 +558,6 @@
       "wieso"
     ],
     "pos": "adv",
-    "wk": true,
     "lesson": 4,
     "ex": {
       "no": "Hvorfor er dansk så vanskelig?",
@@ -722,7 +569,6 @@
     "no": "hvor mye",
     "de": "wie viel",
     "pos": "phrase",
-    "wk": true,
     "lesson": 4,
     "ex": {
       "no": "Hvor mye koster kaka?",
@@ -734,7 +580,6 @@
     "no": "hvor mange",
     "de": "wie viele",
     "pos": "phrase",
-    "wk": true,
     "lesson": 4,
     "ex": {
       "no": "Hvor mange språk snakker du?",
@@ -746,7 +591,6 @@
     "no": "hvor gammel",
     "de": "wie alt",
     "pos": "phrase",
-    "wk": true,
     "lesson": 4,
     "ex": {
       "no": "Hvor gammel er Ola?",
@@ -758,7 +602,6 @@
     "no": "hvor lenge",
     "de": "wie lange",
     "pos": "phrase",
-    "wk": true,
     "lesson": 4,
     "ex": {
       "no": "Hvor lenge skal vi gå?",
@@ -770,7 +613,6 @@
     "no": "hva slags",
     "de": "was für ein(e)",
     "pos": "phrase",
-    "wk": true,
     "lesson": 4,
     "ex": {
       "no": "Hva slags ost er det?",
@@ -1085,8 +927,8 @@
       "gjenta"
     ],
     "vg": "sterk",
-    "wk": true,
     "lesson": 4,
+    "wk": true,
     "ex": {
       "no": "Kan du gjenta det?",
       "de": "Kannst du das wiederholen?"
@@ -1104,7 +946,6 @@
       "spørsmål",
       "spørsmåla/spørsmålene"
     ],
-    "wk": true,
     "lesson": 4,
     "ex": {
       "no": "Godt spørsmål!",
@@ -1124,7 +965,6 @@
       "svar",
       "svara/svarene"
     ],
-    "wk": true,
     "lesson": 4,
     "ex": {
       "no": "Matthias vil ha svar på alt.",
@@ -1144,7 +984,6 @@
       "men"
     ],
     "vg": "2",
-    "wk": true,
     "lesson": 4,
     "ex": {
       "no": "Hva mener du?",
@@ -1163,85 +1002,11 @@
       "tro"
     ],
     "vg": "4",
-    "wk": true,
     "lesson": 4,
     "ex": {
       "no": "Jeg tror ikke det.",
       "de": "Ich glaube nicht."
     }
-  },
-  {
-    "id": "w04_glemme",
-    "no": "glemme",
-    "de": "vergessen",
-    "pos": "verb",
-    "vf": [
-      "glemmer",
-      "glemte",
-      "glemt",
-      "glem"
-    ],
-    "vg": "2",
-    "lesson": 4,
-    "ex": {
-      "no": "Ikke glem regnjakka!",
-      "de": "Vergiss die Regenjacke nicht!"
-    },
-    "note": "Imperativ glem: kein Doppel-m am Wortende."
-  },
-  {
-    "id": "w04_aapne",
-    "no": "åpne",
-    "de": "öffnen",
-    "deAlt": [
-      "aufmachen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "åpner",
-      "åpnet",
-      "åpnet",
-      "åpne"
-    ],
-    "vg": "1",
-    "lesson": 4,
-    "ex": {
-      "no": "Åpne vinduet, er du snill!",
-      "de": "Öffne bitte das Fenster!"
-    }
-  },
-  {
-    "id": "w04_vindu",
-    "no": "vindu",
-    "de": "das Fenster",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "vindu",
-      "vinduet",
-      "vinduer",
-      "vinduene"
-    ],
-    "lesson": 4,
-    "ex": {
-      "no": "Huset har store vinduer.",
-      "de": "Das Haus hat große Fenster."
-    }
-  },
-  {
-    "id": "w04_vaer_saa_snill",
-    "no": "vær så snill",
-    "de": "bitte",
-    "deAlt": [
-      "sei so lieb"
-    ],
-    "pos": "phrase",
-    "lesson": 4,
-    "ex": {
-      "no": "Vær så snill og snakk sakte!",
-      "de": "Sprich bitte langsam!"
-    },
-    "note": "Auch nachgestellt: …, er du snill."
   },
   {
     "id": "w04_gang",
@@ -1255,12 +1020,599 @@
       "ganger",
       "gangene"
     ],
-    "wk": true,
     "lesson": 4,
     "ex": {
       "no": "Kan du si det en gang til?",
       "de": "Kannst du das noch einmal sagen?"
     },
     "note": "en gang til = noch einmal; to ganger = zweimal. Auch: der Flur (i gangen = im Flur)."
+  },
+  {
+    "id": "w04_tall",
+    "no": "tall",
+    "de": "die Zahl",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "tall",
+      "tallet",
+      "tall",
+      "talla/tallene"
+    ],
+    "lesson": 4,
+    "ex": {
+      "no": "Her i Norge sier man tallene to og to.",
+      "de": "Hier in Norwegen sagt man die Zahlen paarweise."
+    },
+    "note": "Einsilbiges Neutrum: Plural ohne Endung (to tall)."
+  },
+  {
+    "id": "w03_telefonnummer",
+    "no": "telefonnummer",
+    "de": "die Telefonnummer",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "telefonnummer",
+      "telefonnummeret",
+      "telefonnumre",
+      "telefonnumrene"
+    ],
+    "lesson": 4,
+    "wk": true,
+    "ex": {
+      "no": "Hva er telefonnummeret ditt?",
+      "de": "Wie ist deine Telefonnummer?"
+    }
+  },
+  {
+    "id": "w04_oyeblikk",
+    "no": "øyeblikk",
+    "de": "der Augenblick",
+    "deAlt": [
+      "der Moment"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "øyeblikk",
+      "øyeblikket",
+      "øyeblikk",
+      "øyeblikka/øyeblikkene"
+    ],
+    "lesson": 4,
+    "wk": true,
+    "ex": {
+      "no": "Et øyeblikk, takk!",
+      "de": "Einen Moment, bitte!"
+    }
+  },
+  {
+    "id": "w04_opptatt",
+    "no": "opptatt",
+    "de": "besetzt",
+    "deAlt": [
+      "beschäftigt"
+    ],
+    "pos": "adj",
+    "forms": [
+      "opptatt",
+      "opptatt",
+      "opptatte"
+    ],
+    "lesson": 4,
+    "wk": true,
+    "ex": {
+      "no": "Det er opptatt.",
+      "de": "Es ist besetzt."
+    },
+    "note": "Auch: beschäftigt – Jeg er opptatt i dag."
+  },
+  {
+    "id": "w04_beklage",
+    "no": "beklage",
+    "de": "bedauern",
+    "pos": "verb",
+    "vf": [
+      "beklager",
+      "beklaget",
+      "beklaget",
+      "beklag"
+    ],
+    "vg": "1",
+    "lesson": 4,
+    "wk": true,
+    "ex": {
+      "no": "Beklager, feil nummer.",
+      "de": "Entschuldigung, falsch verbunden."
+    },
+    "note": "Beklager! = Tut mir leid! Entschuldigung!"
+  },
+  {
+    "id": "w04_feil",
+    "no": "feil",
+    "de": "falsch",
+    "pos": "adj",
+    "lesson": 4,
+    "wk": true,
+    "ex": {
+      "no": "Du har feil nummer.",
+      "de": "Du hast die falsche Nummer."
+    },
+    "note": "Als Adjektiv meist unverändert: feil nummer, feil buss. Als Substantiv: en feil = ein Fehler."
+  },
+  {
+    "id": "w04_nummer",
+    "no": "nummer",
+    "de": "die Nummer",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "nummer",
+      "nummeret",
+      "numre/nummer",
+      "numrene"
+    ],
+    "lesson": 4,
+    "wk": true,
+    "ex": {
+      "no": "Hva er nummeret ditt?",
+      "de": "Wie ist deine Nummer?"
+    }
+  },
+  {
+    "id": "w04_melding",
+    "no": "melding",
+    "de": "die Nachricht",
+    "deAlt": [
+      "die SMS",
+      "die Mitteilung"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "melding",
+      "meldingen",
+      "meldinger",
+      "meldingene"
+    ],
+    "lesson": 4,
+    "wk": true,
+    "ex": {
+      "no": "Kan du sende meg en melding?",
+      "de": "Kannst du mir eine Nachricht schicken?"
+    }
+  },
+  {
+    "id": "w04_post",
+    "no": "post",
+    "de": "die Post",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "post",
+      "posten"
+    ],
+    "lesson": 4,
+    "wk": true,
+    "ex": {
+      "no": "Jeg går på posten.",
+      "de": "Ich gehe zur Post."
+    },
+    "note": "posten = die Post (der Dienst, die Filiale); post = Briefe und Pakete."
+  },
+  {
+    "id": "w04_frimerke",
+    "no": "frimerke",
+    "de": "die Briefmarke",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "frimerke",
+      "frimerket",
+      "frimerker",
+      "frimerkene"
+    ],
+    "lesson": 4,
+    "wk": true,
+    "ex": {
+      "no": "Et frimerke til Tyskland, takk.",
+      "de": "Eine Briefmarke nach Deutschland, bitte."
+    }
+  },
+  {
+    "id": "w04_hente",
+    "no": "hente",
+    "de": "holen",
+    "deAlt": [
+      "abholen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "henter",
+      "hentet",
+      "hentet",
+      "hent"
+    ],
+    "vg": "1",
+    "lesson": 4,
+    "wk": true,
+    "ex": {
+      "no": "Jeg skal hente en pakke.",
+      "de": "Ich will ein Paket abholen."
+    }
+  },
+  {
+    "id": "w04_postkasse",
+    "no": "postkasse",
+    "de": "der Briefkasten",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "postkasse",
+      "postkassa",
+      "postkasser",
+      "postkassene"
+    ],
+    "lesson": 4,
+    "wk": true,
+    "ex": {
+      "no": "Er det ei postkasse i nærheten?",
+      "de": "Gibt es hier in der Nähe einen Briefkasten?"
+    }
+  },
+  {
+    "id": "w04_adresse",
+    "no": "adresse",
+    "de": "die Adresse",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "adresse",
+      "adressen",
+      "adresser",
+      "adressene"
+    ],
+    "lesson": 4,
+    "wk": true,
+    "ex": {
+      "no": "Hva er adressen din?",
+      "de": "Wie ist deine Adresse?"
+    }
+  },
+  {
+    "id": "w04_postnummer",
+    "no": "postnummer",
+    "de": "die Postleitzahl",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "postnummer",
+      "postnummeret",
+      "postnumre/postnummer",
+      "postnumrene"
+    ],
+    "lesson": 4,
+    "wk": true,
+    "ex": {
+      "no": "Hva er postnummeret?",
+      "de": "Wie ist die Postleitzahl?"
+    },
+    "note": "Vier Ziffern, vor dem Ort: 0450 Oslo."
+  },
+  {
+    "id": "w03_brev",
+    "no": "brev",
+    "de": "der Brief",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "brev",
+      "brevet",
+      "brev",
+      "breva/brevene"
+    ],
+    "lesson": 4,
+    "wk": true,
+    "ex": {
+      "no": "Susanne sender et brev til Freiburg.",
+      "de": "Susanne schickt einen Brief nach Freiburg."
+    }
+  },
+  {
+    "id": "w03_praktisk",
+    "no": "praktisk",
+    "de": "praktisch",
+    "pos": "adj",
+    "forms": [
+      "praktisk",
+      "praktisk",
+      "praktiske",
+      "mer praktisk",
+      "mest praktisk"
+    ],
+    "lesson": 4,
+    "ex": {
+      "no": "Et praktisk kjøkken!",
+      "de": "Eine praktische Küche!"
+    },
+    "note": "Kein -t im Neutrum."
+  },
+  {
+    "id": "w03_grov",
+    "no": "grov",
+    "de": "grob; Vollkorn-",
+    "deAlt": [
+      "grob",
+      "Vollkorn"
+    ],
+    "pos": "adj",
+    "forms": [
+      "grov",
+      "grovt",
+      "grove"
+    ],
+    "lesson": 4,
+    "ex": {
+      "no": "Et grovt brød, takk.",
+      "de": "Ein Vollkornbrot, bitte."
+    },
+    "note": "et grovt brød = ein dunkles Vollkornbrot."
+  },
+  {
+    "id": "w03_frisk",
+    "no": "frisk",
+    "de": "gesund; frisch (Luft)",
+    "deAlt": [
+      "gesund",
+      "frisch"
+    ],
+    "pos": "adj",
+    "forms": [
+      "frisk",
+      "friskt",
+      "friske"
+    ],
+    "lesson": 4,
+    "ex": {
+      "no": "Er du frisk igjen?",
+      "de": "Bist du wieder gesund?"
+    },
+    "note": "Falscher Freund: Brot und Fisch sind fersk, nicht frisk."
+  },
+  {
+    "id": "w03_svart",
+    "no": "svart",
+    "de": "schwarz",
+    "pos": "adj",
+    "forms": [
+      "svart",
+      "svart",
+      "svarte"
+    ],
+    "lesson": 4,
+    "ex": {
+      "no": "Susanne har et svart skjerf.",
+      "de": "Susanne hat einen schwarzen Schal."
+    }
+  },
+  {
+    "id": "w03_hvit",
+    "no": "hvit",
+    "de": "weiß",
+    "pos": "adj",
+    "forms": [
+      "hvit",
+      "hvitt",
+      "hvite"
+    ],
+    "lesson": 4,
+    "ex": {
+      "no": "Matthias har et hvitt skjerf.",
+      "de": "Matthias hat einen weißen Schal."
+    },
+    "note": "Neutrum mit tt: hvitt. Das h spricht man nicht."
+  },
+  {
+    "id": "w03_kort",
+    "no": "kort",
+    "de": "kurz",
+    "pos": "adj",
+    "forms": [
+      "kort",
+      "kort",
+      "korte"
+    ],
+    "lesson": 4,
+    "ex": {
+      "no": "Det er et kort brev.",
+      "de": "Das ist ein kurzer Brief."
+    }
+  },
+  {
+    "id": "w03_skjerf",
+    "no": "skjerf",
+    "de": "der Schal",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "skjerf",
+      "skjerfet",
+      "skjerf",
+      "skjerfa/skjerfene"
+    ],
+    "lesson": 4,
+    "ex": {
+      "no": "Susanne har et svart skjerf.",
+      "de": "Susanne hat einen schwarzen Schal."
+    }
+  },
+  {
+    "id": "w03_katolikk",
+    "no": "katolikk",
+    "de": "der Katholik, die Katholikin",
+    "deAlt": [
+      "der Katholik",
+      "die Katholikin"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "katolikk",
+      "katolikken",
+      "katolikker",
+      "katolikkene"
+    ],
+    "lesson": 4,
+    "ex": {
+      "no": "Han er katolikk.",
+      "de": "Er ist Katholik."
+    },
+    "note": "Religion nach være ohne Artikel."
+  },
+  {
+    "id": "w03_tretti",
+    "no": "tretti",
+    "de": "dreißig",
+    "pos": "num",
+    "lesson": 4,
+    "ex": {
+      "no": "Brødet koster tretti kroner.",
+      "de": "Das Brot kostet dreißig Kronen."
+    }
+  },
+  {
+    "id": "w03_forti",
+    "no": "førti",
+    "de": "vierzig",
+    "pos": "num",
+    "lesson": 4,
+    "ex": {
+      "no": "En pakke smør koster førti kroner.",
+      "de": "Ein Päckchen Butter kostet vierzig Kronen."
+    }
+  },
+  {
+    "id": "w03_femti",
+    "no": "femti",
+    "de": "fünfzig",
+    "pos": "num",
+    "lesson": 4,
+    "ex": {
+      "no": "Kari er femtito år.",
+      "de": "Kari ist zweiundfünfzig Jahre alt."
+    }
+  },
+  {
+    "id": "w03_seksti",
+    "no": "seksti",
+    "de": "sechzig",
+    "pos": "num",
+    "lesson": 4,
+    "ex": {
+      "no": "Torsken koster sekstini kroner.",
+      "de": "Der Dorsch kostet neunundsechzig Kronen."
+    }
+  },
+  {
+    "id": "w03_sytti",
+    "no": "sytti",
+    "de": "siebzig",
+    "pos": "num",
+    "lesson": 4,
+    "ex": {
+      "no": "Det koster sytti kroner.",
+      "de": "Das kostet siebzig Kronen."
+    }
+  },
+  {
+    "id": "w03_aatti",
+    "no": "åtti",
+    "de": "achtzig",
+    "pos": "num",
+    "lesson": 4,
+    "ex": {
+      "no": "Bestemor Ingrid er åtti år.",
+      "de": "Oma Ingrid ist achtzig Jahre alt."
+    }
+  },
+  {
+    "id": "w03_nitti",
+    "no": "nitti",
+    "de": "neunzig",
+    "pos": "num",
+    "lesson": 4,
+    "ex": {
+      "no": "Laksen koster nittini kroner.",
+      "de": "Der Lachs kostet neunundneunzig Kronen."
+    }
+  },
+  {
+    "id": "w03_hundre",
+    "no": "hundre",
+    "de": "hundert",
+    "pos": "num",
+    "lesson": 4,
+    "ex": {
+      "no": "Vi trenger hundre gram smør.",
+      "de": "Wir brauchen hundert Gramm Butter."
+    }
+  },
+  {
+    "id": "w04_kald",
+    "no": "kald",
+    "de": "kalt",
+    "pos": "adj",
+    "forms": [
+      "kald",
+      "kaldt",
+      "kalde",
+      "kaldere",
+      "kaldest"
+    ],
+    "lesson": 4,
+    "ex": {
+      "no": "Elin drikker kaldt vann.",
+      "de": "Elin trinkt kaltes Wasser."
+    }
+  },
+  {
+    "id": "w04_rod",
+    "no": "rød",
+    "de": "rot",
+    "pos": "adj",
+    "forms": [
+      "rød",
+      "rødt",
+      "røde"
+    ],
+    "lesson": 4,
+    "ex": {
+      "no": "Susanne har ei rød regnjakke.",
+      "de": "Susanne hat eine rote Regenjacke."
+    }
+  },
+  {
+    "id": "w04_turist",
+    "no": "turist",
+    "de": "der Tourist, die Touristin",
+    "deAlt": [
+      "der Tourist",
+      "die Touristin"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "turist",
+      "turisten",
+      "turister",
+      "turistene"
+    ],
+    "lesson": 4,
+    "ex": {
+      "no": "Jeg er turist i Oslo.",
+      "de": "Ich bin Tourist in Oslo."
+    },
+    "note": "Status nach være: ohne Artikel."
   }
 ]

@@ -5,11 +5,11 @@
   "titleDe": "Polarnacht und Weihnachtsfeier",
   "place": "Tromsø",
   "goals": [
-    "Du kannst über die Polarnacht, Weihnachtsvorbereitungen und den norwegischen Heiligabend erzählen.",
+    "Du kannst von der Polarnacht, vom Julebord und von einem norwegischen Heiligabend erzählen.",
     "Du bildest das Passiv mit -s (Døra lukkes), mit bli (Treet ble pyntet) und beschreibst Zustände mit være (Butikken er stengt).",
-    "Du verwendest s-Verben wie trives, synes, finnes und lykkes richtig.",
-    "Du sagst „so ein, solche“ mit slik und sånn.",
-    "Du kennst die wichtigsten Weihnachtswünsche und -bräuche in Norwegen."
+    "Du verwendest s-Verben wie trives, synes, finnes und lykkes richtig und sagst „so ein, solche“ mit slik und sånn.",
+    "Du kennst die norwegischen Weihnachtsbräuche und die passenden Grüße: God jul! – Takk, i like måte! Takk for i fjor!",
+    "Du kannst schimpfen und Ärger ausdrücken – von harmlos (Din tosk! Fy søren!) bis grob (Hold kjeft!) – und weißt, wie unhöflich was ist."
   ],
   "text": {
     "id": "t18",
@@ -59,8 +59,8 @@
         "de": "Heiligabend feierten wir in unserer Wohnung zusammen mit ein paar Freunden von Inga, die nicht nach Hause fahren konnten. Um fünf Uhr wurde Weihnachten von den Kirchenglocken eingeläutet, und dann setzten wir uns zu Tisch. Matthias hatte die Ribbe nach Karis Rezept zubereitet, und die Kruste war perfekt knusprig."
       },
       {
-        "no": "Til dessert var det riskrem, og i bollen var det gjemt en mandel. Matthias fikk mandelen og vant en marsipangris!",
-        "de": "Zum Nachtisch gab es Riskrem, und in der Schüssel war eine Mandel versteckt. Matthias bekam die Mandel und gewann ein Marzipanschwein!"
+        "no": "Til dessert var det riskrem, og i bollen var det gjemt en mandel. Matthias fikk mandelen, men han sa ikke et ord og lot oss andre spise to porsjoner til. Da han endelig viste den fram, ropte Inga: «Din tosk! Nå er jeg altfor mett!» Resten av kvelden ble han ertet og kalt «mandeltosken», men han vant en marsipangris og var svært fornøyd.",
+        "de": "Zum Nachtisch gab es Riskrem, und in der Schüssel war eine Mandel versteckt. Matthias bekam die Mandel, aber er sagte kein Wort und ließ uns andere noch zwei Portionen essen. Als er sie endlich zeigte, rief Inga: „Du Dummkopf! Jetzt bin ich viel zu satt!“ Den restlichen Abend wurde er geneckt und „der Mandeltrottel“ genannt, aber er gewann ein Marzipanschwein und war sehr zufrieden."
       },
       {
         "no": "Etter middagen banket det på døra, og inn kom julenissen – det var Ingas fetter Ánte med skjegg og rød lue. «Er det noen snille barn her?» spurte han.",
@@ -287,6 +287,42 @@
       {
         "no": "vant",
         "de": "gewann (vinne – vant – vunnet)"
+      },
+      {
+        "no": "lot oss andre spise",
+        "de": "ließ uns andere essen"
+      },
+      {
+        "no": "to porsjoner til",
+        "de": "noch zwei Portionen"
+      },
+      {
+        "no": "viste den fram",
+        "de": "zeigte sie (vor)"
+      },
+      {
+        "no": "Din tosk!",
+        "de": "Du Dummkopf! (mild, oft neckend)"
+      },
+      {
+        "no": "altfor mett",
+        "de": "viel zu satt"
+      },
+      {
+        "no": "ble han ertet",
+        "de": "wurde er geneckt"
+      },
+      {
+        "no": "kalt",
+        "de": "genannt (kalle – kalte – kalt)"
+      },
+      {
+        "no": "mandeltosken",
+        "de": "der Mandeltrottel (Spitzname)"
+      },
+      {
+        "no": "svært fornøyd",
+        "de": "sehr zufrieden"
       }
     ]
   },
@@ -294,9 +330,9 @@
     {
       "id": "x18a",
       "title": "God jul!",
-      "titleDe": "Weihnachten in Norwegen",
+      "titleDe": "Frohe Weihnachten!",
       "kind": "info",
-      "intro": "Vom ersten Advent bis zum Julebukk: die wichtigsten Weihnachtsbräuche in Norwegen.",
+      "intro": "Vom ersten Advent bis Neujahr: die wichtigsten Weihnachtsbräuche in Norwegen – und was man sich zu Weihnachten und zum neuen Jahr wünscht.",
       "lines": [
         {
           "no": "Jula begynner lenge før 24. desember. Fra første søndag i advent tennes et nytt lys i adventsstaken hver søndag, og mange barn har en adventskalender med en liten gave for hver dag. Den 13. desember feires Lucia: Barn i hvite kjoler går i tog med lys i hånden og synger, og det spises lussekatter, gule boller med safran.",
@@ -321,6 +357,10 @@
         {
           "no": "Første og andre juledag er rolige dager med familien. Dagene mellom jul og nyttår heter romjula. Da holdes det juletrefester for barn, og noen steder går barna julebukk: De kler seg ut, går fra dør til dør, synger og får godteri. Nyttårsaften feires ofte med venner, god mat og fyrverkeri.",
           "de": "Der erste und zweite Weihnachtstag sind ruhige Tage mit der Familie. Die Tage zwischen Weihnachten und Neujahr heißen Romjula. Dann werden Weihnachtsbaumfeste für Kinder veranstaltet, und an manchen Orten gehen die Kinder „julebukk“: Sie verkleiden sich, gehen von Tür zu Tür, singen und bekommen Süßigkeiten. Silvester wird oft mit Freunden, gutem Essen und Feuerwerk gefeiert."
+        },
+        {
+          "no": "Og hva sier man? Fra begynnelsen av desember ønsker folk hverandre «God jul!», og svaret er gjerne «Takk, i like måte!» eller «God jul til deg også!». På julekortene skrives det ofte «God jul og godt nyttår!». Når man ser noen for siste gang før nyttår, sier man «Takk for i år!» – og når man møtes igjen i januar: «Takk for i fjor!»",
+          "de": "Und was sagt man? Ab Anfang Dezember wünscht man sich „God jul!“ (Frohe Weihnachten!), und die Antwort lautet meist „Takk, i like måte!“ (Danke, gleichfalls!) oder „God jul til deg også!“ (Dir auch frohe Weihnachten!). Auf die Weihnachtskarten schreibt man oft „God jul og godt nyttår!“ (Frohe Weihnachten und ein gutes neues Jahr!). Wenn man jemanden vor Neujahr zum letzten Mal sieht, sagt man „Takk for i år!“ (Danke für dieses Jahr!) – und wenn man sich im Januar wiedersieht: „Takk for i fjor!“ (Danke fürs vergangene Jahr!)."
         }
       ],
       "glossary": [
@@ -451,15 +491,155 @@
         {
           "no": "julebukk",
           "de": "Julebukk (verkleidet von Haus zu Haus ziehen)"
+        },
+        {
+          "no": "ønsker folk hverandre",
+          "de": "wünschen sich die Leute (gegenseitig)"
+        },
+        {
+          "no": "gjerne",
+          "de": "meist, gewöhnlich"
+        },
+        {
+          "no": "i like måte",
+          "de": "gleichfalls"
+        },
+        {
+          "no": "God jul til deg også",
+          "de": "Dir auch frohe Weihnachten"
+        },
+        {
+          "no": "skrives det",
+          "de": "wird geschrieben, schreibt man"
+        },
+        {
+          "no": "godt nyttår",
+          "de": "ein gutes neues Jahr"
+        },
+        {
+          "no": "for siste gang",
+          "de": "zum letzten Mal"
+        },
+        {
+          "no": "Takk for i år",
+          "de": "Danke für dieses Jahr (Gruß zum Jahresende)"
+        },
+        {
+          "no": "Takk for i fjor",
+          "de": "Danke fürs vergangene Jahr (Gruß beim ersten Wiedersehen im neuen Jahr)"
         }
       ]
     }
   ],
   "wk": {
     "title": "Din tosk!",
-    "titleDe": "",
-    "phrases": [],
-    "_todo": "NEW"
+    "titleDe": "Du Dummkopf!",
+    "phrases": [
+      {
+        "no": "Din tosk!",
+        "de": "Du Dummkopf!",
+        "note": "Mild und oft neckend gemeint – unter Freunden ganz normal. Wo das Deutsche „du“ sagt, steht im Norwegischen das Possessivpronomen: din tosk (en-Wort), ditt naut (et-Wort), dine tosker (Plural)."
+      },
+      {
+        "no": "Din idiot!",
+        "de": "Du Idiot!",
+        "note": "Deutlich unhöflicher als tosk. Im Streit verletzend, unter guten Freunden auch halb im Scherz."
+      },
+      {
+        "no": "Ditt naut!",
+        "de": "Du Hornochse!",
+        "note": "et naut = ein Rind. Derb und unhöflich – nur im Ärger oder unter sehr guten Freunden. Achte auf ditt: naut ist ein et-Wort."
+      },
+      {
+        "no": "Du er en skikkelig tullebukk!",
+        "de": "Du bist ein richtiger Kindskopf!",
+        "note": "Harmlos und liebevoll: jemand, der Unsinn macht. Oft zu Kindern gesagt."
+      },
+      {
+        "no": "Slutt å tulle!",
+        "de": "Hör auf mit dem Unsinn!",
+        "note": "tulle = Unsinn machen, Quatsch reden. Freundlich-genervt, nicht unhöflich."
+      },
+      {
+        "no": "Ikke vær så dum!",
+        "de": "Sei nicht so dumm!",
+        "note": "Direkt, aber nicht grob."
+      },
+      {
+        "no": "Er du helt sprø?",
+        "de": "Bist du total verrückt?",
+        "note": "Umgangssprachlich; je nach Tonfall erstaunt oder verärgert. Ebenso: Er du gal?"
+      },
+      {
+        "no": "Skjerp deg!",
+        "de": "Reiß dich zusammen!",
+        "note": "Eine deutliche Zurechtweisung, aber kein Schimpfwort – Eltern und Lehrer sagen das oft."
+      },
+      {
+        "no": "Gi deg!",
+        "de": "Hör auf! Lass gut sein!",
+        "note": "Umgangssprachlich, wenn jemand nervt oder nicht lockerlässt."
+      },
+      {
+        "no": "Kutt ut!",
+        "de": "Lass das! Hör auf damit!",
+        "note": "kutte ut = mit etwas aufhören. Ziemlich direkt, aber nicht grob."
+      },
+      {
+        "no": "Ikke kjeft på meg!",
+        "de": "Schimpf nicht mit mir!",
+        "note": "kjefte på noen = mit jemandem schimpfen; få kjeft = ausgeschimpft werden."
+      },
+      {
+        "no": "Du går meg på nervene!",
+        "de": "Du gehst mir auf die Nerven!",
+        "note": "Wie im Deutschen: unhöflich, aber kein Schimpfwort."
+      },
+      {
+        "no": "Nå er jeg skikkelig lei!",
+        "de": "Jetzt habe ich es echt satt!",
+        "note": "være lei av noe = etwas satthaben: Jeg er lei av mørket."
+      },
+      {
+        "no": "Det gidder jeg ikke!",
+        "de": "Dazu habe ich keine Lust!",
+        "note": "gidde = Lust haben, sich aufraffen – fast nur verneint oder in Fragen (Gidder du å hjelpe meg?). Klingt etwas genervt."
+      },
+      {
+        "no": "Uff, så irriterende!",
+        "de": "Ach, wie ärgerlich!",
+        "note": "uff = ach je, puh – harmlos und sehr häufig."
+      },
+      {
+        "no": "Fy søren!",
+        "de": "Verflixt!",
+        "note": "Harmloser Fluch für Ärger, auch für Staunen. søren und pokker sind milde Ersatzwörter für das grobe Fluchwort faen (eigentlich „der Teufel“) – das hörst du oft, solltest es aber besser nicht selbst benutzen."
+      },
+      {
+        "no": "Pokker!",
+        "de": "Mist!",
+        "note": "Harmlos und etwas altmodisch. Auch: Hva pokker …? = Was zum Kuckuck …?"
+      },
+      {
+        "no": "Søren klype!",
+        "de": "Donnerwetter!",
+        "note": "Sehr harmlos und ein bisschen komisch – für Ärger oder Staunen."
+      },
+      {
+        "no": "Hold kjeft!",
+        "de": "Halt die Klappe!",
+        "note": "Grob und verletzend! Wörtlich etwa „Halt das Maul“. Nur im heftigen Streit – höflich sagst du: Kan du være litt stille?"
+      },
+      {
+        "no": "Kan du være litt stille?",
+        "de": "Kannst du bitte ein bisschen leise sein?",
+        "note": "Die höfliche Variante."
+      },
+      {
+        "no": "Unnskyld, det var ikke ment sånn!",
+        "de": "Entschuldigung, so war das nicht gemeint!"
+      }
+    ]
   },
   "grammar": [
     {
@@ -682,7 +862,7 @@
         },
         {
           "h": "Gebrauch und Unterschiede zum Deutschen",
-          "body": "• **trives** braucht kein „sich“: **Jeg trives i Tromsø.** (Ich fühle mich in Tromsø wohl.)\n• **finnes** = es gibt (allgemein, existieren): **Det finnes mange nisser i Norge.** Für das Vorhandensein an einem Ort sagt man meist **det er**: **Det er en butikk på hjørnet.**\n• **lykkes** hat meist eine Person als Subjekt: **Hun lyktes med kakene.** (Ihr gelangen die Kekse.) Deutsch „es gelingt mir“ wird also zu **jeg lykkes**.\n• **skyldes** = kommt von, liegt an: **Trøttheten skyldes mørket.**\n• **synes** kennst du schon aus Lektion 15 (Meinung aus Erfahrung)."
+          "body": "• **trives** braucht kein „sich“: **Jeg trives i Tromsø.** (Ich fühle mich in Tromsø wohl.)\n• **finnes** = es gibt (allgemein, existieren): **Det finnes mange nisser i Norge.** Für das Vorhandensein an einem Ort sagt man meist **det er**: **Det er en butikk på hjørnet.**\n• **lykkes** hat meist eine Person als Subjekt: **Hun lyktes med kakene.** (Ihr gelangen die Kekse.) Deutsch „es gelingt mir“ wird also zu **jeg lykkes**.\n• **skyldes** = kommt von, liegt an: **Trøttheten skyldes mørket.**\n• **synes** kennst du schon aus Lektion 14 (Meinung aus Erfahrung)."
         }
       ],
       "drills": [
@@ -938,10 +1118,10 @@
       "why": "Er meinte, Lutefisk sei das einzig richtige Weihnachtsessen."
     },
     {
-      "s": "Krumkakene ble perfekte.",
-      "de": "Die Krumkaker wurden perfekt.",
+      "s": "Matthias sa fra med en gang da han fant mandelen.",
+      "de": "Matthias sagte sofort Bescheid, als er die Mandel fand.",
       "a": false,
-      "why": "Die meisten zerbrachen, aber sie schmeckten trotzdem gut."
+      "why": "Er sagte kein Wort und ließ die anderen noch zwei Portionen essen."
     },
     {
       "s": "Matthias kom til Tromsø den 22. desember.",
@@ -1028,17 +1208,20 @@
       ]
     },
     {
-      "q": "Hva vant Matthias, og hvorfor?",
-      "qDe": "Was gewann Matthias, und warum?",
-      "answer": "Han vant en marsipangris fordi han fikk mandelen i riskremen.",
-      "answerDe": "Er gewann ein Marzipanschwein, weil er die Mandel im Riskrem bekam.",
+      "q": "Hvorfor kalte Inga Matthias en tosk?",
+      "qDe": "Warum nannte Inga Matthias einen Dummkopf?",
+      "answer": "Fordi han hadde fått mandelen, men sa ingenting og lot de andre spise mer riskrem.",
+      "answerDe": "Weil er die Mandel bekommen hatte, aber nichts sagte und die anderen mehr Riskrem essen ließ.",
       "keywords": [
         [
-          "marsipangris"
+          "mandelen",
+          "mandel"
         ],
         [
-          "mandel",
-          "mandelen"
+          "spise",
+          "spiste",
+          "porsjoner",
+          "mett"
         ]
       ]
     },
@@ -1064,9 +1247,9 @@
       ]
     },
     {
-      "de": "die blaue Stunde",
+      "de": "Du Dummkopf!",
       "answer": [
-        "den blå timen"
+        "Din tosk"
       ]
     },
     {
@@ -1222,10 +1405,10 @@
       ]
     },
     {
-      "prompt": "Matthias kommer til Tromsø og får ___ i riskremen.",
-      "de": "Matthias kommt nach Tromsø und bekommt die Mandel im Riskrem.",
+      "prompt": "Matthias får mandelen i riskremen, og Inga kaller ham en ___.",
+      "de": "Matthias bekommt die Mandel im Riskrem, und Inga nennt ihn einen Dummkopf.",
       "answer": [
-        "mandelen"
+        "tosk"
       ]
     },
     {
@@ -1240,8 +1423,8 @@
   "dictation": [
     4,
     6,
-    10,
-    11
+    11,
+    12
   ],
   "writing": {
     "prompt": "Schreibe Inga eine E-Mail: Wie wird Weihnachten (oder ein anderes Fest) bei dir zu Hause gefeiert? Was wird gegessen, wann werden die Geschenke geöffnet, was gibt es Besonderes? Verwende mindestens drei Passivformen (s-Passiv oder bli-Passiv), ein s-Verb (trives, synes, finnes) und einmal sånn oder slik.",

@@ -1368,5 +1368,310 @@
       "de": "Kannst du kurz meinen Rucksack halten?"
     },
     "note": "holde en tale = eine Rede halten; holde senga = das Bett hüten; holde på med = gerade dabei sein."
+  },
+  {
+    "id": "w17_maa_ikke",
+    "no": "må ikke",
+    "de": "darf nicht",
+    "pos": "phrase",
+    "lesson": 17,
+    "note": "Falscher Freund: må ikke = darf nicht. »muss nicht« = trenger ikke (å).",
+    "ex": {
+      "no": "Du må ikke se på bølgene!",
+      "de": "Du darfst nicht auf die Wellen schauen!"
+    }
+  },
+  {
+    "id": "w17_trenger_ikke",
+    "no": "trenger ikke",
+    "de": "muss nicht, braucht nicht",
+    "pos": "phrase",
+    "lesson": 17,
+    "note": "trenger ikke (å) + Infinitiv = nicht müssen",
+    "ex": {
+      "no": "Du trenger ikke å bli med hvis du er syk.",
+      "de": "Du musst nicht mitkommen, wenn du krank bist."
+    }
+  },
+  {
+    "id": "w17_burde_ha",
+    "no": "burde ha",
+    "de": "hätte … sollen",
+    "pos": "phrase",
+    "lesson": 17,
+    "note": "burde ha + Partizip Perfekt; ebenso kunne ha (hätte … können).",
+    "ex": {
+      "no": "Han burde ha ringt.",
+      "de": "Er hätte anrufen sollen."
+    }
+  },
+  {
+    "id": "w17_kunne_ha",
+    "no": "kunne ha",
+    "de": "hätte … können",
+    "pos": "phrase",
+    "lesson": 17,
+    "note": "kunne ha + Partizip Perfekt",
+    "ex": {
+      "no": "Du kunne ha sagt det med en gang!",
+      "de": "Du hättest es sofort sagen können!"
+    }
+  },
+  {
+    "id": "w17_vil_gjerne_ha",
+    "no": "vil gjerne ha",
+    "de": "hätte gern, möchte",
+    "pos": "phrase",
+    "lesson": 17,
+    "note": "Höfliche Bitte, z. B. im Café.",
+    "ex": {
+      "no": "Jeg vil gjerne ha en kopp te.",
+      "de": "Ich hätte gern eine Tasse Tee."
+    }
+  },
+  {
+    "id": "w17_hel",
+    "no": "hel",
+    "de": "ganz",
+    "pos": "adj",
+    "forms": [
+      "hel",
+      "helt",
+      "hele"
+    ],
+    "lesson": 17,
+    "note": "Vor bestimmtem Substantiv ohne den/det: hele dagen (den ganzen Tag), hele Norge.",
+    "ex": {
+      "no": "Erik ringte ikke på en hel uke.",
+      "de": "Erik rief eine ganze Woche lang nicht an."
+    }
+  },
+  {
+    "id": "w17_helt",
+    "no": "helt",
+    "de": "ganz, völlig",
+    "deAlt": [
+      "ganz",
+      "völlig"
+    ],
+    "pos": "adv",
+    "lesson": 17,
+    "note": "ikke helt = nicht ganz",
+    "ex": {
+      "no": "Matthias ble helt stille.",
+      "de": "Matthias wurde ganz still."
+    }
+  },
+  {
+    "id": "w17_hele_tiden",
+    "no": "hele tiden",
+    "de": "die ganze Zeit",
+    "pos": "phrase",
+    "lesson": 17,
+    "ex": {
+      "no": "Professoren lo hele tiden.",
+      "de": "Der Professor lachte die ganze Zeit."
+    }
+  },
+  {
+    "id": "w17_halv",
+    "no": "halv",
+    "de": "halb",
+    "pos": "adj",
+    "forms": [
+      "halv",
+      "halvt",
+      "halve"
+    ],
+    "lesson": 17,
+    "note": "halve dagen = den halben Tag (ohne den); halvparten = die Hälfte",
+    "ex": {
+      "no": "Hun drakk bare et halvt glass vann.",
+      "de": "Sie trank nur ein halbes Glas Wasser."
+    }
+  },
+  {
+    "id": "w17_ung",
+    "no": "ung",
+    "de": "jung",
+    "pos": "adj",
+    "forms": [
+      "ung",
+      "ungt",
+      "unge",
+      "yngre",
+      "yngst"
+    ],
+    "lesson": 17,
+    "ex": {
+      "no": "En ung mann i uniform kom bort til henne.",
+      "de": "Ein junger Mann in Uniform kam zu ihr."
+    }
+  },
+  {
+    "id": "w17_vaar",
+    "no": "vår",
+    "de": "der Frühling",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "vår",
+      "våren",
+      "vårer",
+      "vårene"
+    ],
+    "lesson": 17,
+    "note": "om våren = im Frühling. Nicht verwechseln mit vår = unser.",
+    "ex": {
+      "no": "Om våren henger det torsk på hjellene.",
+      "de": "Im Frühling hängt Dorsch auf den Trockengestellen."
+    }
+  },
+  {
+    "id": "w17_vind",
+    "no": "vind",
+    "de": "der Wind",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "vind",
+      "vinden",
+      "vinder",
+      "vindene"
+    ],
+    "lesson": 17,
+    "ex": {
+      "no": "Fisken tørker i vinden.",
+      "de": "Der Fisch trocknet im Wind."
+    }
+  },
+  {
+    "id": "w17_mot",
+    "no": "mot",
+    "de": "gegen; zu (jdm.); in Richtung",
+    "deAlt": [
+      "gegen",
+      "zu",
+      "in Richtung"
+    ],
+    "pos": "prep",
+    "lesson": 17,
+    "note": "Auch: en tablett mot sjøsyke (gegen Seekrankheit), utsikt mot fjellene (Blick auf die Berge).",
+    "ex": {
+      "no": "Erik er sjarmerende mot alle.",
+      "de": "Erik ist zu allen charmant."
+    }
+  },
+  {
+    "id": "w17_flest",
+    "no": "flest",
+    "de": "die meisten (de fleste)",
+    "pos": "adj",
+    "forms": [
+      "flest",
+      "flest",
+      "fleste"
+    ],
+    "lesson": 17,
+    "note": "mange – flere – flest; de fleste = die meisten",
+    "ex": {
+      "no": "I dag kan man kjøre bil til de fleste stedene.",
+      "de": "Heute kann man an die meisten Orte mit dem Auto fahren."
+    }
+  },
+  {
+    "id": "w17_baade",
+    "no": "både",
+    "de": "sowohl (… als auch)",
+    "pos": "conj",
+    "lesson": 17,
+    "note": "både … og = sowohl … als auch",
+    "ex": {
+      "no": "Skipene går både for lokale reisende og for turister.",
+      "de": "Die Schiffe fahren sowohl für Einheimische als auch für Touristen."
+    }
+  },
+  {
+    "id": "w17_hoy",
+    "no": "høy",
+    "de": "hoch",
+    "pos": "adj",
+    "forms": [
+      "høy",
+      "høyt",
+      "høye",
+      "høyere",
+      "høyest"
+    ],
+    "lesson": 17,
+    "ex": {
+      "no": "Lofoten har høye, spisse fjell.",
+      "de": "Die Lofoten haben hohe, spitze Berge."
+    }
+  },
+  {
+    "id": "w17_beklage",
+    "no": "beklage",
+    "de": "bedauern; sich entschuldigen",
+    "pos": "verb",
+    "vf": [
+      "beklager",
+      "beklaget",
+      "beklaget",
+      "beklag"
+    ],
+    "vg": "1",
+    "lesson": 17,
+    "note": "Beklager! = Tut mir leid! / Entschuldigung!",
+    "ex": {
+      "no": "Beklager, jeg har ikke tid på lørdag.",
+      "de": "Tut mir leid, ich habe am Samstag keine Zeit."
+    }
+  },
+  {
+    "id": "w17_masse",
+    "no": "masse",
+    "de": "jede Menge, viel",
+    "pos": "adv",
+    "lesson": 17,
+    "note": "Umgangssprachlich; schriftlich eher mye oder mange.",
+    "ex": {
+      "no": "Jeg har masse jobb denne uka.",
+      "de": "Ich habe diese Woche jede Menge Arbeit."
+    }
+  },
+  {
+    "id": "w17_stille_sporsmaal",
+    "no": "stille spørsmål",
+    "de": "Fragen stellen",
+    "pos": "phrase",
+    "lesson": 17,
+    "ex": {
+      "no": "Erik stiller mange spørsmål.",
+      "de": "Erik stellt viele Fragen."
+    }
+  },
+  {
+    "id": "w17_stoppe",
+    "no": "stoppe",
+    "de": "(an)halten, stoppen",
+    "deAlt": [
+      "anhalten",
+      "halten",
+      "stoppen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "stopper",
+      "stoppet",
+      "stoppet",
+      "stopp"
+    ],
+    "vg": "1",
+    "lesson": 17,
+    "ex": {
+      "no": "Hurtigruta stopper i Svolvær.",
+      "de": "Die Hurtigruta hält in Svolvær."
+    }
   }
 ]

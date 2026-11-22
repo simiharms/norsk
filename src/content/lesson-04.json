@@ -6,10 +6,10 @@
   "place": "Oslo, Frognerparken",
   "goals": [
     "Du kannst über die skandinavischen Sprachen sprechen und erklären, was „falsche Freunde“ sind.",
-    "Du kannst ikke, aldri, alltid, ofte, også, bare und gjerne an die richtige Stelle im Satz setzen.",
-    "Du kannst Aufforderungen geben: Kom hit! Ta en kake! Ikke spør så mye!",
-    "Du kannst Fragen mit hva, hvem, hvor, hvordan, når, hvorfor, hvor mange … stellen.",
-    "Du kannst sagen, was du kannst, willst, vorhast, musst und solltest: kan, vil, skal, må, bør."
+    "Du kannst Dinge mit Adjektiven beschreiben: en god ost, et godt brød, gode sko.",
+    "Du weißt, wann Adjektive auf -ig und -sk kein -t bekommen: et hyggelig møte, et dansk bakeri.",
+    "Du kannst Beruf und Nationalität ohne Artikel nennen: Matthias er ingeniør.",
+    "Du kannst von 21 bis 100 zählen, Telefonnummern sagen und dich am Telefon und auf der Post verständigen."
   ],
   "text": {
     "id": "t04",
@@ -43,8 +43,8 @@
       },
       {
         "s": "s",
-        "no": "Så fint! Jeg har brød, ost og jordbær.",
-        "de": "Wie schön! Ich habe Brot, Käse und Erdbeeren."
+        "no": "Så fint! Jeg har ferskt brød, en god ost og norske jordbær.",
+        "de": "Wie schön! Ich habe frisches Brot, einen guten Käse und norwegische Erdbeeren."
       },
       {
         "s": "d",
@@ -58,23 +58,13 @@
       },
       {
         "s": "e",
-        "no": "Det er ikke så vanskelig. Svensk, dansk og norsk er veldig like. Vi sier at vi snakker «skandinavisk».",
-        "de": "Das ist nicht so schwer. Schwedisch, Dänisch und Norwegisch sind sehr ähnlich. Wir sagen, dass wir „Skandinavisch“ sprechen."
+        "no": "Svensk, dansk og norsk er veldig like. Vi sier at vi snakker «skandinavisk».",
+        "de": "Schwedisch, Dänisch und Norwegisch sind sehr ähnlich. Wir sagen, dass wir „Skandinavisch“ sprechen."
       },
       {
         "s": "d",
-        "no": "Vi snakker bare sakte og bruker ikke vanskelige ord.",
-        "de": "Wir sprechen einfach langsam und benutzen keine schwierigen Wörter."
-      },
-      {
-        "s": "m",
-        "no": "Forstår du alltid Elin, Mads?",
-        "de": "Verstehst du Elin immer, Mads?"
-      },
-      {
-        "s": "d",
-        "no": "Nei, ikke alltid! Svensk forstår jeg ganske godt, men noen ord er falske venner.",
-        "de": "Nein, nicht immer! Schwedisch verstehe ich ziemlich gut, aber manche Wörter sind falsche Freunde."
+        "no": "Vi snakker bare sakte og bruker ikke vanskelige ord. Men noen ord er falske venner.",
+        "de": "Wir sprechen einfach langsam und benutzen keine schwierigen Wörter. Aber manche Wörter sind falsche Freunde."
       },
       {
         "s": "e",
@@ -83,8 +73,8 @@
       },
       {
         "s": "m",
-        "no": "Hvor mange falske venner finnes det? Hvorfor er dansk så vanskelig?",
-        "de": "Wie viele falsche Freunde gibt es? Warum ist Dänisch so schwierig?"
+        "no": "Hvor mange falske venner finnes det? Og hvorfor er dansk så vanskelig?",
+        "de": "Wie viele falsche Freunde gibt es? Und warum ist Dänisch so schwierig?"
       },
       {
         "s": "d",
@@ -95,11 +85,6 @@
         "s": "s",
         "no": "Matthias vil alltid vite alt. Han er jo ingeniør.",
         "de": "Matthias will immer alles wissen. Er ist ja Ingenieur."
-      },
-      {
-        "s": "m",
-        "no": "Riktig. En ingeniør må forstå systemet.",
-        "de": "Richtig. Ein Ingenieur muss das System verstehen."
       },
       {
         "s": "e",
@@ -118,23 +103,33 @@
       },
       {
         "s": "e",
-        "no": "Jeg blir gjerne med! Men på søndag må jeg lese.",
-        "de": "Ich komme gern mit! Aber am Sonntag muss ich lernen."
+        "no": "Jeg blir gjerne med! Hva er telefonnummeret ditt, Susanne?",
+        "de": "Ich komme gern mit! Wie ist deine Telefonnummer, Susanne?"
+      },
+      {
+        "s": "s",
+        "no": "Det er førtiåtte sekstisju trettifem nittito.",
+        "de": "Sie ist 48 67 35 92."
       },
       {
         "s": "m",
-        "no": "Jeg blir også med. Hvor lenge skal vi gå? Hva bør jeg ta med?",
-        "de": "Ich komme auch mit. Wie lange wandern wir? Was sollte ich mitnehmen?"
+        "no": "Fire, åtte, seks, sju …",
+        "de": "Vier, acht, sechs, sieben …"
+      },
+      {
+        "s": "d",
+        "no": "Nei, Matthias! Her i Norge sier man tallene to og to.",
+        "de": "Nein, Matthias! Hier in Norwegen sagt man die Zahlen paarweise."
+      },
+      {
+        "s": "m",
+        "no": "Førtiåtte, sekstisju, trettifem, nittito. Takk! Jeg blir også med. Hva bør jeg ta med?",
+        "de": "Achtundvierzig, siebenundsechzig, fünfunddreißig, zweiundneunzig. Danke! Ich komme auch mit. Was sollte ich mitnehmen?"
       },
       {
         "s": "s",
         "no": "Du bør ha gode sko og en regnjakke. Og du må ikke spørre så mye!",
         "de": "Du solltest gute Schuhe und eine Regenjacke haben. Und du darfst nicht so viel fragen!"
-      },
-      {
-        "s": "d",
-        "no": "Nei, ikke spør mer, Matthias! Spis!",
-        "de": "Nein, frag nicht mehr, Matthias! Iss!"
       }
     ],
     "glossary": [
@@ -147,20 +142,24 @@
         "de": "komm(t) her"
       },
       {
-        "no": "alle sammen",
-        "de": "alle zusammen"
+        "no": "Her er det sol",
+        "de": "Hier scheint die Sonne (wörtlich: hier ist Sonne)"
       },
       {
-        "no": "sol",
-        "de": "Sonne"
+        "no": "ferskt brød",
+        "de": "frisches Brot (fersk bekommt im Neutrum ein -t)"
       },
       {
-        "no": "jordbær",
-        "de": "Erdbeeren"
+        "no": "en god ost",
+        "de": "ein guter Käse"
       },
       {
-        "no": "bakeri",
-        "de": "Bäckerei"
+        "no": "norske jordbær",
+        "de": "norwegische Erdbeeren (Plural: -e)"
+      },
+      {
+        "no": "et dansk bakeri",
+        "de": "eine dänische Bäckerei (dansk: kein -t im Neutrum)"
       },
       {
         "no": "Ta en kake",
@@ -175,10 +174,6 @@
         "de": "einander, sich (gegenseitig)"
       },
       {
-        "no": "vanskelig",
-        "de": "schwierig, schwer"
-      },
-      {
         "no": "like",
         "de": "ähnlich, gleich (Plural)"
       },
@@ -187,20 +182,20 @@
         "de": "Skandinavisch, skandinavisch"
       },
       {
-        "no": "sakte",
-        "de": "langsam"
-      },
-      {
         "no": "bruker",
         "de": "benutzen, verwenden"
       },
       {
-        "no": "falske venner",
-        "de": "falsche Freunde (Wörter, die gleich aussehen, aber etwas anderes bedeuten)"
+        "no": "vanskelige ord",
+        "de": "schwierige Wörter"
       },
       {
-        "no": "for eksempel",
-        "de": "zum Beispiel"
+        "no": "noen ord",
+        "de": "manche Wörter"
+      },
+      {
+        "no": "falske venner",
+        "de": "falsche Freunde (Wörter, die gleich aussehen, aber etwas anderes bedeuten)"
       },
       {
         "no": "betyr",
@@ -215,12 +210,12 @@
         "de": "still, ruhig"
       },
       {
-        "no": "finnes det",
-        "de": "gibt es"
+        "no": "Hvor mange",
+        "de": "wie viele"
       },
       {
-        "no": "spør",
-        "de": "fragst"
+        "no": "finnes det",
+        "de": "gibt es"
       },
       {
         "no": "Slapp av",
@@ -231,16 +226,8 @@
         "de": "noch ein Stück Kuchen"
       },
       {
-        "no": "jo",
-        "de": "ja (wie in: Er ist ja Ingenieur), doch"
-      },
-      {
-        "no": "Riktig",
-        "de": "richtig, das stimmt"
-      },
-      {
-        "no": "systemet",
-        "de": "das System"
+        "no": "Han er jo ingeniør",
+        "de": "Er ist ja Ingenieur (Beruf: ohne Artikel)"
       },
       {
         "no": "i helgen",
@@ -259,10 +246,6 @@
         "de": "mitkommen"
       },
       {
-        "no": "dessverre",
-        "de": "leider"
-      },
-      {
         "no": "hele helgen",
         "de": "das ganze Wochenende"
       },
@@ -271,12 +254,16 @@
         "de": "ich komme gern mit"
       },
       {
-        "no": "lese",
-        "de": "hier: lernen (für eine Prüfung)"
+        "no": "Hva er telefonnummeret ditt",
+        "de": "Wie ist deine Telefonnummer"
       },
       {
-        "no": "Hvor lenge",
-        "de": "wie lange"
+        "no": "Her i Norge",
+        "de": "hier in Norwegen"
+      },
+      {
+        "no": "sier man tallene to og to",
+        "de": "sagt man die Zahlen paarweise (to og to = zwei und zwei)"
       },
       {
         "no": "ta med",
@@ -285,6 +272,10 @@
       {
         "no": "bør",
         "de": "sollte(st)"
+      },
+      {
+        "no": "gode sko",
+        "de": "gute Schuhe"
       },
       {
         "no": "regnjakke",
@@ -467,12 +458,12 @@
   ],
   "wk": {
     "title": "Post og telefon",
-    "titleDe": "Am Telefon",
+    "titleDe": "Post und Telefon",
     "phrases": [
       {
         "no": "Hallo, det er Susanne.",
         "de": "Hallo, hier ist Susanne.",
-        "note": "Am Telefon sagt man „det er …“, nicht „jeg er …“."
+        "note": "Am Telefon sagt man »det er …«, nicht »jeg er …«."
       },
       {
         "no": "Hvem snakker jeg med?",
@@ -483,90 +474,84 @@
         "de": "Kann ich bitte Anna sprechen?"
       },
       {
-        "no": "Et øyeblikk, så skal jeg hente henne.",
-        "de": "Einen Moment, ich hole sie."
-      },
-      {
-        "no": "Hun er ikke her akkurat nå.",
-        "de": "Sie ist gerade nicht da."
-      },
-      {
-        "no": "Vil du legge igjen en beskjed?",
-        "de": "Möchtest du eine Nachricht hinterlassen?"
-      },
-      {
-        "no": "Kan du be henne ringe meg tilbake?",
-        "de": "Kannst du ihr sagen, dass sie mich zurückrufen soll?"
-      },
-      {
-        "no": "Beklager, du har slått feil nummer.",
-        "de": "Tut mir leid, du hast dich verwählt."
+        "no": "Et øyeblikk!",
+        "de": "Einen Moment!"
       },
       {
         "no": "Det er opptatt.",
         "de": "Es ist besetzt."
       },
       {
-        "no": "Jeg hører deg veldig dårlig.",
-        "de": "Ich höre dich sehr schlecht."
+        "no": "Beklager, feil nummer.",
+        "de": "Entschuldigung, falsch verbunden.",
+        "note": "beklager = tut mir leid"
       },
       {
-        "no": "Jeg har nesten ikke dekning her.",
-        "de": "Ich habe hier kaum Empfang."
+        "no": "Hva er telefonnummeret ditt?",
+        "de": "Wie ist deine Telefonnummer?",
+        "note": "Kurz: »Hva er nummeret ditt?«"
       },
       {
-        "no": "Samtalen ble brutt.",
-        "de": "Das Gespräch ist abgebrochen."
+        "no": "Nummeret mitt er 48 67 35 92.",
+        "de": "Meine Nummer ist 48 67 35 92.",
+        "note": "Man liest die Nummer in Zweiergruppen: førtiåtte sekstisju trettifem nittito."
       },
       {
-        "no": "Jeg ringer deg opp igjen om fem minutter.",
-        "de": "Ich rufe dich in fünf Minuten noch einmal an."
-      },
-      {
-        "no": "Batteriet mitt er nesten tomt.",
-        "de": "Mein Akku ist fast leer."
-      },
-      {
-        "no": "Legg igjen en beskjed etter pipetonen.",
-        "de": "Hinterlass eine Nachricht nach dem Signalton.",
-        "note": "So klingt die Ansage auf vielen Anrufbeantwortern."
+        "no": "Kan du gjenta nummeret?",
+        "de": "Kannst du die Nummer wiederholen?"
       },
       {
         "no": "Kan du sende meg en melding?",
         "de": "Kannst du mir eine Nachricht schicken?",
-        "note": "melding = SMS oder Chatnachricht; man sagt auch „sende en sms“."
-      },
-      {
-        "no": "Skal vi ta en videosamtale?",
-        "de": "Sollen wir videotelefonieren?"
-      },
-      {
-        "no": "Takk for praten!",
-        "de": "Danke fürs Gespräch!",
-        "note": "Typischer Abschluss eines privaten Telefonats."
-      },
-      {
-        "no": "Hils Inga fra meg!",
-        "de": "Grüß Inga von mir!"
+        "note": "en melding = eine SMS oder Chatnachricht."
       },
       {
         "no": "Vi snakkes!",
         "de": "Wir hören uns! Bis bald!",
-        "note": "Ein s-Verb mit der Bedeutung „einander“ – mehr dazu in Lektion 21."
+        "note": "Feste Wendung am Ende eines Gesprächs, besonders am Telefon."
+      },
+      {
+        "no": "Jeg vil sende et brev til Tyskland.",
+        "de": "Ich möchte einen Brief nach Deutschland schicken."
+      },
+      {
+        "no": "Et frimerke til Tyskland, takk.",
+        "de": "Eine Briefmarke nach Deutschland, bitte."
+      },
+      {
+        "no": "Hva koster det å sende en pakke til Sveits?",
+        "de": "Was kostet es, ein Paket in die Schweiz zu schicken?"
+      },
+      {
+        "no": "Jeg skal hente en pakke.",
+        "de": "Ich will ein Paket abholen.",
+        "note": "Viele Postschalter sind in Norwegen im Supermarkt: »Post i butikk«."
+      },
+      {
+        "no": "Er det en postkasse i nærheten?",
+        "de": "Gibt es hier in der Nähe einen Briefkasten?"
+      },
+      {
+        "no": "Hva er adressen din?",
+        "de": "Wie ist deine Adresse?"
+      },
+      {
+        "no": "Hva er postnummeret?",
+        "de": "Wie ist die Postleitzahl?",
+        "note": "Norwegische Postleitzahlen haben vier Ziffern und stehen vor dem Ort, zum Beispiel: 0450 Oslo."
       }
-    ],
-    "_todo": "Startpunkt: alte Wörterkiste »I telefonen« (L19) – auf A1 anpassen, Post ergänzen"
+    ]
   },
   "grammar": [
     {
       "id": "g04_adjektiv",
       "title": "Unbestimmte Form",
       "titleNo": "adjektiv i ubestemt form",
-      "summary": "en stor bil – et stort hus – store biler: Neutrum -t, Plural -e. Vor dem Substantiv und nach være gleich.",
+      "summary": "en stor bil – et stort hus – store biler: Vor dem Substantiv bekommt das Adjektiv im Neutrum -t und im Plural -e.",
       "sections": [
         {
           "h": "Drei Formen",
-          "body": "Das Adjektiv richtet sich nach dem Substantiv: nach Geschlecht und Zahl. Es gibt nur drei Formen:\n\n• en-Wort und ei-Wort: **keine Endung** – **en stor bil, ei stor hytte**\n• et-Wort: **-t** – **et stort hus**\n• Plural: **-e** – **store biler, store hus**\n\nKeine Fälle, keine Endungen wie »-en, -em, -er« – viel einfacher als im Deutschen!",
+          "body": "Steht das Adjektiv vor dem Substantiv, richtet es sich nach dem Substantiv: nach Geschlecht und Zahl. Es gibt nur drei Formen:\n\n• en-Wort und ei-Wort: **keine Endung** – **en stor bil, ei stor hytte**\n• et-Wort: **-t** – **et stort hus**\n• Plural: **-e** – **store biler, store hus**\n\nKeine Fälle, keine Endungen wie »-en, -em, -er« – viel einfacher als im Deutschen: **en god ost, med en god ost, for en god ost** – immer gleich!",
           "table": [
             [
               "",
@@ -581,32 +566,32 @@
               "**store** biler"
             ],
             [
-              "fersk (frisch)",
-              "en **fersk** fisk",
-              "et **ferskt** brød",
-              "**ferske** poteter"
-            ],
-            [
               "god (gut)",
-              "en **god** kake",
+              "en **god** ost",
               "et **godt** brød",
-              "**gode** venner"
+              "**gode** sko"
             ],
             [
               "fin (schön)",
               "ei **fin** bok",
               "et **fint** kjøkken",
               "**fine** gulrøtter"
+            ],
+            [
+              "dyr (teuer)",
+              "en **dyr** fisk",
+              "et **dyrt** glass",
+              "**dyre** jordbær"
             ]
           ]
         },
         {
-          "h": "Nach være: dieselben Endungen",
-          "body": "Auch nach **være** (sein) bekommt das Adjektiv die Endung – im Deutschen nicht!\n\n• **Bilen er stor.** – Das Auto ist groß.\n• **Huset er stort.** – Das Haus ist groß.\n• **Potetene er store.** – Die Kartoffeln sind groß.\n\nTypischer Fehler: »Huset er stor« (falsch!). Frag dich immer: Ist das Wort, zu dem das Adjektiv gehört, ein et-Wort oder ein Plural?"
+          "h": "Ohne Artikel und nach Zahlen",
+          "body": "Auch ohne Artikel zählt das Geschlecht des Substantivs:\n\n• **kaldt vann** (et vann), **ferskt brød** (et brød)\n• **god kaffe** (en kaffe)\n\nNach Zahlen und nach **mange** (viele) steht der Plural mit -e: **to store kopper, mange gode venner, norske jordbær**.\n\nWas mit dem Adjektiv nach **være** passiert (**Huset er stort**), lernst du in Lektion 5."
         },
         {
-          "h": "Kleine Besonderheiten",
-          "body": "• **god – godt**: nur ein t.\n• Auch ohne Artikel zählt das Geschlecht des Wortes: **Øl er dyrt** (et øl).\n• **Det er …** ohne Bezugswort bekommt -t: **Det er dyrt!** (Das ist teuer!)"
+          "h": "Achtung, deutsches Geschlecht!",
+          "body": "Entscheidend ist das norwegische Geschlecht, nicht das deutsche:\n\n• **en stor bil** – ein großes Auto (bil ist maskulin!)\n• **et stort kjøkken** – eine große Küche (kjøkken ist ein Neutrum!)\n• **ei god bok** – ein gutes Buch\n\nKleine Besonderheit: **god – godt** hat nur ein t, gesprochen »gott«. Typischer Fehler: »et god brød« – richtig ist **et godt brød**."
         }
       ],
       "drills": [
@@ -619,12 +604,12 @@
           "explain": "et hus ist ein Neutrum: stor + t = stort."
         },
         {
-          "prompt": "Laksen er ___. (fersk)",
-          "de": "Der Lachs ist frisch.",
+          "prompt": "Mads har kaker fra et ___ bakeri. (god)",
+          "de": "Mads hat Kuchen aus einer guten Bäckerei.",
           "answer": [
-            "fersk"
+            "godt"
           ],
-          "explain": "laks ist maskulin: keine Endung."
+          "explain": "et bakeri ist ein Neutrum: god – godt (nur ein t)."
         },
         {
           "prompt": "Vi trenger ___ poteter. (stor)",
@@ -635,20 +620,12 @@
           "explain": "Plural: stor + e = store."
         },
         {
-          "prompt": "Kjøkkenet er ___. (stor)",
-          "de": "Die Küche ist groß.",
+          "prompt": "Frognerparken er en ___ park. (stor)",
+          "de": "Der Frognerpark ist ein großer Park.",
           "answer": [
-            "stort"
+            "stor"
           ],
-          "explain": "et kjøkken ist ein Neutrum – auch nach være: stort."
-        },
-        {
-          "prompt": "Brødet er ___. (god)",
-          "de": "Das Brot ist gut.",
-          "answer": [
-            "godt"
-          ],
-          "explain": "et brød ist ein Neutrum: god – godt (nur ein t)."
+          "explain": "en park ist maskulin: keine Endung."
         },
         {
           "prompt": "Susanne kjøper ___ gulrøtter. (fin)",
@@ -667,20 +644,20 @@
           "explain": "ei bok ist feminin: keine Endung, wie bei en-Wörtern."
         },
         {
-          "prompt": "Gulrøttene er ___. (søt)",
-          "de": "Die Karotten sind süß.",
+          "prompt": "Elin drikker ___ vann. (kald)",
+          "de": "Elin trinkt kaltes Wasser.",
           "answer": [
-            "søte"
+            "kaldt"
           ],
-          "explain": "Plural, auch nach være: søt + e = søte."
+          "explain": "vann ist ein Neutrum (et vann) – auch ohne Artikel: kald + t = kaldt."
         },
         {
-          "prompt": "Øl er ___ i Norge. (dyr)",
-          "de": "Bier ist in Norwegen teuer.",
+          "prompt": "Du bør ha ___ sko. (god)",
+          "de": "Du solltest gute Schuhe haben.",
           "answer": [
-            "dyrt"
+            "gode"
           ],
-          "explain": "øl ist ein Neutrum (et øl): dyr + t = dyrt."
+          "explain": "Plural: god + e = gode."
         },
         {
           "prompt": "Anna kjøper et ___ brød. (grov)",
@@ -689,15 +666,22 @@
             "grovt"
           ],
           "explain": "et brød ist ein Neutrum: grov + t = grovt."
+        },
+        {
+          "prompt": "Norge er et ___ land. (lang)",
+          "de": "Norwegen ist ein langes Land.",
+          "answer": [
+            "langt"
+          ],
+          "explain": "et land ist ein Neutrum: lang + t = langt."
         }
-      ],
-      "_todo": "TRIM: nur attributiv (en stor bil); prädikativ kommt in L5 (g05_predikativ)"
+      ]
     },
     {
       "id": "g04_ig_sk",
       "title": "Adjektive auf -ig und -sk",
       "titleNo": "adjektiv på -ig og -sk",
-      "summary": "Adjektive auf -ig und mehrsilbige auf -sk (auch alle Nationalitäten) bekommen im Neutrum kein -t: et hyggelig møte, et norsk ord.",
+      "summary": "Adjektive auf -ig und mehrsilbige auf -sk (auch alle Nationalitäten) bekommen im Neutrum kein -t: et hyggelig møte, et norsk ord. Aber: et ferskt brød.",
       "sections": [
         {
           "h": "-ig: kein -t im Neutrum",
@@ -730,8 +714,46 @@
           "body": "Mehrsilbige Adjektive auf **-sk** und **alle Nationalitäten** bekommen im Neutrum ebenfalls **kein -t**:\n\n• **et praktisk kjøkken**, **et typisk måltid**\n• **et norsk ord**, **et tysk brød**, **et svensk hotell**\n\nPlural wie immer mit -e: **praktiske, norske, tyske**.\n\nAber: Die einsilbigen **fersk** (frisch) und **frisk** (gesund, frisch) bekommen ein -t: **et ferskt brød**, **et friskt barn**."
         },
         {
-          "h": "Adjektive, die schon auf -t enden",
-          "body": "• Endet das Adjektiv auf **Konsonant + t**, kommt nichts dazu: **et kort brev**, **et svart skjerf**.\n• Endet es auf **langen Vokal + t**, wird das t verdoppelt: **søt – et søtt eple**, **hvit – et hvitt hus**."
+          "h": "Auf einen Blick",
+          "body": "Im Plural bekommen alle diese Adjektive **-e**. Nur im Neutrum musst du aufpassen:",
+          "table": [
+            [
+              "",
+              "en/ei-Wort",
+              "et-Wort",
+              "Plural"
+            ],
+            [
+              "stor",
+              "en stor park",
+              "et **stort** hus",
+              "store biler"
+            ],
+            [
+              "hyggelig",
+              "en hyggelig kveld",
+              "et **hyggelig** møte",
+              "hyggelige venner"
+            ],
+            [
+              "norsk",
+              "en norsk ost",
+              "et **norsk** ord",
+              "norske jordbær"
+            ],
+            [
+              "praktisk",
+              "en praktisk kniv",
+              "et **praktisk** kjøkken",
+              "praktiske sko"
+            ],
+            [
+              "fersk",
+              "en fersk fisk",
+              "et **ferskt** brød",
+              "ferske poteter"
+            ]
+          ]
         }
       ],
       "drills": [
@@ -760,28 +782,12 @@
           "explain": "Adjektive auf -ig bekommen kein -t."
         },
         {
-          "prompt": "Brødet er ___. (fersk)",
-          "de": "Das Brot ist frisch.",
+          "prompt": "Susanne har ___ brød. (fersk)",
+          "de": "Susanne hat frisches Brot.",
           "answer": [
             "ferskt"
           ],
           "explain": "fersk ist einsilbig: Es bekommt das -t (ferskt)."
-        },
-        {
-          "prompt": "Eplet er ___. (søt)",
-          "de": "Der Apfel ist süß.",
-          "answer": [
-            "søtt"
-          ],
-          "explain": "Langer Vokal + t: das t wird verdoppelt – søtt."
-        },
-        {
-          "prompt": "Susanne har et ___ skjerf. (svart)",
-          "de": "Susanne hat einen schwarzen Schal.",
-          "answer": [
-            "svart"
-          ],
-          "explain": "svart endet auf Konsonant + t: keine weitere Endung."
         },
         {
           "prompt": "Er norsk et ___ språk? (vanskelig)",
@@ -808,59 +814,44 @@
           "explain": "Nationalitäten bekommen im Neutrum kein -t."
         },
         {
-          "prompt": "Anna og Susanne er ___ jenter. (hyggelig)",
-          "de": "Anna und Susanne sind nette junge Frauen.",
+          "prompt": "Elin og Mads er ___ venner. (hyggelig)",
+          "de": "Elin und Mads sind nette Freunde.",
           "answer": [
             "hyggelige"
           ],
           "explain": "Plural: hyggelig + e = hyggelige."
+        },
+        {
+          "prompt": "Mads har kaker fra et ___ bakeri. (dansk)",
+          "de": "Mads hat Kuchen aus einer dänischen Bäckerei.",
+          "answer": [
+            "dansk"
+          ],
+          "explain": "Nationalitäten bekommen im Neutrum kein -t: et dansk bakeri."
+        },
+        {
+          "prompt": "Susanne har ___ jordbær. (norsk)",
+          "de": "Susanne hat norwegische Erdbeeren.",
+          "answer": [
+            "norske"
+          ],
+          "explain": "Plural: norsk + e = norske – wie bei allen Adjektiven."
         }
-      ],
-      "_todo": "TRIM: Teil über Adjektive auf -t (kort, svart, søt – søtt) entfernen, kommt in L6 (g06_t)"
+      ]
     },
     {
       "id": "g04_artikkel",
       "title": "Auslassung des Artikels",
       "titleNo": "substantiv uten artikkel",
-      "summary": "Kein Artikel bei Beruf, Nationalität und Religion nach være/bli (Anna er medisinstudent) und in vielen festen Wendungen (ha bil, ta buss).",
+      "summary": "Kein Artikel bei Beruf, Nationalität, Religion und Status nach være/bli: Anna er medisinstudent. Mit Adjektiv kommt der Artikel zurück: en god lærer.",
       "sections": [
         {
-          "h": "Beruf, Nationalität, Religion",
-          "body": "Nach **være** (sein) und **bli** (werden) steht bei Beruf, Nationalität und Religion **kein Artikel** – wie im Deutschen:\n\n• **Anna er medisinstudent.** – Anna ist Medizinstudentin.\n• **Matthias er ingeniør.** – Matthias ist Ingenieur.\n• **Hun er norsk.** / **Hun er nordmann.** – Sie ist Norwegerin.\n• **Han er katolikk.** – Er ist Katholik.\n\nAber: Steht ein Adjektiv davor, braucht man den Artikel – auch wie im Deutschen: **Torunn er en god lærer.** (eine gute Lehrerin)"
+          "h": "Beruf, Nationalität, Religion, Status",
+          "body": "Nach **være** (sein) und **bli** (werden) steht bei Beruf, Nationalität, Religion und Status (Student, Rentner, Tourist …) **kein Artikel** – wie im Deutschen:\n\n• **Anna er medisinstudent.** – Anna ist Medizinstudentin.\n• **Matthias er ingeniør.** – Matthias ist Ingenieur.\n• **Hun er norsk.** / **Hun er nordmann.** – Sie ist Norwegerin.\n• **Han er katolikk.** – Er ist Katholik.\n• **Henrik er student.** – Henrik ist Student.\n• **Jeg er turist her.** – Ich bin hier Tourist.\n• **Hun blir lærer.** – Sie wird Lehrerin.\n\nDas Wort gilt für Männer und Frauen: **lærer, student, ingeniør** – eine weibliche Endung wie »-in« gibt es nicht."
         },
         {
-          "h": "Feste Wendungen ohne Artikel",
-          "body": "In vielen festen Wendungen steht auf Norwegisch kein Artikel – manchmal wie im Deutschen (Zeit haben, Geburtstag haben), oft aber anders (ein Auto haben, den Bus nehmen). Lerne sie als Ganzes:",
-          "table": [
-            [
-              "Norwegisch",
-              "Deutsch"
-            ],
-            [
-              "**Har du bil?**",
-              "Hast du ein Auto?"
-            ],
-            [
-              "**Jeg tar buss.**",
-              "Ich nehme den Bus."
-            ],
-            [
-              "**Har du tid?**",
-              "Hast du Zeit?"
-            ],
-            [
-              "**Hun har bursdag.**",
-              "Sie hat Geburtstag."
-            ],
-            [
-              "**Vi lager middag.**",
-              "Wir kochen das Abendessen."
-            ],
-            [
-              "**Trenger du pose?**",
-              "Brauchst du eine Tüte?"
-            ]
-          ]
+          "h": "Mit Adjektiv: Artikel zurück",
+          "body": "Steht ein Adjektiv vor dem Substantiv, braucht man den Artikel – auch das ist wie im Deutschen:\n\n• **Torunn er lærer.** – Torunn ist Lehrerin.\n• **Torunn er en god lærer.** – Torunn ist eine gute Lehrerin.\n• **Elin er en hyggelig svenske.** – Elin ist eine nette Schwedin.\n\nEs gibt noch mehr Fälle ohne Artikel, zum Beispiel feste Wendungen. Die kommen in Lektion 22."
         }
       ],
       "drills": [
@@ -873,12 +864,12 @@
           "explain": "Beruf nach være: kein Artikel."
         },
         {
-          "prompt": "Kari er ___. (Lehrerin)",
-          "de": "Kari ist Lehrerin.",
+          "prompt": "Torunn er ___. (Lehrerin)",
+          "de": "Torunn ist Lehrerin.",
           "answer": [
             "lærer"
           ],
-          "explain": "Beruf nach være: kein Artikel."
+          "explain": "Beruf nach være: kein Artikel – und keine weibliche Endung."
         },
         {
           "prompt": "Matthias er ___. (Ingenieur)",
@@ -922,20 +913,20 @@
           "explain": "Nationalität nach være: kein Artikel."
         },
         {
-          "prompt": "Ola har ___ i dag. (Geburtstag)",
-          "de": "Ola hat heute Geburtstag.",
+          "prompt": "Henrik er ___. (Student)",
+          "de": "Henrik ist Student.",
           "answer": [
-            "bursdag"
+            "student"
           ],
-          "explain": "Feste Wendung ohne Artikel: ha bursdag."
+          "explain": "Status nach være: kein Artikel."
         },
         {
-          "prompt": "Mads har ikke ___ i dag. (Zeit)",
-          "de": "Mads hat heute keine Zeit.",
+          "prompt": "Jeg er ___ i Oslo. (Tourist)",
+          "de": "Ich bin Tourist in Oslo.",
           "answer": [
-            "tid"
+            "turist"
           ],
-          "explain": "Feste Wendung ohne Artikel: ha tid."
+          "explain": "Status nach være: kein Artikel."
         },
         {
           "prompt": "Hun er ___. (Katholikin)",
@@ -945,8 +936,7 @@
           ],
           "explain": "Religion nach være: kein Artikel."
         }
-      ],
-      "_todo": "TRIM: nur Beruf/Nationalität/Religion/Status nach være/bli; feste Wendungen (ha bil, ta buss) kommen in L22"
+      ]
     },
     {
       "id": "g04_tall",
@@ -1016,13 +1006,14 @@
           "explain": "Erst der Zehner, dann die Einer: nitti + ni = nittini."
         },
         {
-          "prompt": "Torsken koster ___ kroner. (69)",
-          "de": "Der Dorsch kostet neunundsechzig Kronen.",
+          "prompt": "Nummeret er 48 67 35 92: førtiåtte ___ trettifem nittito. (67)",
+          "de": "Die Nummer ist 48 67 35 92: achtundvierzig, siebenundsechzig, fünfunddreißig, zweiundneunzig.",
           "answer": [
-            "sekstini",
-            "niogseksti"
+            "sekstisju",
+            "sjuogseksti",
+            "syvogseksti"
           ],
-          "explain": "seksti + ni = sekstini (nicht umdrehen wie im Deutschen)."
+          "explain": "Telefonnummern liest man in Paaren: 67 = seksti + sju = sekstisju."
         },
         {
           "prompt": "Susanne er ___ år. (24)",
@@ -1102,6 +1093,12 @@
   ],
   "tf": [
     {
+      "s": "Susanne har brød, ost og jordbær.",
+      "de": "Susanne hat Brot, Käse und Erdbeeren.",
+      "a": true,
+      "why": "»Jeg har ferskt brød, en god ost og norske jordbær.«"
+    },
+    {
       "s": "Mads har kaker fra et dansk bakeri.",
       "de": "Mads hat Kuchen aus einer dänischen Bäckerei.",
       "a": true,
@@ -1112,12 +1109,6 @@
       "de": "Elin spricht Dänisch.",
       "a": false,
       "why": "Elin spricht Schwedisch, Mads spricht Dänisch."
-    },
-    {
-      "s": "Elin sier at svensk, dansk og norsk er veldig like.",
-      "de": "Elin sagt, dass Schwedisch, Dänisch und Norwegisch sehr ähnlich sind.",
-      "a": true,
-      "why": "„Svensk, dansk og norsk er veldig like.“"
     },
     {
       "s": "«Rolig» betyr «morsom» på norsk.",
@@ -1136,6 +1127,12 @@
       "de": "Mads kommt mit auf die Wanderung.",
       "a": false,
       "why": "Mads kann nicht, er muss das ganze Wochenende arbeiten."
+    },
+    {
+      "s": "I Norge sier man telefonnumre to og to.",
+      "de": "In Norwegen sagt man Telefonnummern paarweise.",
+      "a": true,
+      "why": "Mads sagt: „Her i Norge sier man tallene to og to.“"
     }
   ],
   "questions": [
@@ -1152,18 +1149,6 @@
         [
           "vanskelige",
           "vanskelig"
-        ]
-      ]
-    },
-    {
-      "q": "Hva betyr «rolig» på svensk?",
-      "qDe": "Was bedeutet „rolig“ auf Schwedisch?",
-      "answer": "På svensk betyr «rolig» «morsom».",
-      "answerDe": "Auf Schwedisch bedeutet „rolig“ „lustig“.",
-      "keywords": [
-        [
-          "morsom",
-          "morsomt"
         ]
       ]
     },
@@ -1187,6 +1172,18 @@
       ]
     },
     {
+      "q": "Hvordan sier man et telefonnummer i Norge?",
+      "qDe": "Wie sagt man in Norwegen eine Telefonnummer?",
+      "answer": "Man sier tallene to og to.",
+      "answerDe": "Man sagt die Zahlen paarweise.",
+      "keywords": [
+        [
+          "to og to",
+          "par"
+        ]
+      ]
+    },
+    {
       "q": "Hva bør Matthias ta med på tur?",
       "qDe": "Was sollte Matthias auf die Wanderung mitnehmen?",
       "answer": "Han bør ha gode sko og en regnjakke.",
@@ -1205,6 +1202,18 @@
   ],
   "find": [
     {
+      "de": "frisches Brot",
+      "answer": [
+        "ferskt brød"
+      ]
+    },
+    {
+      "de": "norwegische Erdbeeren",
+      "answer": [
+        "norske jordbær"
+      ]
+    },
+    {
       "de": "einander",
       "answer": [
         "hverandre"
@@ -1217,36 +1226,50 @@
       ]
     },
     {
-      "de": "Entspann dich!",
-      "answer": [
-        "Slapp av"
-      ]
-    },
-    {
       "de": "leider",
       "answer": [
         "dessverre"
       ]
     },
     {
-      "de": "mitkommen",
+      "de": "paarweise (zwei und zwei)",
       "answer": [
-        "bli med"
-      ]
-    },
-    {
-      "de": "Sei nicht so schüchtern!",
-      "answer": [
-        "Ikke vær så sjenert"
+        "to og to"
       ]
     }
   ],
   "translate": [
     {
-      "de": "Ich spreche kein Schwedisch.",
+      "de": "Ich habe frisches Brot und einen guten Käse.",
       "no": [
-        "Jeg snakker ikke svensk.",
-        "Jeg kan ikke svensk."
+        "Jeg har ferskt brød og en god ost."
+      ]
+    },
+    {
+      "de": "Mads hat Kuchen aus einer dänischen Bäckerei.",
+      "no": [
+        "Mads har kaker fra et dansk bakeri."
+      ],
+      "hint": "bakeri ist ein Neutrum – und dansk bekommt kein -t."
+    },
+    {
+      "de": "Das ist ein schwieriges Wort.",
+      "no": [
+        "Det er et vanskelig ord."
+      ]
+    },
+    {
+      "de": "Matthias ist Ingenieur.",
+      "no": [
+        "Matthias er ingeniør."
+      ],
+      "hint": "Beim Beruf kein Artikel."
+    },
+    {
+      "de": "Wie ist deine Telefonnummer?",
+      "no": [
+        "Hva er telefonnummeret ditt?",
+        "Hva er nummeret ditt?"
       ]
     },
     {
@@ -1259,36 +1282,6 @@
       ]
     },
     {
-      "de": "Komm her und nimm ein Stück Kuchen!",
-      "no": [
-        "Kom hit og ta en kake!",
-        "Kom hit og ta et stykke kake!",
-        "Kom hit og ta et kakestykke!"
-      ]
-    },
-    {
-      "de": "Wo wohnst du, und woher kommst du?",
-      "no": [
-        "Hvor bor du, og hvor kommer du fra?"
-      ]
-    },
-    {
-      "de": "Am Wochenende muss ich arbeiten.",
-      "no": [
-        "I helgen må jeg jobbe.",
-        "Jeg må jobbe i helgen.",
-        "I helgen må jeg arbeide.",
-        "Jeg må arbeide i helgen."
-      ]
-    },
-    {
-      "de": "Wollt ihr mitkommen?",
-      "no": [
-        "Vil dere bli med?",
-        "Vil dere være med?"
-      ]
-    },
-    {
       "de": "Du darfst nicht so viel fragen!",
       "no": [
         "Du må ikke spørre så mye!"
@@ -1296,13 +1289,25 @@
       "hint": "„darf nicht“ = må ikke."
     },
     {
-      "de": "Was bedeutet „rolig“ auf Norwegisch?",
+      "de": "Susanne ist vierundzwanzig Jahre alt.",
       "no": [
-        "Hva betyr «rolig» på norsk?"
+        "Susanne er tjuefire år.",
+        "Susanne er tjuefire år gammel.",
+        "Susanne er fireogtjue år.",
+        "Susanne er fireogtjue år gammel.",
+        "Susanne er 24 år.",
+        "Susanne er 24 år gammel."
       ]
     }
   ],
   "summary": [
+    {
+      "prompt": "Susanne har ferskt brød, ost og norske ___.",
+      "de": "Susanne hat frisches Brot, Käse und norwegische Erdbeeren.",
+      "answer": [
+        "jordbær"
+      ]
+    },
     {
       "prompt": "Mads har kaker fra et dansk ___.",
       "de": "Mads hat Kuchen aus einer dänischen Bäckerei.",
@@ -1318,73 +1323,67 @@
       ]
     },
     {
-      "prompt": "På svensk betyr «rolig» ___.",
-      "de": "Auf Schwedisch bedeutet „rolig“ „lustig“.",
-      "answer": [
-        "morsom"
-      ]
-    },
-    {
-      "prompt": "Matthias ___ alltid vite alt.",
-      "de": "Matthias will immer alles wissen.",
-      "answer": [
-        "vil"
-      ]
-    },
-    {
       "prompt": "Mads kan ikke bli med på tur. Han må ___ hele helgen.",
       "de": "Mads kann nicht mit auf die Wanderung kommen. Er muss das ganze Wochenende arbeiten.",
       "answer": [
         "jobbe",
         "arbeide"
       ]
+    },
+    {
+      "prompt": "I Norge sier man tallene i et telefonnummer to og ___.",
+      "de": "In Norwegen sagt man die Zahlen einer Telefonnummer paarweise.",
+      "answer": [
+        "to"
+      ]
     }
   ],
   "dictation": [
-    5,
-    13,
-    15,
-    18
+    1,
+    9,
+    12,
+    16
   ],
   "writing": {
-    "prompt": "Schreib Elin eine kurze Nachricht: Was hast du am Wochenende vor? Was kannst du nicht, was musst du tun? Lade sie zu etwas ein.",
+    "prompt": "Schreib Elin eine kurze Nachricht: Lade sie zu einem Picknick ein, beschreib mit Adjektiven, was du mitbringst, und gib ihr deine Telefonnummer.",
     "minWords": 30,
     "useWords": [
-      "skal",
-      "vil",
-      "kan",
-      "må",
+      "ta med",
+      "god",
+      "norske",
+      "nummeret",
       "bli med"
     ],
     "checklist": [
       {
-        "de": "Ein Plan fürs Wochenende (skal)",
-        "keywords": [
-          "skal"
-        ]
-      },
-      {
-        "de": "Eine Einladung",
+        "de": "Einladung",
         "keywords": [
           "bli med",
-          "vil du"
+          "vil du",
+          "kommer du"
         ]
       },
       {
-        "de": "Was du nicht kannst",
+        "de": "Essen mit Adjektiv",
         "keywords": [
-          "kan ikke",
-          "kan jeg ikke"
+          "ferskt",
+          "god",
+          "gode",
+          "norske",
+          "store",
+          "danske"
         ]
       },
       {
-        "de": "Was du tun musst",
+        "de": "Telefonnummer",
         "keywords": [
-          "må"
+          "nummeret",
+          "telefonnummer",
+          "telefonnummeret"
         ]
       }
     ],
-    "model": "Hei Elin! I morgen skal jeg gå på tur i Nordmarka med Matthias. Vil du bli med? Vi tar med brød, ost og jordbær. På søndag kan jeg dessverre ikke. Jeg må lese hele dagen, og jeg vil også ringe mamma. Hilsen Susanne",
-    "modelDe": "Hallo Elin! Morgen wandere ich mit Matthias in der Nordmarka. Willst du mitkommen? Wir nehmen Brot, Käse und Erdbeeren mit. Am Sonntag kann ich leider nicht. Ich muss den ganzen Tag lernen, und ich will auch Mama anrufen. Viele Grüße, Susanne"
+    "model": "Hei Elin! Vil du bli med på piknik i Frognerparken på lørdag? Jeg tar med ferskt brød, en god norsk ost og store, røde jordbær. Mads tar med danske kaker. Ring meg hvis du vil bli med. Nummeret mitt er førtiåtte sekstisju trettifem nittito. Hilsen Susanne",
+    "modelDe": "Hallo Elin! Möchtest du am Samstag mit zum Picknick in den Frognerpark kommen? Ich bringe frisches Brot, einen guten norwegischen Käse und große, rote Erdbeeren mit. Mads bringt dänischen Kuchen mit. Ruf mich an, wenn du mitkommen willst. Meine Nummer ist 48 67 35 92. Viele Grüße, Susanne"
   }
 }

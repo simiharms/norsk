@@ -5,18 +5,18 @@
   "titleDe": "Bier und Sahnetorte. In der Cafeteria",
   "place": "Oslo, eine Cafeteria bei Blindern",
   "goals": [
+    "Du kannst jemanden begrüßen, fragen, wie es ihm geht, antworten und dich verabschieden: Hei, hvordan har du det? – Takk, bare bra!",
     "Du kannst im Café bestellen, nach dem Preis fragen und bezahlen.",
-    "Du kannst von null bis zwanzig zählen und Preise verstehen.",
-    "Du lernst den unbestimmten Plural: biler, hus, lærere, menn.",
-    "Du lernst die Inversion: I dag drikker jeg kaffe.",
-    "Du lernst die Wortstellung im Nebensatz: … fordi jeg ikke har penger."
+    "Du lernst die drei Geschlechter mit en, ei und et.",
+    "Du kannst Aufforderungen geben: Kom hit! Ta en bit! Ikke stress!",
+    "Du kannst Sätze verneinen und weißt, wo ikke, alltid, aldri und ofte stehen: Jeg liker ikke krem."
   ],
   "text": {
     "id": "t02",
     "title": "Øl og bløtkake. På kafeteria",
     "titleDe": "Bier und Sahnetorte",
     "kind": "dialog",
-    "intro": "Freitagnachmittag nach dem Unterricht: Susanne, Matthias, Elin und Mads gehen in ein Café in der Nähe von Blindern. Sie bestellen an der Theke.",
+    "intro": "Freitagnachmittag nach dem Unterricht: Susanne, Matthias und Mads gehen in eine Cafeteria in der Nähe von Blindern und bestellen an der Theke. Elin kommt ein bisschen später dazu.",
     "speakers": {
       "mads": {
         "name": "Mads",
@@ -42,8 +42,8 @@
     "lines": [
       {
         "s": "mads",
-        "no": "Endelig fredag! Nå går vi på kafé, alle sammen.",
-        "de": "Endlich Freitag! Jetzt gehen wir alle ins Café."
+        "no": "Endelig fredag! Kom, alle sammen, vi går på kafé!",
+        "de": "Endlich Freitag! Kommt, alle zusammen, wir gehen ins Café!"
       },
       {
         "s": "susanne",
@@ -97,13 +97,23 @@
       },
       {
         "s": "elin",
-        "no": "Og jeg tar bare et glass vann. Det er gratis, ikke sant?",
-        "de": "Und ich nehme nur ein Glas Wasser. Das ist gratis, oder?"
+        "no": "Hei, alle sammen! Hvordan har dere det?",
+        "de": "Hallo zusammen! Wie geht es euch?"
+      },
+      {
+        "s": "mads",
+        "no": "Takk, bare bra! Og du?",
+        "de": "Danke, gut! Und dir?"
+      },
+      {
+        "s": "elin",
+        "no": "Jeg er litt trøtt, men det går fint. Jeg tar bare et glass vann. Det er gratis, ikke sant?",
+        "de": "Ich bin ein bisschen müde, aber es geht schon. Ich nehme nur ein Glas Wasser. Das ist gratis, oder?"
       },
       {
         "s": "eksp",
-        "no": "Ja, vann er gratis. Det står der borte.",
-        "de": "Ja, Wasser ist gratis. Es steht da drüben."
+        "no": "Ja, vann er gratis. Se, det står der borte.",
+        "de": "Ja, Wasser ist gratis. Schau, es steht da drüben."
       },
       {
         "s": "matthias",
@@ -112,8 +122,13 @@
       },
       {
         "s": "susanne",
-        "no": "Nei, men i dag er det fredag. Og når det er fredag, spiser jeg kake!",
-        "de": "Nein, aber heute ist Freitag. Und wenn Freitag ist, esse ich Kuchen!"
+        "no": "Nei, men i dag er det fredag, og jeg spiser alltid kake på fredager! Ta en bit, Matthias!",
+        "de": "Nein, aber heute ist Freitag, und freitags esse ich immer Kuchen! Probier mal ein Stück, Matthias!"
+      },
+      {
+        "s": "matthias",
+        "no": "Nei takk, jeg liker ikke krem.",
+        "de": "Nein danke, ich mag keine Sahne."
       },
       {
         "s": "elin",
@@ -122,18 +137,18 @@
       },
       {
         "s": "mads",
-        "no": "Ja, Torunn er en god lærer. Og vi lærer mye fordi vi snakker norsk hele tiden.",
-        "de": "Ja, Torunn ist eine gute Lehrerin. Und wir lernen viel, weil wir die ganze Zeit Norwegisch sprechen."
+        "no": "Ja, Torunn er en god lærer, og vi snakker norsk hele tiden.",
+        "de": "Ja, Torunn ist eine gute Lehrerin, und wir sprechen die ganze Zeit Norwegisch."
       },
       {
         "s": "matthias",
-        "no": "Kurset er bra. Men jeg er litt stresset fordi jeg ikke forstår alt ennå.",
-        "de": "Der Kurs ist gut. Aber ich bin ein bisschen gestresst, weil ich noch nicht alles verstehe."
+        "no": "Kurset er bra. Men jeg forstår ikke alt ennå, og jeg er litt stresset.",
+        "de": "Der Kurs ist gut. Aber ich verstehe noch nicht alles, und ich bin ein bisschen gestresst."
       },
       {
         "s": "susanne",
-        "no": "Ingen fare, Matthias! Det kommer.",
-        "de": "Keine Sorge, Matthias! Das kommt schon."
+        "no": "Ingen fare, Matthias! Ikke stress, det kommer.",
+        "de": "Keine Sorge, Matthias! Mach dir keinen Stress, das kommt schon."
       },
       {
         "s": "matthias",
@@ -151,12 +166,12 @@
         "de": "Endlich Freitag!"
       },
       {
-        "no": "Nå går vi",
-        "de": "Jetzt gehen wir (Inversion: Verb vor Subjekt)"
+        "no": "Kom, alle sammen",
+        "de": "Kommt, alle zusammen (Imperativ von komme)"
       },
       {
-        "no": "på kafé",
-        "de": "ins Café, im Café"
+        "no": "vi går på kafé",
+        "de": "wir gehen ins Café"
       },
       {
         "no": "Jeg er sulten",
@@ -165,10 +180,6 @@
       {
         "no": "Fire timer med grammatikk",
         "de": "vier Stunden Grammatik"
-      },
-      {
-        "no": "lang tid",
-        "de": "eine lange Zeit"
       },
       {
         "no": "Hva skal det være?",
@@ -183,14 +194,6 @@
         "de": "ein Stück Sahnetorte"
       },
       {
-        "no": "ikke så dyrt",
-        "de": "nicht so teuer"
-      },
-      {
-        "no": "Der drikker jeg øl",
-        "de": "Dort trinke ich Bier (Inversion)"
-      },
-      {
         "no": "Det blir 65 kroner",
         "de": "Das macht 65 Kronen"
       },
@@ -200,7 +203,7 @@
       },
       {
         "no": "Vær så god",
-        "de": "Bitte schön (beim Geben)"
+        "de": "Bitte schön (beim Geben; wörtlich: Sei so gut – ein Imperativ)"
       },
       {
         "no": "jeg tar en øl",
@@ -211,10 +214,6 @@
         "de": "Was kostet es? (den = en øl)"
       },
       {
-        "no": "dyrt",
-        "de": "teuer"
-      },
-      {
         "no": "selv for en sveitser",
         "de": "sogar für einen Schweizer"
       },
@@ -223,40 +222,60 @@
         "de": "zu Hause in Dänemark"
       },
       {
-        "no": "bare",
-        "de": "nur"
+        "no": "ikke så dyrt",
+        "de": "nicht so teuer"
+      },
+      {
+        "no": "Der drikker jeg øl",
+        "de": "Dort trinke ich Bier (das Verb bleibt auf Platz 2)"
+      },
+      {
+        "no": "Hvordan har dere det?",
+        "de": "Wie geht es euch? (zu einer Person: Hvordan har du det?)"
+      },
+      {
+        "no": "Takk, bare bra!",
+        "de": "Danke, gut! (bare bra = einfach gut, nicht »nur gut«)"
+      },
+      {
+        "no": "Og du?",
+        "de": "Und dir? Und du?"
+      },
+      {
+        "no": "det går fint",
+        "de": "es geht schon, es klappt"
       },
       {
         "no": "et glass vann",
         "de": "ein Glas Wasser"
       },
       {
-        "no": "gratis",
-        "de": "gratis, kostenlos"
-      },
-      {
         "no": "ikke sant?",
         "de": "oder? nicht wahr?"
+      },
+      {
+        "no": "Se",
+        "de": "Schau (Imperativ von se)"
       },
       {
         "no": "Det står der borte",
         "de": "Es steht da drüben"
       },
       {
-        "no": "Har du bursdag",
-        "de": "Hast du Geburtstag"
+        "no": "spiser alltid kake",
+        "de": "esse immer Kuchen (alltid steht direkt nach dem Verb)"
       },
       {
-        "no": "i dag",
-        "de": "heute"
+        "no": "på fredager",
+        "de": "freitags (fredager = Plural von fredag)"
       },
       {
-        "no": "når det er fredag",
-        "de": "wenn (immer wenn) Freitag ist"
+        "no": "Ta en bit",
+        "de": "Nimm ein Stückchen, probier mal (Imperativ von ta)"
       },
       {
-        "no": "spiser jeg kake",
-        "de": "esse ich Kuchen"
+        "no": "jeg liker ikke krem",
+        "de": "ich mag keine Sahne (ikke steht nach dem Verb)"
       },
       {
         "no": "Liker dere kurset",
@@ -267,28 +286,20 @@
         "de": "übrigens, eigentlich"
       },
       {
-        "no": "en god lærer",
-        "de": "eine gute Lehrerin"
-      },
-      {
-        "no": "fordi",
-        "de": "weil"
-      },
-      {
         "no": "hele tiden",
         "de": "die ganze Zeit"
       },
       {
-        "no": "stresset",
-        "de": "gestresst"
-      },
-      {
-        "no": "ikke forstår alt ennå",
-        "de": "noch nicht alles verstehe"
+        "no": "jeg forstår ikke alt ennå",
+        "de": "ich verstehe noch nicht alles"
       },
       {
         "no": "Ingen fare!",
         "de": "Keine Sorge! Kein Problem!"
+      },
+      {
+        "no": "Ikke stress",
+        "de": "Mach dir keinen Stress (verneinter Imperativ von stresse)"
       },
       {
         "no": "Det kommer",
@@ -317,16 +328,16 @@
           "de": "In Norwegen sagt man zu allen du: zur Lehrerin, zum Chef und zum Nachbarn. Man benutzt Vornamen, auch bei der Arbeit."
         },
         {
-          "no": "Nordmenn sier ofte takk. Når man møter en venn igjen, sier man «Takk for sist!» Etter kurset sier man «Takk for i dag!»",
-          "de": "Norweger sagen oft danke. Wenn man einen Freund wiedertrifft, sagt man »Danke für das letzte Mal!« Nach dem Kurs sagt man »Danke für heute!«"
+          "no": "Nordmenn sier ofte takk. Ser du en venn igjen? Da sier du «Takk for sist!». Etter kurset sier man «Takk for i dag!».",
+          "de": "Norweger sagen oft danke. Du siehst einen Freund wieder? Dann sagst du »Danke für das letzte Mal!«. Nach dem Kurs sagt man »Danke für heute!«."
         },
         {
           "no": "På en kafé bestiller man ofte ved disken. Man betaler med kort eller med mobilen, og vann tar man selv. Tips er frivillig.",
           "de": "In einem Café bestellt man oft an der Theke. Man bezahlt mit Karte oder mit dem Handy, und Wasser holt man sich selbst. Trinkgeld ist freiwillig."
         },
         {
-          "no": "Nordmenn er ofte punktlige. Hvis et møte begynner klokka ti, kommer man klokka ti.",
-          "de": "Norweger sind oft pünktlich. Wenn ein Treffen um zehn Uhr beginnt, kommt man um zehn Uhr."
+          "no": "Nordmenn er ofte punktlige. Begynner et møte klokka ti? Da kommer man klokka ti.",
+          "de": "Norweger sind oft pünktlich. Ein Treffen beginnt um zehn Uhr? Dann kommt man um zehn Uhr."
         },
         {
           "no": "Mange nordmenn snakker ikke så mye med fremmede, for eksempel på bussen. Det er ikke uhøflig. Det er bare normalt i Norge.",
@@ -371,12 +382,8 @@
           "de": "oft"
         },
         {
-          "no": "møter",
-          "de": "trifft"
-        },
-        {
-          "no": "en venn",
-          "de": "einen Freund, eine Freundin"
+          "no": "Ser du en venn",
+          "de": "Siehst du einen Freund, eine Freundin"
         },
         {
           "no": "igjen",
@@ -419,8 +426,12 @@
           "de": "pünktlich (Plural)"
         },
         {
-          "no": "Hvis et møte begynner",
-          "de": "Wenn ein Treffen beginnt"
+          "no": "Begynner et møte",
+          "de": "Beginnt ein Treffen"
+        },
+        {
+          "no": "Da",
+          "de": "dann, da"
         },
         {
           "no": "klokka ti",
@@ -463,9 +474,91 @@
   ],
   "wk": {
     "title": "Hei, hvordan har du det?",
-    "titleDe": "",
-    "phrases": [],
-    "_todo": "NEW"
+    "titleDe": "Hallo, wie geht es dir?",
+    "phrases": [
+      {
+        "no": "God morgen!",
+        "de": "Guten Morgen!",
+        "note": "Bis etwa zehn Uhr. Locker unter Freunden auch kurz: »Morn!«"
+      },
+      {
+        "no": "God kveld!",
+        "de": "Guten Abend!",
+        "note": "Etwas förmlicher. Unter Freunden sagt man auch abends einfach »Hei!«."
+      },
+      {
+        "no": "Hvordan har du det?",
+        "de": "Wie geht es dir?",
+        "note": "Wörtlich: »Wie hast du es?« Zu mehreren: »Hvordan har dere det?«"
+      },
+      {
+        "no": "Hvordan går det?",
+        "de": "Wie geht’s? Wie läuft’s?",
+        "note": "Etwas lockerer als »Hvordan har du det?«."
+      },
+      {
+        "no": "Hva skjer?",
+        "de": "Was gibt’s? Was ist los?",
+        "note": "Sehr locker, nur unter Freunden."
+      },
+      {
+        "no": "Takk, bare bra! Og du?",
+        "de": "Danke, gut! Und dir?",
+        "note": "»bare bra« heißt hier »einfach gut«, nicht »nur gut«. Und frag immer zurück: »Og du?«"
+      },
+      {
+        "no": "Veldig bra, takk!",
+        "de": "Sehr gut, danke!"
+      },
+      {
+        "no": "Ikke så verst.",
+        "de": "Nicht schlecht.",
+        "note": "Wörtlich »nicht so schlimm« – gemeint ist meist: ganz gut."
+      },
+      {
+        "no": "Sånn passe.",
+        "de": "Es geht so.",
+        "note": "Ehrlich, aber nicht dramatisch. Lange Klagen erwartet niemand."
+      },
+      {
+        "no": "Jeg er litt trøtt.",
+        "de": "Ich bin ein bisschen müde."
+      },
+      {
+        "no": "Lenge siden!",
+        "de": "Lange nicht gesehen!",
+        "note": "Wenn man jemanden lange nicht getroffen hat."
+      },
+      {
+        "no": "Takk for sist!",
+        "de": "Danke für das letzte Mal!",
+        "note": "Typisch norwegisch: Man bedankt sich beim Wiedersehen für das letzte Treffen."
+      },
+      {
+        "no": "Fint vær i dag, ikke sant?",
+        "de": "Schönes Wetter heute, oder?",
+        "note": "Das Wetter ist das Small-Talk-Thema Nummer eins."
+      },
+      {
+        "no": "Hva gjør du i helgen?",
+        "de": "Was machst du am Wochenende?"
+      },
+      {
+        "no": "Ha en fin helg! – Takk, i like måte!",
+        "de": "Schönes Wochenende! – Danke, gleichfalls!",
+        "note": "»I like måte« passt auf viele Wünsche: Ha en fin dag! – I like måte!"
+      },
+      {
+        "no": "Ha det! Vi ses!",
+        "de": "Tschüs! Bis dann!",
+        "note": "Locker. »Ha det!« ist kurz für »Ha det bra!«. Man schreibt auch »Vi sees!«."
+      },
+      {
+        "no": "God natt!",
+        "de": "Gute Nacht!",
+        "note": "Nur vor dem Schlafengehen – nicht als Abschiedsgruß am Abend."
+      }
+    ]
   },
   "grammar": [
     {
@@ -533,14 +626,14 @@
           "explain": "et hotell (neutrum)."
         },
         {
-          "prompt": "Familien Nygård har ___ jente og en gutt.",
-          "de": "Familie Nygård hat ein Mädchen und einen Jungen.",
+          "prompt": "Elin kjøper ___ flaske vann.",
+          "de": "Elin kauft eine Flasche Wasser.",
           "answer": [
             "ei",
             "en"
           ],
-          "hint": "jente ist feminin.",
-          "explain": "ei jente (feminin) – en jente ist auch richtig."
+          "hint": "flaske ist feminin.",
+          "explain": "ei flaske (feminin) – en flaske ist auch richtig."
         },
         {
           "prompt": "Matthias er ___ mann fra Sveits.",
@@ -595,8 +688,8 @@
           "explain": "et hus (neutrum) – wie im Deutschen: das Haus."
         },
         {
-          "prompt": "Matthias har ___ bil i Bern.",
-          "de": "Matthias hat ein Auto in Bern.",
+          "prompt": "Det står ___ bil der borte.",
+          "de": "Da drüben steht ein Auto.",
           "answer": [
             "en"
           ],
@@ -664,7 +757,7 @@
         },
         {
           "h": "Kleine Schreibregeln",
-          "body": "• Ein **m** wird am Wortende nie verdoppelt: **komme → kom!**, **glemme → glem!** (mehr dazu in Lektion 5).\n• Andere Doppelkonsonanten bleiben: **snakke → snakk!**, **slappe av → slapp av!**\n• Wäre das Wort ohne -e nicht aussprechbar, bleibt das -e: **åpne → Åpne vinduet!**, **sykle → Sykle forsiktig!**\n• **være → Vær!** folgt ganz der Regel, anders als deutsch „sein → sei“."
+          "body": "• Ein **m** wird am Wortende nie verdoppelt: **komme → kom!**, **glemme → glem!** (mehr dazu in Lektion 6).\n• Andere Doppelkonsonanten bleiben: **snakke → snakk!**, **slappe av → slapp av!**\n• Wäre das Wort ohne -e nicht aussprechbar, bleibt das -e: **åpne → Åpne vinduet!**, **sykle → Sykle forsiktig!**\n• **være → Vær!** folgt ganz der Regel, anders als deutsch „sein → sei“."
         },
         {
           "h": "Verneinung und Höflichkeit",
@@ -729,16 +822,16 @@
           "explain": "være → vær."
         },
         {
-          "prompt": "Ikke ___ regnjakka! (glemme)",
-          "de": "Vergiss die Regenjacke nicht!",
+          "prompt": "Ikke ___ å betale! (glemme)",
+          "de": "Vergiss nicht zu bezahlen!",
           "answer": [
             "glem"
           ],
           "explain": "glemme → glem: Kein Doppel-m am Wortende."
         },
         {
-          "prompt": "___ med på tur! (bli)",
-          "de": "Komm mit auf die Wanderung!",
+          "prompt": "___ med på kafé! (bli)",
+          "de": "Komm mit ins Café!",
           "answer": [
             "Bli"
           ],
@@ -762,7 +855,7 @@
       "sections": [
         {
           "h": "ikke steht direkt nach dem Verb",
-          "body": "Im norwegischen Hauptsatz steht **ikke** (nicht) direkt nach dem konjugierten Verb, also gleich nach Platz 2:\n\n• **Jeg snakker ikke svensk.** – Ich spreche kein Schwedisch.\n• **Mads kommer ikke i dag.** – Mads kommt heute nicht.\n\nIm Deutschen rutscht „nicht“ oft weit nach hinten („Mads kommt heute nicht“). Im Norwegischen bleibt **ikke** fest hinter dem Verb. ✗ Mads kommer i dag ikke.\n\nFür „kein“ nimmst du meistens einfach **ikke** (es gibt auch **ingen**, das kommt später): **Jeg har ikke bil.** – Ich habe kein Auto. **Vi bruker ikke vanskelige ord.** – Wir benutzen keine schwierigen Wörter."
+          "body": "Im norwegischen Hauptsatz steht **ikke** (nicht) direkt nach dem konjugierten Verb, also gleich nach Platz 2:\n\n• **Jeg snakker ikke svensk.** – Ich spreche kein Schwedisch.\n• **Mads kommer ikke i dag.** – Mads kommt heute nicht.\n\nIm Deutschen rutscht „nicht“ oft weit nach hinten („Mads kommt heute nicht“). Im Norwegischen bleibt **ikke** fest hinter dem Verb. ✗ Mads kommer i dag ikke.\n\nFür „kein“ nimmst du meistens einfach **ikke** (es gibt auch **ingen**, das kommt später): **Jeg har ikke bil.** – Ich habe kein Auto. **Jeg liker ikke krem.** – Ich mag keine Sahne."
         },
         {
           "h": "Andere Satzadverbien",
@@ -822,7 +915,7 @@
         },
         {
           "h": "Nach Inversion und mit Modalverb",
-          "body": "Steht etwas anderes als das Subjekt am Satzanfang, tauschen Verb und Subjekt die Plätze (Inversion, Lektion 2). **ikke** kommt dann nach dem Subjekt:\n\n• **I dag kommer han ikke.** – Heute kommt er nicht.\n• **Svensk forstår jeg ikke.** – Schwedisch verstehe ich nicht.\n\nMit einem Modalverb steht **ikke** nach dem Modalverb und vor dem Infinitiv:\n\n• **Jeg kan ikke komme i morgen.** – Ich kann morgen nicht kommen.\n• **I morgen kan jeg ikke komme.** – Morgen kann ich nicht kommen.\n\nZur Erinnerung: Im Nebensatz steht **ikke** VOR dem Verb: **…fordi jeg ikke har tid.**"
+          "body": "Steht etwas anderes als das Subjekt am Satzanfang, tauschen Verb und Subjekt die Plätze (Inversion, mehr dazu in Lektion 3). **ikke** kommt dann nach dem Subjekt:\n\n• **I dag kommer han ikke.** – Heute kommt er nicht.\n• **Svensk forstår jeg ikke.** – Schwedisch verstehe ich nicht.\n\nMit einem Modalverb steht **ikke** nach dem Modalverb und vor dem Infinitiv:\n\n• **Jeg kan ikke komme i morgen.** – Ich kann morgen nicht kommen.\n• **I morgen kan jeg ikke komme.** – Morgen kann ich nicht kommen.\n\nWo **ikke** im Nebensatz steht, lernst du in Lektion 8."
         }
       ],
       "drills": [
@@ -851,8 +944,8 @@
           "explain": "Inversion nach „I morgen“: Verb – Subjekt – ikke – Infinitiv."
         },
         {
-          "prompt": "Vi ___ på tur i Nordmarka. (går, ofte)",
-          "de": "Wir wandern oft in der Nordmarka.",
+          "prompt": "Vi ___ på kafé. (går, ofte)",
+          "de": "Wir gehen oft ins Café.",
           "answer": [
             "går ofte"
           ],
@@ -911,40 +1004,40 @@
   ],
   "tf": [
     {
-      "s": "Det er fredag.",
-      "de": "Es ist Freitag.",
-      "a": true,
-      "why": "Mads sagt: »Endelig fredag!«"
-    },
-    {
       "s": "Susanne betaler med kort.",
       "de": "Susanne zahlt mit Karte.",
       "a": true,
       "why": "Die Bedienung fragt »Betaler du med kort?«, und Susanne sagt »Ja.«"
     },
     {
-      "s": "Matthias sier at øl er billig i Norge.",
-      "de": "Matthias sagt, dass Bier in Norwegen billig ist.",
+      "s": "Øl er billig i Norge.",
+      "de": "Bier ist in Norwegen billig.",
       "a": false,
-      "why": "Matthias findet 98 Kronen teuer: »Det er dyrt, selv for en sveitser!«"
+      "why": "Ein Bier kostet 98 Kronen. Matthias sagt: »Det er dyrt, selv for en sveitser!«"
     },
     {
-      "s": "Elin tar et glass vann.",
-      "de": "Elin nimmt ein Glas Wasser.",
+      "s": "Elin er litt trøtt.",
+      "de": "Elin ist ein bisschen müde.",
       "a": true,
-      "why": "»Og jeg tar bare et glass vann.« Das Wasser ist gratis."
+      "why": "Elin sagt: »Jeg er litt trøtt, men det går fint.«"
     },
     {
       "s": "Susanne har bursdag i dag.",
       "de": "Susanne hat heute Geburtstag.",
       "a": false,
-      "why": "Sie isst Sahnetorte, weil Freitag ist, nicht weil sie Geburtstag hat."
+      "why": "Sie isst Sahnetorte, weil Freitag ist: »Jeg spiser alltid kake på fredager!«"
     },
     {
-      "s": "Mads drikker øl i Norge.",
-      "de": "Mads trinkt in Norwegen Bier.",
+      "s": "Matthias liker bløtkake.",
+      "de": "Matthias mag Sahnetorte.",
       "a": false,
-      "why": "In Dänemark trinkt er Bier, weil es dort nicht so teuer ist. Hier in Norwegen trinkt er Kaffee."
+      "why": "Er sagt: »Nei takk, jeg liker ikke krem.«"
+    },
+    {
+      "s": "Mads drikker kaffe i Norge.",
+      "de": "Mads trinkt in Norwegen Kaffee.",
+      "a": true,
+      "why": "»Der drikker jeg øl, men her drikker jeg kaffe.« In Dänemark trinkt er Bier, hier Kaffee."
     }
   ],
   "questions": [
@@ -980,28 +1073,32 @@
       ]
     },
     {
-      "q": "Hvorfor spiser Susanne bløtkake?",
-      "qDe": "Warum isst Susanne Sahnetorte?",
-      "answer": "Hun spiser bløtkake fordi det er fredag.",
-      "answerDe": "Sie isst Sahnetorte, weil Freitag ist.",
+      "q": "Hvordan har Elin det?",
+      "qDe": "Wie geht es Elin?",
+      "answer": "Hun er litt trøtt, men det går fint.",
+      "answerDe": "Sie ist ein bisschen müde, aber es geht schon.",
       "keywords": [
         [
-          "fredag"
+          "trøtt"
+        ],
+        [
+          "fint",
+          "bra"
         ]
       ]
     },
     {
-      "q": "Hvorfor er Matthias stresset?",
-      "qDe": "Warum ist Matthias gestresst?",
-      "answer": "Han er stresset fordi han ikke forstår alt ennå.",
-      "answerDe": "Er ist gestresst, weil er noch nicht alles versteht.",
+      "q": "Hva sier Matthias om kurset?",
+      "qDe": "Was sagt Matthias über den Kurs?",
+      "answer": "Kurset er bra, men han forstår ikke alt ennå.",
+      "answerDe": "Der Kurs ist gut, aber er versteht noch nicht alles.",
       "keywords": [
         [
-          "forstår",
-          "forstå"
+          "bra"
         ],
         [
-          "ikke"
+          "forstår ikke",
+          "skjønner ikke"
         ]
       ]
     }
@@ -1026,21 +1123,21 @@
       ]
     },
     {
-      "de": "Das macht 65 Kronen.",
+      "de": "Wie geht es euch?",
       "answer": [
-        "Det blir 65 kroner"
+        "Hvordan har dere det"
       ]
     },
     {
-      "de": "teuer",
+      "de": "Probier mal ein Stück!",
       "answer": [
-        "dyrt"
+        "Ta en bit"
       ]
     },
     {
-      "de": "Keine Sorge!",
+      "de": "Mach dir keinen Stress!",
       "answer": [
-        "Ingen fare"
+        "Ikke stress"
       ]
     }
   ],
@@ -1061,17 +1158,10 @@
       ]
     },
     {
-      "de": "Das kostet fünfzehn Kronen.",
+      "de": "Wie geht es dir?",
       "no": [
-        "Det koster femten kroner.",
-        "Det koster 15 kroner."
-      ]
-    },
-    {
-      "de": "Heute ist Freitag.",
-      "no": [
-        "I dag er det fredag.",
-        "Det er fredag i dag."
+        "Hvordan har du det?",
+        "Hvordan går det?"
       ]
     },
     {
@@ -1081,31 +1171,38 @@
       ]
     },
     {
-      "de": "In Dänemark ist Bier billig.",
+      "de": "Ich mag keine Sahnetorte.",
       "no": [
-        "I Danmark er øl billig.",
-        "Øl er billig i Danmark."
+        "Jeg liker ikke bløtkake."
+      ],
+      "hint": "»kein« heißt hier einfach ikke – direkt nach dem Verb."
+    },
+    {
+      "de": "Elin trinkt nie Kaffee.",
+      "no": [
+        "Elin drikker aldri kaffe."
+      ],
+      "hint": "aldri steht wie ikke direkt nach dem Verb."
+    },
+    {
+      "de": "Nimm ein Glas Wasser, Matthias!",
+      "no": [
+        "Ta et glass vann, Matthias!"
       ]
     },
     {
-      "de": "Ich esse Kuchen, weil ich Hunger habe.",
+      "de": "Komm her und probier mal!",
       "no": [
-        "Jeg spiser kake fordi jeg er sulten."
-      ],
-      "hint": "Hunger haben = være sulten."
-    },
-    {
-      "de": "Ich trinke Wasser, weil ich kein Geld habe.",
-      "no": [
-        "Jeg drikker vann fordi jeg ikke har penger."
-      ],
-      "hint": "kein Geld haben = ikke ha penger; im Nebensatz steht ikke vor dem Verb."
+        "Kom hit og smak!",
+        "Kom hit og ta en bit!",
+        "Kom hit og prøv!"
+      ]
     }
   ],
   "summary": [
     {
-      "prompt": "Etter kurset går Susanne, Matthias, Elin og Mads på ___.",
-      "de": "Nach dem Kurs gehen Susanne, Matthias, Elin und Mads ins Café.",
+      "prompt": "Etter kurset går Susanne, Matthias og Mads på ___.",
+      "de": "Nach dem Kurs gehen Susanne, Matthias und Mads ins Café.",
       "answer": [
         "kafé",
         "kafe"
@@ -1120,44 +1217,51 @@
       ]
     },
     {
-      "prompt": "En øl koster 98 kroner, og Matthias sier at det er ___.",
-      "de": "Ein Bier kostet 98 Kronen, und Matthias sagt, dass das teuer ist.",
+      "prompt": "En øl koster 98 kroner. Det er ___ for Matthias.",
+      "de": "Ein Bier kostet 98 Kronen. Das ist teuer für Matthias.",
       "answer": [
         "dyrt"
       ]
     },
     {
-      "prompt": "Elin tar et glass vann fordi vann er ___.",
-      "de": "Elin nimmt ein Glas Wasser, weil Wasser gratis ist.",
+      "prompt": "Elin er litt ___, og hun tar bare et glass vann.",
+      "de": "Elin ist ein bisschen müde und nimmt nur ein Glas Wasser.",
       "answer": [
-        "gratis"
+        "trøtt"
       ]
     },
     {
-      "prompt": "Matthias er stresset fordi han ikke ___ alt ennå.",
-      "de": "Matthias ist gestresst, weil er noch nicht alles versteht.",
+      "prompt": "Matthias forstår ___ alt ennå.",
+      "de": "Matthias versteht noch nicht alles.",
       "answer": [
-        "forstår"
+        "ikke"
       ]
     }
   ],
   "dictation": [
     1,
     3,
-    14,
-    17
+    11,
+    20
   ],
   "writing": {
-    "prompt": "Du sitzt in einem Café in Oslo. Schreib einer norwegischen Freundin eine kurze Nachricht: Wo bist du, mit wem, was isst und trinkst du, was kostet es – und warum bist du dort?",
+    "prompt": "Du sitzt nach dem Kurs in einem Café. Schreib einer Freundin aus dem Kurs eine kurze Nachricht: Frag, wie es ihr geht, schreib, was du isst und trinkst und was du nicht magst, und lade sie ein, auch zu kommen.",
     "minWords": 30,
     "useWords": [
-      "kafé",
+      "hvordan har du det",
+      "liker ikke",
+      "kom",
       "koster",
-      "kroner",
-      "fordi",
-      "i dag"
+      "kafé"
     ],
     "checklist": [
+      {
+        "de": "Frage nach dem Befinden",
+        "keywords": [
+          "hvordan har du det",
+          "hvordan går det"
+        ]
+      },
       {
         "de": "Essen oder Getränk",
         "keywords": [
@@ -1172,21 +1276,21 @@
         ]
       },
       {
-        "de": "Preis",
+        "de": "Was du nicht magst (ikke)",
         "keywords": [
-          "koster",
-          "kroner",
-          "blir"
+          "liker ikke",
+          "drikker ikke",
+          "spiser ikke"
         ]
       },
       {
-        "de": "Begründung mit fordi",
+        "de": "Einladung mit Imperativ",
         "keywords": [
-          "fordi"
+          "kom"
         ]
       }
     ],
-    "model": "Hei Anna! I dag er jeg på en kafé på Majorstuen med Elin. Jeg drikker en kopp te, og jeg spiser en bolle. Teen koster tjue kroner, og bollen koster 35 kroner. Det er dyrt, men det er godt! Elin drikker bare vann fordi hun ikke har penger. Kommer du også? Hilsen Susanne",
-    "modelDe": "Hallo Anna! Heute bin ich mit Elin in einem Café in Majorstuen. Ich trinke eine Tasse Tee und esse ein Hefebrötchen. Der Tee kostet zwanzig Kronen, und das Hefebrötchen kostet 35 Kronen. Das ist teuer, aber lecker! Elin trinkt nur Wasser, weil sie kein Geld hat. Kommst du auch? Viele Grüße, Susanne"
+    "model": "Hei Elin! Hvordan har du det? Jeg er på en kafé på Majorstuen med Mads. Jeg drikker en kopp te og spiser en bolle. Mads drikker kaffe, men jeg liker ikke kaffe. En bolle koster 35 kroner. Det er dyrt, men den er god! Kom hit du også! Hilsen Susanne",
+    "modelDe": "Hallo Elin! Wie geht es dir? Ich bin mit Mads in einem Café in Majorstuen. Ich trinke eine Tasse Tee und esse ein Hefebrötchen. Mads trinkt Kaffee, aber ich mag keinen Kaffee. Ein Hefebrötchen kostet 35 Kronen. Das ist teuer, aber es ist lecker! Komm doch auch her! Viele Grüße, Susanne"
   }
 }

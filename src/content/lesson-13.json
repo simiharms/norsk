@@ -4,43 +4,645 @@
   "title": "Annas møte med familien Nygård",
   "titleDe": "Annas Begegnung mit Familie Nygård",
   "place": "Oslo, Sagene: bei Familie Nygård",
-  "goals": [],
+  "goals": [
+    "Du kannst sagen, wem etwas gehört: sykkelen min, huset vårt, nøklene dine – und betont: MIN sykkel.",
+    "Du kannst den Genitiv mit til umschreiben (rommet til Susanne, nøkkelen til inngangsdøra) und kennst på, i und av in solchen Verbindungen.",
+    "Du verbindest Sätze mit Zeitkonjunktionen: da, når, mens, før, etter at, til, siden, så snart.",
+    "Du kannst über eine Mietwohnung und Formalitäten sprechen: Mietvertrag, Kaution, Umzugsmeldung, Strom und Internet.",
+    "Du lernst Klassiker der norwegischen Kinderliteratur kennen: Egner, Prøysen, Vestly, Gaarder und Parr."
+  ],
   "text": {
     "id": "t13",
     "title": "Annas møte med familien Nygård",
     "titleDe": "Annas Begegnung mit Familie Nygård",
-    "kind": "prose",
-    "lines": [],
-    "glossary": [],
-    "_todo": "NEW TEXT"
+    "kind": "dialog",
+    "intro": "Ein Samstag Ende Oktober. Anna muss aus ihrer WG in Kringsjå ausziehen, und im November beginnt ihr Praktikum im Krankenhaus Ullevål. Familie Nygård vermietet eine kleine Souterrainwohnung (sokkelleilighet). Susanne nimmt Anna mit, damit sie die Wohnung ansehen kann – und Anna lernt die Familie zum ersten Mal kennen.",
+    "speakers": {
+      "susanne": {
+        "name": "Susanne",
+        "gender": "f"
+      },
+      "anna": {
+        "name": "Anna",
+        "gender": "f"
+      },
+      "ola": {
+        "name": "Ola",
+        "gender": "m"
+      },
+      "kari": {
+        "name": "Kari",
+        "gender": "f"
+      },
+      "per": {
+        "name": "Per",
+        "gender": "m"
+      },
+      "ingrid": {
+        "name": "Bestemor Ingrid",
+        "gender": "f"
+      }
+    },
+    "lines": [
+      {
+        "s": "susanne",
+        "no": "Kom inn, Anna! Men pass på, det står en sykkel midt i gangen.",
+        "de": "Komm rein, Anna! Aber pass auf, mitten im Flur steht ein Fahrrad."
+      },
+      {
+        "s": "anna",
+        "no": "Er det sykkelen din?",
+        "de": "Ist das dein Fahrrad?"
+      },
+      {
+        "s": "susanne",
+        "no": "Nei, den er ikke min. Min står ute. Jeg tror det er sykkelen til Ola.",
+        "de": "Nein, das ist nicht meins. Meins steht draußen. Ich glaube, es ist Olas Fahrrad."
+      },
+      {
+        "s": "ola",
+        "no": "Ja, den er min. Hei, jeg er Ola! Unnskyld, jeg skulle sette den i kjelleren før dere kom.",
+        "de": "Ja, das ist meins. Hallo, ich bin Ola! Entschuldigung, ich wollte es in den Keller stellen, bevor ihr kommt."
+      },
+      {
+        "s": "kari",
+        "no": "Og her kommer Bamse, hunden vår. Ikke vær redd, han bjeffer, men han biter ikke. Velkommen, Anna! Jeg er Kari, og dette er mannen min, Per.",
+        "de": "Und hier kommt Bamse, unser Hund. Keine Angst, er bellt, aber er beißt nicht. Willkommen, Anna! Ich bin Kari, und das ist mein Mann Per."
+      },
+      {
+        "s": "anna",
+        "no": "Hei, så hyggelig å hilse på dere! Susanne og jeg har vært tandempartnere siden august.",
+        "de": "Hallo, wie schön, euch kennenzulernen! Susanne und ich sind seit August Tandempartnerinnen."
+      },
+      {
+        "s": "per",
+        "no": "Og nå trenger du et nytt sted å bo?",
+        "de": "Und jetzt brauchst du eine neue Bleibe?"
+      },
+      {
+        "s": "anna",
+        "no": "Ja. Kontrakten min i kollektivet på Kringsjå går ut 31. oktober. Og når praksisen min på Ullevål sykehus begynner i november, vil jeg gjerne bo nærmere sykehuset.",
+        "de": "Ja. Mein Vertrag in der WG in Kringsjå läuft am 31. Oktober aus. Und wenn im November mein Praktikum im Krankenhaus Ullevål beginnt, möchte ich gern näher am Krankenhaus wohnen."
+      },
+      {
+        "s": "per",
+        "no": "Da har du kommet til rett sted. Herfra sykler du til Ullevål på ti minutter. Og her kommer mor mi, Ingrid. Hun er på besøk fra Lillehammer.",
+        "de": "Dann bist du hier genau richtig. Von hier fährst du in zehn Minuten mit dem Rad nach Ullevål. Und da kommt meine Mutter, Ingrid. Sie ist aus Lillehammer zu Besuch."
+      },
+      {
+        "s": "ingrid",
+        "no": "Bare kall meg bestemor, det gjør alle i dette huset. Da jeg var på din alder, leide jeg også en liten kjellerleilighet i Oslo. Den var kald og mørk!",
+        "de": "Nenn mich einfach Oma, das tun alle in diesem Haus. Als ich in deinem Alter war, habe ich auch eine kleine Kellerwohnung in Oslo gemietet. Sie war kalt und dunkel!"
+      },
+      {
+        "s": "kari",
+        "no": "Vår sokkelleilighet er heldigvis både varm og lys. Kom, så går vi ned og ser på den.",
+        "de": "Unsere Souterrainwohnung ist zum Glück warm und hell. Komm, wir gehen runter und sehen sie uns an."
+      },
+      {
+        "s": "ola",
+        "no": "Inngangen er på baksiden av huset. Bamse, bli her!",
+        "de": "Der Eingang ist auf der Rückseite des Hauses. Bamse, bleib hier!"
+      },
+      {
+        "s": "kari",
+        "no": "Her er nøklene. Den store er nøkkelen til inngangsdøra, og den lille er til postkassa.",
+        "de": "Hier sind die Schlüssel. Der große ist der Schlüssel für die Haustür, und der kleine ist für den Briefkasten."
+      },
+      {
+        "s": "anna",
+        "no": "Så lyst og fint det er her! Er møblene deres, eller må jeg ta med mine?",
+        "de": "Wie hell und schön es hier ist! Gehören die Möbel euch, oder muss ich meine mitbringen?"
+      },
+      {
+        "s": "kari",
+        "no": "Senga, bordet og sofaen er våre, men du kan gjerne bruke dem. Skrivebordet var Olas.",
+        "de": "Das Bett, der Tisch und das Sofa gehören uns, aber du kannst sie gern benutzen. Der Schreibtisch war Olas."
+      },
+      {
+        "s": "ola",
+        "no": "Det var mitt til jeg fikk et nytt til bursdagen min. Nå er det ditt, Anna.",
+        "de": "Er war meiner, bis ich zum Geburtstag einen neuen bekommen habe. Jetzt ist er deiner, Anna."
+      },
+      {
+        "s": "anna",
+        "no": "Tusen takk, Ola! Og hva er prisen på leiligheten?",
+        "de": "Vielen Dank, Ola! Und was kostet die Wohnung?"
+      },
+      {
+        "s": "per",
+        "no": "Leia er ni tusen kroner i måneden. Internett er inkludert, men strømmen betaler du selv. Du må skaffe deg en strømavtale.",
+        "de": "Die Miete beträgt neuntausend Kronen im Monat. Internet ist inklusive, aber den Strom bezahlst du selbst. Du musst dir einen Stromvertrag besorgen."
+      },
+      {
+        "s": "anna",
+        "no": "Det er greit. Og hva med depositum?",
+        "de": "Das ist in Ordnung. Und wie ist es mit der Kaution?"
+      },
+      {
+        "s": "kari",
+        "no": "Vi vil ha tre måneders leie i depositum. Ifølge loven kan depositumet være høyst seks måneders leie. Pengene står på en depositumskonto i ditt navn, ikke på kontoen vår.",
+        "de": "Wir möchten drei Monatsmieten als Kaution. Laut Gesetz darf die Kaution höchstens sechs Monatsmieten betragen. Das Geld liegt auf einem Kautionskonto auf deinen Namen, nicht auf unserem Konto."
+      },
+      {
+        "s": "anna",
+        "no": "Så bra. Når kan jeg flytte inn?",
+        "de": "Sehr gut. Wann kann ich einziehen?"
+      },
+      {
+        "s": "per",
+        "no": "Leiligheten er ledig fra 1. november. Jeg skriver husleiekontrakten i kveld. Så snart du har signert den og betalt depositumet, er nøklene dine.",
+        "de": "Die Wohnung ist ab dem 1. November frei. Ich schreibe heute Abend den Mietvertrag. Sobald du ihn unterschrieben und die Kaution bezahlt hast, gehören die Schlüssel dir."
+      },
+      {
+        "s": "anna",
+        "no": "Og hva må jeg gjøre etter at jeg har flyttet?",
+        "de": "Und was muss ich tun, nachdem ich umgezogen bin?"
+      },
+      {
+        "s": "kari",
+        "no": "Du må sende flyttemelding til Folkeregisteret. Det gjør du på nettsidene til Skatteetaten, senest åtte dager etter at du har flyttet. Du logger inn med fødselsnummeret ditt og BankID.",
+        "de": "Du musst deinen Umzug dem Melderegister (Folkeregisteret) melden. Das machst du auf den Webseiten der Steuerverwaltung (Skatteetaten), spätestens acht Tage, nachdem du umgezogen bist. Du meldest dich mit deiner Personennummer und BankID an."
+      },
+      {
+        "s": "susanne",
+        "no": "Så enkelt! I Tyskland må man ofte gå til et kontor, trekke kølapp og vente.",
+        "de": "So einfach! In Deutschland muss man oft zu einem Amt gehen, eine Wartenummer ziehen und warten."
+      },
+      {
+        "s": "ingrid",
+        "no": "Mens dere snakker om papirer, lager jeg kaffe. Etter så mye byråkrati trenger alle vafler!",
+        "de": "Während ihr über Papierkram redet, koche ich Kaffee. Nach so viel Bürokratie brauchen alle Waffeln!"
+      },
+      {
+        "s": "susanne",
+        "no": "Rommet mitt er oppe i andre etasje. Synd at jeg flytter til Tromsø 1. november! Da står det tomt.",
+        "de": "Mein Zimmer ist oben im ersten Stock. Schade, dass ich am 1. November nach Tromsø ziehe! Dann steht es leer."
+      },
+      {
+        "s": "ola",
+        "no": "Når Susanne har flyttet, får jeg endelig ro. Rommet til Susanne er ved siden av mitt, og hun synger i dusjen!",
+        "de": "Wenn Susanne ausgezogen ist, habe ich endlich Ruhe. Susannes Zimmer ist neben meinem, und sie singt unter der Dusche!"
+      },
+      {
+        "s": "anna",
+        "no": "Jeg har bestemt meg: Jeg tar leiligheten! Og nå vil jeg gjerne smake de vaflene, bestemor.",
+        "de": "Ich habe mich entschieden: Ich nehme die Wohnung! Und jetzt würde ich gern diese Waffeln probieren, Oma."
+      }
+    ],
+    "glossary": [
+      {
+        "no": "pass på",
+        "de": "pass auf"
+      },
+      {
+        "no": "midt i gangen",
+        "de": "mitten im Flur (gang = Flur)"
+      },
+      {
+        "no": "Min står ute",
+        "de": "Meins steht draußen (min = mein Fahrrad; ute = draußen, Lektion 14)"
+      },
+      {
+        "no": "sykkelen til Ola",
+        "de": "Olas Fahrrad"
+      },
+      {
+        "no": "jeg skulle sette den i kjelleren",
+        "de": "ich wollte (eigentlich) es in den Keller stellen"
+      },
+      {
+        "no": "hunden vår",
+        "de": "unser Hund"
+      },
+      {
+        "no": "Ikke vær redd",
+        "de": "Keine Angst! (wörtlich: Sei nicht ängstlich)"
+      },
+      {
+        "no": "biter",
+        "de": "beißt (bite – bet – bitt)"
+      },
+      {
+        "no": "mannen min",
+        "de": "mein Mann"
+      },
+      {
+        "no": "hilse på dere",
+        "de": "euch kennenzulernen, euch zu begrüßen"
+      },
+      {
+        "no": "et nytt sted å bo",
+        "de": "eine neue Bleibe (wörtlich: einen neuen Ort zum Wohnen)"
+      },
+      {
+        "no": "i kollektivet",
+        "de": "in der WG (et kollektiv = Wohngemeinschaft)"
+      },
+      {
+        "no": "går ut",
+        "de": "läuft aus (ein Vertrag, eine Frist)"
+      },
+      {
+        "no": "Ullevål sykehus",
+        "de": "das Universitätskrankenhaus Ullevål in Oslo"
+      },
+      {
+        "no": "kommet til rett sted",
+        "de": "an der richtigen Adresse (wörtlich: am richtigen Ort angekommen)"
+      },
+      {
+        "no": "på ti minutter",
+        "de": "in (innerhalb von) zehn Minuten"
+      },
+      {
+        "no": "mor mi",
+        "de": "meine Mutter (bei mor, far, bror, søster ohne bestimmte Form)"
+      },
+      {
+        "no": "på din alder",
+        "de": "in deinem Alter (feste Wendung, Possessiv vorn)"
+      },
+      {
+        "no": "mørk",
+        "de": "dunkel"
+      },
+      {
+        "no": "Vår sokkelleilighet",
+        "de": "UNSERE Souterrainwohnung (betont: Possessiv vorn)"
+      },
+      {
+        "no": "baksiden av huset",
+        "de": "die Rückseite des Hauses"
+      },
+      {
+        "no": "nøkkelen til inngangsdøra",
+        "de": "der Schlüssel für die Haustür"
+      },
+      {
+        "no": "Er møblene deres",
+        "de": "Gehören die Möbel euch? (deres = euer, eure)"
+      },
+      {
+        "no": "Senga",
+        "de": "das Bett (ei seng)"
+      },
+      {
+        "no": "til jeg fikk et nytt",
+        "de": "bis ich einen neuen (Schreibtisch) bekam"
+      },
+      {
+        "no": "til bursdagen min",
+        "de": "zu meinem Geburtstag"
+      },
+      {
+        "no": "prisen på leiligheten",
+        "de": "der Preis der Wohnung"
+      },
+      {
+        "no": "Leia",
+        "de": "die Miete (ei leie, auch: husleie)"
+      },
+      {
+        "no": "i måneden",
+        "de": "im Monat, monatlich"
+      },
+      {
+        "no": "hva med",
+        "de": "was ist mit, wie ist es mit"
+      },
+      {
+        "no": "tre måneders leie",
+        "de": "drei Monatsmieten"
+      },
+      {
+        "no": "i ditt navn",
+        "de": "auf deinen Namen"
+      },
+      {
+        "no": "er nøklene dine",
+        "de": "gehören die Schlüssel dir"
+      },
+      {
+        "no": "nettsidene til Skatteetaten",
+        "de": "die Webseiten der Steuerverwaltung"
+      },
+      {
+        "no": "trekke kølapp",
+        "de": "eine Wartenummer ziehen"
+      },
+      {
+        "no": "papirer",
+        "de": "Papiere, Papierkram"
+      },
+      {
+        "no": "oppe i andre etasje",
+        "de": "oben im ersten Stock (andre etasje = 1. Stock, denn in Norwegen ist das Erdgeschoss første etasje)"
+      },
+      {
+        "no": "står det tomt",
+        "de": "steht es leer"
+      },
+      {
+        "no": "får jeg endelig ro",
+        "de": "habe ich endlich Ruhe"
+      },
+      {
+        "no": "synger i dusjen",
+        "de": "singt unter der Dusche"
+      }
+    ]
   },
   "extra": [
     {
       "id": "x13a",
       "title": "Norsk barnelitteratur",
-      "titleDe": "",
+      "titleDe": "Norwegische Kinderliteratur",
       "kind": "info",
-      "lines": [],
-      "glossary": [],
-      "_todo": "NEW TEXT"
+      "intro": "Welche Bücher kennt in Norwegen jedes Kind? Ein kurzer Überblick von Thorbjørn Egner bis Maria Parr.",
+      "lines": [
+        {
+          "no": "«Hvilke bøker leste du da du var liten?» Hvis du spør nordmenn om det, får du ofte de samme svarene. Mange norske barnebøker er over seksti år gamle, men barn leser dem fortsatt, og foreldre og besteforeldre kan sangene fra dem utenat.",
+          "de": "„Welche Bücher hast du als Kind gelesen?“ Wenn du Norweger danach fragst, bekommst du oft die gleichen Antworten. Viele norwegische Kinderbücher sind über sechzig Jahre alt, aber Kinder lesen sie immer noch, und Eltern und Großeltern können die Lieder daraus auswendig."
+        },
+        {
+          "no": "Den mest kjente forfatteren er Thorbjørn Egner (1912–1990). Han skrev både historiene og sangene, og han tegnet bildene selv. I «Karius og Baktus» bor to små troll i tennene til gutten Jens – helt til han begynner å pusse tennene. I «Klatremus og de andre dyrene i Hakkebakkeskogen» (1953) må Mikkel Rev lære at alle dyrene i skogen skal være venner.",
+          "de": "Der bekannteste Autor ist Thorbjørn Egner (1912–1990). Er schrieb sowohl die Geschichten als auch die Lieder, und er zeichnete die Bilder selbst. In „Karius und Baktus“ wohnen zwei kleine Trolle in den Zähnen des Jungen Jens – bis er anfängt, sich die Zähne zu putzen. In „Klatremus og de andre dyrene i Hakkebakkeskogen“ (Klettermaus und die anderen Tiere im Hackebackewald, 1953) muss der Fuchs Mikkel lernen, dass alle Tiere im Wald Freunde sein sollen."
+        },
+        {
+          "no": "«Folk og røvere i Kardemomme by» (1955) handler om de tre røverne Kasper, Jesper og Jonatan. I den lille byen gjelder bare én lov: «Man skal ikke plage andre, man skal være grei og snill, og for øvrig kan man gjøre hva man vil.» Mange nordmenn synes at det er en god lov for et helt land.",
+          "de": "„Folk og røvere i Kardemomme by“ (Leute und Räuber in Kardemomme, 1955) handelt von den drei Räubern Kasper, Jesper und Jonatan. In der kleinen Stadt gilt nur ein Gesetz: „Man soll andere nicht plagen, man soll nett und lieb sein, und im Übrigen kann man tun, was man will.“ Viele Norweger finden, dass das ein gutes Gesetz für ein ganzes Land ist."
+        },
+        {
+          "no": "Alf Prøysen (1914–1970) kom fra Ringsaker ved Mjøsa. Den mest kjente figuren hans er Teskjekjerringa, ei gammel kone som plutselig blir like lita som ei teskje – og som alltid klarer seg likevel. Anne-Cath. Vestly skrev om vanlige familier. I «Åtte små, to store og en lastebil» bor en stor familie trangt i en liten leilighet i byen, og i bøkene om Aurora er faren hjemme med barna, mens mora jobber.",
+          "de": "Alf Prøysen (1914–1970) stammte aus Ringsaker am Mjøsa-See. Seine bekannteste Figur ist Teskjekjerringa, eine alte Frau, die plötzlich so klein wie ein Teelöffel wird – und trotzdem immer zurechtkommt. Anne-Cath. Vestly schrieb über ganz normale Familien. In „Åtte små, to store og en lastebil“ (Acht Kleine, zwei Große und ein Lastwagen) wohnt eine große Familie beengt in einer kleinen Wohnung in der Stadt, und in den Büchern über Aurora ist der Vater mit den Kindern zu Hause, während die Mutter arbeitet."
+        },
+        {
+          "no": "Jostein Gaarder skrev «Sofies verden» (1991), en roman om filosofiens historie. Sofie er fjorten år, og en dag får hun et brev med spørsmålet «Hvem er du?». Folk over hele verden har lest boka. Blant de nyere forfatterne er Maria Parr. Hun skriver på nynorsk, og bøkene hennes, for eksempel «Vaffelhjarte» og «Tonje Glimmerdal», handler om modige og morsomme barn på landet.",
+          "de": "Jostein Gaarder schrieb „Sofies Welt“ (1991), einen Roman über die Geschichte der Philosophie. Sofie ist vierzehn, und eines Tages bekommt sie einen Brief mit der Frage „Wer bist du?“. Menschen auf der ganzen Welt haben das Buch gelesen. Zu den neueren Autorinnen gehört Maria Parr. Sie schreibt auf Nynorsk, und ihre Bücher, zum Beispiel „Vaffelhjarte“ (Waffelherz) und „Tonje Glimmerdal“, handeln von mutigen und lustigen Kindern auf dem Land."
+        }
+      ],
+      "glossary": [
+        {
+          "no": "barnebøker",
+          "de": "Kinderbücher (ei barnebok – barnebøker)"
+        },
+        {
+          "no": "utenat",
+          "de": "auswendig"
+        },
+        {
+          "no": "Den mest kjente forfatteren",
+          "de": "der bekannteste Autor"
+        },
+        {
+          "no": "tegnet",
+          "de": "zeichnete (tegne)"
+        },
+        {
+          "no": "troll",
+          "de": "Trolle (hier: kleine Zahntrolle)"
+        },
+        {
+          "no": "i tennene til gutten Jens",
+          "de": "in den Zähnen des Jungen Jens"
+        },
+        {
+          "no": "helt til",
+          "de": "bis (endlich)"
+        },
+        {
+          "no": "pusse tennene",
+          "de": "sich die Zähne putzen"
+        },
+        {
+          "no": "Mikkel Rev",
+          "de": "Mikkel, der Fuchs (en rev = Fuchs)"
+        },
+        {
+          "no": "Hakkebakkeskogen",
+          "de": "der Hackebackewald (erfundener Name)"
+        },
+        {
+          "no": "Kardemomme by",
+          "de": "die Stadt Kardemomme (erfunden; heute auch ein Themenpark im Tierpark von Kristiansand)"
+        },
+        {
+          "no": "røverne",
+          "de": "die Räuber"
+        },
+        {
+          "no": "gjelder",
+          "de": "gilt (gjelde)"
+        },
+        {
+          "no": "plage",
+          "de": "plagen, ärgern"
+        },
+        {
+          "no": "grei",
+          "de": "nett, umgänglich"
+        },
+        {
+          "no": "for øvrig",
+          "de": "im Übrigen"
+        },
+        {
+          "no": "Ringsaker ved Mjøsa",
+          "de": "Ringsaker am Mjøsa, dem größten See Norwegens"
+        },
+        {
+          "no": "figuren hans",
+          "de": "seine Figur"
+        },
+        {
+          "no": "Teskjekjerringa",
+          "de": "die Teelöffelfrau (kjerring = alte Frau, umgangssprachlich)"
+        },
+        {
+          "no": "like lita som ei teskje",
+          "de": "so klein wie ein Teelöffel (lita = liten bei ei-Wörtern)"
+        },
+        {
+          "no": "klarer seg",
+          "de": "kommt zurecht"
+        },
+        {
+          "no": "lastebil",
+          "de": "Lastwagen"
+        },
+        {
+          "no": "trangt",
+          "de": "beengt (bo trangt = beengt wohnen)"
+        },
+        {
+          "no": "filosofiens historie",
+          "de": "die Geschichte der Philosophie"
+        },
+        {
+          "no": "Blant de nyere forfatterne",
+          "de": "unter den neueren Autoren"
+        },
+        {
+          "no": "nynorsk",
+          "de": "Nynorsk, die zweite norwegische Schriftsprache"
+        },
+        {
+          "no": "på landet",
+          "de": "auf dem Land"
+        },
+        {
+          "no": "Hvilke bøker",
+          "de": "welche Bücher (hvilken – hvilket – hvilke)"
+        },
+        {
+          "no": "Karius og Baktus",
+          "de": "Karius und Baktus, zwei kleine Zahntrolle"
+        },
+        {
+          "no": "Klatremus",
+          "de": "Klettermaus (Name einer Maus)"
+        },
+        {
+          "no": "Alf Prøysen",
+          "de": "Alf Prøysen, Autor und Liedermacher"
+        },
+        {
+          "no": "Anne-Cath. Vestly",
+          "de": "Anne-Cath. Vestly (1920–2008), Kinderbuchautorin"
+        },
+        {
+          "no": "Jostein Gaarder",
+          "de": "Jostein Gaarder, Autor"
+        },
+        {
+          "no": "Sofies verden",
+          "de": "Sofies Welt"
+        },
+        {
+          "no": "Sofie",
+          "de": "Sofie, die Hauptfigur des Romans"
+        },
+        {
+          "no": "Vaffelhjarte",
+          "de": "Waffelherz (Nynorsk; auf Bokmål: vaffelhjerte)"
+        },
+        {
+          "no": "Tonje Glimmerdal",
+          "de": "Tonje Glimmerdal, Titelheldin von Maria Parr"
+        }
+      ]
     }
   ],
   "wk": {
     "title": "Byråkrati og formaliteter",
-    "titleDe": "",
-    "phrases": [],
-    "_todo": "NEW"
+    "titleDe": "Bürokratie und Formalitäten",
+    "phrases": [
+      {
+        "no": "Jeg må fylle ut et skjema.",
+        "de": "Ich muss ein Formular ausfüllen."
+      },
+      {
+        "no": "Har du legitimasjon?",
+        "de": "Hast du einen Ausweis dabei?",
+        "note": "Als legitimasjon gelten z. B. pass (Reisepass), nasjonalt ID-kort oder førerkort (Führerschein)."
+      },
+      {
+        "no": "Kan jeg få se passet ditt?",
+        "de": "Darf ich deinen Pass sehen?"
+      },
+      {
+        "no": "Hva er fødselsnummeret ditt?",
+        "de": "Wie lautet deine Personennummer?",
+        "note": "Das fødselsnummer hat 11 Ziffern: das Geburtsdatum (6) und fünf weitere. Ohne geht in Norwegen fast nichts."
+      },
+      {
+        "no": "Jeg har bare et D-nummer.",
+        "de": "Ich habe nur eine D-Nummer.",
+        "note": "Wer nur kurze Zeit in Norwegen ist, bekommt oft statt eines fødselsnummer ein D-nummer."
+      },
+      {
+        "no": "Jeg vil melde flytting.",
+        "de": "Ich möchte einen Umzug melden.",
+        "note": "Die flyttemelding geht online an das Folkeregister bei Skatteetaten – spätestens acht Tage nach dem Umzug."
+      },
+      {
+        "no": "Hva er den nye adressen din?",
+        "de": "Wie ist deine neue Adresse?"
+      },
+      {
+        "no": "Jeg vil gjerne åpne en bankkonto.",
+        "de": "Ich möchte gern ein Bankkonto eröffnen."
+      },
+      {
+        "no": "Du logger inn med BankID.",
+        "de": "Du meldest dich mit BankID an.",
+        "note": "BankID ist die elektronische Identität der Norweger: für Bank, Behörden und digitale Unterschriften."
+      },
+      {
+        "no": "Hvor skal jeg skrive under?",
+        "de": "Wo soll ich unterschreiben?",
+        "note": "skrive under = signere."
+      },
+      {
+        "no": "Du kan signere kontrakten digitalt.",
+        "de": "Du kannst den Vertrag digital unterschreiben."
+      },
+      {
+        "no": "Jeg har søkt om skattekort.",
+        "de": "Ich habe eine Steuerkarte beantragt.",
+        "note": "Wer in Norwegen arbeitet, braucht ein skattekort."
+      },
+      {
+        "no": "Når er fristen?",
+        "de": "Wann ist die Frist? / Bis wann muss es fertig sein?"
+      },
+      {
+        "no": "Fristen går ut på fredag.",
+        "de": "Die Frist läuft am Freitag ab."
+      },
+      {
+        "no": "Søknaden din er under behandling.",
+        "de": "Dein Antrag wird bearbeitet.",
+        "note": "Wörtlich: ist in Bearbeitung."
+      },
+      {
+        "no": "Saksbehandleren ringer deg i neste uke.",
+        "de": "Der Sachbearbeiter ruft dich nächste Woche an."
+      },
+      {
+        "no": "Du må legge ved en kopi av passet.",
+        "de": "Du musst eine Kopie des Passes beilegen."
+      },
+      {
+        "no": "Kan du sende meg en bekreftelse?",
+        "de": "Kannst du mir eine Bestätigung schicken?"
+      },
+      {
+        "no": "Husk å trekke kølapp!",
+        "de": "Denk daran, eine Wartenummer zu ziehen!"
+      },
+      {
+        "no": "Jeg vil gjerne bestille time.",
+        "de": "Ich möchte gern einen Termin vereinbaren.",
+        "note": "time = Stunde und Termin (beim Arzt, beim Amt)."
+      },
+      {
+        "no": "Det står i kontrakten.",
+        "de": "Das steht im Vertrag."
+      }
+    ]
   },
   "grammar": [
     {
       "id": "g13_possessiv",
       "title": "Possessivpronomen",
       "titleNo": "eiendomspronomen",
-      "summary": "Possessivpronomen stehen meist hinter dem bestimmten Substantiv (jakka mi, huset vårt, skiene dine); davor nur zur Betonung (MIN genser).",
+      "summary": "Possessivpronomen stehen meist hinter dem bestimmten Substantiv (sykkelen min, huset vårt, nøklene dine); davor nur zur Betonung (MIN sykkel).",
       "sections": [
         {
           "h": "Die Formen",
-          "body": "Die Possessivpronomen der 1. und 2. Person Singular und **vår** richten sich nach dem Ding, das jemandem gehört – so wie im Deutschen die Endung von »mein/meine«. Entscheidend ist: Ist es ein en-Wort, ein ei-Wort, ein et-Wort oder Plural?\n\n• **genseren min** (en genser), **lua mi** (ei lue), **skjerfet mitt** (et skjerf), **skoene mine** (Plural)\n• **posen din**, **jakka di**, **skjerfet ditt**, **skiene dine**\n• **hytta vår**, **huset vårt**, **posene våre** – vår gilt für en- und ei-Wörter\n\n**hans**, **hennes** und **deres** ändern sich nie: **jakka hans, skjerfet hennes, skiene deres**. Ob **hans** oder **hennes**, entscheidet – genau wie bei »sein« und »ihr« – der Besitzer: **anorakken hans** (Pers Anorak), **yndlingsjakka hennes** (Karis Lieblingsjacke).\n\n**deres** bedeutet »euer« und »ihr« (mehrere Besitzer): **Hvor er foreldrene deres?** – Wo sind eure / ihre Eltern? Die Höflichkeitsform **Deres** (Ihr) mit großem D ist heute selten.\n\n**mi** und **di** gehören zur a-Form: **jakka mi**. Mit der en-Form sagt man **jakken min**. Auch **jakka min** hört und liest man oft, und es ist erlaubt. In diesem Kurs schreiben wir **jakka mi**.\n\n**dens** und **dets** (für Dinge und Tiere) sind schriftsprachlich und selten. Über Tiere spricht man meist wie über Menschen: **Bamse og halen hans** – Bamse und sein Schwanz.",
+          "body": "Die Possessivpronomen der 1. und 2. Person Singular und **vår** richten sich nach dem Ding, das jemandem gehört – so wie im Deutschen die Endung von »mein/meine«. Entscheidend ist: Ist es ein en-Wort, ein ei-Wort, ein et-Wort oder Plural?\n\n• **sykkelen min** (en sykkel), **boka mi** (ei bok), **rommet mitt** (et rom), **nøklene mine** (Plural)\n• **sykkelen din**, **boka di**, **rommet ditt**, **nøklene dine**\n• **hunden vår**, **hytta vår**, **huset vårt**, **møblene våre** – **vår** gilt für en- und ei-Wörter\n\n**hans**, **hennes** und **deres** ändern sich nie: **sykkelen hans, rommet hennes, hunden deres**. Ob **hans** oder **hennes**, entscheidet – genau wie bei »sein« und »ihr« – der Besitzer: **sykkelen hans** (Olas Fahrrad), **rommet hennes** (Susannes Zimmer).\n\n**deres** bedeutet »euer« und »ihr« (mehrere Besitzer): **Er møblene deres?** – Gehören die Möbel euch? Die Höflichkeitsform **Deres** (Ihr) mit großem D ist heute selten.\n\n**mi** und **di** gehören zur a-Form: **boka mi**. Mit der en-Form sagt man **boken min**. Auch **boka min** hört und liest man oft, und es ist erlaubt. In diesem Kurs schreiben wir **boka mi**.\n\n**dens** und **dets** (für Dinge und Tiere) sind schriftsprachlich und selten. Über Tiere spricht man meist wie über Menschen: **Bamse og halen hans** – Bamse und sein Schwanz.",
           "table": [
             [
               "",
@@ -109,7 +711,7 @@
         },
         {
           "h": "Die Stellung: meist hinter dem Substantiv",
-          "body": "Im Deutschen steht das Possessivpronomen vor dem Substantiv: »mein Schal«. Im Norwegischen steht es normalerweise **dahinter**, und das Substantiv hat die **bestimmte Form**:\n\n• **skjerfet mitt** – mein Schal (wörtlich: »der Schal meiner«)\n• **skiene dine** – deine Ski\n• **posene våre** – unsere Tüten\n\nVor dem Substantiv steht es, wenn du den Besitzer **betonen** willst (Kontrast), und in feierlicher oder schriftlicher Sprache. Dann bleibt das Substantiv **unbestimmt**:\n\n• **Det er MIN genser, ikke din!** – Das ist MEIN Pullover, nicht deiner!\n• **Det er mitt siste tilbud.** – Das ist mein letztes Angebot. (feste Wendung)\n\nBei ei-Wörtern nimmt man vor dem Substantiv meist **min**: **min lue** (seltener **mi lue**).\n\nTypische Fehler: *min genseren* (doppelt bestimmt) oder *genser min* (ohne Endung). Richtig ist **genseren min** – oder betont **min genser**.\n\nMit Adjektiv sagt man **den varme jakka mi** – meine warme Jacke (mehr dazu in Lektion 14). Und weil es keine Fälle gibt, bleibt nach Präpositionen alles gleich: **med broren min** – mit meinem Bruder, **til søstera di** – zu deiner Schwester.",
+          "body": "Im Deutschen steht das Possessivpronomen vor dem Substantiv: »mein Zimmer«. Im Norwegischen steht es normalerweise **dahinter**, und das Substantiv hat die **bestimmte Form**:\n\n• **rommet mitt** – mein Zimmer (wörtlich »das Zimmer meiner«)\n• **nøklene dine** – deine Schlüssel\n• **kontoen vår** – unser Konto\n\nVor dem Substantiv steht es, wenn du den Besitzer **betonen** willst (Kontrast), und in einigen festen Wendungen. Dann bleibt das Substantiv **unbestimmt**:\n\n• **Det er MIN sykkel, ikke din!** – Das ist MEIN Fahrrad, nicht deins!\n• **Vår sokkelleilighet er heldigvis varm.** – UNSERE Wohnung ist zum Glück warm (nicht so wie die von Ingrid früher).\n• **i ditt navn** (auf deinen Namen), **på din alder** (in deinem Alter) – feste Wendungen\n\nBei ei-Wörtern nimmt man vor dem Substantiv meist **min**: **min bok** (seltener **mi bok**).\n\nTypische Fehler: *min sykkelen* (doppelt bestimmt) oder *sykkel min* (ohne Endung). Richtig ist **sykkelen min** – oder betont **min sykkel**.\n\nMit Adjektiv sagt man **den nye sykkelen min** – mein neues Fahrrad (mehr dazu in Lektion 16). Und weil es keine Fälle gibt, bleibt nach Präpositionen alles gleich: **med mannen min** – mit meinem Mann, **til mora di** – zu deiner Mutter.",
           "table": [
             [
               "normal (dahinter)",
@@ -117,9 +719,9 @@
               "Deutsch"
             ],
             [
-              "**lua mi**",
-              "**min lue** (auch **mi lue**)",
-              "meine Mütze"
+              "**boka mi**",
+              "**min bok** (auch **mi bok**)",
+              "mein Buch"
             ],
             [
               "**huset vårt**",
@@ -127,51 +729,59 @@
               "unser Haus"
             ],
             [
-              "**skiene hans**",
-              "**hans ski**",
-              "seine Ski"
+              "**sykkelen hans**",
+              "**hans sykkel**",
+              "sein Fahrrad"
             ],
             [
-              "**jakka hennes**",
-              "**hennes jakke**",
-              "ihre Jacke"
+              "**rommet hennes**",
+              "**hennes rom**",
+              "ihr Zimmer"
             ]
           ]
         },
         {
           "h": "Allein stehend und bei Familienwörtern",
-          "body": "Ohne Substantiv richtet sich das Possessivpronomen nach dem Ding, von dem die Rede ist:\n\n• **Er skjerfet ditt? – Nei, det er ikke mitt.** (et skjerf)\n• **Er genseren din? – Ja, den er min.** (en genser)\n• **Skistøvlene er dine, Anna.** (Plural)\n• **Så den er deres?** – Sie gehört also euch?\n\nBei den engsten Familienwörtern **far, mor, bror, søster** steht meist die Grundform ohne Endung: **far min, mor mi, bror min, søster mi**. Umgangssprachlich hört man auch **faren min, moren min / mora mi**. Bei anderen Verwandten nimmt man die bestimmte Form: **onkelen min, tanta mi**. Großeltern nennt man oft ganz ohne Possessiv, wie einen Namen: **Jeg fikk det av bestemor.**"
+          "body": "Ohne Substantiv richtet sich das Possessivpronomen nach dem Ding, von dem die Rede ist:\n\n• **Er det sykkelen din? – Nei, den er ikke min.** (en sykkel)\n• **Skrivebordet var Olas. Nå er det ditt.** (et skrivebord)\n• **Senga, bordet og sofaen er våre.** (Plural)\n• **Er møblene deres, eller må jeg ta med mine?**\n\nBei den engsten Familienwörtern **far, mor, bror, søster** steht meist die Grundform ohne Endung: **far min, mor mi, bror min, søster mi**. Umgangssprachlich hört man auch **faren min, mora mi / moren min**. Bei anderen Verwandten und bei **mann** und **kone** nimmt man die bestimmte Form: **mannen min, kona mi, onkelen min**. Großeltern nennt man oft ganz ohne Possessiv, wie einen Namen: **Bare kall meg bestemor.**"
         },
         {
           "h": "Wem gehört das?",
-          "body": "So fragst und antwortest du:\n\n• **Er det jakka di?** – Ist das deine Jacke?\n• **Hvem eier denne jakka?** – Wem gehört diese Jacke?\n• **Hvem sin jakke er det?** – Wessen Jacke ist das? (umgangssprachlich; schriftlich: **Hvis jakke er det?**)\n• **Det er Karis jakke.** / **Det er jakka til Kari.** – Das ist Karis Jacke. (Den Genitiv mit -s kennst du aus Lektion 9; die Form mit **til** lernst du genauer in Lektion 16.)\n\nVorschau auf Lektion 15: Wenn der Besitzer zugleich das **Subjekt desselben Satzes** ist, braucht man **sin/si/sitt/sine**. **Per har gitt bort jakka hennes** heißt also: Per hat **Karis** Jacke verschenkt, nicht seine eigene. Darum kommen **hans** und **hennes** in den Übungen dieser Lektion nur vor, wenn jemand anderes als das Subjekt der Besitzer ist."
+          "body": "So fragst und antwortest du:\n\n• **Er det nøkkelen din?** – Ist das dein Schlüssel?\n• **Hvem eier denne sykkelen?** – Wem gehört dieses Fahrrad?\n• **Hvem sin sykkel er det?** – Wessen Fahrrad ist das? (umgangssprachlich; schriftlich: **Hvis sykkel er det?**)\n• **Det er Olas sykkel.** / **Det er sykkelen til Ola.** – Das ist Olas Fahrrad. (Den Genitiv mit -s kennst du aus Lektion 9; die Form mit **til** kommt im nächsten Kapitel.)\n\nVorschau auf Lektion 15: Wenn der Besitzer zugleich das **Subjekt desselben Satzes** ist, braucht man **sin/si/sitt/sine**. **Kari låner sykkelen hennes** heißt also: Kari leiht sich das Fahrrad einer anderen Frau (zum Beispiel Susannes) – nicht ihr eigenes. Darum kommen **hans** und **hennes** in den Übungen dieser Lektion nur vor, wenn jemand anderes als das Subjekt der Besitzer ist."
         }
       ],
       "drills": [
         {
-          "prompt": "Jeg finner ikke lua ___. (jeg)",
-          "de": "Ich finde meine Mütze nicht.",
+          "prompt": "Jeg finner ikke nøklene ___. (jeg)",
+          "de": "Ich finde meine Schlüssel nicht.",
           "answer": [
-            "mi",
-            "min"
+            "mine"
           ],
-          "explain": "ei lue – lua → mi. Mit der en-Form heißt es luen min; lua min ist auch erlaubt."
+          "explain": "Plural (nøklene) → mine."
         },
         {
-          "prompt": "Er dette skjerfet ___? (du)",
-          "de": "Ist das dein Schal?",
+          "prompt": "Er dette rommet ___, Susanne? (du)",
+          "de": "Ist das dein Zimmer, Susanne?",
           "answer": [
             "ditt"
           ],
-          "explain": "et skjerf → ditt."
+          "explain": "et rom → ditt."
         },
         {
-          "prompt": "Ola, er det skiene ___? (du)",
-          "de": "Ola, sind das deine Ski?",
+          "prompt": "Ola, er dette boka ___? (du)",
+          "de": "Ola, ist das dein Buch?",
           "answer": [
-            "dine"
+            "di",
+            "din"
           ],
-          "explain": "Plural → dine."
+          "explain": "ei bok – boka → di. Mit der en-Form heißt es boken din; boka din ist auch erlaubt."
+        },
+        {
+          "prompt": "Bamse er hunden ___. (vi)",
+          "de": "Bamse ist unser Hund.",
+          "answer": [
+            "vår"
+          ],
+          "explain": "en hund → vår (vår gilt für en- und ei-Wörter)."
         },
         {
           "prompt": "Huset ___ ligger på Sagene. (vi)",
@@ -182,103 +792,61 @@
           "explain": "et hus → vårt."
         },
         {
-          "prompt": "Hytta ___ ligger i Gudbrandsdalen. (vi)",
-          "de": "Unsere Hütte liegt im Gudbrandsdal.",
-          "answer": [
-            "vår"
-          ],
-          "explain": "vår gilt für en- und ei-Wörter; nur et-Wörter haben vårt, der Plural våre."
-        },
-        {
-          "prompt": "Anna og Ola, hvor er foreldrene ___? (dere)",
-          "de": "Anna und Ola, wo sind eure Eltern?",
-          "answer": [
-            "deres"
-          ],
-          "explain": "deres = euer (und ihr, Plural); es ändert sich nie."
-        },
-        {
-          "prompt": "Det er Pers anorakk. Det er anorakken ___.",
-          "de": "Das ist Pers Anorak. Das ist sein Anorak.",
+          "prompt": "Det er Olas sykkel. Det er sykkelen ___.",
+          "de": "Das ist Olas Fahrrad. Das ist sein Fahrrad.",
           "answer": [
             "hans"
           ],
-          "explain": "Der Besitzer ist ein Mann → hans."
+          "explain": "Der Besitzer ist ein Mann (Ola) → hans."
         },
         {
-          "prompt": "Det er Annas skistøvler. Det er skistøvlene ___.",
-          "de": "Das sind Annas Skischuhe. Das sind ihre Skischuhe.",
+          "prompt": "Det er Susannes rom. Det er rommet ___.",
+          "de": "Das ist Susannes Zimmer. Das ist ihr Zimmer.",
           "answer": [
             "hennes"
           ],
-          "explain": "Die Besitzerin ist eine Frau → hennes; Plural ändert daran nichts."
+          "explain": "Die Besitzerin ist eine Frau → hennes; hans und hennes ändern sich nie."
         },
         {
-          "prompt": "Per har gitt bort jakka ___. (= Karis Jacke)",
-          "de": "Per hat ihre Jacke (Karis Jacke) verschenkt.",
-          "answer": [
-            "hennes"
-          ],
-          "explain": "Die Jacke gehört Kari, nicht dem Subjekt Per → hennes. Wäre es Pers eigene Jacke, hieße es jakka si (Lektion 15)."
-        },
-        {
-          "prompt": "Kari og Per har en hund. Hunden ___ heter Bamse.",
-          "de": "Kari und Per haben einen Hund. Ihr Hund heißt Bamse.",
+          "prompt": "Kari og Per, er dette nøkkelen ___? (dere)",
+          "de": "Kari und Per, ist das euer Schlüssel?",
           "answer": [
             "deres"
           ],
-          "explain": "Mehrere Besitzer → deres."
+          "explain": "Mehrere Besitzer, angesprochen mit dere → deres (euer)."
         },
         {
-          "prompt": "Den blå jakka er ikke ___, den er Karis. (jeg)",
-          "de": "Die blaue Jacke gehört nicht mir, sie gehört Kari.",
+          "prompt": "Er det sykkelen din? – Nei, den er ikke ___. (jeg)",
+          "de": "Ist das dein Fahrrad? – Nein, das ist nicht meins.",
           "answer": [
-            "mi",
             "min"
           ],
-          "explain": "Allein stehend richtet sich das Possessiv nach dem Ding: jakka (ei) → mi; min ist auch erlaubt."
+          "explain": "Allein stehend richtet sich das Possessiv nach dem Ding: en sykkel → min."
         },
         {
-          "prompt": "Er genseren ___? (du)",
-          "de": "Gehört der Pullover dir?",
+          "prompt": "Det er MIN ___, ikke din! (sykkel)",
+          "de": "Das ist MEIN Fahrrad, nicht deins!",
           "answer": [
-            "din"
+            "sykkel"
           ],
-          "explain": "en genser → din."
+          "explain": "Steht das Possessiv betont vor dem Substantiv, bleibt das Substantiv unbestimmt: min sykkel – nicht *min sykkelen."
         },
         {
-          "prompt": "Det er MIN ___, ikke din! (genser)",
-          "de": "Das ist MEIN Pullover, nicht deiner!",
+          "prompt": "Har du sett ___ mine? (nøkkel)",
+          "de": "Hast du meine Schlüssel gesehen?",
           "answer": [
-            "genser"
+            "nøklene"
           ],
-          "explain": "Steht das Possessiv betont vor dem Substantiv, bleibt das Substantiv unbestimmt: min genser – nicht *min genseren."
+          "explain": "Vor dem nachgestellten Possessiv steht die bestimmte Form: nøklene mine."
         },
         {
-          "prompt": "Har du sett ___ mine? (sko)",
-          "de": "Hast du meine Schuhe gesehen?",
+          "prompt": "___ mi er på besøk fra Lillehammer. (mor)",
+          "de": "Meine Mutter ist aus Lillehammer zu Besuch.",
           "answer": [
-            "skoene"
+            "Mor",
+            "Mora"
           ],
-          "explain": "Vor dem nachgestellten Possessiv steht die bestimmte Form: skoene mine."
-        },
-        {
-          "prompt": "___ min jobber i Oslo kommune. (far)",
-          "de": "Mein Vater arbeitet bei der Stadt Oslo.",
-          "answer": [
-            "Far",
-            "Faren"
-          ],
-          "explain": "Bei far, mor, bror, søster steht meist die Grundform: far min, mor mi. Umgangssprachlich auch faren min."
-        },
-        {
-          "prompt": "Susanne, er dette ___? (du, votter)",
-          "de": "Susanne, sind das deine Fäustlinge?",
-          "answer": [
-            "vottene dine",
-            "dine votter"
-          ],
-          "explain": "en vott – vottene (bestimmter Plural) + dine. Betont ginge auch dine votter."
+          "explain": "Bei far, mor, bror, søster steht meist die Grundform: mor mi. Umgangssprachlich auch mora mi (oder moren min)."
         }
       ]
     },
@@ -286,143 +854,140 @@
       "id": "g13_genitiv_omskriving",
       "title": "Umschreibung des Genitivs durch eine Präpositionalverbindung",
       "titleNo": "genitiv med preposisjon",
-      "summary": "Statt Genitiv-s verwendet man oft eine Präposition: rommet til Inga, taket på huset, Universitetet i Tromsø, en venn av meg.",
+      "summary": "Statt Genitiv-s sagt man – vor allem im Gespräch – meist til: rommet til Susanne, sykkelen til Ola, nøkkelen til døra. Kurz dazu: på, i, av.",
       "sections": [
         {
           "h": "til bei Personen und Besitzern",
-          "body": "Im gesprochenen Norwegisch sagt man selten **Ingas rom**. Viel häufiger ist: Substantiv in der **bestimmten Form** + **til** + Besitzer:\n\n• **rommet til Inga** = Ingas Zimmer\n• **faren til Anna** = Annas Vater\n• **bilen til naboen** = das Auto des Nachbarn\n\nAchtung: Nach dem Genitiv-s ist das Substantiv unbestimmt (**Ingas rom**), mit **til** ist es bestimmt (**rommet til Inga**). Nach **til** steht ein Pronomen in der Objektform: **boka til ham**, **kofferten til henne** – meist sagt man aber einfach **boka hans**, **kofferten hennes**.",
+          "body": "Den Genitiv mit -s kennst du aus Lektion 9: **Olas sykkel**. Im gesprochenen Norwegisch ist aber eine andere Form viel häufiger: Substantiv in der **bestimmten Form** + **til** + Besitzer.\n\n• **sykkelen til Ola** = Olas Fahrrad\n• **rommet til Susanne** = Susannes Zimmer\n• **mora til Per** = Pers Mutter\n• **hunden til familien Nygård** = der Hund der Familie Nygård\n\nAchtung: Nach dem Genitiv-s ist das Substantiv unbestimmt (**Susannes rom**), mit **til** ist es bestimmt (**rommet til Susanne**). Nach **til** steht ein Pronomen in der Objektform: **sykkelen til ham**, **rommet til henne** – meist sagt man dann aber einfach **sykkelen hans**, **rommet hennes**.",
           "table": [
             [
               "mit -s",
-              "mit Präposition",
+              "mit til",
               "Deutsch"
             ],
             [
-              "**Ingas rom**",
-              "**rommet til Inga**",
-              "Ingas Zimmer"
+              "**Olas sykkel**",
+              "**sykkelen til Ola**",
+              "Olas Fahrrad"
             ],
             [
-              "**Pers bil**",
-              "**bilen til Per**",
-              "Pers Auto"
+              "**Susannes rom**",
+              "**rommet til Susanne**",
+              "Susannes Zimmer"
             ],
             [
-              "**professorens kontor**",
-              "**kontoret til professoren**",
-              "das Büro des Professors"
+              "**Pers mor**",
+              "**mora til Per**",
+              "Pers Mutter"
+            ],
+            [
+              "**Annas kontrakt**",
+              "**kontrakten til Anna**",
+              "Annas Vertrag"
             ]
           ]
         },
         {
-          "h": "på, i und av bei Dingen, Orten und Mengen",
-          "body": "Bei Dingen benutzt man fast nie -s, sondern eine Präposition. Welche, hängt von der Bedeutung ab:\n\n• **på** für Teile und Eigenschaften einer Sache: **taket på huset** (das Dach des Hauses), **prisen på boka** (der Preis des Buches), **navnet på gata** (der Name der Straße), **døra på kjøleskapet**\n• **i** für Orte und Institutionen an einem Ort: **Universitetet i Tromsø**, **lysene i byen**, **ordføreren i Bergen**\n• **av** für „einer von / ein Teil von“ und für Bilder: **en venn av meg** (ein Freund von mir), **en av studentene**, **halvparten av forelesningen**, **slutten av filmen**, **et bilde av Inga**\n\nDie Wahl der Präposition muss man teilweise einfach lernen – das Deutsche hilft hier wenig, denn dort steht meist der Genitiv oder „von“."
+          "h": "til bei Dingen: »gehört zu, ist für«",
+          "body": "Auch bei Dingen steht **til**, wenn etwas zu etwas anderem gehört oder dafür gedacht ist. Im Deutschen sagt man hier oft »für« oder bildet ein zusammengesetztes Wort:\n\n• **nøkkelen til inngangsdøra** – der Schlüssel für die Haustür, der Haustürschlüssel\n• **nøkkelen til postkassa** – der Briefkastenschlüssel\n• **kontrakten til leiligheten** – der Vertrag für die Wohnung\n\nIm Gespräch hörst du oft auch **Ola sin sykkel** (Name + **sin/si/sitt/sine**). Das ist umgangssprachlich – schreib lieber **sykkelen til Ola** oder **Olas sykkel**."
         },
         {
-          "h": "Typische Fehler",
-          "body": "• Nicht **Inga sitt rom** schreiben – das hört man zwar oft im Gespräch, aber in der Schriftsprache heißt es **rommet til Inga** oder **Ingas rom**.\n• Nach dem -s nie die bestimmte Form: **Annas bror**, nicht *Annas broren*.\n• „Ein Freund von mir“ heißt **en venn av meg**, nicht *en venn fra meg*."
+          "h": "Kurz: på, i und av",
+          "body": "Für andere Verbindungen nimmt man andere Präpositionen. Drei solltest du schon jetzt kennen:\n\n• **på** für Teile und Eigenschaften einer Sache: **prisen på leiligheten** (der Preis der Wohnung), **taket på huset** (das Dach des Hauses)\n• **i** für Institutionen an einem Ort: **Universitetet i Oslo**\n• **av** für »einer von«: **en venn av meg** (ein Freund von mir), **en av nøklene** (einer der Schlüssel)\n\nWelche Präposition passt, muss man teilweise einfach lernen – das ganze Bild kommt in Lektion 22.\n\nTypische Fehler: nach dem -s nie die bestimmte Form (**Olas sykkel**, nicht *Olas sykkelen*); mit **til** nie die unbestimmte (**sykkelen til Ola**, nicht *sykkel til Ola*); »ein Freund von mir« heißt **en venn av meg**, nicht *en venn fra meg*."
         }
       ],
       "drills": [
         {
-          "prompt": "Rommet ___ Inga er lite og ryddig.",
-          "de": "Ingas Zimmer ist klein und ordentlich.",
+          "prompt": "Rommet ___ Susanne er oppe i andre etasje.",
+          "de": "Susannes Zimmer ist oben im ersten Stock.",
           "answer": [
             "til"
           ],
-          "explain": "Besitzer ist eine Person: bestimmte Form + til (rommet til Inga)."
+          "explain": "Besitzer ist eine Person: bestimmte Form + til (rommet til Susanne)."
         },
         {
-          "prompt": "Det ligger mye snø på taket ___ biblioteket.",
-          "de": "Auf dem Dach der Bibliothek liegt viel Schnee.",
+          "prompt": "Mora ___ Per er på besøk fra Lillehammer.",
+          "de": "Pers Mutter ist aus Lillehammer zu Besuch.",
+          "answer": [
+            "til"
+          ],
+          "explain": "Person als Besitzer: mora til Per."
+        },
+        {
+          "prompt": "Kontrakten ___ Anna går ut 31. oktober.",
+          "de": "Annas Vertrag läuft am 31. Oktober aus.",
+          "answer": [
+            "til"
+          ],
+          "explain": "kontrakten til Anna = Annas kontrakt."
+        },
+        {
+          "prompt": "Bamse er hunden ___ familien Nygård.",
+          "de": "Bamse ist der Hund der Familie Nygård.",
+          "answer": [
+            "til"
+          ],
+          "explain": "Auch eine Familie kann Besitzer sein: hunden til familien Nygård."
+        },
+        {
+          "prompt": "Her er nøkkelen ___ inngangsdøra.",
+          "de": "Hier ist der Schlüssel für die Haustür.",
+          "answer": [
+            "til"
+          ],
+          "explain": "Etwas gehört zu etwas oder ist dafür gedacht: nøkkelen til døra."
+        },
+        {
+          "prompt": "Olas sykkel = ___ til Ola",
+          "de": "Olas Fahrrad",
+          "answer": [
+            "sykkelen"
+          ],
+          "explain": "Mit til steht das Substantiv in der bestimmten Form: sykkelen til Ola."
+        },
+        {
+          "prompt": "Pers mor = ___ til Per",
+          "de": "Pers Mutter",
+          "answer": [
+            "mora",
+            "moren"
+          ],
+          "explain": "Bestimmte Form + til: mora (moren) til Per – anders als mor mi ohne Endung."
+        },
+        {
+          "prompt": "Den er ikke min. Det er sykkelen til ___. (er = Ola)",
+          "de": "Es ist nicht meins. Es ist sein Fahrrad.",
+          "answer": [
+            "ham",
+            "han"
+          ],
+          "explain": "Nach til steht die Objektform: til ham. Meist sagt man aber einfach sykkelen hans."
+        },
+        {
+          "prompt": "Hva er prisen ___ leiligheten?",
+          "de": "Was kostet die Wohnung? (Wie hoch ist der Preis der Wohnung?)",
           "answer": [
             "på"
           ],
-          "explain": "Teil einer Sache: på (taket på biblioteket)."
+          "explain": "Preis, Name, Farbe einer Sache: på (prisen på leiligheten)."
         },
         {
-          "prompt": "Susanne studerer ved Universitetet ___ Tromsø.",
-          "de": "Susanne studiert an der Universität Tromsø.",
+          "prompt": "Anna studerer medisin ved Universitetet ___ Oslo.",
+          "de": "Anna studiert Medizin an der Universität Oslo.",
           "answer": [
             "i"
           ],
-          "explain": "Institution an einem Ort: i (Universitetet i Tromsø)."
+          "explain": "Institution an einem Ort: i (Universitetet i Oslo)."
         },
         {
-          "prompt": "Hva er prisen ___ boka?",
-          "de": "Was kostet das Buch? (Wie hoch ist der Preis des Buches?)",
-          "answer": [
-            "på"
-          ],
-          "explain": "Preis, Name, Farbe einer Sache: på (prisen på boka)."
-        },
-        {
-          "prompt": "Hun forsto bare halvparten ___ forelesningen.",
-          "de": "Sie verstand nur die Hälfte der Vorlesung.",
+          "prompt": "Henrik er en god venn ___ meg.",
+          "de": "Henrik ist ein guter Freund von mir.",
           "answer": [
             "av"
           ],
-          "explain": "Ein Teil von etwas: av (halvparten av forelesningen)."
-        },
-        {
-          "prompt": "Vet du navnet ___ gata der Inga bor?",
-          "de": "Weißt du den Namen der Straße, in der Inga wohnt?",
-          "answer": [
-            "på"
-          ],
-          "explain": "Der Name einer Sache: navnet på gata."
-        },
-        {
-          "prompt": "Mora ___ Inga bor fortsatt i Kautokeino.",
-          "de": "Ingas Mutter wohnt immer noch in Kautokeino.",
-          "answer": [
-            "til"
-          ],
-          "explain": "Person als Besitzer: mora til Inga."
-        },
-        {
-          "prompt": "Inga viste Susanne et bilde ___ familien sin.",
-          "de": "Inga zeigte Susanne ein Bild ihrer Familie.",
-          "answer": [
-            "av"
-          ],
-          "explain": "Ein Bild von jemandem: et bilde av …"
-        },
-        {
-          "prompt": "Han er en god venn ___ meg.",
-          "de": "Er ist ein guter Freund von mir.",
-          "answer": [
-            "av"
-          ],
-          "explain": "„Ein Freund von mir“ = en venn av meg (einer aus der Gruppe meiner Freunde)."
-        },
-        {
-          "prompt": "Fargen ___ huset er gul.",
-          "de": "Die Farbe des Hauses ist gelb.",
-          "answer": [
-            "på"
-          ],
-          "explain": "Eigenschaft einer Sache (Farbe, Preis, Name): på (fargen på huset)."
-        },
-        {
-          "prompt": "Dette er en ___ de beste bøkene om dialekter.",
-          "de": "Das ist eines der besten Bücher über Dialekte.",
-          "answer": [
-            "av"
-          ],
-          "explain": "„Eines von / einer von“: en av, et av."
-        },
-        {
-          "prompt": "Lysene ___ byen glitret i mørket.",
-          "de": "Die Lichter der Stadt glitzerten in der Dunkelheit.",
-          "answer": [
-            "i",
-            "fra"
-          ],
-          "explain": "Etwas, das sich an einem Ort befindet: i (lysene i byen). Auch lysene fra byen ist richtig."
+          "explain": "»Ein Freund von mir« = en venn av meg (einer aus der Gruppe meiner Freunde)."
         }
-      ],
-      "_todo": "TRIM: Grundlagen (vor allem til; på/i/av kurz) – das volle Bild kommt in L22"
+      ]
     },
     {
       "id": "g13_tid_konjunksjoner",
@@ -432,11 +997,11 @@
       "sections": [
         {
           "h": "da oder når?",
-          "body": "Das deutsche „als“ und „wenn“ entsprechen nicht genau **da** und **når**:\n\n• **da** = als: einmal, in der Vergangenheit. **Da Susanne kom til Tromsø, var det mørkt.**\n• **når** = wenn: immer wieder (Vergangenheit oder Gegenwart) und in der Zukunft. **Når jeg kommer hjem, ringer jeg deg.** **Når det snødde, gikk vi på ski.** (jedes Mal, wenn)\n\nFaustregel: Nur ein einziges Mal in der Vergangenheit → **da**. Alles andere → **når**. Typischer Fehler: *Når jeg var liten, …* ist nur richtig, wenn man „immer wenn“ meint; für die Kindheit als Zeitraum sagt man **Da jeg var liten, bodde jeg i Freiburg.**"
+          "body": "Das deutsche »als« und »wenn« entsprechen nicht genau **da** und **når**:\n\n• **da** = als: einmal, in der Vergangenheit. **Da Anna kom, sto det en sykkel i gangen.**\n• **når** = wenn: immer wieder (Vergangenheit oder Gegenwart) und in der Zukunft. **Når Bamse ser nye folk, bjeffer han.** (jedes Mal, wenn) **Når praksisen begynner, vil jeg bo nærmere sykehuset.** (Zukunft)\n\nFaustregel: Nur ein einziges Mal in der Vergangenheit → **da**. Alles andere → **når**. Typischer Fehler: *Når jeg var på din alder, …* ist nur richtig, wenn man »immer wenn« meint; für einen Lebensabschnitt sagt man **Da jeg var på din alder, leide jeg en kjellerleilighet.**\n\n**Når** ist außerdem das Fragewort »wann«: **Når kan jeg flytte inn?** – das ist keine Konjunktion, deshalb steht das Verb gleich danach."
         },
         {
           "h": "Weitere Zeitkonjunktionen",
-          "body": "Alle Zeitkonjunktionen leiten einen Nebensatz ein. Achte auf **etter at** (zwei Wörter) und auf **til** und **siden**, die auch Präpositionen sind (**til jul**, **siden mandag**).",
+          "body": "Alle Zeitkonjunktionen leiten einen Nebensatz ein. Achte auf **etter at** (zwei Wörter): Vor einem Satz brauchst du **etter at**, vor einem Substantiv nur **etter**: **etter at du har flyttet** – **etter middagen**. Auch **før**, **til** und **siden** sind zugleich Präpositionen: **før jul**, **til mandag**, **siden august**.",
           "table": [
             [
               "Norwegisch",
@@ -446,117 +1011,117 @@
             [
               "**mens**",
               "während",
-              "**Mens de spiste, skrev hun en liste.**"
+              "**Mens dere snakker, lager jeg kaffe.**"
             ],
             [
               "**før**",
               "bevor",
-              "**Før hun gikk, viste Inga henne veien.**"
+              "**Jeg skulle sette sykkelen i kjelleren før dere kom.**"
             ],
             [
               "**etter at**",
               "nachdem",
-              "**Etter at møtet var slutt, hentet hun kortet.**"
+              "**Etter at du har flyttet, må du sende flyttemelding.**"
             ],
             [
               "**til**",
               "bis",
-              "**Hun ventet til det var hennes tur.**"
+              "**Skrivebordet var mitt til jeg fikk et nytt.**"
             ],
             [
               "**siden**",
               "seit(dem)",
-              "**Siden hun kom, har det snødd hver dag.**"
+              "**Siden Susanne kom i august, har hun bodd på Sagene.**"
             ],
             [
               "**så snart**",
               "sobald",
-              "**Så snart hun hadde fått kortet, gikk hun.**"
+              "**Så snart du har signert, er nøklene dine.**"
             ]
           ]
         },
         {
           "h": "Wortstellung: Inversion nach dem Nebensatz",
-          "body": "Im Nebensatz steht das Verb **nicht** am Ende (anders als im Deutschen): **da hun kom hjem** (als sie nach Hause kam).\n\nSteht der Nebensatz am Anfang, zählt er als erstes Satzglied. Im Hauptsatz kommt dann sofort das Verb, danach das Subjekt – genau wie im Deutschen:\n\n• **Da hun kom hjem, var det mørkt.** (Als sie heimkam, war es dunkel.)\n• **Etter at møtet var slutt, gikk hun til biblioteket.**\n\nSatzadverbien wie **ikke** stehen im Nebensatz vor dem Verb: **Da hun ikke fant bussen, gikk hun til fots.** (Als sie den Bus nicht fand, ging sie zu Fuß.)"
+          "body": "Im Nebensatz steht das Verb **nicht** am Ende (anders als im Deutschen): **da Anna kom inn** (als Anna hereinkam).\n\nSteht der Nebensatz am Anfang, zählt er als erstes Satzglied. Im Hauptsatz kommt dann sofort das Verb, danach das Subjekt – genau wie im Deutschen:\n\n• **Da Anna kom inn, bjeffet Bamse.** (Als Anna hereinkam, bellte Bamse.)\n• **Så snart kontrakten er klar, kan hun flytte inn.**\n\nSatzadverbien wie **ikke** stehen im Nebensatz vor dem Verb: **Da hun ikke fant nøkkelen, ringte hun Kari.** (Als sie den Schlüssel nicht fand, rief sie Kari an.)"
         }
       ],
       "drills": [
         {
-          "prompt": "___ Susanne kom til Tromsø, var det mørkt. (als – ein einziges Mal)",
-          "de": "Als Susanne nach Tromsø kam, war es dunkel.",
+          "prompt": "___ Anna kom til Sagene, sto det en sykkel i gangen. (als – ein einziges Mal)",
+          "de": "Als Anna nach Sagene kam, stand ein Fahrrad im Flur.",
           "answer": [
             "Da"
           ],
           "explain": "Ein einzelnes Ereignis in der Vergangenheit: da."
         },
         {
-          "prompt": "___ jeg er ferdig med forelesningen, ringer jeg deg. (wenn – Zukunft)",
-          "de": "Wenn ich mit der Vorlesung fertig bin, rufe ich dich an.",
+          "prompt": "___ praksisen begynner, vil Anna bo nærmere sykehuset. (wenn – Zukunft)",
+          "de": "Wenn das Praktikum beginnt, möchte Anna näher am Krankenhaus wohnen.",
           "answer": [
             "Når"
           ],
           "explain": "Zukunft: når."
         },
         {
-          "prompt": "___ det er mørketid, tenner folk mange lys. (wenn – immer wieder)",
-          "de": "Wenn Polarnacht ist, zünden die Leute viele Lichter an.",
+          "prompt": "___ Bamse ser nye folk, bjeffer han. (wenn – immer wieder)",
+          "de": "Wenn Bamse neue Leute sieht, bellt er.",
           "answer": [
             "Når"
           ],
           "explain": "Wiederholung (jedes Mal, wenn): når."
         },
         {
-          "prompt": "___ jeg var liten, bodde jeg i Freiburg. (als)",
-          "de": "Als ich klein war, wohnte ich in Freiburg.",
+          "prompt": "___ bestemor var ung, leide hun en kjellerleilighet i Oslo. (als)",
+          "de": "Als Oma jung war, mietete sie eine Kellerwohnung in Oslo.",
           "answer": [
             "Da"
           ],
           "explain": "Ein abgeschlossener Zeitraum in der Vergangenheit: da."
         },
         {
-          "prompt": "Inga lagde kaffe ___ Susanne pakket ut. (gleichzeitig)",
-          "de": "Inga kochte Kaffee, während Susanne auspackte.",
+          "prompt": "Bestemor lager kaffe ___ de andre snakker om kontrakten. (gleichzeitig)",
+          "de": "Oma kocht Kaffee, während die anderen über den Vertrag sprechen.",
           "answer": [
             "mens"
           ],
           "explain": "Gleichzeitigkeit: mens."
         },
         {
-          "prompt": "Du må registrere deg ___ du kan ta eksamen. (bevor)",
-          "de": "Du musst dich registrieren, bevor du die Prüfung ablegen kannst.",
+          "prompt": "Ola skulle sette sykkelen i kjelleren ___ Anna kom. (bevor)",
+          "de": "Ola wollte das Fahrrad in den Keller stellen, bevor Anna kam.",
           "answer": [
             "før"
           ],
           "explain": "bevor = før."
         },
         {
-          "prompt": "___ møtet var slutt, gikk hun til biblioteket. (nachdem)",
-          "de": "Nachdem die Veranstaltung zu Ende war, ging sie in die Bibliothek.",
+          "prompt": "___ Anna har flyttet, må hun sende flyttemelding. (nachdem)",
+          "de": "Nachdem Anna umgezogen ist, muss sie eine Umzugsmeldung schicken.",
           "answer": [
             "Etter at"
           ],
-          "explain": "nachdem = etter at (zwei Wörter)."
+          "explain": "nachdem = etter at (zwei Wörter); vor einem Substantiv nur etter."
         },
         {
-          "prompt": "Hun ventet i køen ___ det var hennes tur. (bis)",
-          "de": "Sie wartete in der Schlange, bis sie an der Reihe war.",
+          "prompt": "Skrivebordet var Olas ___ han fikk et nytt. (bis)",
+          "de": "Der Schreibtisch gehörte Ola, bis er einen neuen bekam.",
           "answer": [
             "til",
             "helt til"
           ],
-          "explain": "bis = til (als Konjunktion)."
+          "explain": "bis = til (als Konjunktion), verstärkt helt til."
         },
         {
-          "prompt": "Inga har bodd i Tromsø ___ hun begynte å studere. (seit)",
-          "de": "Inga wohnt in Tromsø, seit sie angefangen hat zu studieren.",
+          "prompt": "Susanne har bodd på Sagene ___ hun kom til Oslo i august. (seit)",
+          "de": "Susanne wohnt in Sagene, seit sie im August nach Oslo gekommen ist.",
           "answer": [
             "siden"
           ],
           "explain": "seit(dem) = siden; dazu Perfekt im Hauptsatz (har bodd)."
         },
         {
-          "prompt": "Matthias svarte ___ han hadde lest meldingen. (sobald)",
-          "de": "Matthias antwortete, sobald er die Nachricht gelesen hatte.",
+          "prompt": "Anna får nøklene ___ hun har betalt depositumet. (sobald)",
+          "de": "Anna bekommt die Schlüssel, sobald sie die Kaution bezahlt hat.",
           "answer": [
             "så snart",
             "straks"
@@ -564,31 +1129,417 @@
           "explain": "sobald = så snart (auch: straks)."
         },
         {
-          "prompt": "Da hun kom hjem, ___ mørkt. (det, være, preteritum)",
-          "de": "Als sie nach Hause kam, war es dunkel.",
+          "prompt": "Da Anna kom inn, ___ høyt. (Bamse, bjeffe, preteritum)",
+          "de": "Als Anna hereinkam, bellte Bamse laut.",
           "answer": [
-            "var det"
+            "bjeffet Bamse",
+            "bjeffa Bamse"
           ],
-          "explain": "Der Nebensatz steht vorn → Inversion: Verb vor dem Subjekt (var det)."
+          "explain": "Der Nebensatz steht vorn → Inversion: Verb vor dem Subjekt (bjeffet Bamse)."
         },
         {
-          "prompt": "Mens Susanne spiste, ___ en liste. (hun, skrive, preteritum)",
-          "de": "Während Susanne aß, schrieb sie eine Liste.",
+          "prompt": "Mens de drakk kaffe, ___ kontrakten. (Per, skrive, preteritum)",
+          "de": "Während sie Kaffee tranken, schrieb Per den Vertrag.",
           "answer": [
-            "skrev hun"
+            "skrev Per"
           ],
-          "explain": "Nach dem vorangestellten Nebensatz: Verb – Subjekt (skrev hun)."
+          "explain": "Nach dem vorangestellten Nebensatz: Verb – Subjekt (skrev Per)."
         }
       ]
     }
   ],
-  "tf": [],
-  "questions": [],
-  "find": [],
-  "translate": [],
-  "summary": [],
-  "dictation": [],
+  "tf": [
+    {
+      "s": "Sykkelen i gangen er Susannes.",
+      "de": "Das Fahrrad im Flur gehört Susanne.",
+      "a": false,
+      "why": "Es ist Olas Fahrrad; Susannes Fahrrad steht draußen."
+    },
+    {
+      "s": "Anna må flytte fordi kontrakten hennes på Kringsjå går ut.",
+      "de": "Anna muss umziehen, weil ihr Vertrag in Kringsjå ausläuft.",
+      "a": true,
+      "why": "„Kontrakten min i kollektivet på Kringsjå går ut 31. oktober.“"
+    },
+    {
+      "s": "Bestemor Ingrid bor fast hos familien Nygård.",
+      "de": "Oma Ingrid wohnt fest bei Familie Nygård.",
+      "a": false,
+      "why": "Sie ist nur zu Besuch – sie kommt aus Lillehammer."
+    },
+    {
+      "s": "Skrivebordet i leiligheten var Olas.",
+      "de": "Der Schreibtisch in der Wohnung gehörte Ola.",
+      "a": true,
+      "why": "Kari sagt: „Skrivebordet var Olas.“ Ola hat zum Geburtstag einen neuen bekommen."
+    },
+    {
+      "s": "Strømmen er inkludert i leia.",
+      "de": "Der Strom ist in der Miete enthalten.",
+      "a": false,
+      "why": "Nur das Internet ist inklusive; den Strom bezahlt Anna selbst."
+    },
+    {
+      "s": "Depositumet skal stå på en konto i Annas navn.",
+      "de": "Die Kaution soll auf einem Konto auf Annas Namen liegen.",
+      "a": true,
+      "why": "„Pengene står på en depositumskonto i ditt navn, ikke på kontoen vår.“"
+    },
+    {
+      "s": "Anna må sende flyttemelding før hun flytter.",
+      "de": "Anna muss die Umzugsmeldung schicken, bevor sie umzieht.",
+      "a": false,
+      "why": "Sie schickt sie, nachdem sie umgezogen ist – spätestens acht Tage danach."
+    },
+    {
+      "s": "Til slutt bestemmer Anna seg for å ta leiligheten.",
+      "de": "Am Ende entscheidet sich Anna, die Wohnung zu nehmen.",
+      "a": true,
+      "why": "„Jeg har bestemt meg: Jeg tar leiligheten!“"
+    }
+  ],
+  "questions": [
+    {
+      "q": "Hvorfor må Anna flytte?",
+      "qDe": "Warum muss Anna umziehen?",
+      "answer": "Fordi kontrakten hennes på Kringsjå går ut 31. oktober.",
+      "answerDe": "Weil ihr Vertrag in Kringsjå am 31. Oktober ausläuft.",
+      "keywords": [
+        [
+          "kontrakten",
+          "kontrakt"
+        ],
+        [
+          "går ut",
+          "slutt"
+        ]
+      ]
+    },
+    {
+      "q": "Hvem er Ingrid?",
+      "qDe": "Wer ist Ingrid?",
+      "answer": "Hun er mora til Per, og hun er på besøk fra Lillehammer.",
+      "answerDe": "Sie ist Pers Mutter und ist aus Lillehammer zu Besuch.",
+      "keywords": [
+        [
+          "mor",
+          "mora",
+          "moren",
+          "bestemor"
+        ],
+        [
+          "Lillehammer",
+          "besøk"
+        ]
+      ]
+    },
+    {
+      "q": "Hvor mye koster leiligheten i måneden?",
+      "qDe": "Wie viel kostet die Wohnung im Monat?",
+      "answer": "Den koster ni tusen kroner i måneden.",
+      "answerDe": "Sie kostet neuntausend Kronen im Monat.",
+      "keywords": [
+        [
+          "ni tusen",
+          "9000",
+          "9 000"
+        ],
+        [
+          "kroner"
+        ]
+      ]
+    },
+    {
+      "q": "Hvor mye vil familien Nygård ha i depositum?",
+      "qDe": "Wie viel möchte Familie Nygård als Kaution?",
+      "answer": "De vil ha tre måneders leie i depositum.",
+      "answerDe": "Sie möchten drei Monatsmieten als Kaution.",
+      "keywords": [
+        [
+          "tre"
+        ],
+        [
+          "måneders",
+          "måneder",
+          "måneds"
+        ]
+      ]
+    },
+    {
+      "q": "Når får Anna nøklene?",
+      "qDe": "Wann bekommt Anna die Schlüssel?",
+      "answer": "Så snart hun har signert kontrakten og betalt depositumet.",
+      "answerDe": "Sobald sie den Vertrag unterschrieben und die Kaution bezahlt hat.",
+      "keywords": [
+        [
+          "signert",
+          "signere",
+          "skrevet under"
+        ],
+        [
+          "depositum",
+          "depositumet",
+          "betalt"
+        ]
+      ]
+    },
+    {
+      "q": "Hva må Anna gjøre etter at hun har flyttet?",
+      "qDe": "Was muss Anna tun, nachdem sie umgezogen ist?",
+      "answer": "Hun må sende flyttemelding til Folkeregisteret.",
+      "answerDe": "Sie muss dem Folkeregister ihren Umzug melden.",
+      "keywords": [
+        [
+          "flyttemelding",
+          "melde flytting"
+        ],
+        [
+          "Folkeregisteret",
+          "Skatteetaten"
+        ]
+      ]
+    }
+  ],
+  "find": [
+    {
+      "de": "mitten im Flur",
+      "answer": [
+        "midt i gangen"
+      ]
+    },
+    {
+      "de": "unser Hund",
+      "answer": [
+        "hunden vår"
+      ]
+    },
+    {
+      "de": "meine Mutter",
+      "answer": [
+        "mor mi"
+      ]
+    },
+    {
+      "de": "in deinem Alter",
+      "answer": [
+        "på din alder"
+      ]
+    },
+    {
+      "de": "zum Glück",
+      "answer": [
+        "heldigvis"
+      ]
+    },
+    {
+      "de": "der Schlüssel für die Haustür",
+      "answer": [
+        "nøkkelen til inngangsdøra"
+      ]
+    },
+    {
+      "de": "auf deinen Namen",
+      "answer": [
+        "i ditt navn"
+      ]
+    },
+    {
+      "de": "spätestens",
+      "answer": [
+        "senest"
+      ]
+    }
+  ],
+  "translate": [
+    {
+      "de": "Ist das dein Fahrrad? – Nein, das ist Olas.",
+      "no": [
+        "Er det sykkelen din? – Nei, den er Olas.",
+        "Er det sykkelen din? Nei, det er sykkelen til Ola.",
+        "Er det sykkelen din? – Nei, det er Olas.",
+        "Er det din sykkel? – Nei, den er Olas."
+      ]
+    },
+    {
+      "de": "Unser Haus liegt in Sagene.",
+      "no": [
+        "Huset vårt ligger på Sagene."
+      ],
+      "hint": "Stadtteil mit på: på Sagene."
+    },
+    {
+      "de": "Wo sind meine Schlüssel?",
+      "no": [
+        "Hvor er nøklene mine?"
+      ]
+    },
+    {
+      "de": "Das ist Susannes Zimmer.",
+      "no": [
+        "Det er rommet til Susanne.",
+        "Det er Susannes rom.",
+        "Dette er rommet til Susanne.",
+        "Dette er Susannes rom."
+      ]
+    },
+    {
+      "de": "Das Bett gehört uns, aber der Schreibtisch gehört dir.",
+      "no": [
+        "Senga er vår, men skrivebordet er ditt.",
+        "Sengen er vår, men skrivebordet er ditt."
+      ],
+      "hint": "Allein stehend: vår (ei seng), ditt (et skrivebord)."
+    },
+    {
+      "de": "Als ich in deinem Alter war, wohnte ich in Oslo.",
+      "no": [
+        "Da jeg var på din alder, bodde jeg i Oslo."
+      ]
+    },
+    {
+      "de": "Während ihr redet, koche ich Kaffee.",
+      "no": [
+        "Mens dere snakker, lager jeg kaffe.",
+        "Mens dere prater, lager jeg kaffe.",
+        "Mens dere snakker, koker jeg kaffe."
+      ]
+    },
+    {
+      "de": "Sobald du den Vertrag unterschrieben hast, bekommst du den Schlüssel.",
+      "no": [
+        "Så snart du har signert kontrakten, får du nøkkelen.",
+        "Så snart du har skrevet under kontrakten, får du nøkkelen.",
+        "Så snart du har signert husleiekontrakten, får du nøkkelen."
+      ],
+      "hint": "Nach dem Nebensatz: Inversion (får du)."
+    },
+    {
+      "de": "Nachdem ich umgezogen bin, muss ich eine Umzugsmeldung schicken.",
+      "no": [
+        "Etter at jeg har flyttet, må jeg sende flyttemelding.",
+        "Etter at jeg har flyttet, må jeg sende en flyttemelding.",
+        "Når jeg har flyttet, må jeg sende flyttemelding."
+      ]
+    },
+    {
+      "de": "Wie hoch ist die Miete?",
+      "no": [
+        "Hvor mye er husleia?",
+        "Hvor mye er leia?",
+        "Hvor høy er husleia?",
+        "Hva er prisen på leiligheten?"
+      ]
+    }
+  ],
+  "summary": [
+    {
+      "prompt": "Susanne viser Anna ___ til familien Nygård.",
+      "de": "Susanne zeigt Anna die Souterrainwohnung der Familie Nygård.",
+      "answer": [
+        "sokkelleiligheten",
+        "leiligheten"
+      ]
+    },
+    {
+      "prompt": "Sykkelen i gangen er ikke Susannes, den er ___.",
+      "de": "Das Fahrrad im Flur gehört nicht Susanne, es gehört Ola.",
+      "answer": [
+        "Olas",
+        "til Ola"
+      ]
+    },
+    {
+      "prompt": "Anna må flytte fordi kontrakten ___ på Kringsjå går ut.",
+      "de": "Anna muss umziehen, weil ihr Vertrag in Kringsjå ausläuft.",
+      "answer": [
+        "hennes"
+      ]
+    },
+    {
+      "prompt": "Leia er ni tusen kroner i måneden, men strømmen må hun betale ___.",
+      "de": "Die Miete beträgt neuntausend Kronen im Monat, aber den Strom muss sie selbst bezahlen.",
+      "answer": [
+        "selv"
+      ]
+    },
+    {
+      "prompt": "___ hun har signert kontrakten og betalt depositumet, får hun nøklene.",
+      "de": "Sobald sie den Vertrag unterschrieben und die Kaution bezahlt hat, bekommt sie die Schlüssel.",
+      "answer": [
+        "Så snart",
+        "Når",
+        "Etter at"
+      ]
+    },
+    {
+      "prompt": "Etter at hun har flyttet, må hun sende ___ til Folkeregisteret.",
+      "de": "Nachdem sie umgezogen ist, muss sie dem Folkeregister ihren Umzug melden.",
+      "answer": [
+        "flyttemelding",
+        "en flyttemelding"
+      ]
+    }
+  ],
+  "dictation": [
+    2,
+    12,
+    15,
+    25
+  ],
   "writing": {
-    "_todo": "NEW"
+    "prompt": "Du hast eine Wohnung gefunden. Schreib einer Freundin eine E-Mail: Wo liegt die Wohnung, was gehört dir und was dem Vermieter (Possessivpronomen), was kostet sie, und was musst du noch erledigen (Vertrag, Kaution, Umzugsmeldung)? Verwende mindestens zwei Zeitkonjunktionen (da, når, før, etter at, så snart, mens).",
+    "minWords": 90,
+    "useWords": [
+      "husleiekontrakten",
+      "depositumet",
+      "flyttemelding",
+      "så snart",
+      "etter at"
+    ],
+    "checklist": [
+      {
+        "de": "Lage der Wohnung",
+        "keywords": [
+          "ligger"
+        ]
+      },
+      {
+        "de": "Wem gehört was (Possessiv)",
+        "keywords": [
+          "mitt",
+          "min",
+          "mine",
+          "mi",
+          "vår",
+          "vårt",
+          "våre",
+          "hans",
+          "hennes",
+          "deres"
+        ]
+      },
+      {
+        "de": "Formalitäten",
+        "keywords": [
+          "husleiekontrakten",
+          "kontrakten",
+          "depositumet",
+          "depositum",
+          "flyttemelding"
+        ]
+      },
+      {
+        "de": "Zeitkonjunktion",
+        "keywords": [
+          "så snart",
+          "etter at",
+          "før",
+          "mens",
+          "når"
+        ]
+      }
+    ],
+    "model": "Hei Lena!\nNå har jeg endelig funnet et sted å bo! Det er en liten leilighet på Grünerløkka, og den ligger i tredje etasje. Senga og sofaen tilhører utleieren, men skrivebordet er mitt. Husleia er åtte tusen kroner i måneden, og strømmen betaler jeg selv. I går signerte jeg husleiekontrakten. Så snart jeg har betalt depositumet, får jeg nøklene. Depositumet står på en konto i mitt navn. Etter at jeg har flyttet, må jeg sende flyttemelding til Folkeregisteret. Når alt er klart, har jeg fest. Kommer du?\nKlem fra Julia",
+    "modelDe": "Hallo Lena!\nJetzt habe ich endlich eine Bleibe gefunden! Es ist eine kleine Wohnung in Grünerløkka, und sie liegt im zweiten Stock. Das Bett und das Sofa gehören dem Vermieter, aber der Schreibtisch ist meiner. Die Miete beträgt achttausend Kronen im Monat, und den Strom bezahle ich selbst. Gestern habe ich den Mietvertrag unterschrieben. Sobald ich die Kaution bezahlt habe, bekomme ich die Schlüssel. Die Kaution liegt auf einem Konto auf meinen Namen. Nachdem ich umgezogen bin, muss ich dem Folkeregister meinen Umzug melden. Wenn alles fertig ist, feiere ich eine Party. Kommst du?\nUmarmung, Julia"
   }
 }

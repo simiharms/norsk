@@ -6,9 +6,9 @@
   "place": "Oslo, Blindern",
   "goals": [
     "Du kannst dich vorstellen: Name, Herkunft, Wohnort und was du machst.",
-    "Du kannst einfache Fragen stellen und beantworten: Hva heter du? Hvor bor du?",
+    "Du kannst einfache Fragen stellen und beantworten: Hva heter du? Hvor bor du? Hvor kommer du fra?",
     "Du lernst die Personalpronomen und das Präsens: eine Form für alle Personen.",
-    "Du lernst die drei Geschlechter mit en, ei und et.",
+    "Du lernst die Grundwortstellung: Das Verb steht an zweiter Stelle, Ja/Nein-Fragen beginnen mit dem Verb.",
     "Du kannst Länder, Sprachen und Nationalitäten auf Norwegisch nennen."
   ],
   "text": {
@@ -310,7 +310,7 @@
           "de": "Norwegen ist ein Land in Nordeuropa. Norwegen hat viel Natur: Berge, Fjorde, Wald und Meer. Viele Touristen kommen nach Norwegen. Was kann man hier machen?"
         },
         {
-          "no": "Man kan gå på tur. Nordmenn går på tur hele året, i fjellet og i skogen. Man kan leie en hytte og gå på ski om vinteren.",
+          "no": "Man kan gå på tur. Nordmenn går på tur hele året, i fjellet og i skogen. Man kan leie ei hytte og gå på ski om vinteren.",
           "de": "Man kann wandern gehen. Die Norweger gehen das ganze Jahr wandern, in den Bergen und im Wald. Man kann eine Hütte mieten und im Winter Ski fahren."
         },
         {
@@ -384,7 +384,7 @@
           "de": "im Wald"
         },
         {
-          "no": "leie en hytte",
+          "no": "leie ei hytte",
           "de": "eine Hütte mieten"
         },
         {
@@ -613,7 +613,7 @@
         },
         {
           "h": "han/hun für Personen, den/det für Sachen",
-          "body": "Für Personen nimmst du **han** (er) und **hun** (sie). Für Sachen und Tiere nimmst du **den** oder **det** – je nach Geschlecht des Wortes:\n\n• en-Wort oder ei-Wort → **den**: **en hybel → den**\n• et-Wort → **det**: **et hotell → det**\n\nAchtung: Im Deutschen sagst du »der Tisch – er«. Auf Norwegisch ist eine Sache nie **han** oder **hun**, sondern **den** oder **det**. Mehr dazu in Lektion 5."
+          "body": "Für Personen nimmst du **han** (er) und **hun** (sie). Für Sachen und Tiere nimmst du **den** oder **det** – je nach Geschlecht des Wortes:\n\n• en-Wort oder ei-Wort → **den**: **en hybel → den**\n• et-Wort → **det**: **et hotell → det**\n\nAchtung: Im Deutschen sagst du »der Tisch – er«. Auf Norwegisch ist eine Sache nie **han** oder **hun**, sondern **den** oder **det**. Die Geschlechter en, ei und et lernst du in Lektion 2, mehr zu den und det in Lektion 5."
         }
       ],
       "drills": [

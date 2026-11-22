@@ -5,18 +5,18 @@
   "titleDe": "Kann man sich einigen?",
   "place": "Oslo: Vigelandsparken, Bygdøy, Munchmuseet",
   "goals": [
-    "Du kannst Dinge vergleichen: dyrere enn, like interessant som, ikke så sentralt som.",
-    "Du kannst Adjektive steigern: billig – billigere – billigst, mer interessant.",
-    "Du kannst Aussagen verstärken oder abschwächen: veldig, altfor, ganske, kjempe-.",
-    "Du benutzt Adjektive als Adverbien: Hun snakker godt norsk.",
-    "Du kannst in einer Diskussion Vorschläge machen, zustimmen und widersprechen – und du erfährst etwas über Munch und Vigeland."
+    "Du kannst in einer Diskussion Vorschläge machen, zustimmen, widersprechen und einen Kompromiss finden.",
+    "Du kannst über Gefühle sprechen: glad i, lei av, sint på, gleder meg, gruer meg.",
+    "Du kennst die unregelmäßige Steigerung (god – bedre – best, dårlig – verre – verst, mange – flere – flest) und benutzt Komparativ und Superlativ richtig: den beste ideen, de fleste, en eldre dame.",
+    "Du kannst Adjektive nach einem Genitiv bilden (Norges høyeste fjell, Munchs mest kjente bilder) und Hauptsätze mit og, men, eller, for und så verbinden.",
+    "Du erfährst etwas über Edvard Munch und Gustav Vigeland."
   ],
   "text": {
     "id": "t12",
     "title": "Er det mulig å bli enig?",
     "titleDe": "Kann man sich einigen?",
     "kind": "dialog",
-    "intro": "Matthias ist für ein Wochenende in Oslo. Am Samstagabend sitzen Susanne, Matthias, Anna und Jonas in der Küche der Nygårds und planen den Sonntag. Einfach ist das nicht.",
+    "intro": "Matthias ist für ein Wochenende in Oslo. Am Samstagabend sitzen Susanne, Matthias, Anna und Jonas in der Küche von Annas WG in Kringsjå, die sie mit Henrik teilt, und planen den Sonntag. Einfach ist das nicht.",
     "speakers": {
       "a": {
         "name": "Anna",
@@ -48,8 +48,8 @@
       },
       {
         "s": "a",
-        "no": "Jonas! Du er latere enn Ola. Vær litt seriøs.",
-        "de": "Jonas! Du bist fauler als Ola. Sei mal ein bisschen ernst."
+        "no": "Jonas! Du er enda latere enn Henrik, og han sover til tolv hver søndag. Vær litt seriøs.",
+        "de": "Jonas! Du bist ja noch fauler als Henrik, und der schläft jeden Sonntag bis zwölf. Sei mal ein bisschen ernst."
       },
       {
         "s": "s",
@@ -63,13 +63,13 @@
       },
       {
         "s": "s",
-        "no": "Vigelandsparken er billigst – den er gratis. Og skulpturene er mye finere i virkeligheten enn på bilder.",
-        "de": "Der Vigelandpark ist am billigsten – er kostet nichts. Und die Skulpturen sind in Wirklichkeit viel schöner als auf Bildern."
+        "no": "Vigelandsparken er billigst – den er gratis. Og Vigelands store skulpturer er mye finere i virkeligheten enn på bilder.",
+        "de": "Der Vigelandpark ist am billigsten – er kostet nichts. Und Vigelands große Skulpturen sind in Wirklichkeit viel schöner als auf Bildern."
       },
       {
         "s": "j",
-        "no": "Men den er ute. Ifølge værmeldingen blir det regn i morgen tidlig. Jeg vil ikke stå i regnet og se på nakne mennesker av stein.",
-        "de": "Aber er ist draußen. Laut Wetterbericht gibt es morgen früh Regen. Ich will nicht im Regen stehen und nackte Menschen aus Stein anschauen."
+        "no": "Men den er ute, og ifølge værmeldingen blir været enda verre i morgen tidlig. Jeg er så lei av regn! Jeg vil ikke stå i regnet og se på nakne mennesker av stein.",
+        "de": "Aber er ist draußen, und laut Wetterbericht wird das Wetter morgen früh noch schlechter. Ich habe den Regen so satt! Ich will nicht im Regen stehen und nackte Menschen aus Stein anschauen."
       },
       {
         "s": "a",
@@ -103,8 +103,8 @@
       },
       {
         "s": "a",
-        "no": "For deg, kanskje. Jeg synes Munchmuseet er mer interessant. Og det er inne, så der blir vi i hvert fall ikke våte.",
-        "de": "Für dich vielleicht. Ich finde das Munch-Museum interessanter. Und es ist drinnen, da werden wir jedenfalls nicht nass."
+        "no": "For deg, kanskje. Jeg synes Munchmuseet er mer interessant, for der kan vi se noen av Munchs mest kjente bilder. Og det er inne, så vi blir i hvert fall ikke våte.",
+        "de": "Für dich vielleicht. Ich finde das Munch-Museum interessanter, denn dort können wir einige von Munchs bekanntesten Bildern sehen. Und es ist drinnen, also werden wir jedenfalls nicht nass."
       },
       {
         "s": "s",
@@ -168,13 +168,13 @@
       },
       {
         "s": "m",
-        "no": "Bygdøy tar vi neste gang. Jeg kommer gjerne tilbake – Oslo er jo nærmere enn Paris.",
-        "de": "Bygdøy machen wir nächstes Mal. Ich komme gern wieder – Oslo ist ja näher als Paris."
+        "no": "Bygdøy tar vi neste gang. Jeg kommer gjerne tilbake, for Oslo er jo nærmere enn Paris.",
+        "de": "Bygdøy machen wir nächstes Mal. Ich komme gern wieder, denn Oslo ist ja näher als Paris."
       },
       {
         "s": "a",
-        "no": "Da er vi enige! Klokka ti ved Munchmuseet?",
-        "de": "Dann sind wir uns einig! Um zehn am Munch-Museum?"
+        "no": "Da er vi enige! Det var kveldens beste idé. Klokka ti ved Munchmuseet?",
+        "de": "Dann sind wir uns einig! Das war die beste Idee des Abends. Um zehn am Munch-Museum?"
       },
       {
         "s": "j",
@@ -183,8 +183,8 @@
       },
       {
         "s": "s",
-        "no": "Greit, halv elleve. Det var et ekte kompromiss!",
-        "de": "Okay, halb elf. Das war ein echter Kompromiss!"
+        "no": "Greit, halv elleve. Det var et ekte kompromiss – og ingen er sure!",
+        "de": "Okay, halb elf. Das war ein echter Kompromiss – und niemand ist sauer!"
       }
     ],
     "glossary": [
@@ -193,40 +193,44 @@
         "de": "uns entscheiden (bestemme seg)"
       },
       {
-        "no": "raskt",
-        "de": "schnell (Adverb von rask)"
-      },
-      {
         "no": "Jeg foreslår",
         "de": "ich schlage vor (foreslå – foreslo – foreslått)"
-      },
-      {
-        "no": "latere enn",
-        "de": "fauler als (lat – latere – latest)"
       },
       {
         "no": "seriøs",
         "de": "ernst, ernsthaft"
       },
       {
+        "no": "enda latere enn Henrik",
+        "de": "noch fauler als Henrik (lat – latere – latest)"
+      },
+      {
+        "no": "sover til tolv",
+        "de": "schläft bis zwölf"
+      },
+      {
         "no": "forslag",
         "de": "Vorschläge (et forslag)"
-      },
-      {
-        "no": "forskjellen",
-        "de": "der Unterschied"
-      },
-      {
-        "no": "billigst",
-        "de": "am billigsten"
       },
       {
         "no": "i virkeligheten",
         "de": "in Wirklichkeit"
       },
       {
+        "no": "Vigelands store skulpturer",
+        "de": "Vigelands große Skulpturen (nach dem Genitiv: Adjektiv auf -e)"
+      },
+      {
         "no": "i morgen tidlig",
         "de": "morgen früh"
+      },
+      {
+        "no": "enda verre",
+        "de": "noch schlechter, noch schlimmer (dårlig – verre – verst)"
+      },
+      {
+        "no": "Jeg er så lei av regn",
+        "de": "Ich habe den Regen so satt"
       },
       {
         "no": "nakne",
@@ -269,16 +273,16 @@
         "de": "liegen nicht so zentral wie"
       },
       {
-        "no": "morsommere",
-        "de": "lustiger, unterhaltsamer"
-      },
-      {
         "no": "i hvert fall",
         "de": "jedenfalls, auf jeden Fall"
       },
       {
-        "no": "fall",
-        "de": "Fall (i hvert fall = jedenfalls)"
+        "no": "for der kan vi se",
+        "de": "denn dort können wir sehen"
+      },
+      {
+        "no": "Munchs mest kjente bilder",
+        "de": "Munchs bekannteste Bilder"
       },
       {
         "no": "bygget",
@@ -287,18 +291,6 @@
       {
         "no": "skal visst være",
         "de": "soll angeblich sein"
-      },
-      {
-        "no": "kjempefint",
-        "de": "super, riesig schön"
-      },
-      {
-        "no": "utrolig fin",
-        "de": "unglaublich schön"
-      },
-      {
-        "no": "altfor mange",
-        "de": "viel zu viele"
       },
       {
         "no": "sprekere enn meg",
@@ -341,20 +333,20 @@
         "de": "schöneres Wetter"
       },
       {
-        "no": "mens",
-        "de": "während"
-      },
-      {
         "no": "nærmere enn",
         "de": "näher als"
+      },
+      {
+        "no": "kveldens beste idé",
+        "de": "die beste Idee des Abends"
       },
       {
         "no": "et ekte kompromiss",
         "de": "ein echter Kompromiss"
       },
       {
-        "no": "talt",
-        "de": "gesprochen (ærlig talt = ehrlich gesagt)"
+        "no": "ingen er sure",
+        "de": "niemand ist sauer (sur = schlecht gelaunt)"
       }
     ]
   },
@@ -540,14 +532,9 @@
         "de": "Wie fühlst du dich?"
       },
       {
-        "no": "Jeg er så glad!",
-        "de": "Ich bin so froh!",
-        "note": "glad = froh, fröhlich – nicht »glatt«!"
-      },
-      {
         "no": "Jeg er glad i deg.",
         "de": "Ich hab dich lieb.",
-        "note": "glad i = gern haben, lieben – für Familie, Freunde und Partner."
+        "note": "glad i = gern haben, lieben – für Familie, Freunde und Partner. glad allein = froh (nicht »glatt«!)."
       },
       {
         "no": "Jeg elsker deg.",
@@ -557,10 +544,6 @@
       {
         "no": "Hun er forelsket i ham.",
         "de": "Sie ist in ihn verliebt."
-      },
-      {
-        "no": "Er du sjalu?",
-        "de": "Bist du eifersüchtig?"
       },
       {
         "no": "Jonas er sjalu på Matthias.",
@@ -578,10 +561,6 @@
         "note": "være lei seg = traurig sein, etwas bedauern"
       },
       {
-        "no": "Ikke vær lei deg!",
-        "de": "Sei nicht traurig!"
-      },
-      {
         "no": "Jeg er lei av regnet.",
         "de": "Ich habe den Regen satt.",
         "note": "være lei av = etwas satthaben"
@@ -592,12 +571,9 @@
         "note": "redd for = Angst haben vor"
       },
       {
-        "no": "Jeg er så nervøs!",
-        "de": "Ich bin so nervös!"
-      },
-      {
-        "no": "Jeg er skuffet.",
-        "de": "Ich bin enttäuscht."
+        "no": "Jeg er skuffet over filmen.",
+        "de": "Ich bin von dem Film enttäuscht.",
+        "note": "skuffet over = enttäuscht von"
       },
       {
         "no": "Jeg er stolt av deg.",
@@ -606,38 +582,67 @@
       },
       {
         "no": "Jeg kjeder meg.",
-        "de": "Ich langweile mich."
+        "de": "Ich langweile mich.",
+        "note": "kjede seg ist reflexiv wie »sich langweilen«."
       },
       {
         "no": "Han er sur i dag.",
         "de": "Er ist heute schlecht gelaunt.",
-        "note": "sur = sauer: schlecht gelaunt, aber auch saure Milch"
+        "note": "sur wie »sauer«: schlecht gelaunt – und sauer (Geschmack)."
+      },
+      {
+        "no": "Jeg er i godt humør i dag.",
+        "de": "Ich bin heute gut gelaunt.",
+        "note": "Das Gegenteil: i dårlig humør."
+      },
+      {
+        "no": "Jeg gleder meg til søndag!",
+        "de": "Ich freue mich auf Sonntag!",
+        "note": "glede seg til = sich auf etwas freuen (Zukunft); glad for = froh über."
+      },
+      {
+        "no": "Jeg gruer meg til eksamen.",
+        "de": "Mir graut vor der Prüfung.",
+        "note": "grue seg (til) = einer Sache mit Bangen entgegensehen – das Gegenteil von glede seg."
+      },
+      {
+        "no": "Jeg savner deg.",
+        "de": "Ich vermisse dich."
+      },
+      {
+        "no": "Jeg er bekymret for deg.",
+        "de": "Ich mache mir Sorgen um dich.",
+        "note": "bekymret for = besorgt um"
+      },
+      {
+        "no": "Jeg blir så irritert når bussen er forsinket.",
+        "de": "Ich ärgere mich so, wenn der Bus Verspätung hat."
+      },
+      {
+        "no": "Så flaut!",
+        "de": "Wie peinlich!",
+        "note": "flau = verlegen: Jeg er flau (Es ist mir peinlich). flaut = peinlich."
       },
       {
         "no": "Jeg er så lettet!",
         "de": "Ich bin so erleichtert!"
       },
       {
-        "no": "Det var veldig rørende.",
-        "de": "Das war sehr rührend."
-      },
-      {
         "no": "Jeg føler meg ensom.",
         "de": "Ich fühle mich einsam."
       }
-    ],
-    "_todo": "aus alter L7 »Følelser« übernommen"
+    ]
   },
   "grammar": [
     {
       "id": "g12_genitiv_adjektiv",
       "title": "Nach einem Genitiv",
-      "titleNo": "adjektiv etter genitiv og eiendomspronomen",
-      "summary": "Nach einem Genitiv oder einem vorangestellten Possessiv hat das Adjektiv -e, das Substantiv bleibt unbestimmt: Norges høyeste fjell, Annas nye sko, min gamle sekk.",
+      "titleNo": "adjektiv etter genitiv",
+      "summary": "Nach einem Genitiv hat das Adjektiv die Endung -e, und das Substantiv bleibt unbestimmt: Norges høyeste fjell, Annas nye sykkel.",
       "sections": [
         {
           "h": "Genitiv + Adjektiv + Substantiv",
-          "body": "Ein Genitiv auf **-s** macht die ganze Gruppe bestimmt – so wie **den/det/de**. Darum bekommt das Adjektiv die Endung **-e**, aber das Substantiv bleibt **unbestimmt** (keine Endung, kein **den**):\n\n• **Norges høyeste fjell** – Norwegens höchster Berg\n• **Annas nye sko** – Annas neue Schuhe\n• **familien Nygårds gamle bil** – das alte Auto der Familie Nygård\n• **Matthias’ tunge sekk** – Matthias’ schwerer Rucksack\n\nTypischer Fehler: *Norges høyeste fjellet*. Nach einem Genitiv steht das Substantiv **nie** in der bestimmten Form – das ist wie im Deutschen: »Norwegens höchster Berg«, nicht »Norwegens der höchste Berg«.",
+          "body": "Ein Genitiv auf **-s** macht die ganze Gruppe bestimmt – so wie **den/det/de**. Darum bekommt das Adjektiv die Endung **-e**, aber das Substantiv bleibt **unbestimmt** (keine Endung, kein **den**):\n\n• **Norges høyeste fjell** – Norwegens höchster Berg\n• **Annas nye sykkel** – Annas neues Fahrrad\n• **Vigelands store skulpturer** – Vigelands große Skulpturen\n• **kongens store slott** – das große Schloss des Königs\n• **Matthias’ nye jobb** – Matthias’ neue Stelle\n\nDas **-e** steht auch im Singular und bei et-Wörtern: **Bergens gamle hus** (nicht *Bergens gammelt hus*).\n\nTypischer Fehler: *Norges høyeste fjellet*. Nach einem Genitiv steht das Substantiv **nie** in der bestimmten Form – das ist wie im Deutschen: »Norwegens höchster Berg«, nicht »Norwegens der höchste Berg«.",
           "table": [
             [
               "unbestimmt",
@@ -645,25 +650,51 @@
               "nach Genitiv"
             ],
             [
-              "**en gammel bil**",
-              "**den gamle bilen**",
-              "**Pers gamle bil**"
+              "**en gammel sykkel**",
+              "**den gamle sykkelen**",
+              "**Annas gamle sykkel**"
             ],
             [
-              "**et høyt fjell**",
-              "**det høye fjellet**",
-              "**Norges høyeste fjell**"
+              "**et stort slott**",
+              "**det store slottet**",
+              "**kongens store slott**"
             ],
             [
-              "**nye sko**",
-              "**de nye skoene**",
-              "**Annas nye sko**"
+              "**kjente bilder**",
+              "**de kjente bildene**",
+              "**Munchs kjente bilder**"
             ]
           ]
         },
         {
-          "h": "Possessiv + Adjektiv",
-          "body": "Mit einem Possessivpronomen gibt es zwei Möglichkeiten:\n\n• **davor**: Possessiv + Adjektiv auf **-e** + unbestimmtes Substantiv: **min gamle sekk, min nye lue, mitt beste bilde, mine våte sokker**\n• **dahinter** (im Gespräch häufiger): **den/det/de** + Adjektiv auf **-e** + bestimmtes Substantiv + Possessiv: **den gamle sekken min, den nye lua mi, det beste bildet mitt, de våte sokkene mine**\n\nBeides bedeutet dasselbe. Merke: Das Adjektiv hat in beiden Fällen **-e** – auch im Singular, auch bei et-Wörtern: **mitt nye telt** (nicht *mitt nytt telt*). Ausnahmen: **liten** wird zu **lille** (**min lille bror**), und unveränderliche Adjektive bleiben, wie sie sind (**mitt rosa skjerf**)."
+          "h": "liten, Superlativ und mest",
+          "body": "• **liten** wird nach dem Genitiv zu **lille** (Singular) und **små** (Plural) – genau wie nach **den/det/de**: **Annas lille kjøkken, Oslos små kafeer**.\n• Auch der Superlativ bekommt **-e**: **Norges lengste fjord, kveldens beste idé**.\n• Bei **mest** bleibt **mest** gleich, das Adjektiv bekommt **-e**: **Munchs mest kjente bilder**.\n• Unveränderliche Adjektive bleiben, wie sie sind: **Annas rosa skjerf**.",
+          "table": [
+            [
+              "Adjektiv",
+              "nach Genitiv"
+            ],
+            [
+              "**liten** (Sg.)",
+              "**Annas lille kjøkken**"
+            ],
+            [
+              "**liten** (Pl.)",
+              "**Oslos små kafeer**"
+            ],
+            [
+              "**lang** (Superlativ)",
+              "**Norges lengste fjord**"
+            ],
+            [
+              "**kjent** (mit mest)",
+              "**Munchs mest kjente bilde**"
+            ]
+          ]
+        },
+        {
+          "h": "Genitiv oder til?",
+          "body": "Der s-Genitiv klingt etwas schriftlicher. Bei Namen von Ländern und Städten und in festen Ausdrücken ist er ganz normal: **Norges høyeste fjell, Oslos nye museum**. Im Gespräch sagt man bei Personen oft lieber **den nye sykkelen til Anna** – dann mit **den** + Adjektiv + bestimmtem Substantiv (mehr dazu in Lektion 13).\n\n• **Annas nye sykkel** = **den nye sykkelen til Anna**"
         }
       ],
       "drills": [
@@ -676,23 +707,7 @@
           "explain": "Nach dem Genitiv Norges: Adjektiv mit -e, Substantiv unbestimmt."
         },
         {
-          "prompt": "Annas ___ jakke ble helt våt. (rød)",
-          "de": "Annas rote Jacke wurde ganz nass.",
-          "answer": [
-            "røde"
-          ],
-          "explain": "Nach dem Genitiv hat das Adjektiv -e, auch im Singular."
-        },
-        {
-          "prompt": "Mjøsa er Norges ___ innsjø. (stor, Superlativ)",
-          "de": "Der Mjøsa ist Norwegens größter See.",
-          "answer": [
-            "største"
-          ],
-          "explain": "stor – større – størst; nach Genitiv: største."
-        },
-        {
-          "prompt": "Norges lengste ___ er Sognefjorden. (fjord)",
+          "prompt": "Norges lengste ___ er Sognefjorden. (Fjord)",
           "de": "Norwegens längster Fjord ist der Sognefjord.",
           "answer": [
             "fjord"
@@ -700,63 +715,87 @@
           "explain": "Nach dem Genitiv bleibt das Substantiv unbestimmt: fjord, nicht fjorden."
         },
         {
-          "prompt": "Jeg tok med min ___ sekk. (gammel)",
-          "de": "Ich habe meinen alten Rucksack mitgenommen.",
+          "prompt": "Oslo er Norges ___ by. (stor, Superlativ)",
+          "de": "Oslo ist Norwegens größte Stadt.",
           "answer": [
-            "gamle"
+            "største"
           ],
-          "explain": "Possessiv davor: min gamle sekk – Adjektiv mit -e, Substantiv unbestimmt."
+          "explain": "stor – større – størst; nach Genitiv: største."
         },
         {
-          "prompt": "Det er mitt ___ telt. (ny)",
-          "de": "Das ist mein neues Zelt.",
+          "prompt": "Annas ___ regnjakke henger i gangen. (rød)",
+          "de": "Annas rote Regenjacke hängt im Flur.",
+          "answer": [
+            "røde"
+          ],
+          "explain": "Nach dem Genitiv hat das Adjektiv -e, auch im Singular."
+        },
+        {
+          "prompt": "De sitter på Annas ___ kjøkken. (liten)",
+          "de": "Sie sitzen in Annas kleiner Küche.",
+          "answer": [
+            "lille"
+          ],
+          "explain": "liten wird nach dem Genitiv zu lille (wie nach den/det)."
+        },
+        {
+          "prompt": "Oslos ___ kafeer er fulle på søndager. (liten)",
+          "de": "Oslos kleine Cafés sind sonntags voll.",
+          "answer": [
+            "små"
+          ],
+          "explain": "Plural von liten: små – auch nach dem Genitiv."
+        },
+        {
+          "prompt": "I Munchmuseet henger noen av Munchs mest ___ bilder. (kjent)",
+          "de": "Im Munch-Museum hängen einige von Munchs bekanntesten Bildern.",
+          "answer": [
+            "kjente"
+          ],
+          "explain": "mest bleibt gleich, das Adjektiv bekommt nach dem Genitiv -e."
+        },
+        {
+          "prompt": "Vigelandsparken er Vigelands ___ verk. (stor, Superlativ)",
+          "de": "Der Vigelandpark ist Vigelands größtes Werk.",
+          "answer": [
+            "største"
+          ],
+          "explain": "Auch beim et-Wort verk: største mit -e."
+        },
+        {
+          "prompt": "Det var kveldens beste ___. (Idee)",
+          "de": "Das war die beste Idee des Abends.",
+          "answer": [
+            "idé",
+            "ide"
+          ],
+          "explain": "Nach dem Genitiv steht das Substantiv unbestimmt: idé, nicht ideen."
+        },
+        {
+          "prompt": "Matthias’ ___ jobb er i Bergen. (ny)",
+          "de": "Matthias’ neue Stelle ist in Bergen.",
           "answer": [
             "nye"
           ],
-          "explain": "Auch bei et-Wörtern -e: mitt nye telt, nicht *mitt nytt telt."
+          "explain": "Nach dem Genitiv Matthias’: nye jobb."
         },
         {
-          "prompt": "Den ___ lua mi blåste nesten av. (ny)",
-          "de": "Meine neue Mütze wäre fast weggeflogen.",
+          "prompt": "Fra Karl Johans gate ser man kongens ___ slott. (stor)",
+          "de": "Von der Karl Johans gate aus sieht man das große Schloss des Königs.",
           "answer": [
-            "nye"
+            "store"
           ],
-          "explain": "Possessiv dahinter: den nye lua mi – Adjektiv mit -e, Substantiv bestimmt."
+          "explain": "et slott, aber nach dem Genitiv: store (nicht stort)."
         },
         {
-          "prompt": "Det var Susannes ___ tur i fjellet. (lang, Superlativ)",
-          "de": "Das war Susannes längste Tour in den Bergen.",
+          "prompt": "Det var helgens ___ dag. (fin, Superlativ)",
+          "de": "Das war der schönste Tag des Wochenendes.",
           "answer": [
-            "lengste"
+            "fineste"
           ],
-          "explain": "lang – lengre – lengst; nach Genitiv: lengste."
-        },
-        {
-          "prompt": "Jeg hadde på meg de ___ sokkene mine. (varm)",
-          "de": "Ich hatte meine warmen Socken an.",
-          "answer": [
-            "varme"
-          ],
-          "explain": "de varme sokkene mine – Adjektiv mit -e."
-        },
-        {
-          "prompt": "Matthias’ ___ sekk var full av sjokolade. (tung)",
-          "de": "Matthias’ schwerer Rucksack war voller Schokolade.",
-          "answer": [
-            "tunge"
-          ],
-          "explain": "Nach dem Genitiv Matthias’: tunge sekk (Positiv mit -e)."
-        },
-        {
-          "prompt": "Elin er min ___ venninne fra språkkurset. (god, Superlativ)",
-          "de": "Elin ist meine beste Freundin aus dem Sprachkurs.",
-          "answer": [
-            "beste"
-          ],
-          "explain": "min beste venninne – nach dem Possessiv: Superlativ mit -e."
+          "explain": "fin – finere – finest; nach Genitiv: fineste."
         }
-      ],
-      "_todo": "SPLIT: nur Adjektiv nach Genitiv (nach Possessiv geht nach L16)"
+      ]
     },
     {
       "id": "g12_uregelmessig_gradboying",
@@ -766,7 +805,7 @@
       "sections": [
         {
           "h": "Die wichtigsten Formen",
-          "body": "Die meisten Adjektive steigerst du regelmäßig mit **-ere** und **-est** (Lektion 12). Ein Dutzend sehr häufiger Wörter ist aber unregelmäßig – meistens ganz ähnlich wie im Deutschen und darum leicht zu merken: **god – bedre – best** (gut – besser – am besten), **gammel – eldre – eldst** (alt – älter – am ältesten).\n\nOft ändert sich der Vokal, wie beim deutschen Umlaut: **lang – lengre**, **tung – tyngre**, **ung – yngre**, **stor – større**. Der Komparativ bekommt nie eine Endung für Geschlecht oder Zahl: **en eldre mann, et eldre hus, eldre folk**.",
+          "body": "Die meisten Adjektive steigerst du regelmäßig mit **-ere** und **-est** (Lektion 11). Ein Dutzend sehr häufiger Wörter ist aber unregelmäßig – meistens ganz ähnlich wie im Deutschen und darum leicht zu merken: **god – bedre – best** (gut – besser – am besten), **gammel – eldre – eldst** (alt – älter – am ältesten).\n\nOft ändert sich der Vokal, wie beim deutschen Umlaut: **lang – lengre**, **tung – tyngre**, **ung – yngre**, **stor – større**. Der Komparativ bekommt nie eine Endung für Geschlecht oder Zahl: **en eldre mann, et eldre hus, eldre folk**.",
           "table": [
             [
               "Positiv",
@@ -855,101 +894,109 @@
       ],
       "drills": [
         {
-          "prompt": "Galdhøpiggen er ___ enn Glittertind. (høy)",
-          "de": "Der Galdhøpiggen ist höher als der Glittertind.",
+          "prompt": "Oslo er ___ enn Bergen. (stor, Komparativ)",
+          "de": "Oslo ist größer als Bergen.",
           "answer": [
-            "høyere"
+            "større"
           ],
-          "explain": "høy wird regelmäßig gesteigert: høy – høyere – høyest."
+          "explain": "stor – større – størst, mit Umlaut wie groß – größer."
         },
         {
-          "prompt": "Anna er ni år ___ enn Ola. (gammel)",
-          "de": "Anna ist neun Jahre älter als Ola.",
+          "prompt": "Jonas er ett år ___ enn Anna. (gammel, Komparativ)",
+          "de": "Jonas ist ein Jahr älter als Anna.",
           "answer": [
             "eldre"
           ],
           "explain": "gammel – eldre – eldst (wie alt – älter)."
         },
         {
-          "prompt": "Ola er mye ___ enn Anna. (ung)",
-          "de": "Ola ist viel jünger als Anna.",
+          "prompt": "Anna er ett år ___ enn Jonas. (ung, Komparativ)",
+          "de": "Anna ist ein Jahr jünger als Jonas.",
           "answer": [
             "yngre"
           ],
           "explain": "ung – yngre – yngst, mit Umlaut wie jung – jünger."
         },
         {
-          "prompt": "Matthias’ sekk var mye ___ enn min. (tung)",
-          "de": "Matthias’ Rucksack war viel schwerer als meiner.",
-          "answer": [
-            "tyngre"
-          ],
-          "explain": "tung – tyngre – tyngst."
-        },
-        {
-          "prompt": "Matthias er i ___ form av oss tre. (god, Superlativ)",
-          "de": "Matthias ist von uns dreien am besten in Form.",
-          "answer": [
-            "best"
-          ],
-          "explain": "god – bedre – best."
-        },
-        {
-          "prompt": "Etter lunsj ble været enda ___. (dårlig, Komparativ)",
-          "de": "Nach dem Mittagessen wurde das Wetter noch schlechter.",
+          "prompt": "I morgen tidlig blir været enda ___. (dårlig, Komparativ)",
+          "de": "Morgen früh wird das Wetter noch schlechter.",
           "answer": [
             "verre",
             "dårligere"
           ],
-          "explain": "dårlig – verre (oder dårligere). Beim Wetter, das schon schlecht ist, sagt man meist verre."
+          "explain": "dårlig – verre (oder dårligere). Wenn etwas schon schlecht ist, sagt man meist verre."
         },
         {
-          "prompt": "I oktober er det ___ turister på Besseggen enn om sommeren. (få)",
-          "de": "Im Oktober sind weniger Touristen auf dem Besseggen als im Sommer.",
+          "prompt": "Når det regner, er et museum ___ enn en park. (god, Komparativ)",
+          "de": "Wenn es regnet, ist ein Museum besser als ein Park.",
+          "answer": [
+            "bedre"
+          ],
+          "explain": "god – bedre – best."
+        },
+        {
+          "prompt": "Hvilket museum er ___? (god, Superlativ)",
+          "de": "Welches Museum ist am besten?",
+          "answer": [
+            "best"
+          ],
+          "explain": "god – bedre – best; nach være ohne Endung."
+        },
+        {
+          "prompt": "Når det regner, er det ___ folk i parken. (få, Komparativ)",
+          "de": "Wenn es regnet, sind weniger Leute im Park.",
           "answer": [
             "færre"
           ],
-          "explain": "få – færre – færrest; Touristen kann man zählen."
+          "explain": "få – færre – færrest: Leute kann man zählen."
         },
         {
-          "prompt": "Om sommeren er det mange ___ folk der. (mange, Komparativ)",
-          "de": "Im Sommer sind dort viel mehr Leute.",
+          "prompt": "Når det regner, er det mange ___ folk i museene. (mange, Komparativ)",
+          "de": "Wenn es regnet, sind viel mehr Leute in den Museen.",
           "answer": [
             "flere"
           ],
           "explain": "Zählbares: mange – flere – flest. mange flere = viel mehr."
         },
         {
-          "prompt": "Jeg drakk ___ vann enn Anna. (mye, Komparativ)",
-          "de": "Ich habe mehr Wasser getrunken als Anna.",
+          "prompt": "Jonas vil sove ___ enn de andre. (mye, Komparativ)",
+          "de": "Jonas will mehr schlafen als die anderen.",
           "answer": [
             "mer"
           ],
           "explain": "Menge (nicht zählbar): mye – mer – mest."
         },
         {
-          "prompt": "Gjende er ___ enn Mjøsa. (liten)",
-          "de": "Der Gjende ist kleiner als der Mjøsa.",
+          "prompt": "Det nye Munchmuseet er mye ___ enn det gamle. (høy, Komparativ)",
+          "de": "Das neue Munch-Museum ist viel höher als das alte.",
+          "answer": [
+            "høyere"
+          ],
+          "explain": "høy ist regelmäßig: høy – høyere – høyest (anders als hoch – höher)."
+        },
+        {
+          "prompt": "Annas kjøkken er ___ enn stua. (liten, Komparativ)",
+          "de": "Annas Küche ist kleiner als das Wohnzimmer.",
           "answer": [
             "mindre"
           ],
           "explain": "liten – mindre – minst."
         },
         {
-          "prompt": "Av alle fjordene i Norge er Sognefjorden ___. (lang, Superlativ)",
-          "de": "Von allen Fjorden Norwegens ist der Sognefjord am längsten.",
+          "prompt": "Turen til Bygdøy er ___ enn turen til Bjørvika. (lang, Komparativ)",
+          "de": "Der Weg nach Bygdøy ist länger als der Weg nach Bjørvika.",
           "answer": [
-            "lengst"
+            "lengre"
           ],
-          "explain": "lang – lengre – lengst; nach være ohne Endung."
+          "explain": "lang – lengre – lengst: lengre ist das Adjektiv."
         },
         {
-          "prompt": "Tåka var så tett at vi ikke kunne gå ___. (lang – Adverb)",
-          "de": "Der Nebel war so dicht, dass wir nicht weitergehen konnten.",
+          "prompt": "Matthias kan ikke bli i Oslo ___ enn til søndag. (lang – Adverb)",
+          "de": "Matthias kann nicht länger als bis Sonntag in Oslo bleiben.",
           "answer": [
             "lenger"
           ],
-          "explain": "lenger (Adverb von lang) = weiter, länger (zeitlich). lengre ist das Adjektiv: en lengre tur."
+          "explain": "lenger ist das Adverb (zeitlich länger, weiter). lengre ist das Adjektiv: en lengre tur."
         }
       ]
     },
@@ -961,7 +1008,7 @@
       "sections": [
         {
           "h": "Der Superlativ vor dem Substantiv",
-          "body": "Vor einem Substantiv steht der Superlativ fast immer in der bestimmten Form – genau wie andere Adjektive nach **den/det/de** (Lektion 9): **den/det/de + Superlativ auf -e + bestimmtes Substantiv**.\n\n• **den høyeste toppen** – der höchste Gipfel\n• **det lengste vannet** – der längste See\n• **de beste turene** – die besten Touren\n• **det verste øyeblikket** – der schlimmste Moment\n\nMit **mest**: **den mest populære turen** – **mest** bleibt unverändert, das Adjektiv bekommt **-e**. Verstärken kannst du mit **aller**: **den aller beste dagen** – der allerbeste Tag.\n\nAchtung: **de fleste** heißt »die meisten«: **De fleste turistene kommer om sommeren.** Und »einer der höchsten« heißt **en av de høyeste**: **Besseggen er en av de mest populære turene i Norge.**",
+          "body": "Vor einem Substantiv steht der Superlativ fast immer in der bestimmten Form – genau wie andere Adjektive nach **den/det/de** (Lektion 9): **den/det/de + Superlativ auf -e + bestimmtes Substantiv**.\n\n• **den høyeste toppen** – der höchste Gipfel\n• **det lengste vannet** – der längste See\n• **de beste turene** – die besten Touren\n• **det verste øyeblikket** – der schlimmste Moment\n\nMit **mest**: **den mest populære turen** – **mest** bleibt unverändert, das Adjektiv bekommt **-e**. Verstärken kannst du mit **aller**: **den aller beste dagen** – der allerbeste Tag.\n\nAchtung: **de fleste** heißt »die meisten«: **De fleste turistene kommer om sommeren.** Und »einer/eines der …« heißt **en/et av de …**: **en av de høyeste toppene**, **«Skrik» er et av de mest kjente bildene i verden.**",
           "table": [
             [
               "",
@@ -1008,93 +1055,93 @@
           "explain": "det + Superlativ auf -e + bestimmtes Substantiv: det høyeste fjellet."
         },
         {
-          "prompt": "Det var den ___ dagen på hele turen. (god, Superlativ)",
-          "de": "Das war der beste Tag der ganzen Tour.",
+          "prompt": "Det er den ___ ideen vi har. (god, Superlativ)",
+          "de": "Das ist die beste Idee, die wir haben.",
           "answer": [
             "beste"
           ],
-          "explain": "den beste dagen – Superlativ von god mit -e."
+          "explain": "den beste ideen – Superlativ von god mit -e."
         },
         {
-          "prompt": "Det ___ øyeblikket var på den smale eggen. (dårlig, Superlativ)",
-          "de": "Der schlimmste Moment war auf dem schmalen Grat.",
+          "prompt": "Søndag formiddag kommer det ___ været. (dårlig, Superlativ)",
+          "de": "Am Sonntagvormittag kommt das schlechteste Wetter.",
           "answer": [
             "verste",
             "dårligste"
           ],
-          "explain": "det verste øyeblikket; dårligste ist auch möglich, klingt hier aber schwächer."
+          "explain": "det verste været; dårligste ist auch möglich."
         },
         {
-          "prompt": "Besseggen er en av de mest ___ turene i Norge. (populær)",
-          "de": "Der Besseggen ist eine der beliebtesten Touren Norwegens.",
+          "prompt": "«Skrik» er et av de mest ___ bildene i verden. (kjent)",
+          "de": "„Der Schrei“ ist eines der bekanntesten Bilder der Welt.",
           "answer": [
-            "populære"
+            "kjente"
           ],
           "explain": "mest bleibt unverändert, das Adjektiv bekommt nach de die Endung -e."
         },
         {
-          "prompt": "Hvem av dere er ___? (gammel, Superlativ)",
-          "de": "Wer von euch ist am ältesten?",
+          "prompt": "Hvem av dere fire er ___? (gammel, Superlativ)",
+          "de": "Wer von euch vieren ist am ältesten?",
           "answer": [
             "eldst"
           ],
           "explain": "Nach være ohne Substantiv: Superlativ ohne Endung."
         },
         {
-          "prompt": "Av de tre turene var denne ___. (lang, Superlativ)",
-          "de": "Von den drei Touren war diese am längsten.",
+          "prompt": "Av de tre forslagene er Vigelandsparken ___. (billig, Superlativ)",
+          "de": "Von den drei Vorschlägen ist der Vigelandpark am billigsten.",
           "answer": [
-            "lengst"
+            "billigst"
           ],
-          "explain": "Prädikativ: lengst, ohne -e."
+          "explain": "Prädikativ: billigst, ohne -e."
         },
         {
-          "prompt": "På toppen møtte vi en ___ dame fra Lom. (gammel – absoluter Komparativ)",
-          "de": "Auf dem Gipfel trafen wir eine ältere Dame aus Lom.",
+          "prompt": "Anna synes Munchmuseet er ___ av de tre. (interessant, Superlativ)",
+          "de": "Anna findet das Munch-Museum von den dreien am interessantesten.",
+          "answer": [
+            "mest interessant"
+          ],
+          "explain": "Prädikativ mit mest: mest interessant, ohne -e."
+        },
+        {
+          "prompt": "I parken møtte de en ___ dame med en liten hund. (gammel – absoluter Komparativ)",
+          "de": "Im Park trafen sie eine ältere Dame mit einem kleinen Hund.",
           "answer": [
             "eldre"
           ],
           "explain": "Absoluter Komparativ: en eldre dame = eine ältere (nicht mehr junge) Dame."
         },
         {
-          "prompt": "De ___ turistene går over Besseggen i juli og august. (mange)",
-          "de": "Die meisten Touristen gehen im Juli und August über den Besseggen.",
+          "prompt": "De ___ turistene besøker Vigelandsparken om sommeren. (mange)",
+          "de": "Die meisten Touristen besuchen den Vigelandpark im Sommer.",
           "answer": [
             "fleste"
           ],
           "explain": "de fleste = die meisten (Superlativ von mange, bestimmt)."
         },
         {
-          "prompt": "Matthias bar den ___ sekken. (tung, Superlativ)",
-          "de": "Matthias trug den schwersten Rucksack.",
+          "prompt": "For Jonas er Frammuseet det ___ museet i Oslo. (spennende, Superlativ)",
+          "de": "Für Jonas ist das Fram-Museum das spannendste Museum in Oslo.",
           "answer": [
-            "tyngste"
+            "mest spennende"
           ],
-          "explain": "tung – tyngre – tyngst → den tyngste sekken."
+          "explain": "spennende steigert man mit mest; vor dem Substantiv: det mest spennende museet."
         },
         {
-          "prompt": "Hornindalsvatnet er den ___ innsjøen i Europa. (dyp, Superlativ)",
-          "de": "Der Hornindalsvatnet ist der tiefste See Europas.",
-          "answer": [
-            "dypeste"
-          ],
-          "explain": "dyp – dypere – dypest → den dypeste innsjøen."
-        },
-        {
-          "prompt": "Det var en ___ tur, men ikke for lang. (lang – absoluter Komparativ)",
-          "de": "Es war eine längere Tour, aber nicht zu lang.",
+          "prompt": "Det var en ___ diskusjon, men til slutt ble de enige. (lang – absoluter Komparativ)",
+          "de": "Es war eine längere Diskussion, aber am Ende einigten sie sich.",
           "answer": [
             "lengre"
           ],
-          "explain": "en lengre tur = eine ziemlich lange Tour (absoluter Komparativ, Adjektiv lengre)."
+          "explain": "en lengre diskusjon = eine ziemlich lange Diskussion (absoluter Komparativ)."
         },
         {
-          "prompt": "Matthias valgte den ___ veien ned. (trygg, Superlativ)",
-          "de": "Matthias wählte den sichersten Weg nach unten.",
+          "prompt": "Matthias valgte den ___ løsningen: å gjøre alt sammen. (enkel, Superlativ)",
+          "de": "Matthias wählte die einfachste Lösung: alles zusammen zu machen.",
           "answer": [
-            "tryggeste"
+            "enkleste"
           ],
-          "explain": "trygg – tryggere – tryggest → den tryggeste veien."
+          "explain": "enkel – enklere – enklest → den enkleste løsningen."
         }
       ]
     },
@@ -1106,7 +1153,7 @@
       "sections": [
         {
           "h": "Die fünf Konjunktionen",
-          "body": "Diese Konjunktionen verbinden zwei Hauptsätze. Sie stehen gewissermaßen **außerhalb** des Satzes und zählen nicht als erstes Satzglied. Danach kommt also ganz normal **Subjekt – Verb**, und **ikke** steht wie im Hauptsatz **hinter dem Verb**.\n\nDazu kommen paarige Konjunktionen: **både … og** (sowohl … als auch), **enten … eller** (entweder … oder), **verken … eller** (weder … noch): **Vi var både slitne og våte.**",
+          "body": "Diese Konjunktionen verbinden zwei Hauptsätze. Sie stehen gewissermaßen **außerhalb** des Satzes und zählen nicht als erstes Satzglied. Danach kommt also ganz normal **Subjekt – Verb**, und **ikke** steht wie im Hauptsatz **hinter dem Verb**.\n\nDazu kommen paarige Konjunktionen: **både … og** (sowohl … als auch), **enten … eller** (entweder … oder), **verken … eller** (weder … noch): **Fram har vært både i Arktis og i Antarktis.** **Vi kan enten gå i parken eller på museum.**",
           "table": [
             [
               "Konjunktion",
@@ -1116,7 +1163,7 @@
             [
               "**og**",
               "und",
-              "**Matthias gikk først, og vi gikk etter.**"
+              "**Susanne foreslår parken, og Jonas foreslår Bygdøy.**"
             ],
             [
               "**men**",
@@ -1126,12 +1173,12 @@
             [
               "**eller**",
               "oder",
-              "**Skal vi snu, eller skal vi gå videre?**"
+              "**Skal vi gå på museum, eller skal vi gå i parken?**"
             ],
             [
               "**for**",
               "denn",
-              "**Vi tok en pause, for Anna var sulten.**"
+              "**Vi går på museum først, for det regner om formiddagen.**"
             ],
             [
               "**så**",
@@ -1142,98 +1189,105 @@
         },
         {
           "h": "Achtung: så und for",
-          "body": "Für Deutschsprachige ist **så** die größte Falle. Nach »deshalb« kommt im Deutschen Inversion (»deshalb wurden wir nass«) – nach **så** im Norwegischen nicht:\n\n• **Det regnet, så vi ble våte.** – Es regnete, deshalb wurden wir nass.\n\n**så** kann aber auch ein Adverb sein und bedeutet dann »dann, danach«. Dann steht es auf Platz 1, und es gibt Inversion:\n\n• **Først gikk vi opp. Så begynte det å blåse.** – Zuerst gingen wir hinauf. Dann kam Wind auf.\n\n**for** (denn) verbindet Hauptsätze, **fordi** (weil) leitet einen Nebensatz ein. Den Unterschied siehst du an **ikke**:\n\n• **Vi snudde ikke, for vi var ikke redde.** (Hauptsatz: ikke hinter dem Verb)\n• **Vi snudde ikke, fordi vi ikke var redde.** (Nebensatz: ikke vor dem Verb)\n\nWie »denn« steht **for** nie am Satzanfang; **fordi** kann dort stehen: **Fordi det regnet, snudde vi.**"
+          "body": "Für Deutschsprachige ist **så** die größte Falle. Nach »deshalb« kommt im Deutschen Inversion (»deshalb wurden wir nass«) – nach **så** im Norwegischen nicht:\n\n• **Det regnet, så vi ble våte.** – Es regnete, deshalb wurden wir nass.\n\n**så** kann aber auch ein Adverb sein und bedeutet dann »dann, danach«. Dann steht es auf Platz 1, und es gibt Inversion:\n\n• **Først går vi på Munchmuseet. Så går vi til Vigelandsparken.** – Zuerst gehen wir ins Munch-Museum. Dann gehen wir in den Vigelandpark.\n\n**for** (denn) verbindet Hauptsätze, **fordi** (weil) leitet einen Nebensatz ein. Den Unterschied siehst du an **ikke**:\n\n• **Vi gikk ikke i parken, for vi ville ikke bli våte.** (Hauptsatz: ikke hinter dem Verb)\n• **Vi gikk ikke i parken, fordi vi ikke ville bli våte.** (Nebensatz: ikke vor dem Verb)\n\nWie »denn« steht **for** nie am Satzanfang; **fordi** kann dort stehen: **Fordi det regnet, gikk vi på museum.**"
         }
       ],
       "drills": [
         {
-          "prompt": "Vi var slitne, ___ vi gikk videre. (aber)",
-          "de": "Wir waren müde, aber wir gingen weiter.",
+          "prompt": "Parken er gratis, ___ den er ute. (aber)",
+          "de": "Der Park kostet nichts, aber er ist draußen.",
           "answer": [
             "men"
           ],
           "explain": "men = aber; danach normale Wortstellung."
         },
         {
-          "prompt": "Det begynte å regne, ___ vi tok på oss regntøyet. (deshalb)",
-          "de": "Es fing an zu regnen, deshalb zogen wir die Regensachen an.",
+          "prompt": "Det regner om formiddagen, ___ vi går på museum først. (deshalb)",
+          "de": "Am Vormittag regnet es, deshalb gehen wir zuerst ins Museum.",
           "answer": [
             "så"
           ],
           "explain": "så = deshalb; danach Subjekt – Verb (keine Inversion!)."
         },
         {
-          "prompt": "Vi tok en pause, ___ Anna hadde vondt i beina. (denn)",
-          "de": "Wir machten eine Pause, denn Anna taten die Beine weh.",
+          "prompt": "Anna vil til Munchmuseet, ___ hun synes kunst er interessant. (denn)",
+          "de": "Anna will ins Munch-Museum, denn sie findet Kunst interessant.",
           "answer": [
             "for"
           ],
           "explain": "for = denn; verbindet zwei Hauptsätze."
         },
         {
-          "prompt": "Vil du ha kaffe, ___ vil du ha kakao? (oder)",
-          "de": "Möchtest du Kaffee, oder möchtest du Kakao?",
+          "prompt": "Skal vi gå på museum, ___ skal vi gå i parken? (oder)",
+          "de": "Sollen wir ins Museum gehen, oder sollen wir in den Park gehen?",
           "answer": [
             "eller"
           ],
           "explain": "eller = oder."
         },
         {
-          "prompt": "Matthias gikk først, ___ Anna og jeg gikk bak. (und)",
-          "de": "Matthias ging voraus, und Anna und ich gingen hinterher.",
+          "prompt": "Susanne foreslår parken, ___ Jonas foreslår Bygdøy. (und)",
+          "de": "Susanne schlägt den Park vor, und Jonas schlägt Bygdøy vor.",
           "answer": [
             "og"
           ],
           "explain": "og = und."
         },
         {
-          "prompt": "Det var tåke, så ___ nesten ingenting. (vi + se, preteritum)",
-          "de": "Es war neblig, deshalb sahen wir fast nichts.",
+          "prompt": "Det regnet, så ___ inne hele formiddagen. (vi + være, Präteritum)",
+          "de": "Es regnete, deshalb waren wir den ganzen Vormittag drinnen.",
           "answer": [
-            "vi så"
+            "vi var"
           ],
-          "explain": "Nach så (deshalb) bleibt die Wortstellung Subjekt – Verb: så vi så, nicht *så så vi."
+          "explain": "Nach så (deshalb) bleibt die Wortstellung Subjekt – Verb: så vi var, nicht *så var vi."
         },
         {
-          "prompt": "Det blåste mye, men ___ ikke. (vi + fryse, preteritum)",
-          "de": "Es war sehr windig, aber wir froren nicht.",
+          "prompt": "Det var kaldt, men ___ ikke hjem. (vi + gå, Präteritum)",
+          "de": "Es war kalt, aber wir gingen nicht nach Hause.",
           "answer": [
-            "vi frøs"
+            "vi gikk"
           ],
-          "explain": "Nach men: Subjekt – Verb – ikke. fryse – frøs – frosset."
+          "explain": "Nach men: Subjekt – Verb – ikke."
         },
         {
-          "prompt": "Vi snudde ikke, for vi ___ redde. (være, preteritum + ikke)",
-          "de": "Wir kehrten nicht um, denn wir hatten keine Angst.",
+          "prompt": "Vi gikk ikke i parken, for vi ___ bli våte. (ville, Präteritum + ikke)",
+          "de": "Wir gingen nicht in den Park, denn wir wollten nicht nass werden.",
           "answer": [
-            "var ikke"
+            "ville ikke"
           ],
           "explain": "Nach for folgt ein Hauptsatz: ikke steht hinter dem Verb."
         },
         {
-          "prompt": "Vi snudde ikke, fordi vi ___ redde. (være, preteritum + ikke)",
-          "de": "Wir kehrten nicht um, weil wir keine Angst hatten.",
+          "prompt": "Vi gikk ikke i parken, fordi vi ___ bli våte. (ville, Präteritum + ikke)",
+          "de": "Wir gingen nicht in den Park, weil wir nicht nass werden wollten.",
           "answer": [
-            "ikke var"
+            "ikke ville"
           ],
           "explain": "fordi leitet einen Nebensatz ein: ikke steht vor dem Verb."
         },
         {
-          "prompt": "Først gikk vi opp til Veslfjellet. Så ___. (tåka + komme, preteritum)",
-          "de": "Zuerst gingen wir auf den Veslfjellet. Dann kam der Nebel.",
+          "prompt": "Først gikk de på Munchmuseet. Så ___ til Vigelandsparken. (de + gå, Präteritum)",
+          "de": "Zuerst gingen sie ins Munch-Museum. Dann gingen sie in den Vigelandpark.",
           "answer": [
-            "kom tåka",
-            "kom tåken"
+            "gikk de"
           ],
-          "explain": "Hier ist så ein Adverb (= dann) auf Platz 1 – also Inversion: Så kom tåka."
+          "explain": "Hier ist så ein Adverb (= dann) auf Platz 1 – also Inversion: Så gikk de."
         },
         {
-          "prompt": "Båten gikk ikke lenger, ___ vi måtte gå samme vei tilbake. (deshalb)",
-          "de": "Das Boot fuhr nicht mehr, deshalb mussten wir denselben Weg zurückgehen.",
+          "prompt": "Matthias må reise søndag kveld, ___ de har ikke mye tid. (deshalb)",
+          "de": "Matthias muss am Sonntagabend abreisen, deshalb haben sie nicht viel Zeit.",
           "answer": [
             "så"
           ],
-          "explain": "så = deshalb, danach Subjekt – Verb: så vi måtte."
+          "explain": "så = deshalb, danach Subjekt – Verb: så de har."
+        },
+        {
+          "prompt": "Fram har vært ___ i Arktis og i Antarktis. (sowohl)",
+          "de": "Die Fram war sowohl in der Arktis als auch in der Antarktis.",
+          "answer": [
+            "både"
+          ],
+          "explain": "både … og = sowohl … als auch."
         }
       ]
     }
@@ -1306,16 +1360,17 @@
     {
       "q": "Hvorfor vil ikke Jonas gå i Vigelandsparken?",
       "qDe": "Warum will Jonas nicht in den Vigelandpark?",
-      "answer": "Fordi parken er ute, og det blir regn.",
-      "answerDe": "Weil der Park draußen ist und es Regen gibt.",
+      "answer": "Fordi parken er ute, og han er lei av regn.",
+      "answerDe": "Weil der Park draußen ist und er den Regen satthat.",
       "keywords": [
         [
           "ute"
         ],
         [
           "regn",
-          "regne",
-          "regner"
+          "regnet",
+          "været",
+          "verre"
         ]
       ]
     },
@@ -1340,11 +1395,13 @@
     {
       "q": "Hvorfor vil Anna til Munchmuseet?",
       "qDe": "Warum will Anna ins Munch-Museum?",
-      "answer": "Hun synes det er mer interessant, og det er inne.",
-      "answerDe": "Sie findet es interessanter, und es ist drinnen.",
+      "answer": "Hun synes det er mer interessant, for der kan man se Munchs mest kjente bilder, og det er inne.",
+      "answerDe": "Sie findet es interessanter, denn dort kann man Munchs bekannteste Bilder sehen, und es ist drinnen.",
       "keywords": [
         [
-          "interessant"
+          "interessant",
+          "bilder",
+          "Munchs"
         ],
         [
           "inne"
@@ -1392,6 +1449,12 @@
       ]
     },
     {
+      "de": "noch fauler als Henrik",
+      "answer": [
+        "enda latere enn Henrik"
+      ]
+    },
+    {
       "de": "in Wirklichkeit",
       "answer": [
         "i virkeligheten"
@@ -1400,19 +1463,13 @@
     {
       "de": "laut Wetterbericht",
       "answer": [
-        "Ifølge værmeldingen"
+        "ifølge værmeldingen"
       ]
     },
     {
-      "de": "jedenfalls",
+      "de": "noch schlechter",
       "answer": [
-        "i hvert fall"
-      ]
-    },
-    {
-      "de": "viel zu viele",
-      "answer": [
-        "altfor mange"
+        "enda verre"
       ]
     },
     {
@@ -1428,82 +1485,86 @@
       ]
     },
     {
-      "de": "ein echter Kompromiss",
+      "de": "die beste Idee des Abends",
       "answer": [
-        "et ekte kompromiss"
+        "kveldens beste idé"
       ]
     }
   ],
   "translate": [
     {
-      "de": "Das Museum ist wärmer als der Park.",
+      "de": "Morgen wird das Wetter noch schlechter.",
       "no": [
-        "Museet er varmere enn parken."
+        "I morgen blir været enda verre.",
+        "Været blir enda verre i morgen.",
+        "I morgen blir været enda dårligere.",
+        "Været blir enda dårligere i morgen."
       ]
     },
     {
-      "de": "Das Munch-Museum ist genauso interessant wie das Fram-Museum.",
+      "de": "Das ist die beste Idee des Abends.",
       "no": [
-        "Munchmuseet er like interessant som Frammuseet."
+        "Det er kveldens beste idé.",
+        "Det er den beste ideen i kveld.",
+        "Dette er kveldens beste idé."
       ]
     },
     {
-      "de": "Das ist viel zu teuer!",
+      "de": "Im Munch-Museum hängen einige von Munchs bekanntesten Bildern.",
       "no": [
-        "Det er altfor dyrt!"
+        "I Munchmuseet henger noen av Munchs mest kjente bilder.",
+        "I Munchmuseet henger noen av Munchs mest berømte bilder."
       ]
     },
     {
-      "de": "Sie spricht gut Norwegisch.",
+      "de": "Ich habe den Regen satt.",
       "no": [
-        "Hun snakker godt norsk.",
-        "Hun snakker god norsk."
+        "Jeg er lei av regnet.",
+        "Jeg er lei av regn."
       ]
     },
     {
-      "de": "Anna ist fitter als ich.",
+      "de": "Wir bleiben drinnen, denn es regnet.",
       "no": [
-        "Anna er sprekere enn meg.",
-        "Anna er sprekere enn jeg.",
-        "Anna er sprekere enn jeg er."
+        "Vi blir inne, for det regner.",
+        "Vi er inne, for det regner."
+      ],
+      "hint": "denn = for (danach Hauptsatz)."
+    },
+    {
+      "de": "Es regnete, deshalb gingen wir ins Museum.",
+      "no": [
+        "Det regnet, så vi gikk på museum.",
+        "Det regnet, så vi gikk på museet.",
+        "Det regnet, så vi gikk til museet."
+      ],
+      "hint": "Nach så keine Inversion."
+    },
+    {
+      "de": "Jonas ist ein Jahr älter als Anna.",
+      "no": [
+        "Jonas er ett år eldre enn Anna.",
+        "Jonas er et år eldre enn Anna."
       ]
     },
     {
-      "de": "Ich bin ganz deiner Meinung.",
+      "de": "Die meisten Touristen kommen im Sommer.",
       "no": [
-        "Jeg er helt enig med deg.",
-        "Jeg er helt enig."
+        "De fleste turistene kommer om sommeren.",
+        "De fleste turister kommer om sommeren."
       ]
     },
     {
-      "de": "Der Vigelandpark ist am billigsten.",
+      "de": "Bist du wütend auf mich?",
       "no": [
-        "Vigelandsparken er billigst."
+        "Er du sint på meg?"
       ]
     },
     {
-      "de": "Das neue Gebäude ist super schön.",
+      "de": "Ich freue mich auf Sonntag.",
       "no": [
-        "Det nye bygget er kjempefint.",
-        "Den nye bygningen er kjempefin.",
-        "Det nye bygget er kjempepent.",
-        "Den nye bygningen er kjempepen."
-      ]
-    },
-    {
-      "de": "Das Wetter ist nicht so schön wie gestern.",
-      "no": [
-        "Været er ikke så fint som i går.",
-        "Været er ikke så pent som i går.",
-        "Været er ikke like fint som i går.",
-        "Været er ikke like pent som i går."
-      ]
-    },
-    {
-      "de": "Wir müssen uns schnell entscheiden.",
-      "no": [
-        "Vi må bestemme oss raskt.",
-        "Vi må bestemme oss fort."
+        "Jeg gleder meg til søndag.",
+        "Jeg gleder meg til søndagen."
       ]
     }
   ],
@@ -1557,39 +1618,47 @@
     26
   ],
   "writing": {
-    "prompt": "Du und deine Freunde wollt am Wochenende etwas unternehmen. Schreib eine Nachricht in den Gruppenchat: Vergleiche zwei oder drei Möglichkeiten (billiger, interessanter, wärmer …), benutze verstärkende Wörter und mach einen Kompromissvorschlag.",
+    "prompt": "Du und deine Freunde wollt am Wochenende etwas unternehmen, aber ihr seid euch nicht einig. Schreib eine Nachricht in den Gruppenchat: Vergleiche zwei oder drei Möglichkeiten (besser, am besten, mehr, die meisten …), sag, wie du dich fühlst (lei av, gleder meg …), begründe mit for oder så und mach einen Kompromissvorschlag.",
     "minWords": 90,
     "useWords": [
-      "enn",
-      "mer",
-      "altfor",
-      "foreslår",
+      "bedre",
+      "best",
+      "lei av",
+      "for",
       "kompromiss"
     ],
     "checklist": [
       {
-        "de": "Vergleich mit Komparativ + enn",
+        "de": "Unregelmäßige Steigerung",
         "keywords": [
-          "enn"
+          "bedre",
+          "best",
+          "verre",
+          "verst",
+          "flere",
+          "flest",
+          "eldre",
+          "større",
+          "mindre"
         ]
       },
       {
-        "de": "Superlativ oder like … som",
+        "de": "Ein Gefühl",
         "keywords": [
-          "billigst",
-          "mest",
-          "like"
+          "lei av",
+          "gleder meg",
+          "sur",
+          "sint",
+          "redd",
+          "skuffet",
+          "kjeder meg"
         ]
       },
       {
-        "de": "Verstärkendes Adverb",
+        "de": "for (denn) oder så (deshalb)",
         "keywords": [
-          "veldig",
-          "altfor",
-          "ganske",
-          "utrolig",
-          "litt",
-          "helt"
+          "for",
+          "så"
         ]
       },
       {
@@ -1600,7 +1669,7 @@
         ]
       }
     ],
-    "model": "Hei alle sammen! Hva skal vi gjøre på lørdag? Jeg har tre forslag. Vi kan gå på kino, men det er ganske dyrt. Vi kan gå tur i skogen – det er billigst, og det er mye sunnere enn å sitte inne. Men ifølge værmeldingen blir det altfor kaldt. Det tredje forslaget er å lage mat hjemme hos meg. Det er like koselig som en restaurant, og det er ikke så dyrt. Jeg foreslår et kompromiss: Først går vi en kort tur, og så lager vi pizza hos meg. Det blir mer avslappende enn kino. Hva synes dere? Svar raskt! Hilsen Lena",
-    "modelDe": "Hallo zusammen! Was machen wir am Samstag? Ich habe drei Vorschläge. Wir können ins Kino gehen, aber das ist ziemlich teuer. Wir können im Wald spazieren gehen – das ist am billigsten, und es ist viel gesünder, als drinnen zu sitzen. Aber laut Wetterbericht wird es viel zu kalt. Der dritte Vorschlag ist, bei mir zu Hause zu kochen. Das ist genauso gemütlich wie ein Restaurant, und es ist nicht so teuer. Ich schlage einen Kompromiss vor: Zuerst machen wir einen kurzen Spaziergang, und dann machen wir bei mir Pizza. Das wird entspannter als Kino. Was meint ihr? Antwortet schnell! Viele Grüße, Lena"
+    "model": "Hei alle sammen! Hva skal vi gjøre på lørdag? Jeg er så lei av å sitte inne, men ifølge værmeldingen blir været enda verre i morgen. Vi kan gå på kino, men det er ganske dyrt. Vi kan gå tur i skogen – det er billigst, og det er mye bedre for formen enn å sitte foran TV-en. Det tredje forslaget er å lage mat hjemme hos meg, for det er like koselig som en restaurant. Jeg foreslår et kompromiss: Først går vi en kort tur, så lager vi pizza hos meg. Det er den beste løsningen, synes jeg. Jeg gleder meg! Svar raskt! Hilsen Lena",
+    "modelDe": "Hallo zusammen! Was machen wir am Samstag? Ich habe es so satt, drinnen zu sitzen, aber laut Wetterbericht wird das Wetter morgen noch schlechter. Wir können ins Kino gehen, aber das ist ziemlich teuer. Wir können im Wald spazieren gehen – das ist am billigsten, und es ist viel besser für die Fitness, als vor dem Fernseher zu sitzen. Der dritte Vorschlag ist, bei mir zu Hause zu kochen, denn das ist genauso gemütlich wie ein Restaurant. Ich schlage einen Kompromiss vor: Zuerst machen wir einen kurzen Spaziergang, dann machen wir bei mir Pizza. Das ist die beste Lösung, finde ich. Ich freue mich! Antwortet schnell! Viele Grüße, Lena"
   }
 }

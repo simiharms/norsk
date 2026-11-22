@@ -1658,24 +1658,6 @@
     "wk": true
   },
   {
-    "id": "w22_brekke",
-    "no": "brekke",
-    "de": "brechen",
-    "pos": "verb",
-    "vf": [
-      "brekker",
-      "brakk",
-      "brukket",
-      "brekk"
-    ],
-    "vg": "sterk",
-    "lesson": 22,
-    "ex": {
-      "no": "Han brakk armen da han falt på isen.",
-      "de": "Er brach sich den Arm, als er auf dem Eis hinfiel."
-    }
-  },
-  {
     "id": "w22_planlegge",
     "no": "planlegge",
     "de": "planen",

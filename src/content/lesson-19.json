@@ -5,18 +5,18 @@
   "titleDe": "Ein Telefongespräch und Osterpläne",
   "place": "Tromsø – Trondheim (am Telefon)",
   "goals": [
-    "Du kannst wiedergeben, was jemand gesagt oder gefragt hat (indirekte Rede mit at, om und Fragewörtern).",
-    "Du kannst am Telefon ein Gespräch führen, eine Nachricht hinterlassen und dich verabschieden.",
-    "Du lernst få als Hilfsverb: etwas schaffen (fikk levert), dürfen (fikk være med), erfahren (fikk vite).",
-    "Du kannst mit „Det står en mann ved døra“ Neues einführen und mit „Det var Anna som ringte“ etwas hervorheben.",
-    "Du erfährst etwas über Trondheim und den Nidarosdom."
+    "Du kannst wiedergeben, was jemand gesagt oder gefragt hat: Hun sa at …, Han spurte om …, Hun lurte på hva … – ohne Konjunktiv.",
+    "Du verwendest få als Hilfsverb: etwas schaffen (fikk levert), dürfen (fikk være med), erfahren (fikk vite).",
+    "Du führst mit Präsentationssätzen Neues ein (Det ligger en haug med klær på gulvet) und hebst mit der Satzspaltung etwas hervor (Det var Anna som ringte).",
+    "Du kannst über Sport und Wintersport sprechen: gå langrenn, spille håndball, heie på, vinne, tape, uavgjort.",
+    "Du erfährst etwas über Trondheim, Olav den Heiligen und den Nidarosdom."
   ],
   "text": {
     "id": "t19",
     "title": "Telefonsamtale og påskeplaner",
     "titleDe": "Ein Telefongespräch und Osterpläne",
     "kind": "dialog",
-    "intro": "Anfang März: Susanne sitzt in ihrer Wohnung in Tromsø, als Anna aus Trondheim anruft, wo sie ein Praktikum im Krankenhaus macht. Später kommt Inga nach Hause und will wissen, worüber die beiden so lange gesprochen haben.",
+    "intro": "Mitte Februar: Susanne sitzt in ihrer Wohnung in Tromsø, als Anna aus Trondheim anruft, wo sie ein Praktikum im Krankenhaus macht. Später kommt Inga nach Hause und will wissen, worüber die beiden so lange gesprochen haben.",
     "speakers": {
       "s": {
         "name": "Susanne",
@@ -64,8 +64,8 @@
       },
       {
         "s": "s",
-        "no": "Barnelege! Det passer jo perfekt. Og pasientene, hva sier de?",
-        "de": "Kinderärztin! Das passt doch perfekt. Und die Patienten, was sagen die?"
+        "no": "Og pasientene, hva sier de?",
+        "de": "Und die Patienten, was sagen die?"
       },
       {
         "s": "a",
@@ -74,8 +74,8 @@
       },
       {
         "s": "s",
-        "no": "Ha ha! Det med alderen var sikkert ment som et kompliment. Har du fått være med på noe spennende denne uka?",
-        "de": "Haha! Das mit dem Alter war bestimmt als Kompliment gemeint. Durftest du diese Woche bei etwas Spannendem dabei sein?"
+        "no": "Har du fått være med på noe spennende denne uka?",
+        "de": "Durftest du diese Woche bei etwas Spannendem dabei sein?"
       },
       {
         "s": "a",
@@ -99,8 +99,18 @@
       },
       {
         "s": "a",
-        "no": "Så flott! Men jeg hører på stemmen din at det er noe du ikke har fortalt meg.",
-        "de": "Toll! Aber ich höre an deiner Stimme, dass es da etwas gibt, was du mir noch nicht erzählt hast."
+        "no": "Så flott! Har du fått gått noe på ski i vinter?",
+        "de": "Toll! Bist du diesen Winter überhaupt zum Skilaufen gekommen?"
+      },
+      {
+        "s": "s",
+        "no": "Nesten hver kveld! Inga lærer meg å gå langrenn i lysløypa. Jeg er i mye bedre form nå, men jeg faller fortsatt i hver nedoverbakke. Og Matthias kjører slalåm på Voss hver helg.",
+        "de": "Fast jeden Abend! Inga bringt mir auf der beleuchteten Loipe Langlauf bei. Ich bin jetzt viel besser in Form, aber ich falle immer noch bei jeder Abfahrt hin. Und Matthias fährt jedes Wochenende in Voss alpin Ski."
+      },
+      {
+        "s": "a",
+        "no": "Jeg har ikke trent på flere uker – jeg orker bare å heie på skiskytterne på tv. Men jeg hører på stemmen din at det er noe du ikke har fortalt meg.",
+        "de": "Ich habe seit Wochen nicht trainiert – ich schaffe es gerade noch, im Fernsehen die Biathleten anzufeuern. Aber ich höre an deiner Stimme, dass es da etwas gibt, was du mir noch nicht erzählt hast."
       },
       {
         "s": "s",
@@ -139,28 +149,28 @@
       },
       {
         "s": "a",
-        "no": "Nei, på hytta i Gudbrandsdalen. Og mamma og pappa lurer på om du vil være med!",
-        "de": "Nein, zur Hütte im Gudbrandsdal. Und Mama und Papa fragen, ob du mitkommen möchtest!"
+        "no": "Nei, Kari og Per har invitert meg med på hytta i Gudbrandsdalen. Og de lurer på om du vil være med!",
+        "de": "Nein, Kari und Per haben mich auf ihre Hütte im Gudbrandsdal eingeladen. Und sie fragen, ob du mitkommen möchtest!"
       },
       {
         "s": "s",
-        "no": "Så gjerne! Jeg har hørt så mye om den hytta. Hvem er det som kommer?",
-        "de": "Sehr gern! Ich habe schon so viel von dieser Hütte gehört. Wer kommt denn alles?"
+        "no": "Så gjerne! Hvem er det som kommer?",
+        "de": "Sehr gern! Wer kommt denn alles?"
       },
       {
         "s": "a",
-        "no": "Hele familien: mamma, pappa, Ola, bestemor og selvfølgelig Bamse. Og mamma spurte om ikke Matthias også ville bli med. Det er plass til mange.",
-        "de": "Die ganze Familie: Mama, Papa, Ola, Oma und natürlich Bamse. Und Mama hat gefragt, ob Matthias nicht auch mitkommen möchte. Es ist Platz für viele."
+        "no": "Hele familien, også bestemor Ingrid og Bamse. Og Kari spurte om ikke Matthias også ville bli med.",
+        "de": "Die ganze Familie, auch Oma Ingrid und Bamse. Und Kari hat gefragt, ob Matthias nicht auch mitkommen möchte."
       },
       {
         "s": "s",
-        "no": "Matthias? Det blir han sikkert glad for. Han sa i forrige uke at han ikke hadde noen planer for påsken.",
-        "de": "Matthias? Darüber freut er sich bestimmt. Er hat letzte Woche gesagt, dass er für Ostern noch keine Pläne habe."
+        "no": "Det blir han sikkert glad for. Han sa i forrige uke at han ikke hadde noen planer.",
+        "de": "Darüber freut er sich bestimmt. Er hat letzte Woche gesagt, dass er noch keine Pläne habe."
       },
       {
         "s": "a",
-        "no": "Perfekt! Han kan sitte på med mamma og pappa fra Oslo. Og hvis du flyr til Trondheim, kan vi ta toget sammen gjennom Gudbrandsdalen.",
-        "de": "Perfekt! Er kann bei Mama und Papa ab Oslo mitfahren. Und wenn du nach Trondheim fliegst, können wir zusammen mit dem Zug durchs Gudbrandsdal fahren."
+        "no": "Perfekt! Han kan sitte på med familien fra Oslo. Og hvis du flyr til Trondheim, kan vi ta toget sammen gjennom Gudbrandsdalen.",
+        "de": "Perfekt! Er kann ab Oslo bei der Familie mitfahren. Und wenn du nach Trondheim fliegst, können wir zusammen mit dem Zug durchs Gudbrandsdal fahren."
       },
       {
         "s": "s",
@@ -184,18 +194,8 @@
       },
       {
         "s": "i",
-        "no": "Så bra! Fortalte hun noe mer?",
-        "de": "Wie schön! Hat sie noch mehr erzählt?"
-      },
-      {
-        "s": "s",
-        "no": "Hun fortalte at en pasient hadde spurt om hun var gammel nok til å være lege!",
-        "de": "Sie hat erzählt, ein Patient habe sie gefragt, ob sie alt genug sei, um Ärztin zu sein!"
-      },
-      {
-        "s": "i",
-        "no": "Kult! Spurte hun om Erik også?",
-        "de": "Cool! Hat sie auch nach Erik gefragt?"
+        "no": "Så bra! Spurte hun om Erik også?",
+        "de": "Wie schön! Hat sie auch nach Erik gefragt?"
       },
       {
         "s": "s",
@@ -209,8 +209,8 @@
       },
       {
         "s": "s",
-        "no": "Familien Nygård har invitert meg med på hytta i Gudbrandsdalen! Og Kari spurte om Matthias også ville bli med.",
-        "de": "Die Familie Nygård hat mich auf ihre Hütte im Gudbrandsdal eingeladen! Und Kari hat gefragt, ob Matthias auch mitkommen möchte."
+        "no": "Familien Nygård har invitert oss begge med på hytta i Gudbrandsdalen! Og Kari spurte om Matthias også ville bli med.",
+        "de": "Die Familie Nygård hat uns beide auf ihre Hütte im Gudbrandsdal eingeladen! Und Kari hat gefragt, ob Matthias auch mitkommen möchte."
       },
       {
         "s": "i",
@@ -297,10 +297,6 @@
         "de": "Trøndersk (Dialekt der Gegend um Trondheim)"
       },
       {
-        "no": "ment som et kompliment",
-        "de": "als Kompliment gemeint"
-      },
-      {
         "no": "fått være med",
         "de": "dabei sein dürfen"
       },
@@ -385,12 +381,56 @@
         "de": "viel zu tun hatte"
       },
       {
-        "no": "Kult",
-        "de": "cool!, toll! (Jugendsprache)"
-      },
-      {
         "no": "slett",
         "de": "rett og slett = schlicht und einfach"
+      },
+      {
+        "no": "fått gått noe på ski",
+        "de": "es geschafft, (überhaupt) Ski zu laufen"
+      },
+      {
+        "no": "i vinter",
+        "de": "diesen Winter"
+      },
+      {
+        "no": "lærer meg å gå langrenn",
+        "de": "bringt mir Langlauf bei"
+      },
+      {
+        "no": "lysløypa",
+        "de": "die beleuchtete Loipe"
+      },
+      {
+        "no": "i mye bedre form",
+        "de": "viel besser in Form"
+      },
+      {
+        "no": "nedoverbakke",
+        "de": "Abfahrt, Gefälle (beim Langlauf)"
+      },
+      {
+        "no": "kjører slalåm",
+        "de": "fährt alpin Ski"
+      },
+      {
+        "no": "trent",
+        "de": "trainiert (trene – trente – trent)"
+      },
+      {
+        "no": "orker bare å",
+        "de": "schaffe es nur noch, zu …; habe nur noch die Kraft, zu …"
+      },
+      {
+        "no": "heie på",
+        "de": "anfeuern"
+      },
+      {
+        "no": "skiskytterne",
+        "de": "die Biathletinnen und Biathleten"
+      },
+      {
+        "no": "invitert oss begge med",
+        "de": "uns beide eingeladen"
       }
     ]
   },
@@ -597,9 +637,104 @@
   ],
   "wk": {
     "title": "Sport/Idrett",
-    "titleDe": "",
-    "phrases": [],
-    "_todo": "NEW"
+    "titleDe": "Sport",
+    "phrases": [
+      {
+        "no": "Driver du med idrett?",
+        "de": "Treibst du Sport?",
+        "note": "idrett und sport bedeuten beide „Sport“. drive med = (regelmäßig) betreiben: Hva driver du med på fritida?"
+      },
+      {
+        "no": "Jeg går på ski nesten hver helg.",
+        "de": "Ich laufe fast jedes Wochenende Ski.",
+        "note": "gå på ski = Ski laufen, vor allem Langlauf. Alpin heißt es stå på ski oder kjøre slalåm."
+      },
+      {
+        "no": "Vi gikk langrenn i lysløypa.",
+        "de": "Wir sind auf der beleuchteten Loipe Langlauf gelaufen.",
+        "note": "lysløype = beleuchtete Loipe; viele Orte haben eine für die dunkle Jahreszeit."
+      },
+      {
+        "no": "Står du på ski eller på snowboard?",
+        "de": "Fährst du (alpin) Ski oder Snowboard?"
+      },
+      {
+        "no": "Ola spiller fotball tre ganger i uka.",
+        "de": "Ola spielt dreimal pro Woche Fußball.",
+        "note": "spille + Sportart ohne Artikel: spille fotball, håndball, tennis."
+      },
+      {
+        "no": "Jeg spiller håndball i et idrettslag.",
+        "de": "Ich spiele in einem Sportverein Handball.",
+        "note": "et idrettslag = ein Sportverein; laget = die Mannschaft."
+      },
+      {
+        "no": "Jeg trener to ganger i uka.",
+        "de": "Ich trainiere zweimal pro Woche.",
+        "note": "Das Fitnessstudio heißt treningssenter."
+      },
+      {
+        "no": "Jeg skal ut og løpe en tur.",
+        "de": "Ich gehe eine Runde laufen."
+      },
+      {
+        "no": "Hun er i god form.",
+        "de": "Sie ist gut in Form.",
+        "note": "Gegenteil: i dårlig form."
+      },
+      {
+        "no": "Vi så skiskyting på tv hele helga.",
+        "de": "Wir haben das ganze Wochenende Biathlon im Fernsehen geschaut.",
+        "note": "skiskyting = Biathlon, wörtlich „Skischießen“."
+      },
+      {
+        "no": "Hvem heier du på?",
+        "de": "Für wen bist du? Wen feuerst du an?",
+        "note": "heie på = anfeuern, Fan sein von."
+      },
+      {
+        "no": "Heia Norge!",
+        "de": "Hopp, Norwegen!"
+      },
+      {
+        "no": "Kom igjen!",
+        "de": "Los, komm schon!"
+      },
+      {
+        "no": "Hvem vant?",
+        "de": "Wer hat gewonnen?",
+        "note": "vinne – vant – har vunnet"
+      },
+      {
+        "no": "Vi vant 3–1.",
+        "de": "Wir haben 3:1 gewonnen.",
+        "note": "Gesprochen: tre–en."
+      },
+      {
+        "no": "De tapte kampen.",
+        "de": "Sie haben das Spiel verloren.",
+        "note": "tape = verlieren (ein Spiel, einen Wettkampf); miste = verlieren (einen Gegenstand): Jeg har mistet lua."
+      },
+      {
+        "no": "Kampen endte uavgjort.",
+        "de": "Das Spiel endete unentschieden."
+      },
+      {
+        "no": "Han scoret to mål.",
+        "de": "Er hat zwei Tore geschossen.",
+        "note": "score (gesprochen etwa „skåre“) = ein Tor schießen; et mål = ein Tor, auch ein Ziel."
+      },
+      {
+        "no": "Hun ble nummer to i rennet.",
+        "de": "Sie wurde Zweite im Rennen.",
+        "note": "et renn = ein (Ski-)Rennen"
+      },
+      {
+        "no": "Ut på tur, aldri sur!",
+        "de": "Raus in die Natur, nie schlecht gelaunt!",
+        "note": "Bekannter norwegischer Spruch: Wer draußen unterwegs ist, hat gute Laune."
+      }
+    ]
   },
   "grammar": [
     {
@@ -1128,10 +1263,10 @@
   ],
   "tf": [
     {
-      "s": "Anna ringer fordi hun endelig har en fridag.",
-      "de": "Anna ruft an, weil sie endlich einen freien Tag hat.",
+      "s": "Susanne går langrenn nesten hver kveld.",
+      "de": "Susanne läuft fast jeden Abend Langlauf.",
       "a": true,
-      "why": "Anna sagt: „Jeg har endelig en fridag.“"
+      "why": "„Nesten hver kveld!“ – Inga bringt ihr auf der beleuchteten Loipe Langlauf bei."
     },
     {
       "s": "Det ligger mye snø i Trondheim.",
@@ -1167,7 +1302,7 @@
       "s": "Kari spurte om Matthias også ville være med på hytta.",
       "de": "Kari hat gefragt, ob Matthias auch mit zur Hütte kommen möchte.",
       "a": true,
-      "why": "Anna erzählt, dass ihre Mutter nach Matthias gefragt hat."
+      "why": "Anna erzählt, dass Kari gefragt hat, ob Matthias nicht auch mitkommen möchte."
     },
     {
       "s": "Susanne og Anna skal kjøre bil fra Trondheim til hytta.",
@@ -1224,8 +1359,8 @@
     {
       "q": "Hvorfor ringte Anna egentlig?",
       "qDe": "Warum hat Anna eigentlich angerufen?",
-      "answer": "Hun ringte for å invitere Susanne med på hytta i påsken.",
-      "answerDe": "Sie rief an, um Susanne über Ostern auf die Hütte einzuladen.",
+      "answer": "Hun ringte om påsken: Susanne er invitert med på hytta til familien Nygård.",
+      "answerDe": "Sie rief wegen Ostern an: Susanne ist auf die Hütte der Familie Nygård eingeladen.",
       "keywords": [
         [
           "påsken",
@@ -1271,9 +1406,9 @@
   ],
   "find": [
     {
-      "de": "ein freier Tag",
+      "de": "Langlauf laufen",
       "answer": [
-        "en fridag"
+        "gå langrenn"
       ]
     },
     {
@@ -1426,10 +1561,10 @@
       ]
     },
     {
-      "prompt": "I går fikk Anna være med på en ___ for første gang.",
-      "de": "Gestern durfte Anna zum ersten Mal bei einer Operation dabei sein.",
+      "prompt": "Susanne går langrenn med Inga og er i mye bedre ___ nå.",
+      "de": "Susanne läuft mit Inga Langlauf und ist jetzt viel besser in Form.",
       "answer": [
-        "operasjon"
+        "form"
       ]
     },
     {
@@ -1457,9 +1592,9 @@
   ],
   "dictation": [
     9,
-    18,
-    24,
-    29
+    20,
+    26,
+    31
   ],
   "writing": {
     "prompt": "Deine Freundin Elin aus Göteborg hat dich angerufen, aber deine Mitbewohnerin Inga war nicht da. Schreib Inga eine Nachricht: Was hat Elin erzählt und gefragt? Gib es in indirekter Rede wieder (sa at …, spurte om …, lurte på …) und erwähne auch die Osterpläne.",

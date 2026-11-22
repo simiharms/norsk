@@ -736,6 +736,150 @@
     }
   },
   {
+    "id": "w16_ikke_noe",
+    "no": "ikke noe",
+    "de": "nichts; kein",
+    "pos": "phrase",
+    "lesson": 16,
+    "note": "= ingenting. Mit Hilfs- oder Modalverb nur ikke … noe: Jeg har ikke sett noe.",
+    "ex": {
+      "no": "Jeg har ikke spist noe i dag.",
+      "de": "Ich habe heute nichts gegessen."
+    }
+  },
+  {
+    "id": "w16_ikke_noen",
+    "no": "ikke noen",
+    "de": "niemand; keine",
+    "pos": "phrase",
+    "lesson": 16,
+    "note": "= ingen. Mit Hilfs- oder Modalverb nur ikke … noen: Jeg har ikke sett noen.",
+    "ex": {
+      "no": "Det var ikke noen i kantina.",
+      "de": "Es war niemand in der Kantine."
+    }
+  },
+  {
+    "id": "w16_egen",
+    "no": "egen",
+    "de": "eigen",
+    "pos": "adj",
+    "forms": [
+      "egen",
+      "eget",
+      "egne"
+    ],
+    "lesson": 16,
+    "note": "Nach einem Possessiv im Singular ohne -e: min egen bil, mitt eget rom; Plural: mine egne bøker.",
+    "ex": {
+      "no": "Inga har sitt eget rom.",
+      "de": "Inga hat ihr eigenes Zimmer."
+    }
+  },
+  {
+    "id": "w16_paa_egen_haand",
+    "no": "på egen hånd",
+    "de": "auf eigene Faust",
+    "pos": "phrase",
+    "lesson": 16,
+    "ex": {
+      "no": "Susanne gikk rundt i byen på egen hånd.",
+      "de": "Susanne ging auf eigene Faust durch die Stadt."
+    }
+  },
+  {
+    "id": "w16_hverandre",
+    "no": "hverandre",
+    "de": "einander, sich (gegenseitig)",
+    "deAlt": [
+      "einander",
+      "sich gegenseitig"
+    ],
+    "pos": "pron",
+    "lesson": 16,
+    "note": "Unveränderlich; Genitiv: hverandres. seg ist nur reflexiv, nie gegenseitig.",
+    "ex": {
+      "no": "Inga og Susanne hjelper hverandre med oppgavene.",
+      "de": "Inga und Susanne helfen sich gegenseitig bei den Aufgaben."
+    }
+  },
+  {
+    "id": "w16_motes",
+    "no": "møtes",
+    "de": "sich treffen",
+    "pos": "verb",
+    "vf": [
+      "møtes",
+      "møttes",
+      "møttes",
+      ""
+    ],
+    "vg": "2",
+    "lesson": 16,
+    "note": "Gegenseitige Bedeutung: møte → møtes (einander treffen).",
+    "ex": {
+      "no": "Vi møtes i kantina klokka tolv.",
+      "de": "Wir treffen uns um zwölf in der Kantine."
+    }
+  },
+  {
+    "id": "w16_treffes",
+    "no": "treffes",
+    "de": "sich treffen",
+    "pos": "verb",
+    "vf": [
+      "treffes",
+      "traffes",
+      "truffes",
+      ""
+    ],
+    "vg": "sterk",
+    "lesson": 16,
+    "note": "Wie møtes; im Perfekt sagt man meist: Vi har truffet hverandre.",
+    "ex": {
+      "no": "Når kan vi treffes igjen?",
+      "de": "Wann können wir uns wieder treffen?"
+    }
+  },
+  {
+    "id": "w16_vi_sees",
+    "no": "vi sees",
+    "de": "wir sehen uns",
+    "alt": [
+      "vi ses"
+    ],
+    "pos": "phrase",
+    "lesson": 16,
+    "note": "Auch: vi ses. Feste Abschiedsformel.",
+    "ex": {
+      "no": "Ha det, vi sees i kveld!",
+      "de": "Tschüss, wir sehen uns heute Abend!"
+    }
+  },
+  {
+    "id": "w16_vi_snakkes",
+    "no": "vi snakkes",
+    "de": "wir hören uns, bis bald",
+    "pos": "phrase",
+    "lesson": 16,
+    "note": "Typisch am Ende von Telefonaten und Nachrichten.",
+    "ex": {
+      "no": "Jeg må gå nå. Vi snakkes!",
+      "de": "Ich muss jetzt gehen. Wir hören uns!"
+    }
+  },
+  {
+    "id": "w16_vi_hores",
+    "no": "vi høres",
+    "de": "wir hören voneinander",
+    "pos": "phrase",
+    "lesson": 16,
+    "ex": {
+      "no": "Vi høres i helga, Matthias!",
+      "de": "Wir hören am Wochenende voneinander, Matthias!"
+    }
+  },
+  {
     "id": "w16_spent",
     "no": "spent",
     "de": "gespannt, aufgeregt",
@@ -1504,6 +1648,256 @@
     "ex": {
       "no": "Damen forklarte at alle måtte registrere seg.",
       "de": "Die Frau erklärte, dass sich alle registrieren mussten."
+    }
+  },
+  {
+    "id": "w16_kantine",
+    "no": "kantine",
+    "de": "die Kantine, die Mensa",
+    "deAlt": [
+      "die Kantine",
+      "die Mensa"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "kantine",
+      "kantina",
+      "kantiner",
+      "kantinene"
+    ],
+    "lesson": 16,
+    "ex": {
+      "no": "Skal vi møtes i kantina i morgen?",
+      "de": "Wollen wir uns morgen in der Kantine treffen?"
+    }
+  },
+  {
+    "id": "w16_formell",
+    "no": "formell",
+    "de": "förmlich, formell",
+    "pos": "adj",
+    "forms": [
+      "formell",
+      "formelt",
+      "formelle"
+    ],
+    "lesson": 16,
+    "ex": {
+      "no": "Professoren er ikke formell i det hele tatt.",
+      "de": "Der Professor ist überhaupt nicht förmlich."
+    }
+  },
+  {
+    "id": "w16_uformell",
+    "no": "uformell",
+    "de": "locker, informell",
+    "deAlt": [
+      "locker",
+      "informell",
+      "ungezwungen"
+    ],
+    "pos": "adj",
+    "forms": [
+      "uformell",
+      "uformelt",
+      "uformelle"
+    ],
+    "lesson": 16,
+    "ex": {
+      "no": "Alle er så uformelle i Tromsø.",
+      "de": "In Tromsø sind alle so locker."
+    }
+  },
+  {
+    "id": "w16_inngang",
+    "no": "inngang",
+    "de": "der Eingang",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "inngang",
+      "inngangen",
+      "innganger",
+      "inngangene"
+    ],
+    "lesson": 16,
+    "ex": {
+      "no": "Leiligheten har en egen inngang.",
+      "de": "Die Wohnung hat einen separaten Eingang."
+    }
+  },
+  {
+    "id": "w16_min",
+    "no": "min",
+    "de": "mein",
+    "deAlt": [
+      "meine",
+      "meiner"
+    ],
+    "alt": [
+      "mi",
+      "mitt",
+      "mine"
+    ],
+    "pos": "pron",
+    "lesson": 16,
+    "note": "min (en-Wort), mi (ei-Wort), mitt (et-Wort), mine (Plural). Meist nachgestellt: rommet mitt, boka mi.",
+    "ex": {
+      "no": "Det nye rommet mitt er lite.",
+      "de": "Mein neues Zimmer ist klein."
+    }
+  },
+  {
+    "id": "w16_din",
+    "no": "din",
+    "de": "dein",
+    "deAlt": [
+      "deine",
+      "deiner"
+    ],
+    "alt": [
+      "di",
+      "ditt",
+      "dine"
+    ],
+    "pos": "pron",
+    "lesson": 16,
+    "note": "din, di, ditt, dine – wie min.",
+    "ex": {
+      "no": "Er dette den nye notatboka di?",
+      "de": "Ist das dein neues Notizbuch?"
+    }
+  },
+  {
+    "id": "w16_daarlig",
+    "no": "dårlig",
+    "de": "schlecht",
+    "pos": "adj",
+    "forms": [
+      "dårlig",
+      "dårlig",
+      "dårlige",
+      "verre/dårligere",
+      "verst/dårligst"
+    ],
+    "lesson": 16,
+    "note": "verre/verst = schlimmer, am schlimmsten; dårligere/dårligst = weniger gut.",
+    "ex": {
+      "no": "Susanne sov dårlig natta før den første dagen.",
+      "de": "Susanne schlief in der Nacht vor dem ersten Tag schlecht."
+    }
+  },
+  {
+    "id": "w16_dame",
+    "no": "dame",
+    "de": "die Dame, die Frau",
+    "deAlt": [
+      "die Dame",
+      "die Frau"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "dame",
+      "damen",
+      "damer",
+      "damene"
+    ],
+    "lesson": 16,
+    "ex": {
+      "no": "En dame fra det internasjonale kontoret ønsket alle velkommen.",
+      "de": "Eine Frau vom International Office hieß alle willkommen."
+    }
+  },
+  {
+    "id": "w16_fru",
+    "no": "fru",
+    "de": "Frau (Anrede)",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "fru",
+      "frua",
+      "fruer",
+      "fruene"
+    ],
+    "lesson": 16,
+    "note": "Als Anrede heute selten; man duzt und nennt meist den Vornamen.",
+    "ex": {
+      "no": "Fru Solheim er naboen til Matthias i Bergen.",
+      "de": "Frau Solheim ist Matthias’ Nachbarin in Bergen."
+    }
+  },
+  {
+    "id": "w16_baade",
+    "no": "både",
+    "de": "sowohl (… als auch)",
+    "pos": "conj",
+    "lesson": 16,
+    "note": "både … og = sowohl … als auch",
+    "ex": {
+      "no": "Mange samer snakker både samisk og norsk.",
+      "de": "Viele Samen sprechen sowohl Samisch als auch Norwegisch."
+    }
+  },
+  {
+    "id": "w16_oppgave",
+    "no": "oppgave",
+    "de": "die Aufgabe, die (schriftliche) Arbeit",
+    "deAlt": [
+      "die Aufgabe",
+      "die Arbeit"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "oppgave",
+      "oppgaven",
+      "oppgaver",
+      "oppgavene"
+    ],
+    "lesson": 16,
+    "note": "An der Uni oft: eine schriftliche Arbeit (semesteroppgave, bacheloroppgave).",
+    "ex": {
+      "no": "Inga og Susanne hjelper hverandre med oppgavene.",
+      "de": "Inga und Susanne helfen sich gegenseitig bei den Aufgaben."
+    }
+  },
+  {
+    "id": "w16_klaer",
+    "no": "klær",
+    "de": "die Kleidung",
+    "deAlt": [
+      "die Kleider"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "plOnly": true,
+    "forms": [
+      "klær",
+      "klærne"
+    ],
+    "lesson": 16,
+    "note": "Nur Plural: klær – klærne. Ein einzelnes Stück heißt et plagg.",
+    "ex": {
+      "no": "Rommet til Susanne var fullt av kofferter og klær.",
+      "de": "Susannes Zimmer war voller Koffer und Kleidung."
+    }
+  },
+  {
+    "id": "w16_omtrent",
+    "no": "omtrent",
+    "de": "ungefähr, etwa",
+    "deAlt": [
+      "ungefähr",
+      "etwa"
+    ],
+    "pos": "adv",
+    "lesson": 16,
+    "ex": {
+      "no": "Omtrent ni av ti elever har bokmål som hovedmål.",
+      "de": "Etwa neun von zehn Schülern haben Bokmål als Hauptsprache."
     }
   }
 ]
