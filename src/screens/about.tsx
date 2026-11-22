@@ -12,10 +12,12 @@ export function AboutPage() {
           <h2>🌌 Nordlys</h2>
           <p>
             Eine Norwegisch-App zum Lehrbuch <strong>»Et år i Norge – Norwegisch für Deutschsprachige«</strong> von Randi Rosenvinge Schirmer (Hempen Verlag). Sie
-            folgt dem Buch Lektion für Lektion: 23 Lektionen mit den Themen, Orten und der Grammatik des Buches, in seiner Reihenfolge, von A1 bis B2.
+            folgt dem Inhaltsverzeichnis des Buches Lektion für Lektion: dieselben 23 Lektionen mit denselben Texttiteln, Landeskunde-Themen, Wörterkisten und
+            Grammatikthemen in derselben Reihenfolge, von A1 bis B2. Bei jeder Lektion steht, auf welcher Seite sie im Buch beginnt.
           </p>
           <p class="small muted">
-            Die Texte, Übungen und Erklärungen sind neu für diese App geschrieben; nichts ist aus dem Buch kopiert. Die App ist eine Ergänzung zum Buch und zum
+            Die Texte, Übungen und Erklärungen sind neu für diese App zu den Themen des Buches geschrieben; nichts ist aus dem Buch kopiert – die Geschichten
+            in der App sind also andere als im Buch. Die App ist eine Ergänzung zum Buch und zum
             Unterricht. Sie wurde mit KI erstellt und sorgfältig geprüft, aber nicht von einer Norwegischlehrerin – wenn dir etwas seltsam vorkommt, gilt, was im
             Buch steht oder was deine Lehrerin sagt.
           </p>

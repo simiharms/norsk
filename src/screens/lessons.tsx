@@ -39,7 +39,7 @@ export function LessonList() {
                   title={p.title}
                   sub={
                     <>
-                      {p.titleDe} · {lessonByN.has(p.n) ? `${pr.done}/${pr.total}` : 'bald'}
+                      {p.titleDe} · S. {p.page} · {lessonByN.has(p.n) ? `${pr.done}/${pr.total}` : 'bald'}
                     </>
                   }
                   done={complete}
@@ -71,6 +71,7 @@ export function LessonPage({ n }: { n: number }) {
           <div class="small muted mt">
             📍 {plan.place} · {plan.when}
           </div>
+          <div class="small muted">📖 Im Buch: Lektion {n}, ab Seite {plan.page}</div>
           {L && (
             <>
               <ul class="goals">
