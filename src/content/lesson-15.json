@@ -619,9 +619,10 @@
           "prompt": "Per låner sykkelen ___ i dag. (= Olas Fahrrad)",
           "de": "Per leiht sich heute sein Fahrrad (Olas Fahrrad).",
           "answer": [
-            "hans"
+            "hans",
+            "til Ola"
           ],
-          "explain": "Das Fahrrad gehört Ola, nicht dem Subjekt Per → hans."
+          "explain": "Das Fahrrad gehört Ola, nicht dem Subjekt Per → hans (oder: sykkelen til Ola), nie sin."
         },
         {
           "prompt": "Kari og broren ___ snakker i telefonen hver søndag. (Karis Bruder)",

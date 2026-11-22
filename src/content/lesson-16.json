@@ -913,9 +913,10 @@
           "prompt": "Har leiligheten ___ bad? (eigenes)",
           "de": "Hat die Wohnung ein eigenes Bad?",
           "answer": [
-            "eget"
+            "eget",
+            "et eget"
           ],
-          "explain": "et bad → eget bad; ohne Artikel wie ha bil."
+          "explain": "et bad → eget bad; ohne Artikel wie ha bil (mit Artikel: et eget bad)."
         }
       ]
     },

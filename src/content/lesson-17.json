@@ -880,9 +880,10 @@
           "de": "Darf ich deine Decke leihen?",
           "answer": [
             "Kan",
-            "Får"
+            "Får",
+            "Kunne"
           ],
-          "explain": "kan heißt hier »dürfen« (auch: Får jeg …?)."
+          "explain": "kan heißt hier »dürfen« (auch: Får jeg …? Noch höflicher: Kunne jeg …?)."
         },
         {
           "prompt": "Du ___ ikke se på bølgene! (= Du darfst nicht …)",
