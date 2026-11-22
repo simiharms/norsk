@@ -118,7 +118,7 @@
       },
       {
         "s": "j",
-        "no": "Tretten etasjer? Det er altfor mange for en søndag morgen. Dere er mye sprekere enn meg.",
+        "no": "Tretten etasjer? Det er altfor mange for en søndagsmorgen. Dere er mye sprekere enn meg.",
         "de": "Dreizehn Stockwerke? Das sind viel zu viele für einen Sonntagmorgen. Ihr seid viel fitter als ich."
       },
       {
@@ -367,8 +367,8 @@
           "de": "Munch war Maler. Seine Mutter starb, als er fünf Jahre alt war, und später starb auch seine Schwester Sophie. Krankheit, Tod, Angst und Liebe wurden wichtige Themen in seinen Bildern. Aber er malte auch helle Bilder, zum Beispiel das große Gemälde „Die Sonne“ in der Aula der Universität Oslo. Das Bild „Der Schrei“ von 1893 kennt fast jeder. Munch schuf mehrere Versionen des Bildes, und heute befinden sich einige davon im Nationalmuseum und im Munch-Museum."
         },
         {
-          "no": "Munch døde i 1944. I testamentet ga han Oslo kommune tusenvis av malerier og tegninger. Derfor har byen i dag et helt museum for ham: Munchmuseet, som siden 2021 ligger i et høyt bygg ved fjorden i Bjørvika.",
-          "de": "Munch starb 1944. In seinem Testament vermachte er der Stadt Oslo Tausende von Gemälden und Zeichnungen. Deshalb hat die Stadt heute ein ganzes Museum für ihn: das Munch-Museum, das seit 2021 in einem hohen Gebäude am Fjord in Bjørvika liegt."
+          "no": "Munch døde i 1944. I testamentet ga han Oslo kommune over tusen malerier og flere tusen tegninger. Derfor har byen i dag et helt museum for ham: Munchmuseet, som siden 2021 ligger i et høyt bygg ved fjorden i Bjørvika.",
+          "de": "Munch starb 1944. In seinem Testament vermachte er der Stadt Oslo über tausend Gemälde und mehrere tausend Zeichnungen. Deshalb hat die Stadt heute ein ganzes Museum für ihn: das Munch-Museum, das seit 2021 in einem hohen Gebäude am Fjord in Bjørvika liegt."
         },
         {
           "no": "Vigeland var billedhugger. I 1921 gjorde han en avtale med byen: Han fikk et stort atelier, og til gjengjeld fikk byen verkene hans. I dag er atelieret Vigelandmuseet.",
@@ -445,8 +445,8 @@
           "de": "die Stadt Oslo (als Gemeinde)"
         },
         {
-          "no": "tusenvis av",
-          "de": "Tausende von"
+          "no": "flere tusen",
+          "de": "mehrere tausend"
         },
         {
           "no": "malerier og tegninger",
@@ -1136,8 +1136,8 @@
           "explain": "en lengre diskusjon = eine ziemlich lange Diskussion (absoluter Komparativ)."
         },
         {
-          "prompt": "Matthias valgte den ___ løsningen: å gjøre alt sammen. (enkel, Superlativ)",
-          "de": "Matthias wählte die einfachste Lösung: alles zusammen zu machen.",
+          "prompt": "Anna fant den ___ løsningen: museum først, så parken. (enkel, Superlativ)",
+          "de": "Anna fand die einfachste Lösung: zuerst das Museum, dann der Park.",
           "answer": [
             "enkleste"
           ],
@@ -1506,7 +1506,9 @@
       "no": [
         "Det er kveldens beste idé.",
         "Det er den beste ideen i kveld.",
-        "Dette er kveldens beste idé."
+        "Dette er kveldens beste idé.",
+        "Det er kveldens beste ide.",
+        "Dette er kveldens beste ide."
       ]
     },
     {

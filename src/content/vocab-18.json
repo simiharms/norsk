@@ -670,8 +670,8 @@
     "vg": "2",
     "lesson": 18,
     "ex": {
-      "no": "De fleste krumkakene ble knust.",
-      "de": "Die meisten Krumkaker zerbrachen."
+      "no": "Ola knuste et glass på kjøkkenet.",
+      "de": "Ola hat in der Küche ein Glas zerbrochen."
     }
   },
   {
@@ -1270,6 +1270,25 @@
     "ex": {
       "no": "Nå må du skjerpe deg!",
       "de": "Jetzt musst du dich zusammenreißen!"
+    }
+  },
+  {
+    "id": "w18_gi_seg",
+    "no": "gi seg",
+    "de": "aufhören, lockerlassen; aufgeben",
+    "pos": "verb",
+    "vf": [
+      "gir seg",
+      "ga seg",
+      "gitt seg",
+      "gi deg"
+    ],
+    "vg": "sterk",
+    "lesson": 18,
+    "wk": true,
+    "ex": {
+      "no": "Gi deg nå, jeg er lei av det!",
+      "de": "Jetzt hör aber auf, ich habe es satt!"
     }
   },
   {

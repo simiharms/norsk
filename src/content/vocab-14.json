@@ -1109,24 +1109,5 @@
       "no": "Et reinskinn er varmt å sitte på.",
       "de": "Auf einem Rentierfell sitzt man warm."
     }
-  },
-  {
-    "id": "w18_gi_seg",
-    "no": "gi seg",
-    "de": "aufhören, lockerlassen; aufgeben",
-    "pos": "verb",
-    "vf": [
-      "gir seg",
-      "ga seg",
-      "gitt seg",
-      "gi deg"
-    ],
-    "vg": "sterk",
-    "lesson": 14,
-    "wk": true,
-    "ex": {
-      "no": "Gi deg nå, jeg er lei av det!",
-      "de": "Jetzt hör aber auf, ich habe es satt!"
-    }
   }
 ]
