@@ -6,99 +6,95 @@
   "place": "Bergen, Sandviken",
   "goals": [
     "Du kannst eine Wohnung beschreiben: Zimmer, oben und unten, die Aussicht.",
-    "Du lernst die wichtigsten unregelmäßigen Verben und ihre Muster (drikke – drakk – drukket).",
-    "Du unterscheidest Richtung und Ort: ut – ute, hjem – hjemme.",
-    "Du weißt, wann man i und wann man på sagt (i stua, på kjøkkenet).",
-    "Du erfährst etwas über Bergen und Westnorwegen."
+    "Du kannst Grund, Bedingung, Zweck, Folge, Gegensatz und Vergleich ausdrücken: fordi, siden, hvis, for at, så … at, selv om, som om, enn.",
+    "Du unterscheidest Richtung und Ort: inn – inne, opp – oppe, hjem – hjemme.",
+    "Du weißt, wann man i und wann man på sagt (i stua, på kjøkkenet, på Vestlandet).",
+    "Du sagst deine Meinung mit synes, tro und tenke – und erfährst etwas über Bergen und Westnorwegen."
   ],
   "text": {
     "id": "t14",
     "title": "Den nye leiligheten til Matthias i Bergen",
     "titleDe": "Matthias’ neue Wohnung in Bergen",
     "kind": "email",
-    "intro": "Matthias ist nach Bergen gezogen. Nach einer Woche schreibt er Susanne in Oslo eine lange E-Mail über seine neue Wohnung und seine erste Woche.",
+    "intro": "Ende Oktober. Seit dem 1. Oktober arbeitet Matthias in Bergen; einen Monat lang hat er in einem Zimmer bei einem Kollegen gewohnt, jetzt hat er eine Wohnung in einem alten Holzhaus in Sandviken. Er schreibt Susanne, die noch in Oslo ist und Anfang November nach Tromsø zieht, eine lange E-Mail.",
     "lines": [
       {
         "no": "Hei Susanne!",
         "de": "Hallo Susanne!"
       },
       {
-        "no": "Nå har jeg bodd i Bergen i ei uke, og endelig har jeg tid til å skrive. Turen hit gikk fint, og oppe på fjellet lå det allerede snø. Da toget var framme i Bergen, regnet det – selvfølgelig.",
-        "de": "Jetzt wohne ich seit einer Woche in Bergen, und endlich habe ich Zeit zu schreiben. Die Fahrt hierher ging gut, und oben in den Bergen lag schon Schnee. Als der Zug in Bergen ankam, regnete es – natürlich."
+        "no": "Nå har jeg endelig en leilighet! En hel måned bodde jeg på et rom hos en kollega. Det var hyggelig, men trangt. Siden lørdag bor jeg i Sandviken, i det gamle trehuset som jeg fortalte deg om.",
+        "de": "Jetzt habe ich endlich eine Wohnung! Einen ganzen Monat lang habe ich in einem Zimmer bei einem Kollegen gewohnt. Das war nett, aber eng. Seit Samstag wohne ich in Sandviken, in dem alten Holzhaus, von dem ich dir erzählt habe."
       },
       {
-        "no": "Leiligheten min ligger i et gammelt, hvitt trehus i Sandviken, ikke langt fra sentrum. Jeg bor oppe, og naboen min, fru Solheim, bor nede. Hun er åtti år og har bodd i huset hele livet.",
-        "de": "Meine Wohnung liegt in einem alten, weißen Holzhaus in Sandviken, nicht weit vom Zentrum. Ich wohne oben, und meine Nachbarin, Frau Solheim, wohnt unten. Sie ist achtzig und hat ihr ganzes Leben in dem Haus gewohnt."
+        "no": "Huset er hvitt og over hundre år gammelt. Jeg bor oppe, og naboen min, fru Solheim, bor nede. Hun er åtti år og har bodd i huset hele livet. Hun snakker til meg som om jeg var barnebarnet hennes, og hun har allerede gitt meg en gammel sofa og ei lampe.",
+        "de": "Das Haus ist weiß und über hundert Jahre alt. Ich wohne oben, und meine Nachbarin, Frau Solheim, wohnt unten. Sie ist achtzig und hat ihr ganzes Leben in dem Haus gewohnt. Sie redet mit mir, als ob ich ihr Enkel wäre, und sie hat mir schon ein altes Sofa und eine Lampe geschenkt."
       },
       {
-        "no": "Leiligheten er ikke stor, men den er lys og koselig. Når du kommer inn, står du i en smal gang. Til venstre er badet, og til høyre er soverommet. Rett fram er stua, og ved siden av ligger kjøkkenet. På kjøkkenet er det bare plass til et lite bord. I stua står en gammel sofa som fru Solheim ga meg.",
-        "de": "Die Wohnung ist nicht groß, aber sie ist hell und gemütlich. Wenn du hereinkommst, stehst du in einem schmalen Flur. Links ist das Bad und rechts das Schlafzimmer. Geradeaus ist das Wohnzimmer, und daneben liegt die Küche. In der Küche ist nur Platz für einen kleinen Tisch. Im Wohnzimmer steht ein altes Sofa, das Frau Solheim mir geschenkt hat."
+        "no": "Leiligheten er ikke stor, men den er lys og koselig. Når du kommer inn, står du i en smal gang. Til venstre er badet, og til høyre er soverommet. Rett fram er stua, og ved siden av ligger kjøkkenet. På kjøkkenet er det bare plass til et lite bord, så jeg spiser i stua.",
+        "de": "Die Wohnung ist nicht groß, aber sie ist hell und gemütlich. Wenn du hereinkommst, stehst du in einem schmalen Flur. Links ist das Bad und rechts das Schlafzimmer. Geradeaus ist das Wohnzimmer, und daneben liegt die Küche. In der Küche ist nur Platz für einen kleinen Tisch, also esse ich im Wohnzimmer."
       },
       {
-        "no": "Og så utsikten! Fra stua ser jeg ned på havna og alle båtene som kommer inn.",
-        "de": "Und dann die Aussicht! Vom Wohnzimmer aus sehe ich hinunter auf den Hafen und all die Boote, die hereinkommen."
+        "no": "Og så utsikten! Fra stua ser jeg ned på havna og alle båtene som kommer inn. Jeg valgte leiligheten fordi utsikten er så fin, selv om husleia er litt høyere enn jeg hadde håpet. Dessuten kan jeg sykle til kontoret ved Bryggen på ti minutter. Hvis det regner, er jeg våt til skinnet når jeg er framme.",
+        "de": "Und dann die Aussicht! Vom Wohnzimmer aus sehe ich hinunter auf den Hafen und all die Boote, die hereinkommen. Ich habe mich für die Wohnung entschieden, weil die Aussicht so schön ist, obwohl die Miete etwas höher ist, als ich gehofft hatte. Außerdem kann ich in zehn Minuten mit dem Rad ins Büro bei Bryggen fahren. Wenn es regnet, bin ich nass bis auf die Haut, wenn ich ankomme."
       },
       {
-        "no": "Ja, og regnet. Det har regnet hver dag siden jeg kom. Fru Solheim lo bare: «Glem paraplyen, den blåser bort. Her går man ikke ut uten ordentlig regntøy!» Dagen etter kjøpte jeg regnjakke og gummistøvler.",
-        "de": "Ja, und der Regen. Es hat jeden Tag geregnet, seit ich angekommen bin. Frau Solheim lachte nur: „Vergiss den Regenschirm, der weht weg. Hier geht man nicht ohne richtige Regenkleidung hinaus!“ Am Tag danach habe ich mir eine Regenjacke und Gummistiefel gekauft."
+        "no": "Og det regner ofte! Fru Solheim lo da hun så paraplyen min: «Glem den, den blåser bort. Her går man ikke ut uten ordentlig regntøy!» Hun har rett. Siden jeg ikke vil sitte våt på kontoret, har jeg også kjøpt gummistøvler.",
+        "de": "Und es regnet oft! Frau Solheim lachte, als sie meinen Regenschirm sah: „Vergiss ihn, der weht weg. Hier geht man nicht ohne richtige Regenkleidung hinaus!“ Sie hat recht. Da ich nicht nass im Büro sitzen will, habe ich mir auch Gummistiefel gekauft."
       },
       {
-        "no": "Mandag begynte jeg i den nye jobben. Kontoret ligger like ved Bryggen, og kollegaene mine er hyggelige. Sjefen viste meg rundt og ga meg en nøkkel.",
-        "de": "Am Montag habe ich die neue Stelle angetreten. Das Büro liegt gleich bei Bryggen, und meine Kollegen sind nett. Die Chefin hat mich herumgeführt und mir einen Schlüssel gegeben."
+        "no": "Lørdag leide jeg en liten flyttebil. Kassene mine hadde stått i garasjen til kollegaen min i en måned. Jeg bar alle tjue opp den bratte trappa og inn i stua. Trappa er så bratt at jeg nesten falt ned, og den natta sov jeg som en stein.",
+        "de": "Am Samstag habe ich einen kleinen Umzugswagen gemietet. Meine Kisten hatten einen Monat lang in der Garage meines Kollegen gestanden. Ich habe alle zwanzig die steile Treppe hinauf und ins Wohnzimmer getragen. Die Treppe ist so steil, dass ich fast hinuntergefallen wäre, und in der Nacht habe ich geschlafen wie ein Stein."
       },
       {
-        "no": "Onsdag kom flyttebilen fra Oslo. Jeg bar tjue kasser opp den bratte trappa, og den natta sov jeg som en stein. Torsdag fant jeg et lite bakeri nede ved havna. Der selger de skillingsboller, en spesialitet fra Bergen. Jeg spiste tre!",
-        "de": "Am Mittwoch kam der Umzugswagen aus Oslo. Ich habe zwanzig Kisten die steile Treppe hinaufgetragen, und in der Nacht habe ich geschlafen wie ein Stein. Am Donnerstag habe ich unten am Hafen eine kleine Bäckerei gefunden. Dort verkaufen sie Skillingsboller (Zimtschnecken), eine Bergener Spezialität. Ich habe drei gegessen!"
+        "no": "Søndag fant jeg et lite bakeri nede ved havna. Der selger de skillingsboller, og jeg spiste tre!",
+        "de": "Am Sonntag habe ich unten am Hafen eine kleine Bäckerei gefunden. Dort verkaufen sie Skillingsboller, und ich habe drei gegessen!"
       },
       {
-        "no": "Lørdag gikk jeg opp på Fløyen. Det var tåke, og jeg så nesten ingenting, men inne på kafeen var det varmt. Da jeg kom hjem igjen, var jeg våt til skinnet. I dag har jeg vært hjemme hele dagen.",
-        "de": "Am Samstag bin ich auf den Fløyen gestiegen. Es war neblig, und ich habe fast nichts gesehen, aber drinnen im Café war es warm. Als ich wieder nach Hause kam, war ich nass bis auf die Haut. Heute war ich den ganzen Tag zu Hause."
+        "no": "Husker du tåka på Fløyen da du var her? Vi så nesten ingenting, så vi satt inne på kafeen. Nå kan jeg se Fløyen fra kjøkkenvinduet, i hvert fall når det ikke er tåke. Jeg synes Bergen er enda vakrere enn jeg trodde, og jeg tror at jeg kommer til å bli glad i byen.",
+        "de": "Erinnerst du dich an den Nebel auf dem Fløyen, als du hier warst? Wir haben fast nichts gesehen, also haben wir drinnen im Café gesessen. Jetzt kann ich den Fløyen vom Küchenfenster aus sehen, jedenfalls wenn kein Nebel ist. Ich finde Bergen noch schöner, als ich dachte, und ich glaube, dass ich die Stadt lieb gewinnen werde."
       },
       {
-        "no": "Når kommer du på besøk? Du kan sove på sofaen, og jeg skal vise deg byen – med eller uten regn. Hils Anna og hele familien Nygård!",
-        "de": "Wann kommst du zu Besuch? Du kannst auf dem Sofa schlafen, und ich zeige dir die Stadt – mit oder ohne Regen. Grüß Anna und die ganze Familie Nygård!"
+        "no": "Og du? Om noen dager flytter du til Tromsø. Jeg tenker mye på at du snart bor enda lenger borte. Men jeg tror du kommer til å like deg der, selv om sola blir borte i mørketida. Hvis du vil, kan vi snakke på video hver søndag, for at du ikke skal glemme hvordan regn ser ut.",
+        "de": "Und du? In ein paar Tagen ziehst du nach Tromsø. Ich denke viel daran, dass du bald noch weiter weg wohnst. Aber ich glaube, dass du dich dort wohlfühlen wirst, auch wenn die Sonne in der Polarnacht verschwindet. Wenn du willst, können wir jeden Sonntag per Video reden, damit du nicht vergisst, wie Regen aussieht."
+      },
+      {
+        "no": "Hils Anna og hele familien Nygård! Er det sant at Anna skal flytte inn i sokkelleiligheten deres?",
+        "de": "Grüß Anna und die ganze Familie Nygård! Stimmt es, dass Anna in ihre Souterrainwohnung einzieht?"
+      },
+      {
+        "no": "Og nå kan du komme og se leiligheten! Neste gang du kommer på besøk, kan du sove på sofaen min.",
+        "de": "Und jetzt kannst du kommen und dir die Wohnung ansehen! Wenn du das nächste Mal zu Besuch kommst, kannst du auf meinem Sofa schlafen."
       },
       {
         "no": "Hilsen Matthias",
         "de": "Viele Grüße, Matthias"
       },
       {
-        "no": "PS: Ikke ta med paraply. Ta med regntøy!",
-        "de": "PS: Bring keinen Regenschirm mit. Bring Regenkleidung mit!"
+        "no": "PS: Ikke ta med paraply når du kommer. Ta med regntøy!",
+        "de": "PS: Bring keinen Regenschirm mit, wenn du kommst. Bring Regenkleidung mit!"
       }
     ],
     "glossary": [
       {
-        "no": "endelig",
-        "de": "endlich"
+        "no": "En hel måned",
+        "de": "einen ganzen Monat (lang)"
       },
       {
-        "no": "Turen hit",
-        "de": "die Fahrt hierher"
+        "no": "på et rom hos en kollega",
+        "de": "in einem Zimmer bei einem Kollegen"
       },
       {
-        "no": "oppe på fjellet",
-        "de": "oben in den Bergen"
+        "no": "Siden lørdag",
+        "de": "seit Samstag (siden als Präposition)"
       },
       {
-        "no": "lå det allerede snø",
-        "de": "lag schon Schnee (ligge – lå – ligget)"
+        "no": "som jeg fortalte deg om",
+        "de": "von dem ich dir erzählt habe"
       },
       {
-        "no": "framme",
-        "de": "angekommen, da"
-      },
-      {
-        "no": "selvfølgelig",
-        "de": "natürlich, selbstverständlich"
-      },
-      {
-        "no": "trehus",
-        "de": "Holzhaus"
-      },
-      {
-        "no": "ikke langt fra sentrum",
-        "de": "nicht weit vom Zentrum"
+        "no": "over hundre år gammelt",
+        "de": "über hundert Jahre alt"
       },
       {
         "no": "naboen min",
@@ -109,8 +105,8 @@
         "de": "das ganze Leben"
       },
       {
-        "no": "lys",
-        "de": "hell"
+        "no": "som om jeg var barnebarnet hennes",
+        "de": "als ob ich ihr Enkel wäre (som om + Präteritum)"
       },
       {
         "no": "koselig",
@@ -121,44 +117,40 @@
         "de": "ein schmaler Flur"
       },
       {
-        "no": "Til venstre",
-        "de": "links"
-      },
-      {
-        "no": "til høyre",
-        "de": "rechts"
-      },
-      {
         "no": "Rett fram",
         "de": "geradeaus"
-      },
-      {
-        "no": "ved siden av",
-        "de": "daneben"
       },
       {
         "no": "bare plass til",
         "de": "nur Platz für"
       },
       {
-        "no": "ga meg",
-        "de": "gab mir, hat mir gegeben (gi – ga – gitt)"
+        "no": "ser jeg ned på havna",
+        "de": "sehe ich hinunter auf den Hafen"
       },
       {
-        "no": "utsikten",
-        "de": "die Aussicht"
+        "no": "høyere enn jeg hadde håpet",
+        "de": "höher, als ich gehofft hatte"
       },
       {
-        "no": "havna",
-        "de": "der Hafen"
+        "no": "Dessuten",
+        "de": "außerdem"
       },
       {
-        "no": "lo bare",
-        "de": "lachte nur (le – lo – ledd)"
+        "no": "våt til skinnet",
+        "de": "nass bis auf die Haut"
       },
       {
-        "no": "Glem paraplyen",
-        "de": "Vergiss den Regenschirm"
+        "no": "når jeg er framme",
+        "de": "wenn ich ankomme (framme = am Ziel)"
+      },
+      {
+        "no": "lo",
+        "de": "lachte (le – lo – ledd)"
+      },
+      {
+        "no": "Glem den",
+        "de": "vergiss ihn"
       },
       {
         "no": "blåser bort",
@@ -169,36 +161,32 @@
         "de": "richtige Regenkleidung"
       },
       {
-        "no": "Dagen etter",
-        "de": "am Tag danach"
+        "no": "Hun har rett",
+        "de": "sie hat recht"
       },
       {
-        "no": "gummistøvler",
-        "de": "Gummistiefel"
+        "no": "sitte våt",
+        "de": "nass dasitzen"
       },
       {
-        "no": "like ved Bryggen",
-        "de": "gleich bei Bryggen (alte Hansekontore am Hafen)"
+        "no": "kasser",
+        "de": "Kisten (ei kasse)"
       },
       {
-        "no": "viste meg rundt",
-        "de": "führte mich herum"
-      },
-      {
-        "no": "flyttebilen",
-        "de": "der Umzugswagen"
+        "no": "hadde stått",
+        "de": "hatten gestanden (Plusquamperfekt)"
       },
       {
         "no": "bar",
         "de": "trug (bære – bar – båret)"
       },
       {
-        "no": "kasser",
-        "de": "Kisten"
-      },
-      {
         "no": "den bratte trappa",
         "de": "die steile Treppe"
+      },
+      {
+        "no": "falt ned",
+        "de": "fiel hinunter (falle – falt – falt)"
       },
       {
         "no": "sov jeg som en stein",
@@ -209,36 +197,44 @@
         "de": "Zimtschnecken, eine Bergener Spezialität"
       },
       {
-        "no": "tåke",
-        "de": "Nebel"
+        "no": "Fløyen",
+        "de": "der Fløyen (Hausberg von Bergen)"
       },
       {
         "no": "nesten ingenting",
         "de": "fast nichts"
       },
       {
-        "no": "våt til skinnet",
-        "de": "nass bis auf die Haut"
+        "no": "enda vakrere",
+        "de": "noch schöner"
       },
       {
-        "no": "på besøk",
-        "de": "zu Besuch"
+        "no": "bli glad i byen",
+        "de": "die Stadt lieb gewinnen"
       },
       {
-        "no": "Hils",
-        "de": "Grüß (hilse = grüßen)"
+        "no": "enda lenger borte",
+        "de": "noch weiter weg"
       },
       {
-        "no": "Fløyen",
-        "de": "der Fløyen (Hausberg von Bergen)"
+        "no": "like deg der",
+        "de": "dich dort wohlfühlen (like seg)"
+      },
+      {
+        "no": "på video",
+        "de": "per Video"
+      },
+      {
+        "no": "hvordan regn ser ut",
+        "de": "wie Regen aussieht"
+      },
+      {
+        "no": "sokkelleiligheten deres",
+        "de": "ihre Souterrainwohnung (die der Familie Nygård)"
       },
       {
         "no": "Hilsen",
         "de": "Gruß (am Briefende: Viele Grüße)"
-      },
-      {
-        "no": "PS",
-        "de": "PS (Nachsatz am Briefende)"
       }
     ]
   },
@@ -365,10 +361,6 @@
           "de": "Nynorsk, die zweite norwegische Schriftsprache"
         },
         {
-          "no": "nest",
-          "de": "zweit- (den nest største = die zweitgrößte)"
-        },
-        {
           "no": "1200-tallet",
           "de": "das 13. Jahrhundert (die 1200er-Jahre)"
         },
@@ -383,6 +375,14 @@
         {
           "no": "Olav",
           "de": "Olav (Name vieler norwegischer Könige: Olav Kyrre, Olav Tryggvason, Olav der Heilige, Olav V.)"
+        },
+        {
+          "no": "Derfor",
+          "de": "deshalb, darum"
+        },
+        {
+          "no": "kilometer",
+          "de": "Kilometer"
         }
       ]
     }
@@ -471,6 +471,15 @@
         "no": "Jeg trives godt her.",
         "de": "Ich fühle mich hier wohl.",
         "note": "trives ist ein s-Verb (mehr dazu in Lektion 18) – sehr häufig."
+      },
+      {
+        "no": "Jeg bor i andre etasje.",
+        "de": "Ich wohne im ersten Stock.",
+        "note": "In Norwegen ist das Erdgeschoss første etasje – andre etasje ist also der erste Stock."
+      },
+      {
+        "no": "Vaskemaskinen står i kjelleren.",
+        "de": "Die Waschmaschine steht im Keller."
       }
     ]
   },
@@ -479,11 +488,11 @@
       "id": "g14_konjunksjoner",
       "title": "Kausal-, Konditional-, Final-, Konsekutiv-, Konzessiv-, Komparativkonjunktionen",
       "titleNo": "underordnende konjunksjoner",
-      "summary": "fordi/siden (Grund), hvis/om (Bedingung), for at (Zweck), så (at) (Folge), selv om (Gegensatz), som om/enn (Vergleich) – im Nebensatz: Subjekt – ikke – Verb.",
+      "summary": "fordi/siden/da (Grund), hvis/om (Bedingung), for at (Zweck), så (at) (Folge), selv om (Gegensatz), som om/enn (Vergleich) – im Nebensatz: Subjekt – ikke – Verb.",
       "sections": [
         {
           "h": "Die Konjunktionen im Überblick",
-          "body": "Diese Konjunktionen leiten Nebensätze ein. **siden** kann „seit“ (Zeit) oder „da, weil“ (Grund) bedeuten; **om** kann „wenn, falls“ oder „ob“ bedeuten – der Zusammenhang entscheidet.",
+          "body": "Diese Konjunktionen leiten Nebensätze ein. Manche haben zwei Bedeutungen – der Zusammenhang entscheidet:\n\n• **siden** = »seit« (Zeit, Lektion 13) oder »da, weil« (Grund): **Siden jeg ikke har bil, sykler jeg.**\n• **da** = »als« (Zeit) oder – eher schriftlich – »da, weil« (Grund).\n• **om** = »wenn, falls« oder »ob«.",
           "table": [
             [
               "Bedeutung",
@@ -493,60 +502,70 @@
             ],
             [
               "Grund",
-              "**fordi**, **siden**",
+              "**fordi**, **siden**, **da**",
               "weil, da",
-              "**Hun var sliten fordi hun hadde sovet dårlig.**"
+              "**Han tok leiligheten fordi utsikten er så fin.**"
             ],
             [
               "Bedingung",
               "**hvis**, **om**",
               "wenn, falls",
-              "**Hvis du vil, kan du skrive om nordnorsk.**"
+              "**Hvis det regner, blir han våt.**"
             ],
             [
               "Zweck",
               "**for at**",
               "damit",
-              "**Inga snakker langsomt for at Susanne skal forstå.**"
+              "**Hun snakker langsomt for at han skal forstå.**"
             ],
             [
               "Folge",
-              "**så (at)**",
+              "**så (at)**, **så … at**",
               "sodass, so … dass",
-              "**Køen var så lang at hun måtte vente.**"
+              "**Trappa er så bratt at han nesten falt.**"
             ],
             [
               "Gegensatz",
               "**selv om**",
-              "obwohl",
-              "**Det var mørkt, selv om klokka bare var fire.**"
+              "obwohl, auch wenn",
+              "**Han tok den, selv om den ikke er stor.**"
             ],
             [
               "Vergleich",
               "**som om**, **enn**",
               "als ob, als",
-              "**Han lo som om han fortalte vitser.**"
+              "**Hun snakker til ham som om han var barnebarnet hennes.**"
             ]
           ]
         },
         {
           "h": "Wortstellung im Nebensatz: Subjekt – ikke – Verb",
-          "body": "Im Nebensatz steht das Verb nie am Ende. Satzadverbien wie **ikke**, **aldri**, **alltid**, **ofte**, **bare** stehen **vor** dem gebeugten Verb:\n\n• Hauptsatz: **Hun forsto ikke alt.**\n• Nebensatz: **… selv om hun ikke forsto alt.** (… obwohl sie nicht alles verstand.)\n• **… fordi jeg ikke er vant til dialekten.**\n\nTypischer Fehler deutscher Lernender: *fordi jeg er ikke vant til dialekten* (Hauptsatz-Stellung) oder *fordi jeg dialekten ikke vant er* (deutsche Stellung)."
+          "body": "Im Nebensatz steht das Verb nie am Ende. Satzadverbien wie **ikke**, **aldri**, **alltid**, **ofte**, **bare** stehen **vor** dem gebeugten Verb:\n\n• Hauptsatz: **Leiligheten er ikke stor.**\n• Nebensatz: **… selv om leiligheten ikke er stor.** (… obwohl die Wohnung nicht groß ist.)\n• **… fordi jeg ikke har bil.**\n\nTypische Fehler deutscher Lernender: *fordi jeg har ikke bil* (Hauptsatz-Stellung) oder *fordi jeg ikke bil har* (deutsche Stellung).\n\nSteht der Nebensatz vorn, folgt im Hauptsatz die Inversion: **Hvis det regner, tar jeg bussen.**"
         },
         {
-          "h": "fordi oder for? så oder så at?",
-          "body": "• **fordi** (weil) leitet einen Nebensatz ein. **for** (denn) verbindet zwei Hauptsätze (Lektion 14): **Hun gikk hjem, for hun var sliten.**\n• **så** allein (also, deshalb) verbindet zwei Hauptsätze: **Det var lang kø, så hun måtte vente.** Mit **så … at** (so … dass) steht **så** vor einem Adjektiv oder Adverb: **Han snakket så fort at hun ikke forsto noe.**\n• **hvis** und **om** sind beide richtig; **hvis** ist im Bedingungssatz häufiger."
+          "h": "fordi oder for? så oder så at? for at oder for å?",
+          "body": "• **fordi** (weil) leitet einen Nebensatz ein. **for** (denn) verbindet zwei Hauptsätze (Lektion 12): **Han spiser i stua, for kjøkkenet er lite.**\n• **så** allein (also, deshalb) verbindet zwei Hauptsätze: **Kjøkkenet er lite, så jeg spiser i stua.** Mit **så … at** (so … dass) steht **så** vor einem Adjektiv oder Adverb: **Trappa er så bratt at jeg nesten falt ned.**\n• **for at** + Nebensatz, wenn das Subjekt wechselt: **Vi snakker på video for at du ikke skal glemme regnet.** Bei gleichem Subjekt meist **for å** + Infinitiv: **Han kjøpte gummistøvler for å holde seg tørr.**\n• Nach **som om** steht meist das Präteritum, auch wenn es um die Gegenwart geht: **som om jeg var barnebarnet hennes** (als ob ich ihr Enkel wäre). Einen Konjunktiv wie im Deutschen gibt es nicht.\n• **enn** steht nach dem Komparativ, auch vor einem ganzen Satz: **høyere enn jeg hadde håpet**."
         }
       ],
       "drills": [
         {
-          "prompt": "Susanne var sliten ___ hun hadde sovet dårlig. (weil)",
-          "de": "Susanne war müde, weil sie schlecht geschlafen hatte.",
+          "prompt": "Matthias valgte leiligheten ___ utsikten er så fin. (weil)",
+          "de": "Matthias hat sich für die Wohnung entschieden, weil die Aussicht so schön ist.",
           "answer": [
             "fordi",
             "siden"
           ],
           "explain": "Grund: fordi (auch siden ist möglich)."
+        },
+        {
+          "prompt": "___ jeg ikke har bil, sykler jeg til jobben. (da, weil)",
+          "de": "Da ich kein Auto habe, fahre ich mit dem Rad zur Arbeit.",
+          "answer": [
+            "Siden",
+            "Fordi",
+            "Da"
+          ],
+          "explain": "Grund am Satzanfang: meist siden (auch fordi); förmlich auch da – Achtung, da heißt auch »als«."
         },
         {
           "prompt": "___ det regner i morgen, blir vi hjemme. (wenn, falls)",
@@ -558,82 +577,83 @@
           "explain": "Bedingung: hvis oder om."
         },
         {
-          "prompt": "Inga snakket langsomt ___ Susanne kunne forstå henne. (damit)",
-          "de": "Inga sprach langsam, damit Susanne sie verstehen konnte.",
+          "prompt": "Fru Solheim snakker langsomt ___ Matthias skal forstå henne. (damit)",
+          "de": "Frau Solheim spricht langsam, damit Matthias sie versteht.",
           "answer": [
             "for at",
             "slik at",
             "så"
           ],
-          "explain": "Zweck: for at (damit). Im Alltag hört man auch slik at oder einfach så."
+          "explain": "Zweck mit Subjektwechsel: for at (damit). Im Alltag hört man auch slik at oder einfach så."
         },
         {
-          "prompt": "Det var lang kø, ___ hun måtte vente i en time. (deshalb, sodass)",
-          "de": "Es war eine lange Schlange, sodass sie eine Stunde warten musste.",
+          "prompt": "Det regnet hele dagen, ___ Matthias ble våt til skinnet. (deshalb, sodass)",
+          "de": "Es regnete den ganzen Tag, sodass Matthias nass bis auf die Haut wurde.",
           "answer": [
             "så",
-            "så at",
-            "slik at"
+            "slik at",
+            "så at"
           ],
           "explain": "Folge: så (at)."
         },
         {
-          "prompt": "Professoren snakket så fort ___ Susanne ikke forsto noe. (dass)",
-          "de": "Der Professor sprach so schnell, dass Susanne nichts verstand.",
+          "prompt": "Trappa er så bratt ___ Matthias nesten falt ned. (dass)",
+          "de": "Die Treppe ist so steil, dass Matthias fast hinuntergefallen wäre.",
           "answer": [
             "at"
           ],
           "explain": "so … dass = så … at."
         },
         {
-          "prompt": "Hun gikk på forelesningen ___ hun var forkjølet. (obwohl)",
-          "de": "Sie ging in die Vorlesung, obwohl sie erkältet war.",
+          "prompt": "Han tok leiligheten ___ husleia er høy. (obwohl)",
+          "de": "Er hat die Wohnung genommen, obwohl die Miete hoch ist.",
           "answer": [
             "selv om"
           ],
           "explain": "Gegensatz: selv om (obwohl)."
         },
         {
-          "prompt": "Han lo ___ han fortalte vitser hele tiden. (als ob)",
-          "de": "Er lachte, als ob er die ganze Zeit Witze erzählte.",
+          "prompt": "Fru Solheim snakker til ham ___ han var barnebarnet hennes. (als ob)",
+          "de": "Frau Solheim redet mit ihm, als ob er ihr Enkel wäre.",
           "answer": [
             "som om"
           ],
-          "explain": "Vergleich, nicht wirklich: som om (als ob). Kein Konjunktiv wie im Deutschen nötig."
+          "explain": "Vergleich, nicht wirklich: som om (als ob) + Präteritum. Kein Konjunktiv wie im Deutschen nötig."
         },
         {
-          "prompt": "Tromsø er mye mindre ___ Oslo. (als)",
-          "de": "Tromsø ist viel kleiner als Oslo.",
+          "prompt": "Bergen er mindre ___ Oslo. (als)",
+          "de": "Bergen ist kleiner als Oslo.",
           "answer": [
             "enn"
           ],
           "explain": "Vergleich nach dem Komparativ: enn."
         },
         {
-          "prompt": "Hun var glad, selv om hun ___. (ikke, forstå alt, preteritum)",
-          "de": "Sie war froh, obwohl sie nicht alles verstand.",
+          "prompt": "Han tok leiligheten, selv om den ___. (ikke, være stor, presens)",
+          "de": "Er hat die Wohnung genommen, obwohl sie nicht groß ist.",
           "answer": [
-            "ikke forsto alt",
-            "ikke skjønte alt"
+            "ikke er stor"
           ],
-          "explain": "Im Nebensatz steht ikke vor dem Verb: selv om hun ikke forsto alt."
+          "explain": "Im Nebensatz steht ikke vor dem Verb: selv om den ikke er stor."
         },
         {
-          "prompt": "Jeg spør Inga fordi jeg ___. (ikke, være vant til dialekten, presens)",
-          "de": "Ich frage Inga, weil ich den Dialekt nicht gewohnt bin.",
+          "prompt": "Matthias sykler, fordi han ___. (ikke, ha bil, presens)",
+          "de": "Matthias fährt Rad, weil er kein Auto hat.",
           "answer": [
-            "ikke er vant til dialekten"
+            "ikke har bil",
+            "ikke har noen bil"
           ],
-          "explain": "Nebensatz: Subjekt – ikke – Verb (fordi jeg ikke er …)."
+          "explain": "Nebensatz: Subjekt – ikke – Verb (fordi han ikke har …)."
         },
         {
-          "prompt": "Du kan låne bøkene mine ___ du trenger dem. (wenn, falls)",
-          "de": "Du kannst meine Bücher ausleihen, wenn du sie brauchst.",
+          "prompt": "Du kan sove på sofaen min ___ du kommer til Bergen. (wenn, falls)",
+          "de": "Du kannst auf meinem Sofa schlafen, wenn du nach Bergen kommst.",
           "answer": [
             "hvis",
-            "om"
+            "om",
+            "når"
           ],
-          "explain": "Bedingung: hvis oder om."
+          "explain": "Bedingung: hvis oder om. Weil es um die Zukunft geht, passt auch når (wenn = sobald)."
         }
       ]
     },
@@ -1051,16 +1071,10 @@
   ],
   "tf": [
     {
-      "s": "Matthias har bodd i Bergen i ei uke.",
-      "de": "Matthias wohnt seit einer Woche in Bergen.",
+      "s": "Matthias har bodd på et rom hos en kollega i en måned.",
+      "de": "Matthias hat einen Monat in einem Zimmer bei einem Kollegen gewohnt.",
       "a": true,
-      "why": "Er schreibt: „Nå har jeg bodd i Bergen i ei uke.“"
-    },
-    {
-      "s": "Det var sol da toget kom fram til Bergen.",
-      "de": "Es schien die Sonne, als der Zug in Bergen ankam.",
-      "a": false,
-      "why": "Es regnete – „selvfølgelig“, schreibt Matthias."
+      "why": "„En hel måned bodde jeg på et rom hos en kollega.“"
     },
     {
       "s": "Matthias bor nede, og fru Solheim bor oppe.",
@@ -1069,28 +1083,40 @@
       "why": "Umgekehrt: Matthias wohnt oben, Frau Solheim unten."
     },
     {
-      "s": "Sofaen i stua er fra fru Solheim.",
-      "de": "Das Sofa im Wohnzimmer ist von Frau Solheim.",
+      "s": "Fru Solheim har gitt Matthias en sofa og ei lampe.",
+      "de": "Frau Solheim hat Matthias ein Sofa und eine Lampe geschenkt.",
       "a": true,
-      "why": "Frau Solheim hat ihm das alte Sofa gegeben."
+      "why": "„… hun har allerede gitt meg en gammel sofa og ei lampe.“"
     },
     {
-      "s": "Fru Solheim synes at Matthias bør kjøpe en paraply.",
-      "de": "Frau Solheim findet, dass Matthias einen Regenschirm kaufen sollte.",
+      "s": "Matthias valgte leiligheten fordi husleia er så lav.",
+      "de": "Matthias hat die Wohnung genommen, weil die Miete so niedrig ist.",
       "a": false,
-      "why": "Sie sagt, er soll den Schirm vergessen und richtige Regenkleidung kaufen."
+      "why": "Er hat sie wegen der Aussicht genommen – obwohl die Miete höher ist, als er gehofft hatte."
     },
     {
-      "s": "Matthias fant et bakeri nede ved havna.",
-      "de": "Matthias hat eine Bäckerei unten am Hafen gefunden.",
+      "s": "Matthias bar alle kassene opp trappa.",
+      "de": "Matthias hat alle Kisten die Treppe hinaufgetragen.",
       "a": true,
-      "why": "Am Donnerstag fand er dort eine kleine Bäckerei mit Skillingsboller."
+      "why": "„Jeg bar alle tjue opp den bratte trappa og inn i stua.“"
     },
     {
-      "s": "Fra Fløyen så Matthias hele byen.",
-      "de": "Vom Fløyen aus sah Matthias die ganze Stadt.",
+      "s": "Fru Solheim synes at en paraply er nok i Bergen.",
+      "de": "Frau Solheim findet, dass ein Regenschirm in Bergen genügt.",
       "a": false,
-      "why": "Es war neblig, und er sah fast nichts."
+      "why": "Sie sagt, er soll den Schirm vergessen: Man braucht richtige Regenkleidung."
+    },
+    {
+      "s": "Susanne har vært i Bergen før.",
+      "de": "Susanne war schon einmal in Bergen.",
+      "a": true,
+      "why": "Matthias erinnert sie an den Nebel auf dem Fløyen, „da du var her“."
+    },
+    {
+      "s": "Matthias synes Bergen er mindre vakker enn han trodde.",
+      "de": "Matthias findet Bergen weniger schön, als er dachte.",
+      "a": false,
+      "why": "Er findet Bergen „enda vakrere enn jeg trodde“ – noch schöner."
     }
   ],
   "questions": [
@@ -1101,7 +1127,9 @@
       "answerDe": "Sie liegt in einem alten Holzhaus in Sandviken.",
       "keywords": [
         [
-          "trehus"
+          "trehus",
+          "trehuset",
+          "hus"
         ],
         [
           "Sandviken"
@@ -1124,55 +1152,86 @@
       ]
     },
     {
-      "q": "Hva ser Matthias fra stua?",
-      "qDe": "Was sieht Matthias vom Wohnzimmer aus?",
-      "answer": "Han ser havna og båtene som kommer inn.",
-      "answerDe": "Er sieht den Hafen und die Boote, die hereinkommen.",
+      "q": "Hvorfor valgte Matthias denne leiligheten?",
+      "qDe": "Warum hat Matthias diese Wohnung gewählt?",
+      "answer": "Fordi utsikten er så fin, og fordi han kan sykle til kontoret.",
+      "answerDe": "Weil die Aussicht so schön ist und weil er mit dem Rad ins Büro fahren kann.",
       "keywords": [
         [
-          "havna",
-          "havnen",
-          "havn"
+          "utsikten",
+          "utsikt"
         ],
         [
-          "båtene",
-          "båter",
-          "båt"
+          "sykle",
+          "kontoret",
+          "jobben"
         ]
       ]
     },
     {
-      "q": "Hva gjorde Matthias da flyttebilen kom?",
-      "qDe": "Was machte Matthias, als der Umzugswagen kam?",
-      "answer": "Han bar tjue kasser opp den bratte trappa.",
-      "answerDe": "Er trug zwanzig Kisten die steile Treppe hinauf.",
+      "q": "Hvor hadde kassene til Matthias stått?",
+      "qDe": "Wo hatten Matthias’ Kisten gestanden?",
+      "answer": "De hadde stått i garasjen til kollegaen hans.",
+      "answerDe": "Sie hatten in der Garage seines Kollegen gestanden.",
       "keywords": [
         [
-          "bar",
-          "bære",
-          "båret"
+          "garasjen",
+          "garasje"
         ],
         [
-          "kasser",
-          "kassene",
-          "kasse"
+          "kollega",
+          "kollegaen"
         ]
       ]
     },
     {
-      "q": "Hvorfor så Matthias nesten ingenting på Fløyen?",
-      "qDe": "Warum sah Matthias auf dem Fløyen fast nichts?",
-      "answer": "Fordi det var tåke.",
-      "answerDe": "Weil es neblig war.",
+      "q": "Hva synes Matthias om Bergen?",
+      "qDe": "Was hält Matthias von Bergen?",
+      "answer": "Han synes Bergen er enda vakrere enn han trodde.",
+      "answerDe": "Er findet Bergen noch schöner, als er dachte.",
       "keywords": [
         [
-          "tåke",
-          "tåka"
+          "vakrere",
+          "vakker",
+          "fin",
+          "finere"
+        ],
+        [
+          "synes",
+          "trodde"
+        ]
+      ]
+    },
+    {
+      "q": "Hvorfor vil Matthias snakke med Susanne på video?",
+      "qDe": "Warum will Matthias mit Susanne per Video sprechen?",
+      "answer": "For at hun ikke skal glemme hvordan regn ser ut.",
+      "answerDe": "Damit sie nicht vergisst, wie Regen aussieht.",
+      "keywords": [
+        [
+          "regn",
+          "regnet"
+        ],
+        [
+          "glemme",
+          "glemmer"
         ]
       ]
     }
   ],
   "find": [
+    {
+      "de": "eng",
+      "answer": [
+        "trangt"
+      ]
+    },
+    {
+      "de": "als ob",
+      "answer": [
+        "som om"
+      ]
+    },
     {
       "de": "die Aussicht",
       "answer": [
@@ -1192,27 +1251,21 @@
       ]
     },
     {
-      "de": "der Umzugswagen",
-      "answer": [
-        "flyttebilen"
-      ]
-    },
-    {
       "de": "die steile Treppe",
       "answer": [
         "den bratte trappa"
       ]
     },
     {
-      "de": "nass bis auf die Haut",
+      "de": "jedenfalls",
       "answer": [
-        "våt til skinnet"
+        "i hvert fall"
       ]
     },
     {
-      "de": "zu Besuch",
+      "de": "obwohl",
       "answer": [
-        "på besøk"
+        "selv om"
       ]
     }
   ],
@@ -1234,26 +1287,11 @@
       ]
     },
     {
-      "de": "Gestern habe ich eine kleine Bäckerei gefunden.",
-      "no": [
-        "I går fant jeg et lite bakeri.",
-        "Jeg fant et lite bakeri i går."
-      ]
-    },
-    {
       "de": "Er trug die Kisten in die Küche.",
       "no": [
         "Han bar kassene inn på kjøkkenet."
       ],
       "hint": "Richtung + Ort: inn på kjøkkenet."
-    },
-    {
-      "de": "Sie hat mir ein altes Sofa gegeben.",
-      "no": [
-        "Hun ga meg en gammel sofa.",
-        "Hun gav meg en gammel sofa.",
-        "Hun har gitt meg en gammel sofa."
-      ]
     },
     {
       "de": "Ist Matthias zu Hause? – Nein, er ist draußen.",
@@ -1269,68 +1307,109 @@
       ]
     },
     {
-      "de": "Es hat jeden Tag geregnet, seit ich gekommen bin.",
+      "de": "Sie hat mir ein altes Sofa geschenkt.",
       "no": [
-        "Det har regnet hver dag siden jeg kom.",
-        "Det har regna hver dag siden jeg kom.",
-        "Det har regnet hver dag siden jeg kom hit.",
-        "Siden jeg kom, har det regnet hver dag."
+        "Hun har gitt meg en gammel sofa.",
+        "Hun ga meg en gammel sofa.",
+        "Hun gav meg en gammel sofa."
       ]
+    },
+    {
+      "de": "Ich habe die Wohnung genommen, obwohl sie nicht groß ist.",
+      "no": [
+        "Jeg tok leiligheten, selv om den ikke er stor.",
+        "Jeg har tatt leiligheten, selv om den ikke er stor."
+      ],
+      "hint": "Im Nebensatz steht ikke vor dem Verb."
+    },
+    {
+      "de": "Da ich kein Auto habe, fahre ich mit dem Rad zur Arbeit.",
+      "no": [
+        "Siden jeg ikke har bil, sykler jeg til jobben.",
+        "Fordi jeg ikke har bil, sykler jeg til jobben.",
+        "Jeg sykler til jobben fordi jeg ikke har bil.",
+        "Jeg sykler til jobben siden jeg ikke har bil."
+      ],
+      "hint": "Nach dem vorangestellten Nebensatz: Inversion (sykler jeg)."
+    },
+    {
+      "de": "Wenn es regnet, bleibe ich zu Hause.",
+      "no": [
+        "Hvis det regner, blir jeg hjemme.",
+        "Om det regner, blir jeg hjemme.",
+        "Når det regner, blir jeg hjemme."
+      ]
+    },
+    {
+      "de": "Ich finde Bergen schön, aber ich glaube, dass es morgen regnet.",
+      "no": [
+        "Jeg synes Bergen er fin, men jeg tror at det regner i morgen.",
+        "Jeg synes Bergen er fin, men jeg tror det regner i morgen.",
+        "Jeg synes Bergen er vakker, men jeg tror at det regner i morgen.",
+        "Jeg synes Bergen er vakker, men jeg tror det regner i morgen."
+      ],
+      "hint": "Meinung aus Erfahrung: synes; Vermutung über die Zukunft: tro."
     }
   ],
   "summary": [
     {
-      "prompt": "Matthias har ___ i Bergen i ei uke.",
-      "de": "Matthias wohnt seit einer Woche in Bergen.",
+      "prompt": "En måned bodde Matthias på et rom ___ en kollega.",
+      "de": "Einen Monat wohnte Matthias in einem Zimmer bei einem Kollegen.",
       "answer": [
-        "bodd",
-        "vært"
+        "hos"
       ]
     },
     {
-      "prompt": "Han bor i et gammelt ___ i Sandviken.",
-      "de": "Er wohnt in einem alten Holzhaus in Sandviken.",
+      "prompt": "Nå bor han ___ i et gammelt trehus i Sandviken, og fru Solheim bor nede.",
+      "de": "Jetzt wohnt er oben in einem alten Holzhaus in Sandviken, und Frau Solheim wohnt unten.",
       "answer": [
-        "trehus"
+        "oppe"
       ]
     },
     {
-      "prompt": "Naboen hans, fru Solheim, bor ___.",
-      "de": "Seine Nachbarin, Frau Solheim, wohnt unten.",
+      "prompt": "Han valgte leiligheten ___ utsikten er så fin.",
+      "de": "Er hat die Wohnung genommen, weil die Aussicht so schön ist.",
       "answer": [
-        "nede"
+        "fordi",
+        "siden"
       ]
     },
     {
-      "prompt": "Han ___ tjue kasser opp den bratte trappa.",
-      "de": "Er trug zwanzig Kisten die steile Treppe hinauf.",
+      "prompt": "Trappa er så bratt ___ han nesten falt ned.",
+      "de": "Die Treppe ist so steil, dass er fast hinuntergefallen wäre.",
       "answer": [
-        "bar"
+        "at"
       ]
     },
     {
-      "prompt": "Lørdag gikk han opp på Fløyen, men det var ___.",
-      "de": "Am Samstag ging er auf den Fløyen, aber es war neblig.",
+      "prompt": "Han synes at Bergen er vakrere ___ han trodde.",
+      "de": "Er findet, dass Bergen schöner ist, als er dachte.",
       "answer": [
-        "tåke",
-        "tåkete"
+        "enn"
+      ]
+    },
+    {
+      "prompt": "Han tror at Susanne kommer til å like seg i Tromsø, ___ sola blir borte i mørketida.",
+      "de": "Er glaubt, dass Susanne sich in Tromsø wohlfühlen wird, auch wenn die Sonne in der Polarnacht verschwindet.",
+      "answer": [
+        "selv om"
       ]
     }
   ],
   "dictation": [
-    4,
-    9,
-    11
+    7,
+    11,
+    13
   ],
   "writing": {
-    "prompt": "Du bist gerade umgezogen. Schreib einer Freundin eine E-Mail: Wo liegt deine neue Wohnung? Welche Zimmer gibt es, und was ist oben oder unten? Was hast du in den ersten Tagen gemacht (Präteritum)?",
-    "minWords": 60,
+    "prompt": "Du bist gerade in eine neue Wohnung gezogen. Schreib einer Freundin eine E-Mail: Wo liegt die Wohnung, welche Zimmer gibt es, und was ist oben oder unten? Warum hast du sie genommen (fordi, selv om, hvis …)? Und was hältst du von deinem neuen Viertel (synes, tro)?",
+    "minWords": 90,
     "useWords": [
-      "leilighet",
-      "stua",
       "oppe",
       "nede",
-      "på kjøkkenet"
+      "fordi",
+      "selv om",
+      "synes"
     ],
     "checklist": [
       {
@@ -1349,24 +1428,23 @@
         ]
       },
       {
-        "de": "oben / unten",
+        "de": "Begründung (fordi, siden, selv om, hvis)",
         "keywords": [
-          "oppe",
-          "nede"
+          "fordi",
+          "siden",
+          "selv om",
+          "hvis"
         ]
       },
       {
-        "de": "Was du gemacht hast (Präteritum)",
+        "de": "Meinung (synes, tro)",
         "keywords": [
-          "bar",
-          "fant",
-          "kjøpte",
-          "gikk"
+          "synes",
+          "tror"
         ]
       }
     ],
-    "model": "Hei Anna!\nNå har jeg flyttet! Den nye leiligheten min ligger i et gult hus ved parken. Den er ikke stor, men den er lys. Når du kommer inn, er badet til venstre. Stua er fin, og på kjøkkenet har jeg et rundt bord. Naboene mine bor nede, og oppe er det et loft. I går bar jeg alle kassene opp trappa, og i dag fant jeg en koselig kafé i nærheten. Kom på besøk snart!\nKlem fra Lena",
-    "modelDe": "Hallo Anna!\nJetzt bin ich umgezogen! Meine neue Wohnung liegt in einem gelben Haus beim Park. Sie ist nicht groß, aber hell. Wenn du hereinkommst, ist das Bad links. Das Wohnzimmer ist schön, und in der Küche habe ich einen runden Tisch. Meine Nachbarn wohnen unten, und oben ist ein Dachboden. Gestern habe ich alle Kisten die Treppe hinaufgetragen, und heute habe ich ein gemütliches Café in der Nähe gefunden. Komm bald zu Besuch!\nEine Umarmung von Lena"
-  },
-  "_todo_moved": "Text und Übungen stammen aus der alten Lektion 10; Ziele (goals) und Bezüge (Zeit, Grammatik) prüfen und anpassen"
+    "model": "Hei Anna!\nNå har jeg flyttet! Den nye leiligheten min ligger i et gult hus ved parken. Jeg bor oppe, og en eldre mann bor nede. Når du kommer inn, er badet til venstre og soverommet til høyre. Stua er lys, og på kjøkkenet har jeg et rundt bord. Jeg tok leiligheten fordi den ligger nær jobben, selv om den er litt dyr. Hvis det er fint vær, går jeg til jobben på femten minutter. Jeg synes gata er koselig, og jeg tror at jeg kommer til å like meg her. Kom på besøk snart!\nKlem fra Lena",
+    "modelDe": "Hallo Anna!\nJetzt bin ich umgezogen! Meine neue Wohnung liegt in einem gelben Haus beim Park. Ich wohne oben, und ein älterer Mann wohnt unten. Wenn du hereinkommst, ist das Bad links und das Schlafzimmer rechts. Das Wohnzimmer ist hell, und in der Küche habe ich einen runden Tisch. Ich habe die Wohnung genommen, weil sie nah an der Arbeit liegt, obwohl sie etwas teuer ist. Wenn schönes Wetter ist, gehe ich in fünfzehn Minuten zur Arbeit. Ich finde die Straße gemütlich, und ich glaube, dass ich mich hier wohlfühlen werde. Komm bald zu Besuch!\nUmarmung, Lena"
+  }
 }
