@@ -1987,5 +1987,17 @@
       "no": "Vi gikk om bord på ferja i siste liten.",
       "de": "Wir gingen in letzter Minute an Bord der Fähre."
     }
+  },
+  {
+    "id": "w11_gaa_paa",
+    "no": "gå på",
+    "de": "einsteigen",
+    "pos": "phrase",
+    "lesson": 10,
+    "ex": {
+      "no": "I Bergen går hun på toget.",
+      "de": "In Bergen steigt sie in den Zug."
+    },
+    "note": "Nicht verwechseln: gå på tur = wandern gehen."
   }
 ]

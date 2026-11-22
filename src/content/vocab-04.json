@@ -1584,18 +1584,6 @@
     "note": "for eksempel (f.eks.) = zum Beispiel"
   },
   {
-    "id": "w11_gaa_paa",
-    "no": "gå på",
-    "de": "einsteigen",
-    "pos": "phrase",
-    "lesson": 4,
-    "ex": {
-      "no": "I Bergen går hun på toget.",
-      "de": "In Bergen steigt sie in den Zug."
-    },
-    "note": "Nicht verwechseln: gå på tur = wandern gehen."
-  },
-  {
     "id": "w13_poss_min",
     "no": "min",
     "de": "mein",
@@ -1678,29 +1666,6 @@
       "no": "Det finnes mange nisser i Norge.",
       "de": "Es gibt viele Wichtel in Norwegen."
     }
-  },
-  {
-    "id": "w20_slippe",
-    "no": "slippe",
-    "de": "loslassen",
-    "deAlt": [
-      "nicht müssen",
-      "davonkommen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "slipper",
-      "slapp",
-      "sluppet",
-      "slipp"
-    ],
-    "vg": "sterk",
-    "lesson": 4,
-    "ex": {
-      "no": "I dag slipper vi å lage mat.",
-      "de": "Heute müssen wir nicht kochen."
-    },
-    "note": "slippe å gjøre noe = etwas nicht tun müssen. Nicht verwechseln mit slappe av (sich entspannen): Slapp av! ist der Imperativ von slappe av."
   },
   {
     "id": "w20_naerhet",

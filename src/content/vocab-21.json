@@ -2193,5 +2193,28 @@
       "no": "Ta på deg regnjakka! Det finnes ikke dårlig vær, bare dårlige klær.",
       "de": "Zieh die Regenjacke an! Es gibt kein schlechtes Wetter, nur schlechte Kleidung."
     }
+  },
+  {
+    "id": "w20_slippe",
+    "no": "slippe",
+    "de": "loslassen",
+    "deAlt": [
+      "nicht müssen",
+      "davonkommen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "slipper",
+      "slapp",
+      "sluppet",
+      "slipp"
+    ],
+    "vg": "sterk",
+    "lesson": 21,
+    "ex": {
+      "no": "I dag slipper vi å lage mat.",
+      "de": "Heute müssen wir nicht kochen."
+    },
+    "note": "slippe å gjøre noe = etwas nicht tun müssen. Nicht verwechseln mit slappe av (sich entspannen): Slapp av! ist der Imperativ von slappe av."
   }
 ]
