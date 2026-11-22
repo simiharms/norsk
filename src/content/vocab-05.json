@@ -38,6 +38,24 @@
     }
   },
   {
+    "id": "w05_skrive",
+    "no": "skrive",
+    "de": "schreiben",
+    "pos": "verb",
+    "vf": [
+      "skriver",
+      "skrev",
+      "skrevet",
+      "skriv"
+    ],
+    "vg": "sterk",
+    "lesson": 5,
+    "ex": {
+      "no": "Jeg skriver til Anna på norsk.",
+      "de": "Ich schreibe Anna auf Norwegisch."
+    }
+  },
+  {
     "id": "w05_hjelpe",
     "no": "hjelpe",
     "de": "helfen",
@@ -55,6 +73,28 @@
       "de": "Könnt ihr mir helfen?"
     },
     "note": "Mit Objektform: hjelpe meg = mir helfen."
+  },
+  {
+    "id": "w05_gi",
+    "no": "gi",
+    "de": "geben",
+    "deAlt": [
+      "schenken"
+    ],
+    "pos": "verb",
+    "vf": [
+      "gir",
+      "ga",
+      "gitt",
+      "gi"
+    ],
+    "vg": "sterk",
+    "lesson": 5,
+    "ex": {
+      "no": "Ola gir meg brunosten.",
+      "de": "Ola gibt mir den Braunkäse."
+    },
+    "note": "gi noen noe = jemandem etwas geben – ohne Präposition, wie im Deutschen."
   },
   {
     "id": "w05_ostehovel",
@@ -208,7 +248,6 @@
       "ta av deg"
     ],
     "vg": "sterk",
-    "wk": true,
     "lesson": 5,
     "ex": {
       "no": "Alle tar av seg skoene i gangen.",
@@ -258,7 +297,6 @@
       "kos",
       "kosen"
     ],
-    "wk": true,
     "lesson": 5,
     "ex": {
       "no": "Kos er stearinlys, kakao og gode venner.",
@@ -357,8 +395,8 @@
     ],
     "lesson": 5,
     "ex": {
-      "no": "Familien har en liten hage.",
-      "de": "Die Familie hat einen kleinen Garten."
+      "no": "Familien Nygård har en fin hage.",
+      "de": "Familie Nygård hat einen schönen Garten."
     }
   },
   {
@@ -699,7 +737,6 @@
       "bestemødre",
       "bestemødrene"
     ],
-    "wk": true,
     "lesson": 5,
     "ex": {
       "no": "Bestemor Ingrid bor i Lillehammer.",
@@ -993,6 +1030,169 @@
     }
   },
   {
+    "id": "w05_handletur",
+    "no": "handletur",
+    "de": "der Einkauf",
+    "deAlt": [
+      "der Einkaufsbummel",
+      "die Einkaufstour"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "handletur",
+      "handleturen",
+      "handleturer",
+      "handleturene"
+    ],
+    "lesson": 5,
+    "wk": true,
+    "ex": {
+      "no": "Skal vi ta en handletur i byen?",
+      "de": "Wollen wir in der Stadt einkaufen gehen?"
+    },
+    "note": "Für Lebensmittel und für Kleidung: en handletur på butikken, en handletur i byen."
+  },
+  {
+    "id": "w05_se_seg_rundt",
+    "no": "se seg rundt",
+    "de": "sich umschauen",
+    "pos": "verb",
+    "vf": [
+      "ser seg rundt",
+      "så seg rundt",
+      "sett seg rundt",
+      "se deg rundt"
+    ],
+    "vg": "sterk",
+    "lesson": 5,
+    "wk": true,
+    "ex": {
+      "no": "Nei takk, jeg ser meg bare litt rundt.",
+      "de": "Nein danke, ich schaue mich nur ein bisschen um."
+    }
+  },
+  {
+    "id": "w05_se_etter",
+    "no": "se etter",
+    "de": "suchen",
+    "deAlt": [
+      "nach etwas suchen",
+      "nachsehen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "ser etter",
+      "så etter",
+      "sett etter",
+      "se etter"
+    ],
+    "vg": "sterk",
+    "lesson": 5,
+    "wk": true,
+    "ex": {
+      "no": "Jeg ser etter ei jakke.",
+      "de": "Ich suche eine Jacke."
+    }
+  },
+  {
+    "id": "w05_jakke",
+    "no": "jakke",
+    "de": "die Jacke",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "jakke",
+      "jakka",
+      "jakker",
+      "jakkene"
+    ],
+    "lesson": 5,
+    "wk": true,
+    "ex": {
+      "no": "Jeg trenger ei jakke til høsten.",
+      "de": "Ich brauche eine Jacke für den Herbst."
+    }
+  },
+  {
+    "id": "w05_storrelse",
+    "no": "størrelse",
+    "de": "die Größe",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "størrelse",
+      "størrelsen",
+      "størrelser",
+      "størrelsene"
+    ],
+    "lesson": 5,
+    "wk": true,
+    "ex": {
+      "no": "Hvilken størrelse bruker du?",
+      "de": "Welche Größe trägst du?"
+    }
+  },
+  {
+    "id": "w05_proverom",
+    "no": "prøverom",
+    "de": "die Umkleidekabine",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "prøverom",
+      "prøverommet",
+      "prøverom",
+      "prøveromma/prøverommene"
+    ],
+    "lesson": 5,
+    "wk": true,
+    "ex": {
+      "no": "Hvor er prøverommet?",
+      "de": "Wo ist die Umkleidekabine?"
+    },
+    "note": "Doppel-m vor der Endung: prøverommet (mehr dazu in Lektion 6)."
+  },
+  {
+    "id": "w05_passe",
+    "no": "passe",
+    "de": "passen",
+    "pos": "verb",
+    "vf": [
+      "passer",
+      "passet",
+      "passet",
+      "pass"
+    ],
+    "vg": "1",
+    "lesson": 5,
+    "wk": true,
+    "ex": {
+      "no": "Den passer fint!",
+      "de": "Die passt gut!"
+    },
+    "note": "passe = (in der Größe) passen. passe på = aufpassen."
+  },
+  {
+    "id": "w05_farge",
+    "no": "farge",
+    "de": "die Farbe",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "farge",
+      "fargen",
+      "farger",
+      "fargene"
+    ],
+    "lesson": 5,
+    "wk": true,
+    "ex": {
+      "no": "Har du den i en annen farge?",
+      "de": "Hast du die in einer anderen Farbe?"
+    }
+  },
+  {
     "id": "w05_fole_seg",
     "no": "føle seg",
     "de": "sich fühlen",
@@ -1004,7 +1204,6 @@
       "føl deg"
     ],
     "vg": "2",
-    "wk": true,
     "lesson": 5,
     "ex": {
       "no": "Føl deg som hjemme!",
@@ -1023,7 +1222,6 @@
       "sett deg"
     ],
     "vg": "uregelm",
-    "wk": true,
     "lesson": 5,
     "ex": {
       "no": "Sett deg, Susanne!",
@@ -1045,7 +1243,6 @@
       "dekk på"
     ],
     "vg": "1",
-    "wk": true,
     "lesson": 5,
     "ex": {
       "no": "Ola dekker på bordet.",
@@ -1064,7 +1261,6 @@
       "bord",
       "borda/bordene"
     ],
-    "wk": true,
     "lesson": 5,
     "ex": {
       "no": "Frokosten står på bordet.",
@@ -1082,7 +1278,6 @@
       "oppvask",
       "oppvasken"
     ],
-    "wk": true,
     "lesson": 5,
     "ex": {
       "no": "Hvem tar oppvasken?",
@@ -1103,7 +1298,6 @@
       "koselig",
       "koselige"
     ],
-    "wk": true,
     "lesson": 5,
     "ex": {
       "no": "Så koselig!",
@@ -1126,7 +1320,6 @@
       "kos deg"
     ],
     "vg": "2",
-    "wk": true,
     "lesson": 5,
     "ex": {
       "no": "Kos deg i helgen!",
@@ -1149,11 +1342,21 @@
       "legg deg"
     ],
     "vg": "uregelm",
-    "wk": true,
     "lesson": 5,
     "ex": {
       "no": "Jeg legger meg nå. God natt!",
       "de": "Ich gehe jetzt ins Bett. Gute Nacht!"
+    }
+  },
+  {
+    "id": "w05_sent",
+    "no": "sent",
+    "de": "spät",
+    "pos": "adv",
+    "lesson": 5,
+    "ex": {
+      "no": "Ola legger seg sent.",
+      "de": "Ola geht spät ins Bett."
     }
   },
   {
@@ -1168,7 +1371,6 @@
       "sov"
     ],
     "vg": "sterk",
-    "wk": true,
     "lesson": 5,
     "ex": {
       "no": "Sov godt!",
@@ -1191,7 +1393,6 @@
       "send"
     ],
     "vg": "2",
-    "wk": true,
     "lesson": 5,
     "ex": {
       "no": "Kan du sende meg brunosten?",
@@ -1303,6 +1504,25 @@
     }
   },
   {
+    "id": "w06_sykkel",
+    "no": "sykkel",
+    "de": "das Fahrrad",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "sykkel",
+      "sykkelen",
+      "sykler",
+      "syklene"
+    ],
+    "lesson": 5,
+    "ex": {
+      "no": "Kari har en ny sykkel. Den er rød.",
+      "de": "Kari hat ein neues Fahrrad. Es ist rot."
+    },
+    "note": "Plural: sykler – das e der Endung fällt weg."
+  },
+  {
     "id": "w05_pledd",
     "no": "pledd",
     "de": "die Wolldecke",
@@ -1322,6 +1542,64 @@
       "no": "Et pledd i sofaen er koselig.",
       "de": "Eine Wolldecke auf dem Sofa ist gemütlich."
     }
+  },
+  {
+    "id": "w05_kald",
+    "no": "kald",
+    "de": "kalt",
+    "pos": "adj",
+    "forms": [
+      "kald",
+      "kaldt",
+      "kalde"
+    ],
+    "lesson": 5,
+    "ex": {
+      "no": "Det er kaldt i dag.",
+      "de": "Es ist kalt heute."
+    }
+  },
+  {
+    "id": "w06_glad",
+    "no": "glad",
+    "de": "froh",
+    "deAlt": [
+      "fröhlich",
+      "glücklich"
+    ],
+    "pos": "adj",
+    "forms": [
+      "glad",
+      "glad",
+      "glade"
+    ],
+    "lesson": 5,
+    "ex": {
+      "no": "Alle blir glade når bestemor kommer.",
+      "de": "Alle freuen sich, wenn Oma kommt."
+    },
+    "note": "glad i = gern haben: Jeg er glad i deg. = Ich hab dich lieb. Neutrum ohne -t: et glad barn."
+  },
+  {
+    "id": "w06_snill",
+    "no": "snill",
+    "de": "lieb",
+    "deAlt": [
+      "nett",
+      "brav"
+    ],
+    "pos": "adj",
+    "forms": [
+      "snill",
+      "snilt",
+      "snille"
+    ],
+    "lesson": 5,
+    "ex": {
+      "no": "Du er så snill, Ola!",
+      "de": "Du bist so lieb, Ola!"
+    },
+    "note": "Neutrum mit einem l: snilt (Så snilt av deg!)."
   },
   {
     "id": "w05_gronn",
@@ -1375,23 +1653,6 @@
     }
   },
   {
-    "id": "w05_dum",
-    "no": "dum",
-    "de": "dumm",
-    "pos": "adj",
-    "forms": [
-      "dum",
-      "dumt",
-      "dumme"
-    ],
-    "lesson": 5,
-    "ex": {
-      "no": "Det er ikke et dumt spørsmål.",
-      "de": "Das ist keine dumme Frage."
-    },
-    "note": "Kein Doppel-m am Wortende, aber: dumme."
-  },
-  {
     "id": "w05_full",
     "no": "full",
     "de": "voll",
@@ -1409,25 +1670,45 @@
     "note": "Neutrum mit Doppel-l: fullt (aber snill – snilt). Umgangssprachlich auch: betrunken."
   },
   {
-    "id": "w05_rom",
-    "no": "rom",
-    "de": "das Zimmer",
-    "deAlt": [
-      "der Raum"
+    "id": "w05_kjenne",
+    "no": "kjenne",
+    "de": "kennen",
+    "pos": "verb",
+    "vf": [
+      "kjenner",
+      "kjente",
+      "kjent",
+      "kjenn"
     ],
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "rom",
-      "rommet",
-      "rom",
-      "romma/rommene"
-    ],
+    "vg": "2",
     "lesson": 5,
     "ex": {
-      "no": "Rommet er lite, men koselig.",
-      "de": "Das Zimmer ist klein, aber gemütlich."
-    }
+      "no": "Kjenner du Anna?",
+      "de": "Kennst du Anna?"
+    },
+    "note": "nn wird vor -te und -t zu n: kjente, kjent (deutsch: kannte, gekannt)."
+  },
+  {
+    "id": "w05_begynne",
+    "no": "begynne",
+    "de": "anfangen",
+    "deAlt": [
+      "beginnen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "begynner",
+      "begynte",
+      "begynt",
+      "begynn"
+    ],
+    "vg": "2",
+    "lesson": 5,
+    "ex": {
+      "no": "Kurset begynner i august.",
+      "de": "Der Kurs fängt im August an."
+    },
+    "note": "nn wird vor -te zu n: begynte."
   },
   {
     "id": "w05_huske",
