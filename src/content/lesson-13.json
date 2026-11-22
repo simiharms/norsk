@@ -1365,14 +1365,16 @@
     {
       "de": "Unser Haus liegt in Sagene.",
       "no": [
-        "Huset vårt ligger på Sagene."
+        "Huset vårt ligger på Sagene.",
+        "Vårt hus ligger på Sagene."
       ],
       "hint": "Stadtteil mit på: på Sagene."
     },
     {
       "de": "Wo sind meine Schlüssel?",
       "no": [
-        "Hvor er nøklene mine?"
+        "Hvor er nøklene mine?",
+        "Hvor er mine nøkler?"
       ]
     },
     {
