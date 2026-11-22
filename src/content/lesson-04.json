@@ -109,7 +109,7 @@
       {
         "s": "s",
         "no": "Det er førtiåtte sekstisju trettifem nittito.",
-        "de": "Sie ist 48 67 35 92."
+        "de": "Sie lautet 48 67 35 92."
       },
       {
         "s": "m",
@@ -528,7 +528,7 @@
         "note": "Viele Postschalter sind in Norwegen im Supermarkt: »Post i butikk«."
       },
       {
-        "no": "Er det en postkasse i nærheten?",
+        "no": "Er det ei postkasse i nærheten?",
         "de": "Gibt es hier in der Nähe einen Briefkasten?"
       },
       {
@@ -847,7 +847,7 @@
       "sections": [
         {
           "h": "Beruf, Nationalität, Religion, Status",
-          "body": "Nach **være** (sein) und **bli** (werden) steht bei Beruf, Nationalität, Religion und Status (Student, Rentner, Tourist …) **kein Artikel** – wie im Deutschen:\n\n• **Anna er medisinstudent.** – Anna ist Medizinstudentin.\n• **Matthias er ingeniør.** – Matthias ist Ingenieur.\n• **Hun er norsk.** / **Hun er nordmann.** – Sie ist Norwegerin.\n• **Han er katolikk.** – Er ist Katholik.\n• **Henrik er student.** – Henrik ist Student.\n• **Jeg er turist her.** – Ich bin hier Tourist.\n• **Hun blir lærer.** – Sie wird Lehrerin.\n\nDas Wort gilt für Männer und Frauen: **lærer, student, ingeniør** – eine weibliche Endung wie »-in« gibt es nicht."
+          "body": "Nach **være** (sein) und **bli** (werden) steht bei Beruf, Nationalität, Religion und Status (Student, Rentner, Tourist …) **kein Artikel** – wie im Deutschen:\n\n• **Anna er medisinstudent.** – Anna ist Medizinstudentin.\n• **Matthias er ingeniør.** – Matthias ist Ingenieur.\n• **Hun er norsk.** / **Hun er nordmann.** – Sie ist Norwegerin.\n• **Han er katolikk.** – Er ist Katholik.\n• **Henrik er student.** – Henrik ist Student.\n• **Jeg er turist her.** – Ich bin hier Tourist.\n• **Hun blir lærer.** – Sie wird Lehrerin.\n\nDas Wort gilt für Männer und Frauen: **lærer, student, ingeniør** – eine weibliche Endung wie »-in« gibt es meist nicht."
         },
         {
           "h": "Mit Adjektiv: Artikel zurück",
@@ -988,7 +988,7 @@
         },
         {
           "h": "Erst der Zehner, dann die Einer",
-          "body": "Norwegisch zählt heute wie Englisch: **erst der Zehner, dann die Einer**, in einem Wort:\n\n• 21 = **tjueen**, 22 = **tjueto**, 25 = **tjuefem**\n• 34 = **trettifire**, 47 = **førtisju**, 69 = **sekstini**, 99 = **nittini**\n\nAchtung, deutsche Gewohnheit: 69 ist nicht »ni-og-seksti«, sondern **sekstini**!\n\nEs gibt noch ein älteres System wie im Deutschen: **enogtjue** (einundzwanzig), **niogseksti**. Ältere Menschen sagen es manchmal noch. Richtig ist beides, aber das neue System (**tjueen**) ist heute Standard."
+          "body": "Norwegisch zählt heute wie Englisch: **erst der Zehner, dann die Einer**, in einem Wort:\n\n• 21 = **tjueen**, 22 = **tjueto**, 25 = **tjuefem**\n• 34 = **trettifire**, 47 = **førtisju**, 69 = **sekstini**, 99 = **nittini**\n\nAchtung, deutsche Gewohnheit: 69 heißt heute **sekstini** – die Zehner kommen zuerst, nicht umdrehen!\n\nEs gibt noch ein älteres System wie im Deutschen: **enogtjue** (einundzwanzig), **niogseksti**. Ältere Menschen sagen es manchmal noch. Richtig ist beides, aber das neue System (**tjueen**) ist heute Standard."
         },
         {
           "h": "Telefonnummern",
@@ -1345,7 +1345,7 @@
     16
   ],
   "writing": {
-    "prompt": "Schreib Elin eine kurze Nachricht: Lade sie zu einem Picknick ein, beschreib mit Adjektiven, was du mitbringst, und gib ihr deine Telefonnummer.",
+    "prompt": "Schreib einer Freundin eine kurze Nachricht: Lade sie zu einem Picknick ein, beschreib mit Adjektiven, was du mitbringst, und gib ihr deine Telefonnummer.",
     "minWords": 30,
     "useWords": [
       "ta med",
@@ -1383,7 +1383,7 @@
         ]
       }
     ],
-    "model": "Hei Elin! Vil du bli med på piknik i Frognerparken på lørdag? Jeg tar med ferskt brød, en god norsk ost og store, røde jordbær. Mads tar med danske kaker. Ring meg hvis du vil bli med. Nummeret mitt er førtiåtte sekstisju trettifem nittito. Hilsen Susanne",
-    "modelDe": "Hallo Elin! Möchtest du am Samstag mit zum Picknick in den Frognerpark kommen? Ich bringe frisches Brot, einen guten norwegischen Käse und große, rote Erdbeeren mit. Mads bringt dänischen Kuchen mit. Ruf mich an, wenn du mitkommen willst. Meine Nummer ist 48 67 35 92. Viele Grüße, Susanne"
+    "model": "Hei Lisa! Vil du bli med på piknik i Frognerparken på lørdag? Jeg tar med ferskt brød, en god norsk ost og store, røde jordbær. Ta med kaffe! Ring meg hvis du vil bli med. Nummeret mitt er nittiåtte sekstien trettitre tjuefire. Hilsen Claudia",
+    "modelDe": "Hallo Lisa! Möchtest du am Samstag mit zum Picknick in den Frognerpark kommen? Ich bringe frisches Brot, einen guten norwegischen Käse und große, rote Erdbeeren mit. Bring Kaffee mit! Ruf mich an, wenn du mitkommen willst. Meine Nummer ist 98 61 33 24. Viele Grüße, Claudia"
   }
 }

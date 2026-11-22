@@ -6,17 +6,17 @@
   "place": "Oslo, Karl Johan und das Schloss",
   "goals": [
     "Du kannst über den 17. Mai erzählen: Frühstück, Bunad, Kinderumzug, Russ, Eis und Würstchen.",
-    "Du kennst die wichtigsten Daten der norwegischen Geschichte: 1814 (Verfassung von Eidsvoll) und 1905.",
-    "Du bildest Verbalsubstantive (feiring, opplevelse, demonstrasjon) und zusammengesetzte Substantive (barnetog, nasjonaldag).",
-    "Du verwendest das Partizip Perfekt als Adjektiv: en pyntet buss, de pyntede bussene, et skrevet brev.",
-    "Du kannst über Nationalgefühl in Norwegen, Deutschland und der Schweiz sprechen."
+    "Du kennst die wichtigsten Daten der norwegischen Geschichte (1814, 1905), das Königshaus und die Symbole des norwegischen Nationalgefühls – und weißt, warum Norweger gern über ihren eigenen Stolz lachen.",
+    "Du ersetzt den Genitiv durch Präpositionen: taket på huset, elevene i klassen, et maleri av Munch, sjefen for avdelingen, det fine ved Norge, et kart over Oslo.",
+    "Du sagst, wo jemand ganz vorn oder ganz hinten steht (fremst i toget, bakerst i køen), und verstehst Formen wie Indre Oslofjord, den øvre delen.",
+    "Du weißt, wann der Artikel fehlt (ha bil, gå på ski, som barn, kong Harald, Frihet er viktig), und kennst wichtige Computerwörter."
   ],
   "text": {
     "id": "t22",
     "title": "Hurra for 17. mai!",
     "titleDe": "Hurra für den 17. Mai!",
     "kind": "dialog",
-    "intro": "Susanne und Matthias sind zum Nationalfeiertag nach Oslo gekommen und feiern den 17. Mai mit Familie Nygård – vom Frühstück in Sagene bis zum Kinderumzug auf der Karl Johans gate.",
+    "intro": "Susanne und Matthias sind zum Nationalfeiertag nach Oslo gekommen und feiern den 17. Mai mit Familie Nygård und Anna, die bei den Nygårds im Souterrain wohnt – vom Frühstück in Sagene bis zum Kinderumzug auf der Karl Johans gate.",
     "speakers": {
       "k": {
         "name": "Kari",
@@ -81,8 +81,8 @@
       },
       {
         "s": "a",
-        "no": "Og jeg har lånt bunaden til bestemor Ingrid. Den er gammel, men den ser ut som ny.",
-        "de": "Und ich habe mir Oma Ingrids Tracht geliehen. Sie ist alt, sieht aber aus wie neu."
+        "no": "Og jeg har på meg min egen bunad. Den fikk jeg til konfirmasjonen, og den passer heldigvis fortsatt!",
+        "de": "Und ich trage meine eigene Tracht. Ich habe sie zur Konfirmation bekommen, und sie passt zum Glück immer noch!"
       },
       {
         "s": "s",
@@ -96,8 +96,8 @@
       },
       {
         "s": "p",
-        "no": "Vi går opp mot Slottet. Der står kongefamilien på balkongen og vinker til barna i flere timer.",
-        "de": "Wir gehen hinauf zum Schloss. Dort steht die Königsfamilie auf dem Balkon und winkt den Kindern stundenlang zu."
+        "no": "Vi går opp mot Slottet og prøver å komme oss fremst ved sperringene. Kongefamilien står på balkongen og vinker til barna i flere timer.",
+        "de": "Wir gehen hinauf zum Schloss und versuchen, ganz nach vorn an die Absperrungen zu kommen. Die Königsfamilie steht auf dem Balkon und winkt den Kindern stundenlang zu."
       },
       {
         "s": "m",
@@ -106,13 +106,13 @@
       },
       {
         "s": "a",
-        "no": "Sikkert, men han ser alltid glad ut. Se, nå kommer de første skolene med korpsene og fanene sine!",
-        "de": "Sicher, aber er sieht immer fröhlich aus. Schau, jetzt kommen die ersten Schulen mit ihren Kapellen und Fahnen!"
+        "no": "Sikkert, men kong Harald ser alltid glad ut. Se, nå kommer de første skolene! Fremst går to elever med fanen, og rett bak dem kommer korpset.",
+        "de": "Sicher, aber König Harald sieht immer fröhlich aus. Schau, jetzt kommen die ersten Schulen! Ganz vorn gehen zwei Schüler mit der Fahne, und direkt dahinter kommt die Kapelle."
       },
       {
         "s": "s",
-        "no": "Så mange barn, og alle har flagg! De minste er bare seks år gamle, og de roper «Hurra!» så høyt de kan.",
-        "de": "So viele Kinder, und alle haben Fähnchen! Die Kleinsten sind erst sechs Jahre alt, und sie rufen „Hurra!“, so laut sie können."
+        "no": "Så mange barn, og alle har flagg! Se på den lille jenta bakerst i rekka – hun roper «Hurra!» så høyt hun kan.",
+        "de": "So viele Kinder, und alle haben Fähnchen! Schau dir das kleine Mädchen ganz hinten in der Reihe an – sie ruft „Hurra!“, so laut sie kann."
       },
       {
         "s": "m",
@@ -146,8 +146,8 @@
       },
       {
         "s": "a",
-        "no": "Han var forresten en dansk prins. Kong Harald, som står på balkongen der oppe, er barnebarnet hans.",
-        "de": "Er war übrigens ein dänischer Prinz. König Harald, der dort oben auf dem Balkon steht, ist sein Enkel."
+        "no": "Han var forresten en dansk prins. Kong Harald, som står på balkongen der oppe ved siden av dronning Sonja, er barnebarnet hans.",
+        "de": "Er war übrigens ein dänischer Prinz. König Harald, der dort oben neben Königin Sonja auf dem Balkon steht, ist sein Enkel."
       },
       {
         "s": "k",
@@ -156,8 +156,8 @@
       },
       {
         "s": "m",
-        "no": "I Sveits feirer vi 1. august. Det er bål på fjellene, fyrverkeri og taler, men ikke noe barnetog som her. Vi er nok litt mer beskjedne.",
-        "de": "In der Schweiz feiern wir den 1. August. Es gibt Feuer auf den Bergen, Feuerwerk und Reden, aber keinen Kinderumzug wie hier. Wir sind wohl etwas bescheidener."
+        "no": "I Sveits feirer vi 1. august. Det er bål på fjellene, fyrverkeri og taler, men ikke noe barnetog som her. Som barn syntes jeg at bålene var det fineste ved hele sommeren.",
+        "de": "In der Schweiz feiern wir den 1. August. Es gibt Feuer auf den Bergen, Feuerwerk und Reden, aber keinen Kinderumzug wie hier. Als Kind fand ich die Feuer das Schönste am ganzen Sommer."
       },
       {
         "s": "s",
@@ -176,8 +176,8 @@
       },
       {
         "s": "m",
-        "no": "Det er en god løsning. Nasjonalfølelse med is og pølser i stedet for våpen – det kan til og med en sveitser like.",
-        "de": "Das ist eine gute Lösung. Nationalgefühl mit Eis und Würstchen statt Waffen – das kann sogar ein Schweizer mögen."
+        "no": "Nasjonalfølelse med is og pølser i stedet for våpen – det kan til og med en sveitser like.",
+        "de": "Nationalgefühl mit Eis und Würstchen statt Waffen – das kann sogar ein Schweizer mögen."
       },
       {
         "s": "o",
@@ -191,13 +191,8 @@
       },
       {
         "s": "o",
-        "no": "Det er russebukser. Russen er elever som snart er ferdige med videregående skole, og de har festet i flere uker. Om to år er det min tur!",
-        "de": "Das sind Russ-Hosen. Die Russ sind Schüler, die bald mit der Oberstufe fertig sind, und sie feiern schon seit Wochen. In zwei Jahren bin ich dran!"
-      },
-      {
-        "s": "a",
-        "no": "Nå trenger jeg en is. På 17. mai får barna spise så mye is og så mange pølser de vil.",
-        "de": "Jetzt brauche ich ein Eis. Am 17. Mai dürfen die Kinder so viel Eis und so viele Würstchen essen, wie sie wollen."
+        "no": "Det er russebukser. Russen er elevene i siste klasse på videregående skole, og de har festet i flere uker. Om to år er det min tur!",
+        "de": "Das sind Russ-Hosen. Die Russ sind die Schüler der letzten Klasse der Oberstufe, und sie feiern schon seit Wochen. In zwei Jahren bin ich dran!"
       },
       {
         "s": "s",
@@ -216,8 +211,8 @@
       },
       {
         "s": "m",
-        "no": "Lang, men godt planlagt. Nå har jeg i hvert fall en god forklaring på hvorfor jeg tok fly helt fra Bergen for å se et barnetog.",
-        "de": "Lang, aber gut geplant. Jetzt habe ich jedenfalls eine gute Erklärung dafür, warum ich extra aus Bergen hergeflogen bin, um einen Kinderumzug zu sehen."
+        "no": "Lang, men godt planlagt. Og nå vet alle hvorfor jeg tok fly helt fra Bergen for å se et barnetog.",
+        "de": "Lang, aber gut geplant. Und jetzt wissen alle, warum ich extra aus Bergen hergeflogen bin, um einen Kinderumzug zu sehen."
       },
       {
         "s": "k",
@@ -315,10 +310,6 @@
         "de": "anstrengend"
       },
       {
-        "no": "fanene",
-        "de": "die Fahnen, Banner (jede Schule hat ihre Fahne)"
-      },
-      {
         "no": "finne seg i",
         "de": "sich gefallen lassen, hinnehmen"
       },
@@ -345,10 +336,6 @@
       {
         "no": "bål på fjellene",
         "de": "Feuer auf den Bergen (die Höhenfeuer am 1. August)"
-      },
-      {
-        "no": "beskjedne",
-        "de": "bescheiden"
       },
       {
         "no": "fotball-VM",
@@ -385,6 +372,58 @@
       {
         "no": "tross alt",
         "de": "schließlich, immerhin"
+      },
+      {
+        "no": "konfirmasjonen",
+        "de": "die Konfirmation (mit etwa 15 Jahren)"
+      },
+      {
+        "no": "passer heldigvis fortsatt",
+        "de": "passt zum Glück immer noch"
+      },
+      {
+        "no": "komme oss fremst",
+        "de": "ganz nach vorn kommen"
+      },
+      {
+        "no": "sperringene",
+        "de": "die Absperrungen"
+      },
+      {
+        "no": "kong Harald",
+        "de": "König Harald (Titel vor dem Namen: klein und ohne Artikel)"
+      },
+      {
+        "no": "fanen",
+        "de": "die Fahne (das Banner der Schule)"
+      },
+      {
+        "no": "rett bak dem",
+        "de": "direkt hinter ihnen"
+      },
+      {
+        "no": "bakerst i rekka",
+        "de": "ganz hinten in der Reihe"
+      },
+      {
+        "no": "dronning Sonja",
+        "de": "Königin Sonja"
+      },
+      {
+        "no": "Som barn",
+        "de": "als Kind (ohne Artikel)"
+      },
+      {
+        "no": "det fineste ved",
+        "de": "das Schönste an"
+      },
+      {
+        "no": "elevene i siste klasse",
+        "de": "die Schüler der letzten Klasse"
+      },
+      {
+        "no": "tok fly",
+        "de": "bin geflogen (ta fly = fliegen)"
       }
     ]
   },
@@ -563,11 +602,205 @@
     {
       "id": "x22b",
       "title": "Norsk nasjonalfølelse",
-      "titleDe": "",
+      "titleDe": "Norwegisches Nationalgefühl",
       "kind": "info",
-      "lines": [],
-      "glossary": [],
-      "_todo": "NEW TEXT"
+      "lines": [
+        {
+          "no": "Øverst på lista over norske symboler står flagget. Den som kommer til Norge for første gang, legger fort merke til at det er overalt: ikke bare på offentlige bygninger, men også i private hager, på bursdagskaker og på juletreet. Mange hus har sin egen flaggstang, og på merkedager heiser familien flagget om morgenen. For de fleste nordmenn er flagget ikke noe politisk symbol, men et tegn på fest og glede. De har med andre ord et ganske avslappet forhold til flagget sitt.",
+          "de": "Ganz oben auf der Liste der norwegischen Symbole steht die Flagge. Wer zum ersten Mal nach Norwegen kommt, merkt schnell, dass sie überall ist: nicht nur an öffentlichen Gebäuden, sondern auch in privaten Gärten, auf Geburtstagskuchen und am Weihnachtsbaum. Viele Häuser haben ihren eigenen Fahnenmast, und an besonderen Tagen hisst die Familie morgens die Flagge. Für die meisten Norweger ist die Flagge kein politisches Symbol, sondern ein Zeichen für Fest und Freude. Sie haben mit anderen Worten ein ziemlich entspanntes Verhältnis zu ihrer Flagge."
+        },
+        {
+          "no": "Forklaringen ligger delvis i historien. I flere hundre år var Norge i union med Danmark og senere med Sverige. Grunnloven fra 1814 og selvstendigheten i 1905 ble derfor viktige symboler på frihet. Det er ingen tilfeldighet at nasjonaldagen er grunnlovsdagen, og at det er barna, ikke soldatene, som står i sentrum på 17. mai.",
+          "de": "Die Erklärung liegt zum Teil in der Geschichte. Mehrere hundert Jahre lang war Norwegen in einer Union mit Dänemark und später mit Schweden. Die Verfassung von 1814 und die Unabhängigkeit von 1905 wurden deshalb zu wichtigen Symbolen der Freiheit. Es ist kein Zufall, dass der Nationalfeiertag der Verfassungstag ist und dass am 17. Mai die Kinder im Mittelpunkt stehen, nicht die Soldaten."
+        },
+        {
+          "no": "Nasjonalsangen «Ja, vi elsker dette landet» er skrevet av Bjørnstjerne Bjørnson, og melodien er av Rikard Nordraak. Den første strofen handler om landet som stiger fram «furet, værbitt over vannet», og om «de tusen hjem». På 17. mai synger man den i barnetoget, i skolegårdene og foran Slottet.",
+          "de": "Die Nationalhymne „Ja, vi elsker dette landet“ (Ja, wir lieben dieses Land) hat Bjørnstjerne Bjørnson geschrieben, die Melodie stammt von Rikard Nordraak. Die erste Strophe handelt von dem Land, das sich „zerfurcht, wettergegerbt über dem Wasser“ erhebt, und von „den tausend Heimen“. Am 17. Mai singt man sie im Kinderumzug, auf den Schulhöfen und vor dem Schloss."
+        },
+        {
+          "no": "Også bunaden er et viktig symbol. Det finnes flere hundre forskjellige bunader, og hver av dem hører til en bestemt bygd eller et bestemt område. Mange får sin første bunad til konfirmasjonen. Når nordmenn tar på seg bunad, viser de hvor familien kommer fra.",
+          "de": "Auch die Tracht ist ein wichtiges Symbol. Es gibt mehrere hundert verschiedene Trachten, und jede von ihnen gehört zu einem bestimmten Dorf oder einer bestimmten Gegend. Viele bekommen ihre erste Tracht zur Konfirmation. Wenn Norweger Tracht anziehen, zeigen sie, woher ihre Familie kommt."
+        },
+        {
+          "no": "Naturen er en annen del av identiteten. «Nordmenn er født med ski på beina,» sier man, og mange er stolte av polfarere som Fridtjof Nansen, som krysset Grønland på ski, og Roald Amundsen, som var den første som nådde Sydpolen. Å ha hytte, gå på tur og være ute i all slags vær regnes nesten som en nasjonal plikt.",
+          "de": "Die Natur ist ein weiterer Teil der Identität. „Norweger werden mit Skiern an den Füßen geboren“, sagt man, und viele sind stolz auf Polarforscher wie Fridtjof Nansen, der Grönland auf Skiern durchquerte, und Roald Amundsen, der als Erster den Südpol erreichte. Eine Hütte zu haben, wandern zu gehen und bei jedem Wetter draußen zu sein, gilt fast als nationale Pflicht."
+        },
+        {
+          "no": "Samtidig ler nordmenn gjerne av sin egen stolthet. Mange kjenner «Janteloven» fra en roman av Aksel Sandemose. Den første regelen lyder: «Du skal ikke tro at du er noe.» Og da statsminister Gro Harlem Brundtland sa i nyttårstalen sin i 1992 at «det er typisk norsk å være god», ble setningen raskt et uttrykk som folk siterer med et lite smil. Nordmenn er stolte av landet sitt – men helst ikke for høylytt.",
+          "de": "Gleichzeitig lachen die Norweger gern über ihren eigenen Stolz. Viele kennen das „Jantegesetz“ aus einem Roman von Aksel Sandemose. Die erste Regel lautet: „Du sollst nicht glauben, dass du etwas bist.“ Und als Ministerpräsidentin Gro Harlem Brundtland 1992 in ihrer Neujahrsansprache sagte, „es ist typisch norwegisch, gut zu sein“, wurde der Satz schnell zu einer Redewendung, die man mit einem kleinen Lächeln zitiert. Die Norweger sind stolz auf ihr Land – aber am liebsten nicht zu laut."
+        }
+      ],
+      "glossary": [
+        {
+          "no": "Øverst på lista over",
+          "de": "ganz oben auf der Liste der"
+        },
+        {
+          "no": "symboler",
+          "de": "Symbole"
+        },
+        {
+          "no": "legger fort merke til",
+          "de": "merkt schnell"
+        },
+        {
+          "no": "offentlige bygninger",
+          "de": "öffentliche Gebäude"
+        },
+        {
+          "no": "private hager",
+          "de": "private Gärten"
+        },
+        {
+          "no": "bursdagskaker",
+          "de": "Geburtstagskuchen"
+        },
+        {
+          "no": "flaggstang",
+          "de": "der Fahnenmast"
+        },
+        {
+          "no": "merkedager",
+          "de": "besondere Tage, Feiertage"
+        },
+        {
+          "no": "heiser",
+          "de": "hisst"
+        },
+        {
+          "no": "tegn på",
+          "de": "Zeichen für"
+        },
+        {
+          "no": "med andre ord",
+          "de": "mit anderen Worten"
+        },
+        {
+          "no": "avslappet forhold til",
+          "de": "entspanntes Verhältnis zu"
+        },
+        {
+          "no": "delvis",
+          "de": "zum Teil"
+        },
+        {
+          "no": "selvstendigheten",
+          "de": "die Unabhängigkeit"
+        },
+        {
+          "no": "frihet",
+          "de": "Freiheit"
+        },
+        {
+          "no": "tilfeldighet",
+          "de": "Zufall"
+        },
+        {
+          "no": "grunnlovsdagen",
+          "de": "der Verfassungstag"
+        },
+        {
+          "no": "står i sentrum",
+          "de": "im Mittelpunkt stehen"
+        },
+        {
+          "no": "Nasjonalsangen",
+          "de": "die Nationalhymne"
+        },
+        {
+          "no": "melodien er av",
+          "de": "die Melodie stammt von"
+        },
+        {
+          "no": "strofen",
+          "de": "die Strophe"
+        },
+        {
+          "no": "stiger fram",
+          "de": "sich erhebt"
+        },
+        {
+          "no": "furet, værbitt over vannet",
+          "de": "zerfurcht, wettergegerbt über dem Wasser"
+        },
+        {
+          "no": "de tusen hjem",
+          "de": "die tausend Heime"
+        },
+        {
+          "no": "skolegårdene",
+          "de": "die Schulhöfe"
+        },
+        {
+          "no": "hver av dem",
+          "de": "jede von ihnen"
+        },
+        {
+          "no": "hører til",
+          "de": "gehört zu"
+        },
+        {
+          "no": "identiteten",
+          "de": "die Identität"
+        },
+        {
+          "no": "født med ski på beina",
+          "de": "mit Skiern an den Füßen geboren"
+        },
+        {
+          "no": "polfarere",
+          "de": "Polarforscher"
+        },
+        {
+          "no": "krysset Grønland",
+          "de": "durchquerte Grönland"
+        },
+        {
+          "no": "nådde Sydpolen",
+          "de": "erreichte den Südpol"
+        },
+        {
+          "no": "regnes nesten som",
+          "de": "gilt fast als"
+        },
+        {
+          "no": "plikt",
+          "de": "Pflicht"
+        },
+        {
+          "no": "stolthet",
+          "de": "Stolz"
+        },
+        {
+          "no": "Janteloven",
+          "de": "das „Jantegesetz“: ungeschriebene Regel, sich nicht über andere zu stellen"
+        },
+        {
+          "no": "regelen lyder",
+          "de": "die Regel lautet"
+        },
+        {
+          "no": "statsminister",
+          "de": "Ministerpräsident(in)"
+        },
+        {
+          "no": "nyttårstalen",
+          "de": "die Neujahrsansprache"
+        },
+        {
+          "no": "typisk norsk å være god",
+          "de": "typisch norwegisch, gut zu sein"
+        },
+        {
+          "no": "siterer",
+          "de": "zitieren"
+        },
+        {
+          "no": "høylytt",
+          "de": "laut, lautstark"
+        }
+      ],
+      "intro": "Flagge, Hymne, Tracht und Natur: Worauf sind die Norweger stolz – und warum lachen sie selbst gern darüber?"
     }
   ],
   "wk": {
@@ -622,7 +855,7 @@
         "de": "einen Link teilen"
       },
       {
-        "no": "Klikk på lenken!",
+        "no": "Klikk på lenka!",
         "de": "Klick auf den Link!"
       },
       {
@@ -673,281 +906,485 @@
       "id": "g22_preposisjon_genitiv",
       "title": "Präpositionalverbindung als Ersatz für den Genitiv",
       "titleNo": "genitiv med preposisjon",
-      "summary": "Statt Genitiv-s verwendet man oft eine Präposition: rommet til Inga, taket på huset, Universitetet i Tromsø, en venn av meg.",
+      "summary": "Über til (Lektion 13) hinaus ersetzen viele Präpositionen den Genitiv – je nach Bedeutung: taket på huset, elevene i klassen, et maleri av Munch, sjefen for avdelingen, det fine ved Norge, et kart over Oslo, et brev fra mamma.",
       "sections": [
         {
-          "h": "til bei Personen und Besitzern",
-          "body": "Im gesprochenen Norwegisch sagt man selten **Ingas rom**. Viel häufiger ist: Substantiv in der **bestimmten Form** + **til** + Besitzer:\n\n• **rommet til Inga** = Ingas Zimmer\n• **faren til Anna** = Annas Vater\n• **bilen til naboen** = das Auto des Nachbarn\n\nAchtung: Nach dem Genitiv-s ist das Substantiv unbestimmt (**Ingas rom**), mit **til** ist es bestimmt (**rommet til Inga**). Nach **til** steht ein Pronomen in der Objektform: **boka til ham**, **kofferten til henne** – meist sagt man aber einfach **boka hans**, **kofferten hennes**.",
+          "h": "Zur Erinnerung: -s und til",
+          "body": "Den Genitiv auf **-s** benutzt man vor allem bei **Namen, Personen und Ländern**: **Norges konge**, **kongens slott**, **Annas bunad**. Nach dem -s steht das Substantiv immer **unbestimmt**: **Annas bror**, nicht *Annas broren*.\n\nIm Gespräch sagt man bei Personen meist **til** + bestimmte Form (Lektion 13): **bunaden til Anna**, **rommet til Inga**. Bei Dingen, Orten und Gruppen nimmt man dagegen andere Präpositionen – welche, hängt von der **Bedeutung** ab. Das Deutsche hilft hier wenig, denn dort steht meist einfach der Genitiv oder „von“."
+        },
+        {
+          "h": "på, i und av",
+          "body": "Diese drei Präpositionen sind am häufigsten. Achte besonders auf **av**: **et bilde av Inga** zeigt Inga – ein Bild, das Inga geschickt hat, ist **et bilde fra Inga**.",
           "table": [
             [
-              "mit -s",
-              "mit Präposition",
-              "Deutsch"
+              "Präposition",
+              "wofür?",
+              "Beispiele"
             ],
             [
-              "**Ingas rom**",
-              "**rommet til Inga**",
-              "Ingas Zimmer"
+              "**på**",
+              "Teile und Eigenschaften einer Sache",
+              "**taket på huset**, **prisen på billetten**, **navnet på gata**, **fargen på bilen**"
             ],
             [
-              "**Pers bil**",
-              "**bilen til Per**",
-              "Pers Auto"
+              "**i**",
+              "Stellung oder Mitglied in einer Gruppe, Ort",
+              "**lederen i klubben**, **elevene i klassen**, **ordføreren i Bergen**, **lysene i byen**"
             ],
             [
-              "**professorens kontor**",
-              "**kontoret til professoren**",
-              "das Büro des Professors"
+              "**av**",
+              "Urheber, „einer von“, Titel",
+              "**et maleri av Munch**, **mange av oss**, **en av studentene**, **kongen av Norge**"
             ]
           ]
         },
         {
-          "h": "på, i und av bei Dingen, Orten und Mengen",
-          "body": "Bei Dingen benutzt man fast nie -s, sondern eine Präposition. Welche, hängt von der Bedeutung ab:\n\n• **på** für Teile und Eigenschaften einer Sache: **taket på huset** (das Dach des Hauses), **prisen på boka** (der Preis des Buches), **navnet på gata** (der Name der Straße), **døra på kjøleskapet**\n• **i** für Orte und Institutionen an einem Ort: **Universitetet i Tromsø**, **lysene i byen**, **ordføreren i Bergen**\n• **av** für „einer von / ein Teil von“ und für Bilder: **en venn av meg** (ein Freund von mir), **en av studentene**, **halvparten av forelesningen**, **slutten av filmen**, **et bilde av Inga**\n\nDie Wahl der Präposition muss man teilweise einfach lernen – das Deutsche hilft hier wenig, denn dort steht meist der Genitiv oder „von“."
+          "h": "for, ved, over und fra",
+          "body": "• **for** – Verantwortung, Leitung: **sjefen for avdelingen** (der Chef der Abteilung), **lederen for prosjektet**\n• **ved** – Eigenschaften, Vor- und Nachteile, oft nach **det … ved**: **det fine ved Norge** (das Schöne an Norwegen), **fordelen ved å bo i sentrum**, **det rare ved ham**\n• **over** – Karten, Listen, Übersichten: **et kart over Oslo** (ein Stadtplan von Oslo), **en liste over gjestene**, **en oversikt over året**\n• **fra** – Herkunft, Absender: **et brev fra mamma**, **en hilsen fra Bergen**, **folk fra hele landet**\n\nVergleiche: **lederen i klubben** (eine Person innerhalb der Gruppe) – **lederen for prosjektet** (verantwortlich dafür). Bei **fordel** hört man ebenso oft **med**: **fordelen med å bo i sentrum**."
         },
         {
           "h": "Typische Fehler",
-          "body": "• Nicht **Inga sitt rom** schreiben – das hört man zwar oft im Gespräch, aber in der Schriftsprache heißt es **rommet til Inga** oder **Ingas rom**.\n• Nach dem -s nie die bestimmte Form: **Annas bror**, nicht *Annas broren*.\n• „Ein Freund von mir“ heißt **en venn av meg**, nicht *en venn fra meg*."
+          "body": "• „von“ ist nicht immer **av**: **ein Brief von Mama** = **et brev fra mamma**, **der Preis des Buches** = **prisen på boka**.\n• „Ein Freund von mir“ heißt **en venn av meg**, nicht *en venn fra meg*.\n• Nicht **Inga sitt rom** schreiben – das hört man zwar oft im Gespräch, aber geschrieben heißt es **rommet til Inga** oder **Ingas rom**.\n• Nach dem -s nie die bestimmte Form: **Norges konge**, nicht *Norges kongen*."
         }
       ],
       "drills": [
         {
-          "prompt": "Rommet ___ Inga er lite og ryddig.",
-          "de": "Ingas Zimmer ist klein und ordentlich.",
-          "answer": [
-            "til"
-          ],
-          "explain": "Besitzer ist eine Person: bestimmte Form + til (rommet til Inga)."
-        },
-        {
-          "prompt": "Det ligger mye snø på taket ___ biblioteket.",
-          "de": "Auf dem Dach der Bibliothek liegt viel Schnee.",
+          "prompt": "Hva er prisen ___ en pølse i lompe?",
+          "de": "Was kostet ein Würstchen im Kartoffelfladen?",
           "answer": [
             "på"
           ],
-          "explain": "Teil einer Sache: på (taket på biblioteket)."
+          "explain": "Preis, Name, Farbe einer Sache: på (prisen på …)."
         },
         {
-          "prompt": "Susanne studerer ved Universitetet ___ Tromsø.",
-          "de": "Susanne studiert an der Universität Tromsø.",
+          "prompt": "Taket ___ hytta er dekket av torv.",
+          "de": "Das Dach der Hütte ist mit Torf bedeckt.",
+          "answer": [
+            "på"
+          ],
+          "explain": "Teil einer Sache: på (taket på hytta)."
+        },
+        {
+          "prompt": "Alle elevene ___ klassen gikk i barnetoget.",
+          "de": "Alle Schüler der Klasse gingen im Kinderumzug mit.",
           "answer": [
             "i"
           ],
-          "explain": "Institution an einem Ort: i (Universitetet i Tromsø)."
+          "explain": "Mitglieder einer Gruppe: i (elevene i klassen)."
         },
         {
-          "prompt": "Hva er prisen ___ boka?",
-          "de": "Was kostet das Buch? (Wie hoch ist der Preis des Buches?)",
-          "answer": [
-            "på"
-          ],
-          "explain": "Preis, Name, Farbe einer Sache: på (prisen på boka)."
-        },
-        {
-          "prompt": "Hun forsto bare halvparten ___ forelesningen.",
-          "de": "Sie verstand nur die Hälfte der Vorlesung.",
+          "prompt": "«Skrik» er et maleri ___ Edvard Munch.",
+          "de": "„Der Schrei“ ist ein Gemälde von Edvard Munch.",
           "answer": [
             "av"
           ],
-          "explain": "Ein Teil von etwas: av (halvparten av forelesningen)."
+          "explain": "Der Urheber eines Werks: av."
         },
         {
-          "prompt": "Vet du navnet ___ gata der Inga bor?",
-          "de": "Weißt du den Namen der Straße, in der Inga wohnt?",
-          "answer": [
-            "på"
-          ],
-          "explain": "Der Name einer Sache: navnet på gata."
-        },
-        {
-          "prompt": "Mora ___ Inga bor fortsatt i Kautokeino.",
-          "de": "Ingas Mutter wohnt immer noch in Kautokeino.",
-          "answer": [
-            "til"
-          ],
-          "explain": "Person als Besitzer: mora til Inga."
-        },
-        {
-          "prompt": "Inga viste Susanne et bilde ___ familien sin.",
-          "de": "Inga zeigte Susanne ein Bild ihrer Familie.",
+          "prompt": "Mange ___ oss var slitne etter 17. mai.",
+          "de": "Viele von uns waren nach dem 17. Mai müde.",
           "answer": [
             "av"
           ],
-          "explain": "Ein Bild von jemandem: et bilde av …"
+          "explain": "„einer von, viele von“: av."
         },
         {
-          "prompt": "Han er en god venn ___ meg.",
-          "de": "Er ist ein guter Freund von mir.",
+          "prompt": "Harald 5. er kongen ___ Norge.",
+          "de": "Harald V. ist der König von Norwegen.",
           "answer": [
             "av"
           ],
-          "explain": "„Ein Freund von mir“ = en venn av meg (einer aus der Gruppe meiner Freunde)."
+          "explain": "Titel: kongen av Norge (= Norges konge)."
         },
         {
-          "prompt": "Fargen ___ huset er gul.",
-          "de": "Die Farbe des Hauses ist gelb.",
+          "prompt": "Hun er sjefen ___ avdelingen.",
+          "de": "Sie ist die Chefin der Abteilung.",
           "answer": [
-            "på"
+            "for"
           ],
-          "explain": "Eigenschaft einer Sache (Farbe, Preis, Name): på (fargen på huset)."
+          "explain": "Verantwortung, Leitung: for (sjefen for …)."
         },
         {
-          "prompt": "Dette er en ___ de beste bøkene om dialekter.",
-          "de": "Das ist eines der besten Bücher über Dialekte.",
+          "prompt": "Det fine ___ 17. mai er at alle feirer sammen.",
+          "de": "Das Schöne am 17. Mai ist, dass alle zusammen feiern.",
           "answer": [
-            "av"
+            "ved"
           ],
-          "explain": "„Eines von / einer von“: en av, et av."
+          "explain": "det fine / rare / beste ved … = das Schöne / Seltsame / Beste an …"
         },
         {
-          "prompt": "Lysene ___ byen glitret i mørket.",
-          "de": "Die Lichter der Stadt glitzerten in der Dunkelheit.",
+          "prompt": "Matthias tok fram et kart ___ Oslo sentrum.",
+          "de": "Matthias holte einen Stadtplan der Osloer Innenstadt hervor.",
           "answer": [
-            "i",
+            "over"
+          ],
+          "explain": "Karten und Listen: over (et kart over …)."
+        },
+        {
+          "prompt": "Susanne fikk en lang e-post ___ moren sin i Freiburg.",
+          "de": "Susanne bekam eine lange E-Mail von ihrer Mutter in Freiburg.",
+          "answer": [
             "fra"
           ],
-          "explain": "Etwas, das sich an einem Ort befindet: i (lysene i byen). Auch lysene fra byen ist richtig."
+          "explain": "Absender, Herkunft: fra – nicht av!"
+        },
+        {
+          "prompt": "En fordel ___ å bo i Sagene er at det er kort vei til sentrum.",
+          "de": "Ein Vorteil, wenn man in Sagene wohnt, ist, dass es nicht weit ins Zentrum ist.",
+          "answer": [
+            "ved",
+            "med"
+          ],
+          "explain": "fordelen ved / med: Beides ist üblich."
+        },
+        {
+          "prompt": "Har du en liste ___ alle gjestene?",
+          "de": "Hast du eine Liste aller Gäste?",
+          "answer": [
+            "over"
+          ],
+          "explain": "Liste, Übersicht: over."
         }
-      ],
-      "_todo": "NEW from SEED: Kopie des alten Genitiv-Umschreibungs-Themas; daraus das erweiterte Thema machen (på, i, av, for, ved, over, fra)"
+      ]
     },
     {
       "id": "g22_stedsadverb_gradboying",
       "title": "Steigerung einiger Ortsadverbien/-adjektive",
-      "summary": "",
-      "sections": [],
-      "drills": [],
-      "_todo": "NEW"
+      "summary": "Von Ortswörtern wie foran, bak und oppe gibt es Komparative (fremre, bakre, øvre) und Superlative (fremst, bakerst, øverst): den øvre delen av byen, fremst i toget, bakerst i køen.",
+      "sections": [
+        {
+          "h": "Die Formen",
+          "body": "Von einigen Ortswörtern gibt es Steigerungsformen – genau wie im Deutschen (**vorn – vordere – vorderst**, **oben – obere – oberst**). Das Grundwort sieht dabei oft etwas anders aus:",
+          "table": [
+            [
+              "Grundwort",
+              "Komparativ",
+              "Superlativ",
+              "Deutsch"
+            ],
+            [
+              "**inne**",
+              "**indre**",
+              "**innerst**",
+              "innen – innere – innerst"
+            ],
+            [
+              "**ute**",
+              "**ytre**",
+              "**ytterst**",
+              "außen – äußere – äußerst"
+            ],
+            [
+              "**oppe**",
+              "**øvre**",
+              "**øverst**",
+              "oben – obere – oberst"
+            ],
+            [
+              "**nede**",
+              "**nedre**",
+              "**nederst**",
+              "unten – untere – unterst"
+            ],
+            [
+              "**bak**",
+              "**bakre**",
+              "**bakerst**",
+              "hinten – hintere – hinterst"
+            ],
+            [
+              "**foran**",
+              "**fremre / framre**",
+              "**fremst / framst**",
+              "vorn – vordere – vorderst"
+            ],
+            [
+              "**midt**",
+              "**midtre**",
+              "**midterst**",
+              "mitten – mittlere – mittelste"
+            ],
+            [
+              "**nær**",
+              "**nærmere**",
+              "**nærmest**",
+              "nah – näher – am nächsten"
+            ]
+          ]
+        },
+        {
+          "h": "Der Komparativ: vor dem Substantiv, ohne Endung",
+          "body": "Die Komparative **indre, ytre, øvre, nedre, bakre, fremre, midtre** bedeuten nicht „mehr“, sondern einfach „der innere, äußere, obere …“. Sie stehen **vor dem Substantiv** und bekommen **keine Endung**:\n\n• **Indre Oslofjord** – der innere Oslofjord\n• **den øvre delen av byen** – der obere Teil der Stadt\n• **de bakre radene** – die hinteren Reihen\n• **i den fremre delen av toget** – im vorderen Teil des Zuges\n\nAuch Straßennamen sind so gebildet: **Øvre Slottsgate** und **Nedre Slottsgate** in Oslo. **nærmere** ist dagegen ein ganz normaler Komparativ: **Hun bor nærmere sentrum enn meg.** **Kom nærmere!**"
+        },
+        {
+          "h": "Der Superlativ: meist als Adverb",
+          "body": "Den Superlativ benutzt man meist **als Adverb** – dort, wo das Deutsche „ganz vorn, ganz hinten, ganz oben“ sagt:\n\n• **Fremst i toget går to elever med fanen.** – Ganz vorn im Umzug gehen zwei Schüler mit der Fahne.\n• **Vi sto bakerst i køen.** – Wir standen ganz hinten in der Schlange.\n• **Skriv navnet ditt øverst på siden.** – Schreib deinen Namen ganz oben auf die Seite.\n• **Hytta ligger innerst i dalen.** – Die Hütte liegt ganz hinten im Tal.\n• **Hvem bor nærmest Slottet?** – Wer wohnt am nächsten am Schloss?\n\nVor einem Substantiv steht der Superlativ wie jeder andere mit **den/det/de** und **-e**: **den fremste vogna**, **det innerste rommet**, **i den øverste etasjen**, **de nærmeste vennene mine**.\n\nTipp: **helt foran** und **helt bak** sind auch richtig, aber **fremst** und **bakerst** klingen natürlicher."
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "To elever med fanen går ___ i toget. (ganz vorn)",
+          "de": "Zwei Schüler mit der Fahne gehen ganz vorn im Umzug.",
+          "answer": [
+            "fremst",
+            "framst"
+          ],
+          "explain": "Superlativ als Adverb: fremst (auch framst) = ganz vorn."
+        },
+        {
+          "prompt": "Vi kom sent og måtte stå ___ i køen. (ganz hinten)",
+          "de": "Wir kamen spät und mussten ganz hinten in der Schlange stehen.",
+          "answer": [
+            "bakerst"
+          ],
+          "explain": "bak – bakre – bakerst: bakerst = ganz hinten."
+        },
+        {
+          "prompt": "Skriv navnet ditt ___ på siden. (ganz oben)",
+          "de": "Schreib deinen Namen ganz oben auf die Seite.",
+          "answer": [
+            "øverst"
+          ],
+          "explain": "oppe – øvre – øverst: øverst = ganz oben."
+        },
+        {
+          "prompt": "Svaret står ___ på siden. (ganz unten)",
+          "de": "Die Antwort steht ganz unten auf der Seite.",
+          "answer": [
+            "nederst"
+          ],
+          "explain": "nede – nedre – nederst: nederst = ganz unten."
+        },
+        {
+          "prompt": "Hytta ligger ___ i dalen, langt fra veien. (ganz hinten, ganz innen)",
+          "de": "Die Hütte liegt ganz hinten im Tal, weit weg von der Straße.",
+          "answer": [
+            "innerst"
+          ],
+          "explain": "inne – indre – innerst: innerst i dalen / i fjorden = ganz hinten im Tal / im Fjord."
+        },
+        {
+          "prompt": "Ola sto helt ___ på brygga og fisket. (ganz außen, am Ende)",
+          "de": "Ola stand ganz vorn am Ende des Stegs und angelte.",
+          "answer": [
+            "ytterst"
+          ],
+          "explain": "ute – ytre – ytterst: ytterst = ganz außen, am äußersten Ende."
+        },
+        {
+          "prompt": "Hvem av dere bor ___ Slottet? (am nächsten)",
+          "de": "Wer von euch wohnt am nächsten am Schloss?",
+          "answer": [
+            "nærmest"
+          ],
+          "explain": "nær – nærmere – nærmest; nærmest Slottet ohne Präposition."
+        },
+        {
+          "prompt": "Om sommeren er det mange båter i ___ Oslofjord. (innere)",
+          "de": "Im Sommer sind viele Boote auf dem inneren Oslofjord.",
+          "answer": [
+            "Indre",
+            "indre"
+          ],
+          "explain": "Komparativ indre vor dem Substantiv, ohne Endung; als Name: Indre Oslofjord."
+        },
+        {
+          "prompt": "Kontoret til Per ligger i den ___ delen av byen. (obere)",
+          "de": "Pers Büro liegt im oberen Teil der Stadt.",
+          "answer": [
+            "øvre"
+          ],
+          "explain": "øvre = obere; bleibt auch nach den unverändert."
+        },
+        {
+          "prompt": "Vi satt i de ___ radene og så nesten ingenting. (hintere)",
+          "de": "Wir saßen in den hinteren Reihen und sahen fast nichts.",
+          "answer": [
+            "bakre"
+          ],
+          "explain": "bakre = hintere; ohne Endung, auch im Plural."
+        },
+        {
+          "prompt": "Sett deg i den ___ vogna, der er det ledig plass. (vorderste)",
+          "de": "Setz dich in den vordersten Wagen, dort ist Platz frei.",
+          "answer": [
+            "fremste",
+            "framste"
+          ],
+          "explain": "Superlativ vor dem Substantiv: den fremste vogna (wie den største)."
+        },
+        {
+          "prompt": "Hytta vår ligger ___ sjøen enn hytta deres. (näher)",
+          "de": "Unsere Hütte liegt näher am Meer als eure Hütte.",
+          "answer": [
+            "nærmere"
+          ],
+          "explain": "nær – nærmere – nærmest: ein ganz normaler Komparativ mit enn."
+        }
+      ],
+      "titleNo": "gradbøying av stedsadverb (fremst, bakerst, øverst)"
     },
     {
       "id": "g22_artikkel",
       "title": "Auslassung des Artikels",
       "titleNo": "substantiv uten artikkel",
-      "summary": "Kein Artikel bei Beruf, Nationalität und Religion nach være/bli (Anna er medisinstudent) und in vielen festen Wendungen (ha bil, ta buss).",
+      "summary": "Über Beruf und Nationalität hinaus (Lektion 4) fehlt der Artikel in festen Wendungen (ha bil, gå på ski), nach som (som barn), bei Titeln vor Namen (kong Harald), in Schlagzeilen und bei allgemeinen Begriffen (Frihet er viktig).",
       "sections": [
         {
-          "h": "Beruf, Nationalität, Religion",
-          "body": "Nach **være** (sein) und **bli** (werden) steht bei Beruf, Nationalität und Religion **kein Artikel** – wie im Deutschen:\n\n• **Anna er medisinstudent.** – Anna ist Medizinstudentin.\n• **Matthias er ingeniør.** – Matthias ist Ingenieur.\n• **Hun er norsk.** / **Hun er nordmann.** – Sie ist Norwegerin.\n• **Han er katolikk.** – Er ist Katholik.\n\nAber: Steht ein Adjektiv davor, braucht man den Artikel – auch wie im Deutschen: **Torunn er en god lærer.** (eine gute Lehrerin)"
-        },
-        {
-          "h": "Feste Wendungen ohne Artikel",
-          "body": "In vielen festen Wendungen steht auf Norwegisch kein Artikel – manchmal wie im Deutschen (Zeit haben, Geburtstag haben), oft aber anders (ein Auto haben, den Bus nehmen). Lerne sie als Ganzes:",
+          "h": "Feste Wendungen: ha bil, ta buss, gå på ski",
+          "body": "In Lektion 4 hast du gelernt: Bei Beruf und Nationalität nach **være/bli** steht kein Artikel (**Anna er medisinstudent**). Norwegisch lässt den Artikel aber noch öfter weg – vor allem in festen Wendungen für eine **Tätigkeit** oder einen **üblichen Zustand**. Es geht dann nicht um ein bestimmtes Ding, sondern um die Sache an sich.\n\nSobald ein Adjektiv dazukommt oder ein bestimmtes Ding gemeint ist, kommt der Artikel zurück: **Vi har en gammel hytte i Gudbrandsdalen.** **Jeg tok bussen klokka åtte.**",
           "table": [
             [
               "Norwegisch",
               "Deutsch"
             ],
             [
-              "**Har du bil?**",
-              "Hast du ein Auto?"
+              "**Har dere bil?**",
+              "Habt ihr ein Auto?"
             ],
             [
-              "**Jeg tar buss.**",
-              "Ich nehme den Bus."
+              "**Vi har hund og hytte.**",
+              "Wir haben einen Hund und eine Hütte."
             ],
             [
               "**Har du tid?**",
               "Hast du Zeit?"
             ],
             [
-              "**Hun har bursdag.**",
-              "Sie hat Geburtstag."
+              "**Hun kjører bil til jobben.**",
+              "Sie fährt mit dem Auto zur Arbeit."
             ],
             [
-              "**Vi lager middag.**",
-              "Wir kochen das Abendessen."
+              "**Vi tar buss / tog / fly.**",
+              "Wir nehmen den Bus / den Zug / das Flugzeug."
             ],
             [
-              "**Trenger du pose?**",
-              "Brauchst du eine Tüte?"
+              "**Ola spiller fotball.**",
+              "Ola spielt Fußball."
+            ],
+            [
+              "**Om vinteren går vi på ski.**",
+              "Im Winter fahren wir Ski."
+            ],
+            [
+              "**Matthias fikk jobb i Bergen.**",
+              "Matthias bekam eine Stelle in Bergen."
+            ],
+            [
+              "**Per leser avis.**",
+              "Per liest Zeitung."
             ]
           ]
+        },
+        {
+          "h": "Nach som und vor Titeln",
+          "body": "• Nach **som** (als) steht kein Artikel – wie im Deutschen: **som barn** (als Kind), **som turist**, **som sveitser**, **Hun jobber som lege.** Achtung: **som et barn** heißt „wie ein Kind“!\n• Titel vor einem Namen stehen ohne Artikel und werden **klein geschrieben**: **kong Harald**, **dronning Sonja**, **kronprins Haakon**, **prinsesse Ingrid Alexandra**, **professor Hansen**, **statsminister Brundtland**. Vor einem Namen heißt es **kong**, nicht *konge*.\n• Ohne Namen braucht der Titel die bestimmte Form: **Kongen vinker fra balkongen.**"
+        },
+        {
+          "h": "Schlagzeilen und allgemeine Begriffe",
+          "body": "• **Schlagzeilen** sind knapp und lassen den Artikel oft weg: **Rekordmange i barnetoget**, **Elg stoppet toget**, **Ny bro åpnet i Bergen**.\n• **Allgemeine Begriffe und Stoffe** stehen ohne Artikel, wenn man ganz allgemein spricht: **Frihet er viktig.** **Vi trenger sol.** **Kjærlighet kan man ikke kjøpe.** Oft ist es wie im Deutschen („Freiheit ist wichtig“) – aber wo das Deutsche „die Liebe“ oder „das Glück“ sagt, steht im Norwegischen oft kein Artikel.\n\nTypischer Fehler: *Jeg har en bil* ist nicht falsch, klingt aber nach einem bestimmten Auto. Wenn du einfach sagen willst, dass du motorisiert bist: **Jeg har bil.**"
         }
       ],
       "drills": [
         {
-          "prompt": "Anna er ___. (Medizinstudentin)",
-          "de": "Anna ist Medizinstudentin.",
+          "prompt": "Kjører du ___ til jobben, eller sykler du? (Auto)",
+          "de": "Fährst du mit dem Auto zur Arbeit, oder fährst du Rad?",
           "answer": [
-            "medisinstudent"
+            "bil"
           ],
-          "explain": "Beruf nach være: kein Artikel."
+          "explain": "Feste Wendung für eine Tätigkeit: kjøre bil – ohne Artikel."
         },
         {
-          "prompt": "Kari er ___. (Lehrerin)",
-          "de": "Kari ist Lehrerin.",
+          "prompt": "Ola spiller ___ to ganger i uka. (Fußball)",
+          "de": "Ola spielt zweimal pro Woche Fußball.",
           "answer": [
-            "lærer"
+            "fotball"
           ],
-          "explain": "Beruf nach være: kein Artikel."
+          "explain": "spille fotball – wie im Deutschen ohne Artikel."
         },
         {
-          "prompt": "Matthias er ___. (Ingenieur)",
-          "de": "Matthias ist Ingenieur.",
+          "prompt": "Om vinteren går vi på ___ hver helg. (Ski)",
+          "de": "Im Winter fahren wir jedes Wochenende Ski.",
           "answer": [
-            "ingeniør"
+            "ski"
           ],
-          "explain": "Beruf nach være: kein Artikel."
+          "explain": "gå på ski = Ski fahren; feste Wendung ohne Artikel."
         },
         {
-          "prompt": "I kveld er Anna ___. (Köchin)",
-          "de": "Heute Abend ist Anna Köchin.",
-          "answer": [
-            "kokk"
-          ],
-          "explain": "Beruf/Rolle nach være: kein Artikel."
-        },
-        {
-          "prompt": "Torunn er ___ god lærer.",
-          "de": "Torunn ist eine gute Lehrerin.",
-          "answer": [
-            "en"
-          ],
-          "explain": "Mit Adjektiv braucht man den Artikel: en god lærer."
-        },
-        {
-          "prompt": "Elin er ___ hyggelig svenske.",
-          "de": "Elin ist eine nette Schwedin.",
-          "answer": [
-            "en"
-          ],
-          "explain": "Mit Adjektiv braucht man den Artikel: en hyggelig svenske."
-        },
-        {
-          "prompt": "Susanne er ___. (Deutsche)",
-          "de": "Susanne ist Deutsche.",
-          "answer": [
-            "tysk",
-            "tysker"
-          ],
-          "explain": "Nationalität nach være: kein Artikel."
-        },
-        {
-          "prompt": "Ola har ___ i dag. (Geburtstag)",
-          "de": "Ola hat heute Geburtstag.",
-          "answer": [
-            "bursdag"
-          ],
-          "explain": "Feste Wendung ohne Artikel: ha bursdag."
-        },
-        {
-          "prompt": "Mads har ikke ___ i dag. (Zeit)",
-          "de": "Mads hat heute keine Zeit.",
+          "prompt": "Har du ___ i kveld? (Zeit)",
+          "de": "Hast du heute Abend Zeit?",
           "answer": [
             "tid"
           ],
-          "explain": "Feste Wendung ohne Artikel: ha tid."
+          "explain": "ha tid – ohne Artikel, wie im Deutschen."
         },
         {
-          "prompt": "Hun er ___. (Katholikin)",
-          "de": "Sie ist Katholikin.",
+          "prompt": "Som ___ bodde Matthias i Bern. (Kind)",
+          "de": "Als Kind wohnte Matthias in Bern.",
           "answer": [
-            "katolikk"
+            "barn"
           ],
-          "explain": "Religion nach være: kein Artikel."
+          "explain": "som barn = als Kind (ohne Artikel); som et barn hieße „wie ein Kind“."
+        },
+        {
+          "prompt": "Anna vil jobbe som ___ på et sykehus. (Ärztin)",
+          "de": "Anna möchte als Ärztin in einem Krankenhaus arbeiten.",
+          "answer": [
+            "lege"
+          ],
+          "explain": "Nach som (als) steht kein Artikel."
+        },
+        {
+          "prompt": "På balkongen står ___ Harald og vinker. (König)",
+          "de": "Auf dem Balkon steht König Harald und winkt.",
+          "answer": [
+            "kong"
+          ],
+          "explain": "Titel vor einem Namen: klein, ohne Artikel und in der Kurzform kong (nicht konge)."
+        },
+        {
+          "prompt": "___ Sonja er kjent for sin interesse for kunst. (Königin)",
+          "de": "Königin Sonja ist für ihr Interesse an Kunst bekannt.",
+          "answer": [
+            "Dronning",
+            "dronning"
+          ],
+          "explain": "Titel vor dem Namen ohne Artikel; groß nur am Satzanfang."
+        },
+        {
+          "prompt": "Vi snakket med ___ Hansen etter forelesningen. (Professor)",
+          "de": "Wir sprachen nach der Vorlesung mit Professor Hansen.",
+          "answer": [
+            "professor"
+          ],
+          "explain": "Titel vor dem Namen: klein und ohne Artikel."
+        },
+        {
+          "prompt": "___ er viktigere enn penger. (Freiheit)",
+          "de": "Freiheit ist wichtiger als Geld.",
+          "answer": [
+            "Frihet",
+            "frihet"
+          ],
+          "explain": "Allgemeiner Begriff: ohne Artikel."
+        },
+        {
+          "prompt": "I påsken trenger vi bare ___ og godt skiføre. (Sonne)",
+          "de": "An Ostern brauchen wir nur Sonne und guten Schnee.",
+          "answer": [
+            "sol"
+          ],
+          "explain": "Stoff, ganz allgemein: ohne Artikel."
+        },
+        {
+          "prompt": "Det er lettere å ta ___ til Tromsø enn å kjøre. (Flugzeug)",
+          "de": "Es ist einfacher, nach Tromsø zu fliegen, als zu fahren.",
+          "answer": [
+            "fly"
+          ],
+          "explain": "ta fly / buss / tog als Verkehrsmittel: ohne Artikel."
         }
-      ],
-      "_todo": "NEW from SEED: Kopie des alten Artikel-Themas; daraus die erweiterten Fälle machen (feste Wendungen, som, Titel …)"
+      ]
     }
   ],
   "tf": [
@@ -955,7 +1392,7 @@
       "s": "Kari har på seg en bunad fra Gudbrandsdalen.",
       "de": "Kari trägt eine Tracht aus Gudbrandsdalen.",
       "a": false,
-      "why": "Karis Tracht ist aus Sunnmøre; Anna trägt die Tracht von Oma Ingrid."
+      "why": "Karis Tracht ist aus Sunnmøre; Anna trägt ihre eigene Tracht, die sie zur Konfirmation bekommen hat."
     },
     {
       "s": "Ola ble vekket av skolekorpset om morgenen.",
@@ -970,10 +1407,10 @@
       "why": "Er trägt Anzug und Krawatte und fühlt sich neben den Trachten „ein bisschen grau“."
     },
     {
-      "s": "Kongefamilien står på balkongen og vinker til barna.",
-      "de": "Die Königsfamilie steht auf dem Balkon und winkt den Kindern zu.",
+      "s": "Per vil prøve å komme seg fremst ved sperringene.",
+      "de": "Per will versuchen, ganz nach vorn an die Absperrungen zu kommen.",
       "a": true,
-      "why": "Per: „Der står kongefamilien på balkongen og vinker til barna i flere timer.“"
+      "why": "„Vi går opp mot Slottet og prøver å komme oss fremst ved sperringene.“"
     },
     {
       "s": "Grunnloven ble underskrevet i 1905.",
@@ -985,7 +1422,7 @@
       "s": "Kong Harald er barnebarnet til Haakon den sjuende.",
       "de": "König Harald ist der Enkel von Haakon VII.",
       "a": true,
-      "why": "Anna: „Kong Harald … er barnebarnet hans.“"
+      "why": "Anna: „Kong Harald, som står på balkongen … er barnebarnet hans.“"
     },
     {
       "s": "I Sveits feirer man nasjonaldagen med et stort barnetog.",
@@ -1115,12 +1552,6 @@
       ]
     },
     {
-      "de": "die Tischdecke",
-      "answer": [
-        "duk"
-      ]
-    },
-    {
       "de": "(ich) wurde geweckt",
       "answer": [
         "ble vekket"
@@ -1139,21 +1570,27 @@
       ]
     },
     {
-      "de": "anstrengend",
+      "de": "ganz vorn",
       "answer": [
-        "slitsom"
+        "fremst"
+      ]
+    },
+    {
+      "de": "ganz hinten in der Reihe",
+      "answer": [
+        "bakerst i rekka"
+      ]
+    },
+    {
+      "de": "als Kind",
+      "answer": [
+        "som barn"
       ]
     },
     {
       "de": "sich gefallen lassen",
       "answer": [
         "finne seg i"
-      ]
-    },
-    {
-      "de": "sogar",
-      "answer": [
-        "til og med"
       ]
     }
   ],
@@ -1166,20 +1603,21 @@
       ]
     },
     {
-      "de": "Die Tracht ist handgenäht und sieht aus wie neu.",
+      "de": "Habt ihr ein Auto? – Nein, wir fahren mit dem Bus.",
       "no": [
-        "Bunaden er håndsydd og ser ut som ny.",
-        "Bunaden er håndsydd, og den ser ut som ny.",
-        "Bunaden er håndsydd og ser ny ut."
-      ]
+        "Har dere bil? – Nei, vi tar buss.",
+        "Har dere bil? – Nei, vi tar bussen.",
+        "Har dere bil? Nei, vi tar buss.",
+        "Har dere bil? Nei, vi tar bussen."
+      ],
+      "hint": "ha bil: feste Wendung ohne Artikel."
     },
     {
-      "de": "Wir gehen hinauf zum Schloss, um den Kinderumzug zu sehen.",
+      "de": "König Harald und Königin Sonja winken vom Balkon.",
       "no": [
-        "Vi går opp mot Slottet for å se barnetoget.",
-        "Vi går opp til Slottet for å se barnetoget.",
-        "Vi går opp mot Slottet for å se på barnetoget."
-      ]
+        "Kong Harald og dronning Sonja vinker fra balkongen."
+      ],
+      "hint": "Titel vor dem Namen: klein und ohne Artikel."
     },
     {
       "de": "Die Verfassung wurde 1814 unterzeichnet.",
@@ -1198,12 +1636,6 @@
       ]
     },
     {
-      "de": "Das war ein fantastisches Erlebnis.",
-      "no": [
-        "Det var en fantastisk opplevelse."
-      ]
-    },
-    {
       "de": "Viele Deutsche sind vorsichtig mit Fahnen.",
       "no": [
         "Mange tyskere er forsiktige med flagg.",
@@ -1211,26 +1643,35 @@
       ]
     },
     {
-      "de": "Die geschmückten Busse fahren durch die Stadt.",
+      "de": "Als Kind ging ich auch im Kinderumzug mit.",
       "no": [
-        "De pyntede bussene kjører gjennom byen.",
-        "De pynta bussene kjører gjennom byen."
+        "Som barn gikk jeg også i barnetoget.",
+        "Som barn gikk også jeg i barnetoget.",
+        "Som barn gikk jeg også i barnetog."
       ]
     },
     {
-      "de": "Kannst du mir eine kurze Erklärung geben?",
+      "de": "Die Kleinsten gehen ganz hinten.",
       "no": [
-        "Kan du gi meg en kort forklaring?",
-        "Kan du gi meg ei kort forklaring?"
+        "De minste går bakerst.",
+        "De minste går helt bakerst.",
+        "De minste går bakerst i toget."
       ]
     },
     {
-      "de": "Es sind die Kinder, die im Umzug mitgehen, nicht die Soldaten.",
+      "de": "Hast du einen Stadtplan von Oslo?",
       "no": [
-        "Det er barna som går i tog, ikke soldatene.",
-        "Det er barna som går i toget, ikke soldatene."
+        "Har du et kart over Oslo?",
+        "Har du et bykart over Oslo?"
       ],
-      "hint": "Spaltsatz: Det er … som …"
+      "hint": "Karten und Listen: over."
+    },
+    {
+      "de": "Das Schöne am 17. Mai sind die Kinder.",
+      "no": [
+        "Det fine ved 17. mai er barna.",
+        "Det fineste ved 17. mai er barna."
+      ]
     }
   ],
   "summary": [
@@ -1281,18 +1722,18 @@
   "dictation": [
     0,
     9,
-    14,
+    13,
     25
   ],
   "writing": {
-    "prompt": "Stell dir vor, du hast den 17. Mai in Norwegen erlebt. Schreib einer norwegischen Freundin eine E-Mail: Was hast du gesehen und erlebt, wie hast du dich gefühlt, und wie feiert man den Nationalfeiertag in deinem Land?",
+    "prompt": "Stell dir vor, du hast den 17. Mai in Norwegen erlebt. Schreib einer norwegischen Freundin eine E-Mail: Was hast du gesehen und erlebt, wo hast du gestanden (fremst, bakerst …), wie hast du dich gefühlt, und wie feiert man den Nationalfeiertag in deinem Land?",
     "minWords": 130,
     "useWords": [
       "barnetog",
       "bunad",
-      "opplevelse",
-      "nasjonaldag",
-      "pyntet"
+      "fremst",
+      "som barn",
+      "kong Harald"
     ],
     "checklist": [
       {
@@ -1302,6 +1743,15 @@
           "barnetoget",
           "bunad",
           "kongefamilien"
+        ]
+      },
+      {
+        "de": "Wo du gestanden hast (fremst, bakerst, nærmest …)",
+        "keywords": [
+          "fremst",
+          "bakerst",
+          "nærmest",
+          "øverst"
         ]
       },
       {
@@ -1321,7 +1771,7 @@
         ]
       }
     ],
-    "model": "Kjære Sigrid!\nNå har jeg endelig feiret 17. mai i Norge, og det var en fantastisk opplevelse. Om morgenen ble vi vekket av et korps som spilte utenfor vinduet. Etter frokosten gikk vi ned til sentrum. Byen var pyntet med flagg overalt, og mange hadde på seg bunad. Jeg så barnetoget på Karl Johan og kongefamilien som vinket fra balkongen. Barna ropte «Hurra!», og jeg fikk en rar følelse i magen – jeg ble nesten litt norsk.\nHjemme i Tyskland har vi nasjonaldagen den 3. oktober, men den feirer vi ikke på samme måte. Det er ingen barnetog, og de fleste har bare fri. Kanskje er vi litt for forsiktige med flagget vårt. Etter denne dagen forstår jeg bedre hvorfor nordmenn er så glade i 17. mai. Neste år vil jeg gjerne feire dagen i Norge igjen – kanskje til og med i bunad!\nHilsen fra Freiburg",
-    "modelDe": "Liebe Sigrid!\nJetzt habe ich endlich den 17. Mai in Norwegen gefeiert, und es war ein fantastisches Erlebnis. Am Morgen wurden wir von einer Kapelle geweckt, die vor dem Fenster spielte. Nach dem Frühstück gingen wir hinunter ins Zentrum. Die Stadt war überall mit Fahnen geschmückt, und viele trugen Tracht. Ich sah den Kinderumzug auf der Karl Johan und die Königsfamilie, die vom Balkon winkte. Die Kinder riefen „Hurra!“, und ich bekam ein seltsames Gefühl im Bauch – ich wurde fast ein bisschen norwegisch.\nZu Hause in Deutschland haben wir den Nationalfeiertag am 3. Oktober, aber den feiern wir nicht auf dieselbe Weise. Es gibt keinen Kinderumzug, und die meisten haben einfach frei. Vielleicht sind wir ein bisschen zu vorsichtig mit unserer Fahne. Nach diesem Tag verstehe ich besser, warum die Norweger den 17. Mai so sehr lieben. Nächstes Jahr möchte ich den Tag gern wieder in Norwegen feiern – vielleicht sogar in Tracht!\nGrüße aus Freiburg"
+    "model": "Kjære Sigrid!\nNå har jeg endelig feiret 17. mai i Norge, og det var en fantastisk opplevelse. Om morgenen ble vi vekket av et korps som spilte utenfor vinduet. Etter frokosten gikk vi ned til sentrum. Byen var pyntet med flagg overalt, og mange hadde på seg bunad. Vi fikk plass fremst ved sperringene foran Slottet, og der så jeg barnetoget og kong Harald og dronning Sonja, som vinket fra balkongen. Barna ropte «Hurra!», og jeg fikk en rar følelse i magen – jeg ble nesten litt norsk.\nHjemme i Tyskland har vi nasjonaldagen den 3. oktober, men den feirer vi ikke på samme måte. Som barn visste jeg knapt hva vi feiret den dagen. Det er ingen barnetog, og de fleste har bare fri. Etter denne dagen forstår jeg bedre hvorfor nordmenn er så glade i 17. mai. Neste år vil jeg gjerne feire dagen i Norge igjen – kanskje til og med i bunad!\nHilsen fra Freiburg",
+    "modelDe": "Liebe Sigrid!\nJetzt habe ich endlich den 17. Mai in Norwegen gefeiert, und es war ein fantastisches Erlebnis. Am Morgen wurden wir von einer Kapelle geweckt, die vor dem Fenster spielte. Nach dem Frühstück gingen wir hinunter ins Zentrum. Die Stadt war überall mit Fahnen geschmückt, und viele trugen Tracht. Wir bekamen einen Platz ganz vorn an den Absperrungen vor dem Schloss, und dort sah ich den Kinderumzug und König Harald und Königin Sonja, die vom Balkon winkten. Die Kinder riefen „Hurra!“, und ich bekam ein seltsames Gefühl im Bauch – ich wurde fast ein bisschen norwegisch.\nZu Hause in Deutschland haben wir den Nationalfeiertag am 3. Oktober, aber den feiern wir nicht auf dieselbe Weise. Als Kind wusste ich kaum, was wir an diesem Tag feierten. Es gibt keinen Kinderumzug, und die meisten haben einfach frei. Nach diesem Tag verstehe ich besser, warum die Norweger den 17. Mai so sehr lieben. Nächstes Jahr möchte ich den Tag gern wieder in Norwegen feiern – vielleicht sogar in Tracht!\nGrüße aus Freiburg"
   }
 }
