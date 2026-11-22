@@ -36,7 +36,7 @@
       },
       {
         "no": "Og så utsikten! Fra stua ser jeg ned på havna og alle båtene som kommer inn. Jeg valgte leiligheten fordi utsikten er så fin, selv om husleia er litt høyere enn jeg hadde håpet. Dessuten kan jeg sykle til kontoret ved Bryggen på ti minutter. Hvis det regner, er jeg våt til skinnet når jeg er framme.",
-        "de": "Und dann die Aussicht! Vom Wohnzimmer aus sehe ich hinunter auf den Hafen und all die Boote, die hereinkommen. Ich habe mich für die Wohnung entschieden, weil die Aussicht so schön ist, obwohl die Miete etwas höher ist, als ich gehofft hatte. Außerdem kann ich in zehn Minuten mit dem Rad ins Büro bei Bryggen fahren. Wenn es regnet, bin ich nass bis auf die Haut, wenn ich ankomme."
+        "de": "Und dann die Aussicht! Vom Wohnzimmer aus sehe ich hinunter auf den Hafen und all die Boote, die hereinkommen. Ich habe mich für die Wohnung entschieden, weil die Aussicht so schön ist, obwohl die Miete etwas höher ist, als ich gehofft hatte. Außerdem kann ich in zehn Minuten mit dem Rad ins Büro bei Bryggen fahren. Wenn es regnet, bin ich bei der Ankunft nass bis auf die Haut."
       },
       {
         "no": "Og det regner ofte! Fru Solheim lo da hun så paraplyen min: «Glem den, den blåser bort. Her går man ikke ut uten ordentlig regntøy!» Hun har rett. Siden jeg ikke vil sitte våt på kontoret, har jeg også kjøpt gummistøvler.",
@@ -55,12 +55,12 @@
         "de": "Erinnerst du dich an den Nebel auf dem Fløyen, als du hier warst? Wir haben fast nichts gesehen, also haben wir drinnen im Café gesessen. Jetzt kann ich den Fløyen vom Küchenfenster aus sehen, jedenfalls wenn kein Nebel ist. Ich finde Bergen noch schöner, als ich dachte, und ich glaube, dass ich die Stadt lieb gewinnen werde."
       },
       {
-        "no": "Og du? Om noen dager flytter du til Tromsø. Jeg tenker mye på at du snart bor enda lenger borte. Men jeg tror du kommer til å like deg der, selv om sola blir borte i mørketida. Hvis du vil, kan vi snakke på video hver søndag, for at du ikke skal glemme hvordan regn ser ut.",
-        "de": "Und du? In ein paar Tagen ziehst du nach Tromsø. Ich denke viel daran, dass du bald noch weiter weg wohnst. Aber ich glaube, dass du dich dort wohlfühlen wirst, auch wenn die Sonne in der Polarnacht verschwindet. Wenn du willst, können wir jeden Sonntag per Video reden, damit du nicht vergisst, wie Regen aussieht."
+        "no": "Og du? Om et par uker flytter du til Tromsø. Jeg tenker mye på at du snart bor enda lenger borte. Men jeg tror du kommer til å like deg der, selv om sola blir borte i mørketida. Hvis du vil, kan vi snakke på video hver søndag, for at du ikke skal glemme hvordan regn ser ut.",
+        "de": "Und du? In ein paar Wochen ziehst du nach Tromsø. Ich denke viel daran, dass du bald noch weiter weg wohnst. Aber ich glaube, dass du dich dort wohlfühlen wirst, auch wenn die Sonne in der Polarnacht verschwindet. Wenn du willst, können wir jeden Sonntag per Video reden, damit du nicht vergisst, wie Regen aussieht."
       },
       {
         "no": "Hils Anna og hele familien Nygård! Er det sant at Anna skal flytte inn i sokkelleiligheten deres?",
-        "de": "Grüß Anna und die ganze Familie Nygård! Stimmt es, dass Anna in ihre Souterrainwohnung einzieht?"
+        "de": "Grüß Anna und die ganze Familie Nygård! Stimmt es, dass Anna in die Souterrainwohnung der Familie einzieht?"
       },
       {
         "no": "Og nå kan du komme og se leiligheten! Neste gang du kommer på besøk, kan du sove på sofaen min.",
@@ -207,6 +207,10 @@
       {
         "no": "bli glad i byen",
         "de": "die Stadt lieb gewinnen"
+      },
+      {
+        "no": "Om et par uker",
+        "de": "in ein paar Wochen"
       },
       {
         "no": "enda lenger borte",

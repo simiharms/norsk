@@ -798,6 +798,57 @@
     }
   },
   {
+    "id": "w08_matbit",
+    "no": "matbit",
+    "de": "der Happen, die Kleinigkeit (zu essen)",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "matbit",
+      "matbiten",
+      "matbiter",
+      "matbitene"
+    ],
+    "lesson": 8,
+    "wk": true,
+    "ex": {
+      "no": "Skal vi ta en matbit før kinoen?",
+      "de": "Sollen wir vor dem Kino eine Kleinigkeit essen?"
+    }
+  },
+  {
+    "id": "w08_spise_ute",
+    "no": "spise ute",
+    "de": "auswärts essen, essen gehen",
+    "pos": "phrase",
+    "lesson": 8,
+    "wk": true,
+    "ex": {
+      "no": "På lørdag spiser vi ute.",
+      "de": "Am Samstag gehen wir essen."
+    }
+  },
+  {
+    "id": "w08_taco",
+    "no": "taco",
+    "de": "der Taco",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "taco",
+      "tacoen",
+      "tacoer",
+      "tacoene"
+    ],
+    "lesson": 8,
+    "wk": true,
+    "ex": {
+      "no": "På fredager spiser mange nordmenn taco.",
+      "de": "Freitags essen viele Norweger Tacos."
+    },
+    "note": "Oft ohne Artikel: Vi spiser taco = Es gibt Tacos."
+  },
+  {
     "id": "w08_syltetoy",
     "no": "syltetøy",
     "de": "die Marmelade",
@@ -1001,8 +1052,8 @@
     "pos": "adv",
     "lesson": 8,
     "ex": {
-      "no": "Da var du sikkert presis klokka fem?",
-      "de": "Dann warst du sicher pünktlich um fünf da?"
+      "no": "Da er du sikkert alltid presis?",
+      "de": "Dann bist du sicher immer pünktlich?"
     }
   },
   {
@@ -1525,7 +1576,6 @@
     "de": "pro",
     "pos": "prep",
     "lesson": 8,
-    "wk": true,
     "ex": {
       "no": "Rommet koster ni hundre kroner per natt.",
       "de": "Das Zimmer kostet neunhundert Kronen pro Nacht."

@@ -460,7 +460,7 @@
       "no": "De snakket i et kvarter.",
       "de": "Sie redeten eine Viertelstunde lang."
     },
-    "note": "et kvarter = 15 Minuten. Bei der Uhrzeit: kvart over tre (Lektion 8)."
+    "note": "et kvarter = 15 Minuten. Bei der Uhrzeit: kvart over tre = Viertel nach drei."
   },
   {
     "id": "w07_for_forste_gang",
@@ -1109,7 +1109,7 @@
       "no": "Stykket var fantastisk!",
       "de": "Das Stück war fantastisch!"
     },
-    "note": "Neutrum ohne -t (Lektion 3)."
+    "note": "Neutrum ohne -t (Lektion 4)."
   },
   {
     "id": "w07_synes",
@@ -1375,6 +1375,22 @@
     "note": "Antwort auf »Takk for sist« oder »Takk for i dag«."
   },
   {
+    "id": "w07_takk_for_laget",
+    "no": "takk for laget",
+    "de": "danke für den schönen Abend",
+    "deAlt": [
+      "danke fürs Kommen"
+    ],
+    "pos": "phrase",
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "Takk for laget! Det var en veldig hyggelig kveld.",
+      "de": "Danke für den schönen Abend! Es war ein sehr netter Abend."
+    },
+    "note": "Beim Abschied nach einem Fest oder Besuch."
+  },
+  {
     "id": "w07_ingen_aarsak",
     "no": "ingen årsak",
     "de": "keine Ursache",
@@ -1417,7 +1433,7 @@
       "no": "Vi ses på mandag!",
       "de": "Wir sehen uns am Montag!"
     },
-    "note": "Wochentage schreibt man klein. på mandag = am kommenden Montag; på mandager = montags."
+    "note": "Wochentage schreibt man klein. på mandag = (meist) am kommenden Montag; på mandager = montags; sist mandag = letzten Montag."
   },
   {
     "id": "w07_tirsdag",
@@ -1537,8 +1553,8 @@
     "pos": "num",
     "lesson": 7,
     "ex": {
-      "no": "Matthias begynte i jobben den første oktober.",
-      "de": "Matthias hat am ersten Oktober in der Stelle angefangen."
+      "no": "Mandag er den første dagen i uka.",
+      "de": "Montag ist der erste Tag der Woche."
     }
   },
   {
@@ -1572,8 +1588,8 @@
     ],
     "lesson": 7,
     "ex": {
-      "no": "Fru Solheim bor nede.",
-      "de": "Frau Solheim wohnt unten."
+      "no": "Fru Linde er en rolle i «Et dukkehjem».",
+      "de": "Frau Linde ist eine Rolle in »Et dukkehjem«."
     },
     "note": "Als Anrede heute selten; man duzt und nennt meist den Vornamen."
   },
@@ -1584,8 +1600,8 @@
     "pos": "adv",
     "lesson": 7,
     "ex": {
-      "no": "I fjor var Inga forelsket i en fyr fra Bodø.",
-      "de": "Letztes Jahr war Inga in einen Typen aus Bodø verliebt."
+      "no": "I fjor bodde Matthias i Bern.",
+      "de": "Letztes Jahr wohnte Matthias in Bern."
     }
   },
   {

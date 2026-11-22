@@ -381,7 +381,7 @@
           "de": "»Et dukkehjem« erschien 1879. Das Stück handelt von Nora, die ihren Mann und ihre Kinder verlässt. Viele waren wütend und schockiert. Ibsen schrieb einen anderen Schluss für ein Theater in Deutschland: Darin bleibt Nora zu Hause bei den Kindern. Aber er selbst mochte ihn nicht."
         },
         {
-          "no": "I 1891 flyttet Ibsen hjem til Norge igjen. Hver dag gikk han til Grand Café i Karl Johans gate, alltid på samme tid. Folk sa at de kunne stille klokka etter ham. Ibsen døde i 1906.",
+          "no": "I 1891 flyttet Ibsen hjem til Norge igjen. Hver dag gikk han til Grand Café i Karl Johans gate, alltid til samme tid. Folk sa at de kunne stille klokka etter ham. Ibsen døde i 1906.",
           "de": "1891 zog Ibsen wieder nach Norwegen zurück. Jeden Tag ging er ins Grand Café an der Karl Johans gate, immer zur selben Zeit. Die Leute sagten, sie könnten ihre Uhr nach ihm stellen. Ibsen starb 1906."
         },
         {
@@ -475,7 +475,7 @@
           "de": "wieder nach Norwegen zurück"
         },
         {
-          "no": "alltid på samme tid",
+          "no": "alltid til samme tid",
           "de": "immer zur selben Zeit"
         },
         {
@@ -528,9 +528,9 @@
         "de": "Danke für die Hilfe!"
       },
       {
-        "no": "Takk for maten!",
-        "de": "Danke für das Essen!",
-        "note": "Sagt man nach jeder Mahlzeit, auch in der Familie (mehr in Lektion 8)."
+        "no": "Takk for laget!",
+        "de": "Danke für den schönen Abend! / Danke fürs Kommen!",
+        "note": "Sagt man beim Abschied nach einem Fest oder Besuch – als Gast und als Gastgeber. Nach dem Essen heißt es dagegen Takk for maten! (Lektion 3)."
       },
       {
         "no": "Takk for i dag!",
@@ -543,14 +543,14 @@
         "note": "Am Tag nach einem Fest, einer Einladung oder einem schönen Abend."
       },
       {
-        "no": "Takk for sist!",
-        "de": "Danke für das letzte Mal!",
-        "note": "Wenn man jemanden wiedertrifft, mit dem man zuletzt etwas Schönes erlebt hat – sehr norwegisch. Wer es vergisst, wirkt schnell unhöflich."
+        "no": "Takk for sist! – Selv takk!",
+        "de": "Danke für das letzte Mal! – Ich habe zu danken!",
+        "note": "Beim Wiedersehen bedankt man sich für das letzte Treffen (Lektion 2), und der andere dankt zurück: Selv takk! Das passt auch als Antwort auf Takk for i dag! oder Takk for i går!"
       },
       {
-        "no": "Selv takk!",
-        "de": "Ich danke dir auch! / Ich habe zu danken!",
-        "note": "Antwort auf »Takk for sist!« oder »Takk for i dag!«: Man bedankt sich zurück."
+        "no": "Takk for at du kom!",
+        "de": "Danke, dass du gekommen bist!",
+        "note": "Takk for at … = Danke, dass …: Takk for at du hjalp meg!"
       },
       {
         "no": "Takk i like måte!",
@@ -578,7 +578,7 @@
       {
         "no": "Vi ses på mandag!",
         "de": "Wir sehen uns am Montag!",
-        "note": "på + Wochentag = am kommenden Montag. Für den letzten Montag sagt man sist mandag oder i mandags."
+        "note": "på + Wochentag meint meist den kommenden Montag; im Gespräch auch den letzten. Eindeutig vergangen: sist mandag oder i mandags."
       },
       {
         "no": "Jeg har norskkurs på mandager og torsdager.",
@@ -779,7 +779,7 @@
         },
         {
           "h": "Im Gespräch: Präteritum statt Perfekt",
-          "body": "Im Deutschen erzählt man mündlich fast alles im Perfekt: »Ich habe gestern Karten gekauft.« Im Norwegischen steht hier das **Präteritum**:\n• **Jeg kjøpte billetter i går.** – Ich habe gestern Karten gekauft.\n• **Hva gjorde du i helga? – Jeg var på tur.** – Was hast du am Wochenende gemacht? – Ich war wandern.\n• **Så du filmen på lørdag?** – Hast du den Film am Samstag gesehen?\n\nTypischer Fehler: »I går har jeg kjøpt …«. Sobald eine abgeschlossene Zeit genannt wird, heißt es **I går kjøpte jeg …**\n\nAber: Was jetzt ist oder immer so ist, steht weiter im Präsens: **Nå bor Matthias i Oslo. Hver fredag spiser Susanne bløtkake.**"
+          "body": "Im Deutschen erzählt man mündlich fast alles im Perfekt: »Ich habe gestern Karten gekauft.« Im Norwegischen steht hier das **Präteritum**:\n• **Jeg kjøpte billetter i går.** – Ich habe gestern Karten gekauft.\n• **Hva gjorde du i helga? – Jeg var på tur.** – Was hast du am Wochenende gemacht? – Ich war wandern.\n• **Så du filmen sist lørdag?** – Hast du den Film letzten Samstag gesehen?\n\nTypischer Fehler: »I går har jeg kjøpt …«. Sobald eine abgeschlossene Zeit genannt wird, heißt es **I går kjøpte jeg …**\n\nAber: Was jetzt ist oder immer so ist, steht weiter im Präsens: **Nå bor Matthias i Oslo. Hver fredag spiser Susanne bløtkake.**"
         },
         {
           "h": "Erzählen und feste Wendungen",
@@ -1219,7 +1219,9 @@
           "de": "Das Stück war um Viertel nach zehn zu Ende.",
           "answer": [
             "kvart over ti",
-            "tjueto femten"
+            "tjueto femten",
+            "klokka kvart over ti",
+            "klokka tjueto femten"
           ],
           "explain": "kvart over = Viertel nach. Im Alltag: kvart over ti."
         },
@@ -1228,7 +1230,9 @@
           "de": "Die Straßenbahn fährt um 22.35 Uhr.",
           "answer": [
             "fem over halv elleve",
-            "tjueto trettifem"
+            "tjueto trettifem",
+            "klokka fem over halv elleve",
+            "klokka tjueto trettifem"
           ],
           "explain": "fem over halv elleve = fünf nach halb elf."
         },
@@ -1672,9 +1676,13 @@
       "de": "Welchen Film hast du am Samstag gesehen?",
       "no": [
         "Hvilken film så du på lørdag?",
-        "Hva for en film så du på lørdag?"
+        "Hva for en film så du på lørdag?",
+        "Hvilken film så du sist lørdag?",
+        "Hva for en film så du sist lørdag?",
+        "Hvilken film så du i lørdags?",
+        "Hva for en film så du i lørdags?"
       ],
-      "hint": "Präteritum; am Samstag = på lørdag"
+      "hint": "Präteritum; am (letzten) Samstag = på lørdag oder sist lørdag"
     },
     {
       "de": "Vielen Dank für die Hilfe! – Gern geschehen!",

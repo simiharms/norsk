@@ -209,7 +209,7 @@
       },
       {
         "no": "jeg skulle sette den i kjelleren",
-        "de": "ich wollte (eigentlich) es in den Keller stellen"
+        "de": "ich wollte es (eigentlich) in den Keller stellen"
       },
       {
         "no": "hunden vår",
@@ -746,7 +746,7 @@
         },
         {
           "h": "Wem gehört das?",
-          "body": "So fragst und antwortest du:\n\n• **Er det nøkkelen din?** – Ist das dein Schlüssel?\n• **Hvem eier denne sykkelen?** – Wem gehört dieses Fahrrad?\n• **Hvem sin sykkel er det?** – Wessen Fahrrad ist das? (umgangssprachlich; schriftlich: **Hvis sykkel er det?**)\n• **Det er Olas sykkel.** / **Det er sykkelen til Ola.** – Das ist Olas Fahrrad. (Den Genitiv mit -s kennst du aus Lektion 9; die Form mit **til** kommt im nächsten Kapitel.)\n\nVorschau auf Lektion 15: Wenn der Besitzer zugleich das **Subjekt desselben Satzes** ist, braucht man **sin/si/sitt/sine**. **Kari låner sykkelen hennes** heißt also: Kari leiht sich das Fahrrad einer anderen Frau (zum Beispiel Susannes) – nicht ihr eigenes. Darum kommen **hans** und **hennes** in den Übungen dieser Lektion nur vor, wenn jemand anderes als das Subjekt der Besitzer ist."
+          "body": "So fragst und antwortest du:\n\n• **Er det nøkkelen din?** – Ist das dein Schlüssel?\n• **Hvem eier denne sykkelen?** – Wem gehört dieses Fahrrad?\n• **Hvem sin sykkel er det?** – Wessen Fahrrad ist das? (umgangssprachlich; schriftlich: **Hvis sykkel er det?**)\n• **Det er Olas sykkel.** / **Det er sykkelen til Ola.** – Das ist Olas Fahrrad. (Den Genitiv mit -s kennst du aus Lektion 9; die Form mit **til** kommt im nächsten Grammatikthema.)\n\nVorschau auf Lektion 15: Wenn der Besitzer zugleich das **Subjekt desselben Satzes** ist, braucht man **sin/si/sitt/sine**. **Kari låner sykkelen hennes** heißt also: Kari leiht sich das Fahrrad einer anderen Frau (zum Beispiel Susannes) – nicht ihr eigenes. Darum kommen **hans** und **hennes** in den Übungen dieser Lektion nur vor, wenn jemand anderes als das Subjekt der Besitzer ist."
         }
       ],
       "drills": [
@@ -956,7 +956,7 @@
         },
         {
           "prompt": "Den er ikke min. Det er sykkelen til ___. (han = Ola, Objektform)",
-          "de": "Es ist nicht meins. Es ist sein Fahrrad.",
+          "de": "Das ist nicht meins. Das ist sein Fahrrad.",
           "answer": [
             "ham",
             "han"
@@ -1138,12 +1138,14 @@
           "explain": "Der Nebensatz steht vorn → Inversion: Verb vor dem Subjekt (bjeffet Bamse)."
         },
         {
-          "prompt": "Mens de drakk kaffe, ___ kontrakten. (Per, skrive, preteritum)",
-          "de": "Während sie Kaffee tranken, schrieb Per den Vertrag.",
+          "prompt": "Mens de snakket om kontrakten, ___ kaffe. (bestemor, lage, preteritum)",
+          "de": "Während sie über den Vertrag sprachen, kochte Oma Kaffee.",
           "answer": [
-            "skrev Per"
+            "laget bestemor",
+            "lagde bestemor",
+            "laga bestemor"
           ],
-          "explain": "Nach dem vorangestellten Nebensatz: Verb – Subjekt (skrev Per)."
+          "explain": "Nach dem vorangestellten Nebensatz: Verb – Subjekt (laget bestemor)."
         }
       ]
     }
@@ -1427,6 +1429,9 @@
         "Hvor mye er husleia?",
         "Hvor mye er leia?",
         "Hvor høy er husleia?",
+        "Hvor høy er leia?",
+        "Hva er husleia?",
+        "Hva er leia?",
         "Hva er prisen på leiligheten?"
       ]
     }
@@ -1539,7 +1544,7 @@
         ]
       }
     ],
-    "model": "Hei Lena!\nNå har jeg endelig funnet et sted å bo! Det er en liten leilighet på Grünerløkka, og den ligger i tredje etasje. Senga og sofaen tilhører utleieren, men skrivebordet er mitt. Husleia er åtte tusen kroner i måneden, og strømmen betaler jeg selv. I går signerte jeg husleiekontrakten. Så snart jeg har betalt depositumet, får jeg nøklene. Depositumet står på en konto i mitt navn. Etter at jeg har flyttet, må jeg sende flyttemelding til Folkeregisteret. Når alt er klart, har jeg fest. Kommer du?\nKlem fra Julia",
-    "modelDe": "Hallo Lena!\nJetzt habe ich endlich eine Bleibe gefunden! Es ist eine kleine Wohnung in Grünerløkka, und sie liegt im zweiten Stock. Das Bett und das Sofa gehören dem Vermieter, aber der Schreibtisch ist meiner. Die Miete beträgt achttausend Kronen im Monat, und den Strom bezahle ich selbst. Gestern habe ich den Mietvertrag unterschrieben. Sobald ich die Kaution bezahlt habe, bekomme ich die Schlüssel. Die Kaution liegt auf einem Konto auf meinen Namen. Nachdem ich umgezogen bin, muss ich dem Folkeregister meinen Umzug melden. Wenn alles fertig ist, feiere ich eine Party. Kommst du?\nUmarmung, Julia"
+    "model": "Hei Lena!\nNå har jeg endelig funnet et sted å bo! Det er en liten leilighet på Grünerløkka, og den ligger i tredje etasje. Senga og sofaen tilhører utleieren, men skrivebordet er mitt. Husleia er åtte tusen kroner i måneden, og strømmen betaler jeg selv. I går signerte jeg husleiekontrakten. Så snart jeg har betalt depositumet, får jeg nøklene. Depositumet står på en konto i mitt navn. Etter at jeg har flyttet, må jeg sende flyttemelding til Folkeregisteret. Når alt er klart, skal jeg ha fest. Kommer du?\nKlem fra Julia",
+    "modelDe": "Hallo Lena!\nJetzt habe ich endlich eine Bleibe gefunden! Es ist eine kleine Wohnung in Grünerløkka, und sie liegt im zweiten Stock. Das Bett und das Sofa gehören dem Vermieter, aber der Schreibtisch ist meiner. Die Miete beträgt achttausend Kronen im Monat, und den Strom bezahle ich selbst. Gestern habe ich den Mietvertrag unterschrieben. Sobald ich die Kaution bezahlt habe, bekomme ich die Schlüssel. Die Kaution liegt auf einem Konto auf meinen Namen. Nachdem ich umgezogen bin, muss ich dem Folkeregister meinen Umzug melden. Wenn alles fertig ist, gebe ich eine Party. Kommst du?\nLiebe Grüße, Julia"
   }
 }

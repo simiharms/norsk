@@ -233,7 +233,7 @@
         "de": "jeder Erwachsene seinen festen Kochtag"
       },
       {
-        "no": "det Pers tur",
+        "no": "er det Pers tur",
         "de": "ist Per dran"
       },
       {
@@ -1158,7 +1158,9 @@
       "de": "Kari wäscht sein Auto.",
       "no": [
         "Kari vasker bilen hans.",
-        "Kari vasker hans bil."
+        "Kari vasker hans bil.",
+        "Kari vasker bilen til Per.",
+        "Kari vasker Pers bil."
       ],
       "hint": "Das Auto gehört Per."
     },
@@ -1194,7 +1196,8 @@
         "Vi reiser til hytta/hytten hvert år.",
         "Hvert år drar vi på hytta/hytten.",
         "Vi drar på hytta/hytten hvert år.",
-        "Hvert år drar vi til hytta/hytten."
+        "Hvert år drar vi til hytta/hytten.",
+        "Vi drar til hytta/hytten hvert år."
       ]
     },
     {

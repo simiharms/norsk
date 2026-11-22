@@ -9,7 +9,7 @@
     "Du stellst ikke, aldri und andere Satzadverbien im Nebensatz vor das Verb und setzt am Satzende den Ort vor die Zeit.",
     "Du verbindest Sätze mit som und antwortest kurz: Ja, det gjør jeg. – Nei, det har jeg ikke. – Jo!",
     "Du kannst Zahlen bis eine Million sagen und liest einen kurzen Text über norwegische Zeitungen.",
-    "Du kennst die norwegischen Tischsitten: Vær så god, Takk for maten, Velbekomme."
+    "Du kennst die norwegischen Mahlzeiten – frokost, lunsj, middag, kveldsmat – und weißt, wann man sie isst; die Tischsitten aus Lektion 3 (Vær så god, Takk for maten, Velbekomme) erlebst du am Familientisch."
   ],
   "text": {
     "id": "t08",
@@ -27,8 +27,8 @@
         "de": "Kari sagte zu Susanne: »Arne war seit zwei Jahren nicht in Oslo. Er provoziert gern, aber im Grunde ist er lieb.«"
       },
       {
-        "no": "Middagen var klokka fem, men Arne kom kvart over fem. Han ga Kari en pose klippfisk og så på Susanne. «Så du er tyskeren! Da var du sikkert presis?»",
-        "de": "Das Essen war um fünf Uhr, aber Arne kam um Viertel nach fünf. Er gab Kari eine Tüte Klippfisch und sah Susanne an. »Du bist also die Deutsche! Dann warst du sicher pünktlich?«"
+        "no": "Middagen var klokka fem, men Arne kom kvart over fem. Han ga Kari en pose klippfisk og så på Susanne. «Så du er tyskeren! Da er du sikkert alltid presis?»",
+        "de": "Das Essen war um fünf Uhr, aber Arne kam um Viertel nach fünf. Er gab Kari eine Tüte Klippfisch und sah Susanne an. »Du bist also die Deutsche! Dann bist du sicher immer pünktlich?«"
       },
       {
         "no": "Susanne smilte. «Jeg kom en halv time for sent til kurset sist fredag. Men i dag kom du kvart over, Arne. Er det typisk for folk fra Ålesund?» Alle lo, og Arne gjorde store øyne.",
@@ -59,8 +59,8 @@
         "de": "Arne wusste nicht, was er sagen sollte. Kari fragte: »Wer möchte Soße?«"
       },
       {
-        "no": "Halv sju kom desserten: ei eplekake som Susanne bakte i går. Arne tok to stykker. «Tysk eplekake? Den er faktisk ikke så verst.» Kari smilte: «Når Arne sier at noe ikke er så verst, er det nesten en kjærlighetserklæring.»",
-        "de": "Um halb sieben kam der Nachtisch: ein Apfelkuchen, den Susanne gestern gebacken hatte. Arne nahm zwei Stücke. »Deutscher Apfelkuchen? Der ist tatsächlich gar nicht so schlecht.« Kari lächelte: »Wenn Arne sagt, dass etwas gar nicht so schlecht ist, ist das fast eine Liebeserklärung.«"
+        "no": "Halv sju kom desserten: ei eplekake som Susanne bakte dagen før. Arne tok to stykker. «Tysk eplekake? Den er faktisk ikke så verst.» Kari smilte: «Når Arne sier at noe ikke er så verst, er det nesten en kjærlighetserklæring.»",
+        "de": "Um halb sieben kam der Nachtisch: ein Apfelkuchen, den Susanne am Tag davor gebacken hatte. Arne nahm zwei Stücke. »Deutscher Apfelkuchen? Der ist tatsächlich gar nicht so schlecht.« Kari lächelte: »Wenn Arne sagt, dass etwas gar nicht so schlecht ist, ist das fast eine Liebeserklärung.«"
       },
       {
         "no": "De satt ved bordet i nesten tre timer. Klokka sju reiste Ola seg. «Takk for maten! Jeg må gjøre lekser.» «Velbekomme», svarte Kari.",
@@ -207,6 +207,10 @@
       {
         "no": "desserten",
         "de": "der Nachtisch"
+      },
+      {
+        "no": "dagen før",
+        "de": "am Tag davor"
       },
       {
         "no": "ikke så verst",
@@ -400,51 +404,84 @@
     "titleDe": "Mahlzeiten",
     "phrases": [
       {
+        "no": "frokost – lunsj – middag – kveldsmat",
+        "de": "Frühstück – Mittagessen (kalt) – warmes Hauptessen – Abendbrot",
+        "note": "Die vier Mahlzeiten des norwegischen Alltags. Weil die middag schon am Nachmittag ist, gibt es am späten Abend oft noch kveldsmat."
+      },
+      {
+        "no": "Hva spiser du til frokost?",
+        "de": "Was isst du zum Frühstück?",
+        "note": "til frokost, til lunsj, til middag = zum Frühstück, zum Mittagessen, zum Abendessen."
+      },
+      {
+        "no": "Jeg spiser to brødskiver med pålegg.",
+        "de": "Ich esse zwei Scheiben Brot mit Belag.",
+        "note": "pålegg = alles, was man aufs Brot legt: Käse, Wurst, Marmelade, Brunost …"
+      },
+      {
+        "no": "Har du spist frokost?",
+        "de": "Hast du schon gefrühstückt?",
+        "note": "Perfekt: Es geht um das Ergebnis jetzt (Bist du satt?), nicht um den Zeitpunkt."
+      },
+      {
+        "no": "Jeg smører matpakke til i morgen.",
+        "de": "Ich schmiere mir Pausenbrote für morgen.",
+        "note": "smøre matpakke = belegte Brote für die Arbeit oder die Schule machen und einpacken – typisch norwegisch."
+      },
+      {
+        "no": "Vi spiser lunsj klokka halv tolv.",
+        "de": "Wir essen um halb zwölf zu Mittag.",
+        "note": "lunsj (auch: lunch) ist meist eine kalte Mahlzeit – Brote, Salat oder Suppe – und oft schon vor zwölf Uhr."
+      },
+      {
         "no": "Hva skal vi ha til middag?",
-        "de": "Was gibt es zum Essen?",
-        "note": "middag = warme Hauptmahlzeit, meist zwischen 16 und 18 Uhr – nicht »Mittag«!"
+        "de": "Was gibt es zum Abendessen?",
+        "note": "middag = die warme Hauptmahlzeit, meist zwischen 16 und 18 Uhr – nicht »Mittag«!"
       },
       {
         "no": "Når spiser dere middag?",
         "de": "Wann esst ihr warm?"
       },
       {
-        "no": "Maten er klar!",
-        "de": "Das Essen ist fertig!"
+        "no": "Hos oss spiser vi middag klokka fem.",
+        "de": "Bei uns essen wir um fünf Uhr warm."
       },
       {
-        "no": "Vær så god!",
-        "de": "Bitte zu Tisch! / Bitte schön!",
-        "note": "Der Gastgeber bittet zu Tisch. Auch beim Überreichen von etwas."
+        "no": "I dag har vi fisk til middag.",
+        "de": "Heute gibt es Fisch zum Abendessen.",
+        "note": "ha … til middag = … zum Essen haben; Deutsch meist: es gibt …"
       },
       {
-        "no": "Forsyn deg!",
-        "de": "Bedien dich!",
-        "note": "Zu mehreren: Forsyn dere!"
+        "no": "Hva blir det til dessert?",
+        "de": "Was gibt es zum Nachtisch?"
       },
       {
-        "no": "Kan du sende meg saltet?",
-        "de": "Kannst du mir das Salz reichen?"
+        "no": "På fredager spiser vi taco.",
+        "de": "Freitags gibt es bei uns Tacos.",
+        "note": "»Fredagstaco« ist in vielen norwegischen Familien eine feste Gewohnheit (Lektion 3)."
       },
       {
-        "no": "Skål!",
-        "de": "Prost!"
+        "no": "Vi spiser kveldsmat rundt klokka ni.",
+        "de": "Gegen neun essen wir Abendbrot.",
+        "note": "kveldsmat = eine kleine kalte Mahlzeit am Abend, meist Brote, Joghurt oder Müsli."
       },
       {
-        "no": "Det smaker deilig.",
-        "de": "Das schmeckt köstlich."
+        "no": "Skal vi ta en matbit?",
+        "de": "Sollen wir eine Kleinigkeit essen?",
+        "note": "en matbit = ein Happen, eine kleine Mahlzeit."
       },
       {
-        "no": "Vil du ha litt til?",
-        "de": "Möchtest du noch etwas?"
+        "no": "Vi spiser ute i kveld.",
+        "de": "Wir gehen heute Abend essen.",
+        "note": "spise ute = auswärts essen, im Restaurant."
       },
       {
-        "no": "Ja takk, gjerne.",
-        "de": "Ja, gern."
+        "no": "Vi har gjester til middag på søndag.",
+        "de": "Am Sonntag haben wir Gäste zum Essen."
       },
       {
-        "no": "Nei takk, jeg er god og mett.",
-        "de": "Nein danke, ich bin richtig satt."
+        "no": "Kan du dekke bordet?",
+        "de": "Kannst du den Tisch decken?"
       },
       {
         "no": "Jeg er sulten som en ulv.",
@@ -454,37 +491,6 @@
       {
         "no": "Jeg har ikke spist på hele dagen.",
         "de": "Ich habe den ganzen Tag nichts gegessen."
-      },
-      {
-        "no": "Takk for maten!",
-        "de": "Danke für das Essen!",
-        "note": "Sagt man nach jeder Mahlzeit – auch in der Familie."
-      },
-      {
-        "no": "Velbekomme!",
-        "de": "Wohl bekomm's!",
-        "note": "Die Antwort auf »Takk for maten«."
-      },
-      {
-        "no": "Takk for i kveld!",
-        "de": "Danke für den schönen Abend!"
-      },
-      {
-        "no": "Takk for sist!",
-        "de": "Danke für das letzte Mal!",
-        "note": "Beim nächsten Treffen mit dem Gastgeber."
-      },
-      {
-        "no": "Kan jeg hjelpe til?",
-        "de": "Kann ich helfen?"
-      },
-      {
-        "no": "Vi dekker bordet.",
-        "de": "Wir decken den Tisch."
-      },
-      {
-        "no": "Hvem tar oppvasken?",
-        "de": "Wer spült ab?"
       }
     ]
   },
@@ -642,7 +648,7 @@
         },
         {
           "h": "Ergebnis jetzt: allerede, ennå, nettopp",
-          "body": "Das Perfekt steht auch, wenn das Ergebnis jetzt wichtig ist:\n• **Jeg har mistet nøkkelen!** – Ich habe den Schlüssel verloren (und habe ihn jetzt nicht).\n• **Kari har allerede laget middag.** – Kari hat schon das Essen gekocht (es ist fertig).\n• **Ola har ikke gjort leksene ennå.** – Ola hat die Hausaufgaben noch nicht gemacht.\n• **Arne har nettopp kommet.** – Arne ist gerade gekommen.\n\nMit **allerede**, **ennå** und **nettopp** steht fast immer das Perfekt."
+          "body": "Das Perfekt steht auch, wenn das Ergebnis jetzt wichtig ist:\n• **Jeg har mistet nøkkelen!** – Ich habe den Schlüssel verloren (und habe ihn jetzt nicht).\n• **Kari har allerede laget middag.** – Kari hat schon das Essen gekocht (es ist fertig).\n• **Ola har ikke gjort leksene ennå.** – Ola hat die Hausaufgaben noch nicht gemacht.\n• **Arne har nettopp kommet.** – Arne ist gerade gekommen.\n\nMit **allerede**, **ennå** und **nettopp** steht meist das Perfekt."
         },
         {
           "h": "Bis jetzt: Deutsch »seit« + Präsens",

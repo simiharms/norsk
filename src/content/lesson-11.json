@@ -889,12 +889,12 @@
           "explain": "viel zu = altfor."
         },
         {
-          "prompt": "Ei rorbu i Lofoten høres ___ ut. (kjempe- + fin)",
-          "de": "Eine Rorbu auf den Lofoten klingt super.",
+          "prompt": "Ei rorbu i Lofoten? Det høres ___ ut! (kjempe- + fin)",
+          "de": "Eine Rorbu auf den Lofoten? Das klingt super!",
           "answer": [
             "kjempefint"
           ],
-          "explain": "kjempe- wird zusammengeschrieben; nach høres … ut steht die Neutrumform: kjempefint."
+          "explain": "kjempe- wird zusammengeschrieben; das Subjekt ist det, also steht die Neutrumform: kjempefint."
         },
         {
           "prompt": "Lofoten er ___ langt unna for en kort tur. (zu)",
@@ -1221,7 +1221,7 @@
       "sections": [
         {
           "h": "Regelmäßig: -ere und -est",
-          "body": "Viele Adverbien haben wie die Adjektive einen Komparativ auf **-ere** und einen Superlativ auf **-est**:\n\n• **Nordmenn går fortere på ski enn tyskere.** (schneller)\n• **I Bergen regner det oftere enn i Oslo.** (öfter)\n• **Mads står opp tidligst av oss.** (am frühesten)\n\nAdverbien, die aus einem Adjektiv mit **-t** gebildet sind, verlieren das **-t** im Komparativ und Superlativ: **raskt – raskere – raskest, pent – penere – penest**. Bei **sent** ändert sich auch der Stamm: **sent – senere – senest**.",
+          "body": "Viele Adverbien haben wie die Adjektive einen Komparativ auf **-ere** und einen Superlativ auf **-est**:\n\n• **Nordmenn går fortere på ski enn tyskere.** (schneller)\n• **I Bergen regner det oftere enn i Oslo.** (öfter)\n• **Mads står opp tidligst av oss.** (am frühesten)\n\nAdverbien, die aus einem Adjektiv mit **-t** gebildet sind, verlieren das **-t** im Komparativ und Superlativ: **raskt – raskere – raskest, pent – penere – penest**. Genauso: **sent – senere – senest** (vom Adjektiv **sen**).",
           "table": [
             [
               "Positiv",
@@ -1393,7 +1393,7 @@
           "answer": [
             "senere"
           ],
-          "explain": "sent – senere – senest: Der Stamm ändert sich."
+          "explain": "sent – senere – senest: Wie bei raskt fällt das -t weg (Adjektiv: sen)."
         },
         {
           "prompt": "Kan du snakke litt ___, Torunn? (sakte, Komparativ)",

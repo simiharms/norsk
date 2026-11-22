@@ -614,8 +614,8 @@
           "explain": "ingen = niemand, keiner; als Subjekt geht ingen immer."
         },
         {
-          "prompt": "Susanne forsto nesten ___ av det professoren sa. (nichts)",
-          "de": "Susanne verstand fast nichts von dem, was der Professor sagte.",
+          "prompt": "I tåka på Fløyen så Susanne og Matthias nesten ___. (nichts)",
+          "de": "Im Nebel auf dem Fløyen sahen Susanne und Matthias fast nichts.",
           "answer": [
             "ingenting",
             "ikke noe"
@@ -883,7 +883,7 @@
           "answer": [
             "egen"
           ],
-          "explain": "ei/en oppgave, Singular nach Possessiv → egen."
+          "explain": "en oppgave, Singular nach Possessiv → egen."
         },
         {
           "prompt": "Inga og Susanne har hvert sitt ___ rom. (egen)",
@@ -1273,7 +1273,8 @@
         "Jeg forsto ikke noe.",
         "Jeg skjønte ingenting.",
         "Jeg skjønte ikke noe.",
-        "Jeg har ikke forstått noe."
+        "Jeg har ikke forstått noe.",
+        "Jeg har ikke skjønt noe."
       ],
       "hint": "Mit Perfekt nur ikke … noe."
     },
@@ -1296,7 +1297,8 @@
       "no": [
         "Vi møtes i kantina/kantinen klokka/klokken tolv.",
         "Vi møtes klokka/klokken tolv i kantina/kantinen.",
-        "Vi treffes i kantina/kantinen klokka/klokken tolv."
+        "Vi treffes i kantina/kantinen klokka/klokken tolv.",
+        "Vi treffes klokka/klokken tolv i kantina/kantinen."
       ]
     },
     {
@@ -1406,7 +1408,7 @@
         ]
       }
     ],
-    "model": "Hei, Torunn!\nI går kveld landet jeg i Tromsø, og i dag hadde jeg min første dag på universitetet. Jeg deler leilighet med Inga, en hyggelig samisk jente, men jeg har mitt eget rom. Det nye rommet mitt er lite, men det har utsikt mot fjellene. Etter informasjonsmøtet hentet jeg studentkortet mitt og gikk til biblioteket. Den første forelesningen var i nordisk språkvitenskap. Professoren snakket nordnorsk, og jeg forsto nesten ingenting, selv om jeg hørte godt etter. Men han var veldig hyggelig, og her er alle så uformelle. I morgen skal jeg møte noen andre utvekslingsstudenter. Takk for alt du lærte meg i Oslo!\nVi snakkes!\nHilsen Susanne",
-    "modelDe": "Hallo, Torunn!\nGestern Abend bin ich in Tromsø gelandet, und heute hatte ich meinen ersten Tag an der Universität. Ich teile mir eine Wohnung mit Inga, einer netten Samin, aber ich habe mein eigenes Zimmer. Mein neues Zimmer ist klein, aber es hat Blick auf die Berge. Nach der Infoveranstaltung habe ich meinen Studentenausweis abgeholt und bin in die Bibliothek gegangen. Die erste Vorlesung war in Nordischer Sprachwissenschaft. Der Professor sprach Nordnorwegisch, und ich habe fast nichts verstanden, obwohl ich gut zugehört habe. Aber er war sehr nett, und hier sind alle so locker. Morgen treffe ich ein paar andere Austauschstudierende. Danke für alles, was du mir in Oslo beigebracht hast!\nWir hören uns!\nViele Grüße, Susanne"
+    "model": "Hei, Torunn!\nI går kveld landet jeg i Tromsø, og i dag hadde jeg min første dag på universitetet. Jeg deler leilighet med Inga, en hyggelig samisk jente, men jeg har mitt eget rom. Det nye rommet mitt er lite, men det har utsikt mot fjellene. Etter informasjonsmøtet hentet jeg studentkortet mitt og gikk til biblioteket. Den første forelesningen var i nordisk språkvitenskap. Professoren snakket nordnorsk, og jeg forsto bare halvparten, selv om jeg hørte godt etter. Men det gjør ingenting: Han var veldig hyggelig, og her er alle så uformelle. I morgen skal jeg møte noen andre utvekslingsstudenter. Takk for alt du lærte meg i Oslo!\nVi snakkes!\nHilsen Susanne",
+    "modelDe": "Hallo, Torunn!\nGestern Abend bin ich in Tromsø gelandet, und heute hatte ich meinen ersten Tag an der Universität. Ich teile mir eine Wohnung mit Inga, einer netten Samin, aber ich habe mein eigenes Zimmer. Mein neues Zimmer ist klein, aber es hat Blick auf die Berge. Nach der Infoveranstaltung habe ich meinen Studentenausweis abgeholt und bin in die Bibliothek gegangen. Die erste Vorlesung war in Nordischer Sprachwissenschaft. Der Professor sprach Nordnorwegisch, und ich habe nur die Hälfte verstanden, obwohl ich gut zugehört habe. Aber das macht nichts: Er war sehr nett, und hier sind alle so locker. Morgen treffe ich ein paar andere Austauschstudierende. Danke für alles, was du mir in Oslo beigebracht hast!\nWir hören uns!\nViele Grüße, Susanne"
   }
 }

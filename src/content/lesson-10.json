@@ -235,8 +235,8 @@
           "de": "An Heiligabend stellten die Leute dem Nisse eine Schale Grütze hin – mit einem großen Klecks Butter obendrauf. Das war wichtig: Ohne Butter wurde der Nisse wütend! Manche Familien stellen dem Nisse an Heiligabend noch immer Grütze hin – heute meist zum Spaß."
         },
         {
-          "no": "I dag tenker de fleste barn på julenissen når de hører ordet «nisse». Julenissen har røde klær og hvitt skjegg, og han kommer med gaver på julaften. Ofte banker han på døra og spør: «Er det noen snille barn her?» Mange barn synes at julenissen ligner litt på pappa eller onkel …",
-          "de": "Heute denken die meisten Kinder an den julenisse (den Weihnachtsmann), wenn sie das Wort »nisse« hören. Der julenisse trägt rote Kleidung und hat einen weißen Bart, und er bringt an Heiligabend Geschenke. Oft klopft er an die Tür und fragt: »Gibt es hier brave Kinder?« Viele Kinder finden, dass der julenisse ein bisschen wie Papa oder der Onkel aussieht …"
+          "no": "I dag tenker de fleste barn på julenissen når de hører ordet «nisse». Julenissen har røde klær og hvitt skjegg, og han kommer med gaver på julaften. Ofte banker han på døra og spør: «Er det noen snille barn her?» Mange barn synes at julenissen ligner litt på pappa eller en onkel …",
+          "de": "Heute denken die meisten Kinder an den julenisse (den Weihnachtsmann), wenn sie das Wort »nisse« hören. Der julenisse trägt rote Kleidung und hat einen weißen Bart, und er bringt an Heiligabend Geschenke. Oft klopft er an die Tür und fragt: »Gibt es hier brave Kinder?« Viele Kinder finden, dass der julenisse ein bisschen wie Papa oder ein Onkel aussieht …"
         }
       ],
       "glossary": [
@@ -1120,8 +1120,8 @@
           "explain": "Nebensatz mit at: kanskje vor dem Verb."
         },
         {
-          "prompt": "På søndag ___ til Bergen igjen. (reise + hun + kanskje)",
-          "de": "Am Sonntag fährt sie vielleicht wieder nach Bergen.",
+          "prompt": "På søndag ___ hjem til Oslo. (reise + hun + kanskje)",
+          "de": "Am Sonntag fährt sie vielleicht heim nach Oslo.",
           "answer": [
             "reiser hun kanskje"
           ],

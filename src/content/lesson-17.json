@@ -525,8 +525,9 @@
         "de": "Ich bin den Rest der Woche krankgeschrieben."
       },
       {
-        "no": "God bedring!",
-        "de": "Gute Besserung!"
+        "no": "Håper du blir frisk snart!",
+        "de": "Ich hoffe, du bist bald wieder gesund!",
+        "note": "frisk = gesund (falscher Freund: nicht »frisch«). Kürzer: God bedring! (Lektion 6)."
       }
     ]
   },
@@ -722,8 +723,8 @@
           "explain": "vil → ville."
         },
         {
-          "prompt": "«Jeg skal komme til Tromsø i jula.» → Erik sa at han ___ komme til Tromsø i jula.",
-          "de": "Erik sagte, dass er an Weihnachten nach Tromsø kommen würde.",
+          "prompt": "«Jeg skal komme til Tromsø på lørdag.» → Erik sa at han ___ komme til Tromsø på lørdag.",
+          "de": "Erik sagte, dass er am Samstag nach Tromsø kommen würde.",
           "answer": [
             "skulle"
           ],
@@ -1382,7 +1383,8 @@
       "de": "Ich habe die ganze Nacht nicht schlafen können.",
       "no": [
         "Jeg har ikke kunnet sove hele natta.",
-        "Jeg har ikke kunnet sove hele natten."
+        "Jeg har ikke kunnet sove hele natten.",
+        "Jeg kunne ikke sove hele natta/natten."
       ]
     }
   ],

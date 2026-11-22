@@ -1877,9 +1877,10 @@
   {
     "id": "w20_melde",
     "no": "melde",
-    "de": "ansagen",
+    "de": "melden",
     "deAlt": [
-      "melden",
+      "anmelden",
+      "ansagen",
       "vorhersagen"
     ],
     "pos": "verb",
@@ -1893,8 +1894,9 @@
     "lesson": 13,
     "wk": true,
     "ex": {
-      "no": "Det er meldt sol hele påsken.",
-      "de": "Für die ganzen Ostertage ist Sonne angesagt."
-    }
+      "no": "Du må melde flyttingen til Skatteetaten.",
+      "de": "Du musst den Umzug bei der Steuerverwaltung melden."
+    },
+    "note": "Beim Wetter: Det er meldt sol = Es ist Sonne angesagt."
   }
 ]

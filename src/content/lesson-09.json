@@ -49,7 +49,7 @@
       },
       {
         "s": "m",
-        "no": "Med foreldrene. Mamma sier Paris, pappa sier Bergen.",
+        "no": "Med foreldrene mine. Mamma sier Paris, pappa sier Bergen.",
         "de": "Mit meinen Eltern. Mama sagt Paris, Papa sagt Bergen."
       },
       {
@@ -205,8 +205,8 @@
         "de": "statt, anstelle von"
       },
       {
-        "no": "foreldrene",
-        "de": "die Eltern"
+        "no": "foreldrene mine",
+        "de": "meine Eltern"
       },
       {
         "no": "den kirken der borte",
@@ -1156,7 +1156,7 @@
         },
         {
           "h": "Welche Präposition?",
-          "body": "Die Präposition gehört zum Verb oder Adjektiv – lerne sie immer mit: **snakke med / om**, **tenke på**, **vente på**, **drømme om**, **være redd for**, **være sjalu på**, **bestemme seg for**.\n\nIn einer kurzen Antwort steht die Präposition dagegen vorne: **Hva tenker du på? – På Bergen.** **Hvem snakket du med? – Med foreldrene.**"
+          "body": "Die Präposition gehört zum Verb oder Adjektiv – lerne sie immer mit: **snakke med / om**, **tenke på**, **vente på**, **drømme om**, **være redd for**, **være sjalu på**, **bestemme seg for**.\n\nIn einer kurzen Antwort steht die Präposition dagegen vorne: **Hva tenker du på? – På Bergen.** **Hvem snakket du med? – Med foreldrene mine.**"
         }
       ],
       "drills": [
@@ -1494,7 +1494,7 @@
       "s": "Nationaltheatret ligger bare fem minutter fra Stortinget.",
       "de": "Das Nationaltheatret liegt nur fünf Minuten vom Storting entfernt.",
       "a": true,
-      "why": "»Nei da, det er bare fem minutter å gå.«"
+      "why": "Sie stehen gerade beim Storting, und Susanne sagt: »Nei da, det er bare fem minutter å gå.«"
     },
     {
       "s": "Matthias velger jobben i Paris.",

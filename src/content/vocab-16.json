@@ -196,10 +196,10 @@
     "no": "semesteroppgave",
     "de": "die Semesterarbeit",
     "pos": "noun",
-    "gender": "f",
+    "gender": "m",
     "forms": [
       "semesteroppgave",
-      "semesteroppgava/semesteroppgaven",
+      "semesteroppgaven",
       "semesteroppgaver",
       "semesteroppgavene"
     ],
