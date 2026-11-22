@@ -3,7 +3,7 @@
   "level": "B2",
   "title": "Lunefull kjærlighet",
   "titleDe": "Launische Liebe",
-  "place": "Hurtigruta, Tromsø – Lofoten",
+  "place": "Hurtigruten, Tromsø – Lofoten",
   "goals": [
     "Du kannst von einer Reise mit der Hurtigruta und von Gefühlen wie Verliebtheit und Enttäuschung erzählen.",
     "Du kannst sagen, wie es dir geht, wenn du krank bist, und Beschwerden beschreiben.",
@@ -533,7 +533,7 @@
   "grammar": [
     {
       "id": "g17_tidsuttrykk",
-      "title": "Zeitausdrücke mit Präpositionen",
+      "title": "Zeitausdrücke mit Präposition",
       "titleNo": "tidsuttrykk",
       "summary": "i fjor, i morges, i kveld, på lørdag, på lørdager, om vinteren, for et år siden, om et år, i tre uker, på tre uker – die Präposition zeigt, ob etwas vorbei ist, kommt oder sich wiederholt.",
       "sections": [
@@ -690,170 +690,8 @@
       ]
     },
     {
-      "id": "g17_modal_fortid",
-      "title": "Modalverben in der Vergangenheit",
-      "titleNo": "modale hjelpeverb i fortid",
-      "summary": "måtte, kunne, ville, skulle, burde im Präteritum; har måttet, har kunnet usw. im Perfekt; burde ha + Partizip = hätte … sollen.",
-      "sections": [
-        {
-          "h": "Die Formen",
-          "body": "Modalverben haben wie andere Verben ein Präteritum und ein Perfekt. Danach folgt immer der Infinitiv **ohne å**.",
-          "table": [
-            [
-              "Infinitiv",
-              "Präsens",
-              "Präteritum",
-              "Perfekt",
-              "Deutsch"
-            ],
-            [
-              "**kunne**",
-              "**kan**",
-              "**kunne**",
-              "**har kunnet**",
-              "können"
-            ],
-            [
-              "**ville**",
-              "**vil**",
-              "**ville**",
-              "**har villet**",
-              "wollen"
-            ],
-            [
-              "**skulle**",
-              "**skal**",
-              "**skulle**",
-              "**har skullet**",
-              "sollen, werden"
-            ],
-            [
-              "**måtte**",
-              "**må**",
-              "**måtte**",
-              "**har måttet**",
-              "müssen"
-            ],
-            [
-              "**burde**",
-              "**bør**",
-              "**burde**",
-              "**har burdet**",
-              "sollte(n)"
-            ]
-          ]
-        },
-        {
-          "h": "Gebrauch",
-          "body": "• Präteritum: **Hun måtte legge seg.** (Sie musste sich hinlegen.) **Jeg kunne ikke engang drikke vann.**\n• Perfekt: **Jeg har ikke kunnet tenke på noe annet.** (Ich habe an nichts anderes denken können.) Anders als im Deutschen steht hier das Partizip (**kunnet**), nicht der Infinitiv: Deutsch „habe … denken können“, Norwegisch **har … kunnet tenke**.\n• Bei kunne, ville, skulle, måtte und burde sehen Infinitiv und Präteritum gleich aus – nur das Präsens ist anders (kan, vil, skal, må, bør)."
-        },
-        {
-          "h": "burde ha + Partizip: hätte … sollen",
-          "body": "Für etwas, das man hätte tun sollen (aber nicht getan hat), sagt man **burde ha** + Partizip Perfekt:\n\n• **Han burde ha ringt.** (Er hätte anrufen sollen.)\n• **Jeg burde ha skjønt det med en gang.** (Ich hätte es sofort merken sollen.)\n\nEbenso: **kunne ha** (hätte … können): **Du kunne ha sagt det!** (Du hättest es sagen können!) Das Norwegische braucht dafür keinen Konjunktiv."
-        }
-      ],
-      "drills": [
-        {
-          "prompt": "Susanne ble sjøsyk og ___ legge seg på en benk. (må, preteritum)",
-          "de": "Susanne wurde seekrank und musste sich auf eine Bank legen.",
-          "answer": [
-            "måtte"
-          ],
-          "explain": "Präteritum von må: måtte."
-        },
-        {
-          "prompt": "Hun ___ ikke engang drikke vann. (kan, preteritum)",
-          "de": "Sie konnte nicht einmal Wasser trinken.",
-          "answer": [
-            "kunne"
-          ],
-          "explain": "Präteritum von kan: kunne."
-        },
-        {
-          "prompt": "Erik ___ vise henne byen sin. (vil, preteritum)",
-          "de": "Erik wollte ihr seine Stadt zeigen.",
-          "answer": [
-            "ville"
-          ],
-          "explain": "Präteritum von vil: ville."
-        },
-        {
-          "prompt": "Bestefaren ___ ut på havet hver dag. (må, preteritum)",
-          "de": "Der Großvater musste jeden Tag aufs Meer hinaus.",
-          "answer": [
-            "måtte"
-          ],
-          "explain": "Präteritum: måtte. Bei Bewegungsrichtungen fällt das Verb oft weg (måtte ut = musste hinaus)."
-        },
-        {
-          "prompt": "Jeg har ikke ___ sove hele natta. (kan, perfektum)",
-          "de": "Ich habe die ganze Nacht nicht schlafen können.",
-          "answer": [
-            "kunnet"
-          ],
-          "explain": "Perfekt: har kunnet + Infinitiv."
-        },
-        {
-          "prompt": "Inga har ___ jobbe hele helga. (må, perfektum)",
-          "de": "Inga hat das ganze Wochenende arbeiten müssen.",
-          "answer": [
-            "måttet"
-          ],
-          "explain": "Perfekt: har måttet + Infinitiv."
-        },
-        {
-          "prompt": "Susanne har alltid ___ reise med Hurtigruta. (vil, perfektum)",
-          "de": "Susanne hat schon immer mit der Hurtigruta reisen wollen.",
-          "answer": [
-            "villet"
-          ],
-          "explain": "Perfekt: har villet + Infinitiv."
-        },
-        {
-          "prompt": "Du ___ ha ringt meg! (bør + ha)",
-          "de": "Du hättest mich anrufen sollen!",
-          "answer": [
-            "burde"
-          ],
-          "explain": "hätte … sollen = burde ha + Partizip."
-        },
-        {
-          "prompt": "Han burde ha ___ noe. (si)",
-          "de": "Er hätte etwas sagen sollen.",
-          "answer": [
-            "sagt"
-          ],
-          "explain": "Nach burde ha steht das Partizip Perfekt: sagt."
-        },
-        {
-          "prompt": "Jeg burde ha ___ det med en gang. (skjønne)",
-          "de": "Ich hätte es sofort merken sollen.",
-          "answer": [
-            "skjønt"
-          ],
-          "explain": "Partizip von skjønne: skjønt."
-        },
-        {
-          "prompt": "Vi ___ ikke gå på fjellet fordi det regnet så mye. (kan, preteritum)",
-          "de": "Wir konnten nicht auf den Berg gehen, weil es so viel regnete.",
-          "answer": [
-            "kunne"
-          ],
-          "explain": "Präteritum von kan: kunne."
-        },
-        {
-          "prompt": "Hun ___ ha tatt en tablett mot sjøsyke før turen. (bør + ha)",
-          "de": "Sie hätte vor der Reise eine Tablette gegen Seekrankheit nehmen sollen.",
-          "answer": [
-            "burde"
-          ],
-          "explain": "burde ha + Partizip (tatt)."
-        }
-      ]
-    },
-    {
       "id": "g17_fremtid_fortid",
-      "title": "Zukunft in der Vergangenheit",
+      "title": "Zukunft von der Vergangenheit aus gesehen",
       "titleNo": "fremtid i fortid",
       "summary": "skulle, ville und kom til å + Infinitiv drücken aus, was aus Sicht der Vergangenheit noch kommen sollte: Hun visste at hun skulle reise.",
       "sections": [
@@ -959,6 +797,308 @@
           "explain": "kommer til å → kom til å."
         }
       ]
+    },
+    {
+      "id": "g17_modal",
+      "title": "Modalverben",
+      "titleNo": "modale hjelpeverb i fortid",
+      "summary": "måtte, kunne, ville, skulle, burde im Präteritum; har måttet, har kunnet usw. im Perfekt; burde ha + Partizip = hätte … sollen.",
+      "sections": [
+        {
+          "h": "Die fünf Modalverben",
+          "body": "Modalverben haben im Präsens nur eine Form für alle Personen: **jeg kan, du kan, vi kan, de kan**. Danach folgt der Infinitiv OHNE **å**: **Jeg vil spise.** ✗ Jeg vil å spise.\n\nDer Infinitiv steht direkt nach dem Modalverb (oder nach ikke), nicht am Satzende wie im Deutschen: **Jeg må jobbe hele helgen.** – Ich muss das ganze Wochenende arbeiten.\n\nDie Infinitive (kunne, ville, skulle, måtte, burde) brauchst du im Moment kaum.",
+          "table": [
+            [
+              "Infinitiv",
+              "Präsens",
+              "Bedeutung",
+              "Beispiel"
+            ],
+            [
+              "**kunne**",
+              "**kan**",
+              "können",
+              "**Jeg kan ikke komme.**"
+            ],
+            [
+              "**ville**",
+              "**vil**",
+              "wollen",
+              "**Matthias vil vite alt.**"
+            ],
+            [
+              "**skulle**",
+              "**skal**",
+              "Plan, Zukunft; sollen",
+              "**Jeg skal gå på tur.**"
+            ],
+            [
+              "**måtte**",
+              "**må**",
+              "müssen",
+              "**Jeg må jobbe.**"
+            ],
+            [
+              "**burde**",
+              "**bør**",
+              "sollte (Rat)",
+              "**Du bør ha gode sko.**"
+            ]
+          ]
+        },
+        {
+          "h": "skal und vil",
+          "body": "• **skal** drückt meistens einen Plan oder die Zukunft aus: **I morgen skal jeg gå på tur.** – Morgen gehe ich wandern. **Hva skal dere gjøre i helgen?** – Was habt ihr am Wochenende vor?\n• **vil** heißt „wollen“, nicht „werden“: **Vil dere bli med?** – Wollt ihr mitkommen?\n• **vil ha** = haben wollen: **Jeg vil ha en kaffe.** Höflicher: **Jeg vil gjerne ha en kaffe.** – Ich hätte gern einen Kaffee.\n• Modalverben gehen auch ohne Infinitiv: **Jeg kan ikke.** – Ich kann nicht. **Jeg vil ikke.** – Ich will nicht."
+        },
+        {
+          "h": "Achtung: må ikke = darf nicht!",
+          "body": "Die größte Falle für Deutschsprachige: **må ikke** heißt „darf nicht“, nicht „muss nicht“.\n\n• **Du må ikke spørre så mye!** – Du darfst nicht so viel fragen!\n• „Du musst nicht …“ heißt **Du trenger ikke å …**: **Du trenger ikke å komme.** – Du musst nicht kommen.\n\n**bør** ist ein freundlicher Rat, wie „solltest“: **Du bør ta med en regnjakke.** – Du solltest eine Regenjacke mitnehmen."
+        },
+        {
+          "h": "Die Formen",
+          "body": "Modalverben haben wie andere Verben ein Präteritum und ein Perfekt. Danach folgt immer der Infinitiv **ohne å**.",
+          "table": [
+            [
+              "Infinitiv",
+              "Präsens",
+              "Präteritum",
+              "Perfekt",
+              "Deutsch"
+            ],
+            [
+              "**kunne**",
+              "**kan**",
+              "**kunne**",
+              "**har kunnet**",
+              "können"
+            ],
+            [
+              "**ville**",
+              "**vil**",
+              "**ville**",
+              "**har villet**",
+              "wollen"
+            ],
+            [
+              "**skulle**",
+              "**skal**",
+              "**skulle**",
+              "**har skullet**",
+              "sollen, werden"
+            ],
+            [
+              "**måtte**",
+              "**må**",
+              "**måtte**",
+              "**har måttet**",
+              "müssen"
+            ],
+            [
+              "**burde**",
+              "**bør**",
+              "**burde**",
+              "**har burdet**",
+              "sollte(n)"
+            ]
+          ]
+        },
+        {
+          "h": "Gebrauch",
+          "body": "• Präteritum: **Hun måtte legge seg.** (Sie musste sich hinlegen.) **Jeg kunne ikke engang drikke vann.**\n• Perfekt: **Jeg har ikke kunnet tenke på noe annet.** (Ich habe an nichts anderes denken können.) Anders als im Deutschen steht hier das Partizip (**kunnet**), nicht der Infinitiv: Deutsch „habe … denken können“, Norwegisch **har … kunnet tenke**.\n• Bei kunne, ville, skulle, måtte und burde sehen Infinitiv und Präteritum gleich aus – nur das Präsens ist anders (kan, vil, skal, må, bør)."
+        },
+        {
+          "h": "burde ha + Partizip: hätte … sollen",
+          "body": "Für etwas, das man hätte tun sollen (aber nicht getan hat), sagt man **burde ha** + Partizip Perfekt:\n\n• **Han burde ha ringt.** (Er hätte anrufen sollen.)\n• **Jeg burde ha skjønt det med en gang.** (Ich hätte es sofort merken sollen.)\n\nEbenso: **kunne ha** (hätte … können): **Du kunne ha sagt det!** (Du hättest es sagen können!) Das Norwegische braucht dafür keinen Konjunktiv."
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Jeg ___ ikke komme i morgen. (kunne)",
+          "de": "Ich kann morgen nicht kommen.",
+          "answer": [
+            "kan"
+          ],
+          "explain": "Präsens von kunne: kan, für alle Personen gleich."
+        },
+        {
+          "prompt": "Matthias ___ alltid vite alt. (ville)",
+          "de": "Matthias will immer alles wissen.",
+          "answer": [
+            "vil"
+          ],
+          "explain": "Präsens von ville: vil."
+        },
+        {
+          "prompt": "I morgen ___ vi gå på tur. (skulle)",
+          "de": "Morgen gehen wir wandern.",
+          "answer": [
+            "skal"
+          ],
+          "explain": "skal drückt einen Plan für die Zukunft aus."
+        },
+        {
+          "prompt": "Elin ___ lese på søndag. (måtte)",
+          "de": "Elin muss am Sonntag lernen.",
+          "answer": [
+            "må"
+          ],
+          "explain": "Präsens von måtte: må."
+        },
+        {
+          "prompt": "Du ___ ha gode sko. (burde)",
+          "de": "Du solltest gute Schuhe haben.",
+          "answer": [
+            "bør"
+          ],
+          "explain": "bør = sollte, ein Rat."
+        },
+        {
+          "prompt": "Jeg vil gjerne ___ en kaffe. (ha)",
+          "de": "Ich hätte gern einen Kaffee.",
+          "answer": [
+            "ha"
+          ],
+          "explain": "Nach dem Modalverb steht der Infinitiv ohne å: vil gjerne ha."
+        },
+        {
+          "prompt": "Kan du ___ det en gang til? (si)",
+          "de": "Kannst du das noch einmal sagen?",
+          "answer": [
+            "si"
+          ],
+          "explain": "Infinitiv ohne å direkt nach dem Modalverb."
+        },
+        {
+          "prompt": "Mads må ___ hele helgen. (jobbe)",
+          "de": "Mads muss das ganze Wochenende arbeiten.",
+          "answer": [
+            "jobbe"
+          ],
+          "explain": "Infinitiv ohne å, nicht „jobber“ und nicht „å jobbe“."
+        },
+        {
+          "prompt": "Du ___ ikke ta kaka! Den er til Anna. (måtte)",
+          "de": "Du darfst den Kuchen nicht nehmen! Er ist für Anna.",
+          "answer": [
+            "må"
+          ],
+          "explain": "må ikke = darf nicht.",
+          "hint": "Gemeint ist: Du darfst nicht …"
+        },
+        {
+          "prompt": "___ dere bli med? (ville)",
+          "de": "Wollt ihr mitkommen?",
+          "answer": [
+            "Vil"
+          ],
+          "explain": "Ja/Nein-Frage: Das Modalverb steht am Anfang."
+        },
+        {
+          "prompt": "Susanne ble sjøsyk og ___ legge seg på en benk. (må, preteritum)",
+          "de": "Susanne wurde seekrank und musste sich auf eine Bank legen.",
+          "answer": [
+            "måtte"
+          ],
+          "explain": "Präteritum von må: måtte."
+        },
+        {
+          "prompt": "Hun ___ ikke engang drikke vann. (kan, preteritum)",
+          "de": "Sie konnte nicht einmal Wasser trinken.",
+          "answer": [
+            "kunne"
+          ],
+          "explain": "Präteritum von kan: kunne."
+        },
+        {
+          "prompt": "Erik ___ vise henne byen sin. (vil, preteritum)",
+          "de": "Erik wollte ihr seine Stadt zeigen.",
+          "answer": [
+            "ville"
+          ],
+          "explain": "Präteritum von vil: ville."
+        },
+        {
+          "prompt": "Bestefaren ___ ut på havet hver dag. (må, preteritum)",
+          "de": "Der Großvater musste jeden Tag aufs Meer hinaus.",
+          "answer": [
+            "måtte"
+          ],
+          "explain": "Präteritum: måtte. Bei Bewegungsrichtungen fällt das Verb oft weg (måtte ut = musste hinaus)."
+        },
+        {
+          "prompt": "Jeg har ikke ___ sove hele natta. (kan, perfektum)",
+          "de": "Ich habe die ganze Nacht nicht schlafen können.",
+          "answer": [
+            "kunnet"
+          ],
+          "explain": "Perfekt: har kunnet + Infinitiv."
+        },
+        {
+          "prompt": "Inga har ___ jobbe hele helga. (må, perfektum)",
+          "de": "Inga hat das ganze Wochenende arbeiten müssen.",
+          "answer": [
+            "måttet"
+          ],
+          "explain": "Perfekt: har måttet + Infinitiv."
+        },
+        {
+          "prompt": "Susanne har alltid ___ reise med Hurtigruta. (vil, perfektum)",
+          "de": "Susanne hat schon immer mit der Hurtigruta reisen wollen.",
+          "answer": [
+            "villet"
+          ],
+          "explain": "Perfekt: har villet + Infinitiv."
+        },
+        {
+          "prompt": "Du ___ ha ringt meg! (bør + ha)",
+          "de": "Du hättest mich anrufen sollen!",
+          "answer": [
+            "burde"
+          ],
+          "explain": "hätte … sollen = burde ha + Partizip."
+        },
+        {
+          "prompt": "Han burde ha ___ noe. (si)",
+          "de": "Er hätte etwas sagen sollen.",
+          "answer": [
+            "sagt"
+          ],
+          "explain": "Nach burde ha steht das Partizip Perfekt: sagt."
+        },
+        {
+          "prompt": "Jeg burde ha ___ det med en gang. (skjønne)",
+          "de": "Ich hätte es sofort merken sollen.",
+          "answer": [
+            "skjønt"
+          ],
+          "explain": "Partizip von skjønne: skjønt."
+        },
+        {
+          "prompt": "Vi ___ ikke gå på fjellet fordi det regnet så mye. (kan, preteritum)",
+          "de": "Wir konnten nicht auf den Berg gehen, weil es so viel regnete.",
+          "answer": [
+            "kunne"
+          ],
+          "explain": "Präteritum von kan: kunne."
+        },
+        {
+          "prompt": "Hun ___ ha tatt en tablett mot sjøsyke før turen. (bør + ha)",
+          "de": "Sie hätte vor der Reise eine Tablette gegen Seekrankheit nehmen sollen.",
+          "answer": [
+            "burde"
+          ],
+          "explain": "burde ha + Partizip (tatt)."
+        }
+      ],
+      "_todo": "MERGE: zusammen mit dem alten Thema Modalverben (L4) zu einem Thema »Modalverben« zusammenführen"
+    },
+    {
+      "id": "g17_hel",
+      "title": "hel",
+      "summary": "",
+      "sections": [],
+      "drills": [],
+      "_todo": "NEW"
     }
   ],
   "tf": [

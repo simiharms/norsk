@@ -1,1415 +1,1538 @@
 [
   {
-    "id": "w10_leilighet",
-    "no": "leilighet",
-    "de": "die Wohnung",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "leilighet",
-      "leiligheten",
-      "leiligheter",
-      "leilighetene"
-    ],
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Leiligheten til Matthias er liten, men koselig.",
-      "de": "Matthias’ Wohnung ist klein, aber gemütlich."
-    }
-  },
-  {
-    "id": "w10_liv",
-    "no": "liv",
-    "de": "das Leben",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "liv",
-      "livet",
-      "liv",
-      "liva/livene"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "Hun har bodd i huset hele livet.",
-      "de": "Sie hat ihr ganzes Leben in dem Haus gewohnt."
-    }
-  },
-  {
-    "id": "w10_bad",
-    "no": "bad",
-    "de": "das Bad",
-    "deAlt": [
-      "Badezimmer"
-    ],
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "bad",
-      "badet",
-      "bad",
-      "bada/badene"
-    ],
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Badet er til venstre.",
-      "de": "Das Bad ist links."
-    },
-    "note": "på badet = im Bad."
-  },
-  {
-    "id": "w10_soverom",
-    "no": "soverom",
-    "de": "das Schlafzimmer",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "soverom",
-      "soverommet",
-      "soverom",
-      "soveromma/soverommene"
-    ],
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Leiligheten har to soverom.",
-      "de": "Die Wohnung hat zwei Schlafzimmer."
-    },
-    "note": "på soverommet = im Schlafzimmer."
-  },
-  {
-    "id": "w10_stue",
-    "no": "stue",
-    "de": "das Wohnzimmer",
+    "id": "w11_reise_n",
+    "no": "reise",
+    "de": "die Reise",
     "pos": "noun",
     "gender": "f",
     "forms": [
-      "stue",
-      "stua",
-      "stuer",
-      "stuene"
+      "reise",
+      "reisa",
+      "reiser",
+      "reisene"
     ],
     "lesson": 10,
     "wk": true,
     "ex": {
-      "no": "I stua står en gammel sofa.",
-      "de": "Im Wohnzimmer steht ein altes Sofa."
+      "no": "Susanne har vært på reise hele dagen.",
+      "de": "Susanne war den ganzen Tag unterwegs."
     },
-    "note": "i stua = im Wohnzimmer."
+    "note": "på reise = unterwegs, auf Reisen."
   },
   {
-    "id": "w10_sofa",
-    "no": "sofa",
-    "de": "das Sofa",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "sofa",
-      "sofaen",
-      "sofaer",
-      "sofaene"
-    ],
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Du kan sove på sofaen.",
-      "de": "Du kannst auf dem Sofa schlafen."
-    }
-  },
-  {
-    "id": "w10_trapp",
-    "no": "trapp",
-    "de": "die Treppe",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "trapp",
-      "trappa",
-      "trapper",
-      "trappene"
-    ],
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Trappa i det gamle huset er bratt.",
-      "de": "Die Treppe im alten Haus ist steil."
-    }
-  },
-  {
-    "id": "w10_loft",
-    "no": "loft",
-    "de": "der Dachboden",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "loft",
-      "loftet",
-      "loft",
-      "lofta/loftene"
-    ],
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "De gamle kassene står på loftet.",
-      "de": "Die alten Kisten stehen auf dem Dachboden."
-    }
-  },
-  {
-    "id": "w10_kjeller",
-    "no": "kjeller",
-    "de": "der Keller",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "kjeller",
-      "kjelleren",
-      "kjellere",
-      "kjellerne"
-    ],
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Sykkelen står i kjelleren.",
-      "de": "Das Fahrrad steht im Keller."
-    }
-  },
-  {
-    "id": "w10_tak",
-    "no": "tak",
-    "de": "das Dach",
+    "id": "w11_passasjer",
+    "no": "passasjer",
+    "de": "der Fahrgast",
     "deAlt": [
-      "Decke",
-      "Zimmerdecke"
+      "Passagier"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "passasjer",
+      "passasjeren",
+      "passasjerer",
+      "passasjerene"
+    ],
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Alle passasjerer må gå om bord nå.",
+      "de": "Alle Fahrgäste müssen jetzt einsteigen."
+    }
+  },
+  {
+    "id": "w11_perrong",
+    "no": "perrong",
+    "de": "der Bahnsteig",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "perrong",
+      "perrongen",
+      "perronger",
+      "perrongene"
+    ],
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Matthias venter på perrongen.",
+      "de": "Matthias wartet auf dem Bahnsteig."
+    }
+  },
+  {
+    "id": "w11_spor",
+    "no": "spor",
+    "de": "das Gleis",
+    "deAlt": [
+      "Spur"
     ],
     "pos": "noun",
     "gender": "n",
     "forms": [
-      "tak",
-      "taket",
-      "tak",
-      "taka/takene"
+      "spor",
+      "sporet",
+      "spor",
+      "spora/sporene"
     ],
     "lesson": 10,
     "wk": true,
     "ex": {
-      "no": "Det ligger snø på taket.",
-      "de": "Auf dem Dach liegt Schnee."
-    },
-    "note": "tak = Dach und Zimmerdecke."
+      "no": "Toget til Bergen går fra spor 4.",
+      "de": "Der Zug nach Bergen fährt von Gleis 4."
+    }
   },
   {
-    "id": "w10_gulv",
-    "no": "gulv",
-    "de": "der Fußboden",
+    "id": "w11_vogn",
+    "no": "vogn",
+    "de": "der Wagen (Eisenbahn)",
     "deAlt": [
-      "Boden"
+      "Wagen",
+      "Waggon"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "vogn",
+      "vogna",
+      "vogner",
+      "vognene"
+    ],
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Plassen min er i den fjerde vogna.",
+      "de": "Mein Platz ist im vierten Wagen."
+    }
+  },
+  {
+    "id": "w11_sete",
+    "no": "sete",
+    "de": "der Sitzplatz",
+    "deAlt": [
+      "Sitz",
+      "Platz"
     ],
     "pos": "noun",
     "gender": "n",
     "forms": [
-      "gulv",
-      "gulvet",
-      "gulv",
-      "gulva/gulvene"
+      "sete",
+      "setet",
+      "seter",
+      "setene"
     ],
     "lesson": 10,
     "wk": true,
     "ex": {
-      "no": "Gulvet knirker når jeg går.",
-      "de": "Der Boden knarrt, wenn ich gehe."
+      "no": "Jeg vil gjerne ha et sete ved vinduet.",
+      "de": "Ich hätte gern einen Fensterplatz."
     }
   },
   {
-    "id": "w10_vegg",
-    "no": "vegg",
-    "de": "die Wand",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "vegg",
-      "veggen",
-      "vegger",
-      "veggene"
-    ],
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Det henger et bilde på veggen.",
-      "de": "An der Wand hängt ein Bild."
-    }
-  },
-  {
-    "id": "w10_strom",
-    "no": "strøm",
-    "de": "der Strom",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "strøm",
-      "strømmen",
-      "strømmer",
-      "strømmene"
-    ],
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Er strøm inkludert i husleia?",
-      "de": "Ist der Strom in der Miete inbegriffen?"
-    }
-  },
-  {
-    "id": "w10_mobel",
-    "no": "møbel",
-    "de": "das Möbelstück",
+    "id": "w11_avgang",
+    "no": "avgang",
+    "de": "die Abfahrt",
     "deAlt": [
-      "Möbel"
+      "Abflug"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "avgang",
+      "avgangen",
+      "avganger",
+      "avgangene"
+    ],
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Neste avgang er klokka ti.",
+      "de": "Die nächste Abfahrt ist um zehn Uhr."
+    }
+  },
+  {
+    "id": "w11_ankomst",
+    "no": "ankomst",
+    "de": "die Ankunft",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "ankomst",
+      "ankomsten",
+      "ankomster",
+      "ankomstene"
+    ],
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Ankomst Bergen klokka 20.10.",
+      "de": "Ankunft Bergen um 20.10 Uhr."
+    }
+  },
+  {
+    "id": "w11_forsinkelse",
+    "no": "forsinkelse",
+    "de": "die Verspätung",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "forsinkelse",
+      "forsinkelsen",
+      "forsinkelser",
+      "forsinkelsene"
+    ],
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Toget har en forsinkelse på ti minutter.",
+      "de": "Der Zug hat zehn Minuten Verspätung."
+    }
+  },
+  {
+    "id": "w11_konduktor",
+    "no": "konduktør",
+    "de": "der Schaffner / die Schaffnerin",
+    "deAlt": [
+      "Schaffner",
+      "Schaffnerin",
+      "Zugbegleiter"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "konduktør",
+      "konduktøren",
+      "konduktører",
+      "konduktørene"
+    ],
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Konduktøren sjekket billetten min.",
+      "de": "Die Schaffnerin kontrollierte meine Fahrkarte."
+    }
+  },
+  {
+    "id": "w11_stasjon",
+    "no": "stasjon",
+    "de": "der Bahnhof",
+    "deAlt": [
+      "Station"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "stasjon",
+      "stasjonen",
+      "stasjoner",
+      "stasjonene"
+    ],
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Matthias henter henne på stasjonen.",
+      "de": "Matthias holt sie am Bahnhof ab."
+    }
+  },
+  {
+    "id": "w11_sekk",
+    "no": "sekk",
+    "de": "der Rucksack",
+    "deAlt": [
+      "Sack"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "sekk",
+      "sekken",
+      "sekker",
+      "sekkene"
+    ],
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Hun pakket sekken kvelden før.",
+      "de": "Sie packte den Rucksack am Abend davor."
+    }
+  },
+  {
+    "id": "w11_bagasje",
+    "no": "bagasje",
+    "de": "das Gepäck",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "bagasje",
+      "bagasjen"
+    ],
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Har du mye bagasje?",
+      "de": "Hast du viel Gepäck?"
+    }
+  },
+  {
+    "id": "w11_vekkerklokke",
+    "no": "vekkerklokke",
+    "de": "der Wecker",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "vekkerklokke",
+      "vekkerklokka",
+      "vekkerklokker",
+      "vekkerklokkene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Jeg glemte å stille vekkerklokka.",
+      "de": "Ich vergaß, den Wecker zu stellen."
+    }
+  },
+  {
+    "id": "w11_vaermelding",
+    "no": "værmelding",
+    "de": "der Wetterbericht",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "værmelding",
+      "værmeldingen",
+      "værmeldinger",
+      "værmeldingene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Ifølge værmeldingen blir det sol.",
+      "de": "Laut Wetterbericht wird es sonnig."
+    },
+    "note": "Auch feminin: værmeldinga."
+  },
+  {
+    "id": "w11_tregrense",
+    "no": "tregrense",
+    "de": "die Baumgrenze",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "tregrense",
+      "tregrensa"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Over tregrensa vokser det ingen trær.",
+      "de": "Oberhalb der Baumgrenze wachsen keine Bäume."
+    }
+  },
+  {
+    "id": "w11_tre_n",
+    "no": "tre",
+    "de": "der Baum",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "tre",
+      "treet",
+      "trær",
+      "trærne"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Etter Geilo var det ingen trær lenger.",
+      "de": "Hinter Geilo gab es keine Bäume mehr."
+    },
+    "note": "Unregelmäßiger Plural: trær – trærne. tre heißt auch „drei“ und „Holz“ (et trehus)."
+  },
+  {
+    "id": "w11_is",
+    "no": "is",
+    "de": "das Eis",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "is",
+      "isen",
+      "iser",
+      "isene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Isen på vannet er tynn.",
+      "de": "Das Eis auf dem See ist dünn."
+    },
+    "note": "is = Eis (gefrorenes Wasser) und Speiseeis."
+  },
+  {
+    "id": "w11_bane",
+    "no": "bane",
+    "de": "die Bahn (Strecke)",
+    "deAlt": [
+      "Bahn",
+      "Bahnstrecke"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "bane",
+      "banen",
+      "baner",
+      "banene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Banen er bare 20 kilometer lang.",
+      "de": "Die Bahn ist nur 20 Kilometer lang."
+    }
+  },
+  {
+    "id": "w11_dal",
+    "no": "dal",
+    "de": "das Tal",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "dal",
+      "dalen",
+      "daler",
+      "dalene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Toget kjører ned den bratte dalen.",
+      "de": "Der Zug fährt das steile Tal hinunter."
+    }
+  },
+  {
+    "id": "w11_kai",
+    "no": "kai",
+    "de": "der Kai",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "kai",
+      "kaia",
+      "kaier",
+      "kaiene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Båten venter ved kaia.",
+      "de": "Das Boot wartet am Kai."
+    }
+  },
+  {
+    "id": "w11_dekk",
+    "no": "dekk",
+    "de": "das Deck",
+    "deAlt": [
+      "Reifen"
     ],
     "pos": "noun",
     "gender": "n",
     "forms": [
-      "møbel",
-      "møbelet",
-      "møbler",
-      "møblene"
+      "dekk",
+      "dekket",
+      "dekk",
+      "dekka/dekkene"
     ],
     "lesson": 10,
-    "wk": true,
     "ex": {
-      "no": "Matthias har ikke mange møbler.",
-      "de": "Matthias hat nicht viele Möbel."
-    }
+      "no": "Hun sto ute på dekk.",
+      "de": "Sie stand draußen an Deck."
+    },
+    "note": "dekk heißt auch „Reifen“ (bildekk)."
   },
   {
-    "id": "w10_seng",
-    "no": "seng",
-    "de": "das Bett",
+    "id": "w11_ferje",
+    "no": "ferje",
+    "de": "die Fähre",
     "pos": "noun",
     "gender": "f",
     "forms": [
-      "seng",
-      "senga",
-      "senger",
-      "sengene"
+      "ferje",
+      "ferja",
+      "ferjer",
+      "ferjene"
     ],
     "lesson": 10,
     "wk": true,
     "ex": {
-      "no": "Senga står på soverommet.",
-      "de": "Das Bett steht im Schlafzimmer."
-    }
+      "no": "Vi tok ferja over fjorden.",
+      "de": "Wir nahmen die Fähre über den Fjord."
+    },
+    "note": "Auch geschrieben: ferge.",
+    "alt": [
+      "ferge"
+    ]
   },
   {
-    "id": "w10_hylle",
-    "no": "hylle",
-    "de": "das Regal",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "hylle",
-      "hylla",
-      "hyller",
-      "hyllene"
-    ],
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Bøkene står i hylla.",
-      "de": "Die Bücher stehen im Regal."
-    }
-  },
-  {
-    "id": "w10_lampe",
-    "no": "lampe",
-    "de": "die Lampe",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "lampe",
-      "lampa",
-      "lamper",
-      "lampene"
-    ],
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Fru Solheim ga ham også ei gammel lampe.",
-      "de": "Frau Solheim gab ihm auch eine alte Lampe."
-    }
-  },
-  {
-    "id": "w10_flyttebil",
-    "no": "flyttebil",
-    "de": "der Umzugswagen",
+    "id": "w11_leke",
+    "no": "leke",
+    "de": "das Spielzeug",
     "pos": "noun",
     "gender": "m",
     "forms": [
-      "flyttebil",
-      "flyttebilen",
-      "flyttebiler",
-      "flyttebilene"
+      "leke",
+      "leken",
+      "leker",
+      "lekene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Husa så ut som leker.",
+      "de": "Die Häuser sahen aus wie Spielzeug."
+    }
+  },
+  {
+    "id": "w11_glede",
+    "no": "glede",
+    "de": "die Freude",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "glede",
+      "gleda",
+      "gleder",
+      "gledene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Barna skrek av glede.",
+      "de": "Die Kinder schrien vor Freude."
+    }
+  },
+  {
+    "id": "w11_turist",
+    "no": "turist",
+    "de": "der Tourist / die Touristin",
+    "deAlt": [
+      "Tourist",
+      "Touristin"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "turist",
+      "turisten",
+      "turister",
+      "turistene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Om sommeren kommer det mange turister til Flåm.",
+      "de": "Im Sommer kommen viele Touristen nach Flåm."
+    }
+  },
+  {
+    "id": "w11_rundtur",
+    "no": "rundtur",
+    "de": "die Rundreise",
+    "deAlt": [
+      "Rundfahrt"
+    ],
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "rundtur",
+      "rundturen",
+      "rundturer",
+      "rundturene"
     ],
     "lesson": 10,
     "wk": true,
     "ex": {
-      "no": "Flyttebilen kom på onsdag.",
-      "de": "Der Umzugswagen kam am Mittwoch."
+      "no": "Rundturen tar en hel dag.",
+      "de": "Die Rundreise dauert einen ganzen Tag."
     }
   },
   {
-    "id": "w10_regntoy",
-    "no": "regntøy",
-    "de": "die Regenkleidung",
+    "id": "w11_hulder",
+    "no": "hulder",
+    "de": "die Huldra (Sagengestalt)",
+    "deAlt": [
+      "Huldra"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "hulder",
+      "huldra",
+      "huldrer",
+      "huldrene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Huldra er vakker, men hun har hale.",
+      "de": "Die Huldra ist schön, aber sie hat einen Schwanz."
+    }
+  },
+  {
+    "id": "w11_nordlys",
+    "no": "nordlys",
+    "de": "das Nordlicht",
     "pos": "noun",
     "gender": "n",
     "forms": [
-      "regntøy",
-      "regntøyet"
+      "nordlys",
+      "nordlyset",
+      "nordlys",
+      "nordlysa/nordlysene"
     ],
     "lesson": 10,
     "ex": {
-      "no": "I Bergen trenger du ordentlig regntøy.",
-      "de": "In Bergen brauchst du richtige Regenkleidung."
+      "no": "I Tromsø kan man se nordlyset om vinteren.",
+      "de": "In Tromsø kann man im Winter das Nordlicht sehen."
     }
   },
   {
-    "id": "w10_paraply",
-    "no": "paraply",
-    "de": "der Regenschirm",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "paraply",
-      "paraplyen",
-      "paraplyer",
-      "paraplyene"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "Paraplyen blåste bort.",
-      "de": "Der Regenschirm wurde weggeweht."
-    }
-  },
-  {
-    "id": "w10_gummistovel",
-    "no": "gummistøvel",
-    "de": "der Gummistiefel",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "gummistøvel",
-      "gummistøvelen",
-      "gummistøvler",
-      "gummistøvlene"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "Han kjøpte gummistøvler og regnjakke.",
-      "de": "Er kaufte Gummistiefel und eine Regenjacke."
-    }
-  },
-  {
-    "id": "w10_taake",
-    "no": "tåke",
-    "de": "der Nebel",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "tåke",
-      "tåka"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "Det var tåke på Fløyen.",
-      "de": "Auf dem Fløyen war Nebel."
-    }
-  },
-  {
-    "id": "w10_skillingsbolle",
-    "no": "skillingsbolle",
-    "de": "die Zimtschnecke (Bergener Art)",
-    "deAlt": [
-      "Zimtschnecke"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "skillingsbolle",
-      "skillingsbollen",
-      "skillingsboller",
-      "skillingsbollene"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "Skillingsboller er en spesialitet fra Bergen.",
-      "de": "Skillingsboller sind eine Bergener Spezialität."
-    }
-  },
-  {
-    "id": "w10_spesialitet",
-    "no": "spesialitet",
-    "de": "die Spezialität",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "spesialitet",
-      "spesialiteten",
-      "spesialiteter",
-      "spesialitetene"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "Fiskesuppe er en spesialitet i Bergen.",
-      "de": "Fischsuppe ist eine Spezialität in Bergen."
-    }
-  },
-  {
-    "id": "w10_sjef",
-    "no": "sjef",
-    "de": "der Chef / die Chefin",
-    "deAlt": [
-      "Chef",
-      "Chefin"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "sjef",
-      "sjefen",
-      "sjefer",
-      "sjefene"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "Sjefen viste meg rundt på kontoret.",
-      "de": "Die Chefin hat mich im Büro herumgeführt."
-    }
-  },
-  {
-    "id": "w10_kollega",
-    "no": "kollega",
-    "de": "der Kollege / die Kollegin",
-    "deAlt": [
-      "Kollege",
-      "Kollegin"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "kollega",
-      "kollegaen",
-      "kollegaer/kolleger",
-      "kollegaene/kollegene"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "Kollegaene mine er hyggelige.",
-      "de": "Meine Kollegen sind nett."
-    }
-  },
-  {
-    "id": "w10_vidde",
-    "no": "vidde",
-    "de": "die Hochebene",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "vidde",
-      "vidda",
-      "vidder",
-      "viddene"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "Toget kjører over vidda.",
-      "de": "Der Zug fährt über die Hochebene."
-    },
-    "note": "vidda meint oft die Hardangervidda."
-  },
-  {
-    "id": "w10_hav",
-    "no": "hav",
-    "de": "das Meer",
-    "deAlt": [
-      "Ozean"
-    ],
+    "id": "w11_landskap",
+    "no": "landskap",
+    "de": "die Landschaft",
     "pos": "noun",
     "gender": "n",
     "forms": [
-      "hav",
-      "havet",
-      "hav",
-      "hava/havene"
+      "landskap",
+      "landskapet",
+      "landskap",
+      "landskapa/landskapene"
     ],
     "lesson": 10,
     "ex": {
-      "no": "Bergen ligger mellom havet og sju fjell.",
-      "de": "Bergen liegt zwischen dem Meer und sieben Bergen."
-    },
-    "note": "over havet = über dem Meeresspiegel: 1222 meter over havet."
-  },
-  {
-    "id": "w10_foss",
-    "no": "foss",
-    "de": "der Wasserfall",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "foss",
-      "fossen",
-      "fosser",
-      "fossene"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "På Vestlandet er det mange fosser.",
-      "de": "In Westnorwegen gibt es viele Wasserfälle."
+      "no": "Landskapet på vidda er helt annerledes.",
+      "de": "Die Landschaft auf der Hochebene ist ganz anders."
     }
   },
   {
-    "id": "w10_bonde",
-    "no": "bonde",
-    "de": "der Bauer / die Bäuerin",
+    "id": "w11_hoyfjell",
+    "no": "høyfjell",
+    "de": "das Hochgebirge",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "høyfjell",
+      "høyfjellet",
+      "høyfjell",
+      "høyfjella/høyfjellene"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Bergensbanen går over høyfjellet.",
+      "de": "Die Bergenbahn führt über das Hochgebirge."
+    }
+  },
+  {
+    "id": "w11_vei",
+    "no": "vei",
+    "de": "der Weg, die Straße",
     "deAlt": [
-      "Bauer",
-      "Landwirt"
+      "Weg",
+      "Straße"
+    ],
+    "alt": [
+      "veg"
     ],
     "pos": "noun",
     "gender": "m",
     "forms": [
-      "bonde",
-      "bonden",
-      "bønder",
-      "bøndene"
+      "vei",
+      "veien",
+      "veier",
+      "veiene"
     ],
     "lesson": 10,
     "ex": {
-      "no": "Bøndene i Hardanger dyrker epler.",
-      "de": "Die Bauern in Hardanger bauen Äpfel an."
+      "no": "Mange steder er ferja en del av veien.",
+      "de": "An vielen Orten ist die Fähre Teil der Straßenverbindung."
     },
-    "note": "Unregelmäßiger Plural: bønder."
+    "note": "Auch geschrieben: veg (Rallarvegen)."
   },
   {
-    "id": "w10_kjopmann",
-    "no": "kjøpmann",
-    "de": "der Kaufmann",
+    "id": "w11_dato",
+    "no": "dato",
+    "de": "das Datum",
     "pos": "noun",
     "gender": "m",
     "forms": [
-      "kjøpmann",
-      "kjøpmannen",
-      "kjøpmenn",
-      "kjøpmennene"
+      "dato",
+      "datoen",
+      "datoer",
+      "datoene"
     ],
     "lesson": 10,
     "ex": {
-      "no": "Tyske kjøpmenn hadde et kontor på Bryggen.",
-      "de": "Deutsche Kaufleute hatten ein Kontor auf Bryggen."
+      "no": "Hvilken dato er det i dag?",
+      "de": "Welches Datum ist heute?"
+    }
+  },
+  {
+    "id": "w11_november",
+    "no": "november",
+    "de": "der November",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "november",
+      "novemberen"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Den 1. november flytter Susanne til Tromsø.",
+      "de": "Am 1. November zieht Susanne nach Tromsø."
     },
-    "note": "Plural wie mann – menn."
+    "note": "Monate schreibt man klein: januar, februar, mars, april, mai, juni, juli, august, september, oktober, november, desember."
   },
   {
-    "id": "w10_taubane",
-    "no": "taubane",
-    "de": "die Seilbahn",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "taubane",
-      "taubanen",
-      "taubaner",
-      "taubanene"
-    ],
+    "id": "w11_etasje_obs",
+    "no": "1. etasje",
+    "de": "das Erdgeschoss",
+    "pos": "phrase",
     "lesson": 10,
     "ex": {
-      "no": "Vi tok taubanen opp på Ulriken.",
-      "de": "Wir nahmen die Seilbahn auf den Ulriken."
-    }
+      "no": "Fru Solheim bor i 1. etasje.",
+      "de": "Frau Solheim wohnt im Erdgeschoss."
+    },
+    "note": "Norwegisch zählt das Erdgeschoss als 1. etasje; der dt. 1. Stock ist die 2. etasje."
   },
   {
-    "id": "w10_torrfisk",
-    "no": "tørrfisk",
-    "de": "der Stockfisch",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "tørrfisk",
-      "tørrfisken"
+    "id": "w11_pakke",
+    "no": "pakke",
+    "de": "packen",
+    "pos": "verb",
+    "vf": [
+      "pakker",
+      "pakket/pakka",
+      "pakket/pakka",
+      "pakk"
     ],
-    "lesson": 10,
-    "ex": {
-      "no": "Tørrfisk kom fra Nord-Norge til Bergen.",
-      "de": "Stockfisch kam aus Nordnorwegen nach Bergen."
-    }
-  },
-  {
-    "id": "w10_sjomat",
-    "no": "sjømat",
-    "de": "die Meeresfrüchte (Pl.)",
-    "deAlt": [
-      "Meeresfrüchte",
-      "Fisch und Meeresfrüchte"
-    ],
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "sjømat",
-      "sjømaten"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "På Fisketorget kan man spise sjømat.",
-      "de": "Auf dem Fischmarkt kann man Meeresfrüchte essen."
-    }
-  },
-  {
-    "id": "w10_innflyttingsfest",
-    "no": "innflyttingsfest",
-    "de": "die Einweihungsparty",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "innflyttingsfest",
-      "innflyttingsfesten",
-      "innflyttingsfester",
-      "innflyttingsfestene"
-    ],
+    "vg": "1",
     "lesson": 10,
     "wk": true,
     "ex": {
-      "no": "Matthias vil ha innflyttingsfest.",
-      "de": "Matthias will eine Einweihungsparty machen."
+      "no": "Har du pakket sekken?",
+      "de": "Hast du den Rucksack gepackt?"
     }
   },
   {
-    "id": "w10_baere",
-    "no": "bære",
-    "de": "tragen",
-    "pos": "verb",
-    "vf": [
-      "bærer",
-      "bar",
-      "båret",
-      "bær"
-    ],
-    "vg": "sterk",
-    "lesson": 10,
-    "ex": {
-      "no": "Han bar kassene opp trappa.",
-      "de": "Er trug die Kisten die Treppe hinauf."
-    }
-  },
-  {
-    "id": "w10_finne",
-    "no": "finne",
-    "de": "finden",
-    "pos": "verb",
-    "vf": [
-      "finner",
-      "fant",
-      "funnet",
-      "finn"
-    ],
-    "vg": "sterk",
-    "lesson": 10,
-    "ex": {
-      "no": "Jeg fant et lite bakeri ved havna.",
-      "de": "Ich fand eine kleine Bäckerei am Hafen."
-    }
-  },
-  {
-    "id": "w10_bite",
-    "no": "bite",
-    "de": "beißen",
-    "pos": "verb",
-    "vf": [
-      "biter",
-      "bet/beit",
-      "bitt",
-      "bit"
-    ],
-    "vg": "sterk",
-    "lesson": 10,
-    "ex": {
-      "no": "Bamse har aldri bitt noen.",
-      "de": "Bamse hat noch nie jemanden gebissen."
-    }
-  },
-  {
-    "id": "w10_fly",
-    "no": "fly",
-    "de": "fliegen",
-    "pos": "verb",
-    "vf": [
-      "flyr",
-      "fløy",
-      "fløyet",
-      "fly"
-    ],
-    "vg": "sterk",
-    "lesson": 10,
-    "ex": {
-      "no": "Måkene fløy over havna.",
-      "de": "Die Möwen flogen über den Hafen."
-    },
-    "note": "et fly = das Flugzeug."
-  },
-  {
-    "id": "w10_stjele",
-    "no": "stjele",
-    "de": "stehlen",
-    "pos": "verb",
-    "vf": [
-      "stjeler",
-      "stjal",
-      "stjålet",
-      "stjel"
-    ],
-    "vg": "sterk",
-    "lesson": 10,
-    "ex": {
-      "no": "Noen har stjålet sykkelen min!",
-      "de": "Jemand hat mein Fahrrad gestohlen!"
-    }
-  },
-  {
-    "id": "w10_fare",
-    "no": "fare",
-    "de": "fahren, eilen",
+    "id": "w11_stille",
+    "no": "stille",
+    "de": "stellen (Uhr, Wecker)",
     "deAlt": [
-      "fahren",
-      "eilen"
+      "stellen",
+      "einstellen"
     ],
     "pos": "verb",
     "vf": [
-      "farer",
-      "for",
-      "fart",
-      "far"
-    ],
-    "vg": "sterk",
-    "lesson": 10,
-    "ex": {
-      "no": "Han for ut av døra.",
-      "de": "Er eilte zur Tür hinaus."
-    },
-    "note": "Eher schriftlich; im Alltag sagt man reise, kjøre oder dra."
-  },
-  {
-    "id": "w10_dra",
-    "no": "dra",
-    "de": "fahren, aufbrechen",
-    "deAlt": [
-      "ziehen",
-      "fahren",
-      "aufbrechen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "drar",
-      "dro",
-      "dratt",
-      "dra"
-    ],
-    "vg": "sterk",
-    "lesson": 10,
-    "ex": {
-      "no": "Matthias dro til Bergen med toget.",
-      "de": "Matthias fuhr mit dem Zug nach Bergen."
-    }
-  },
-  {
-    "id": "w10_selge",
-    "no": "selge",
-    "de": "verkaufen",
-    "pos": "verb",
-    "vf": [
-      "selger",
-      "solgte",
-      "solgt",
-      "selg"
-    ],
-    "vg": "uregelm",
-    "lesson": 10,
-    "ex": {
-      "no": "Bakeriet selger skillingsboller.",
-      "de": "Die Bäckerei verkauft Zimtschnecken."
-    }
-  },
-  {
-    "id": "w10_legge",
-    "no": "legge",
-    "de": "legen",
-    "pos": "verb",
-    "vf": [
-      "legger",
-      "la",
-      "lagt",
-      "legg"
-    ],
-    "vg": "uregelm",
-    "lesson": 10,
-    "ex": {
-      "no": "Han la nøkkelen på bordet.",
-      "de": "Er legte den Schlüssel auf den Tisch."
-    },
-    "note": "Nicht verwechseln: ligge – lå – ligget (liegen). Gleich geschrieben: la = lass (la oss … = lass uns …)."
-  },
-  {
-    "id": "w10_sette",
-    "no": "sette",
-    "de": "setzen, stellen",
-    "deAlt": [
-      "setzen",
-      "stellen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "setter",
-      "satte",
-      "satt",
-      "sett"
-    ],
-    "vg": "uregelm",
-    "lesson": 10,
-    "ex": {
-      "no": "Vi satte sofaen i stua.",
-      "de": "Wir stellten das Sofa ins Wohnzimmer."
-    },
-    "note": "Nicht verwechseln: sitte – satt – sittet (sitzen)."
-  },
-  {
-    "id": "w10_blaase",
-    "no": "blåse",
-    "de": "wehen, blasen",
-    "deAlt": [
-      "wehen",
-      "blasen"
-    ],
-    "pos": "verb",
-    "vf": [
-      "blåser",
-      "blåste",
-      "blåst",
-      "blås"
+      "stiller",
+      "stilte",
+      "stilt",
+      "still"
     ],
     "vg": "2",
     "lesson": 10,
     "ex": {
-      "no": "Det blåser mye i Bergen.",
-      "de": "In Bergen ist es oft windig."
+      "no": "Husk å stille vekkerklokka!",
+      "de": "Denk dran, den Wecker zu stellen!"
     },
-    "note": "Det blåser = es ist windig."
+    "note": "Nicht verwechseln mit dem Adjektiv stille (still)."
   },
   {
-    "id": "w10_grunnlegge",
-    "no": "grunnlegge",
-    "de": "gründen",
+    "id": "w11_rekke",
+    "no": "rekke",
+    "de": "erreichen, schaffen",
+    "deAlt": [
+      "erreichen",
+      "schaffen",
+      "erwischen"
+    ],
     "pos": "verb",
     "vf": [
-      "grunnlegger",
-      "grunnla",
-      "grunnlagt",
-      "grunnlegg"
+      "rekker",
+      "rakk",
+      "rukket",
+      "rekk"
     ],
-    "vg": "uregelm",
+    "vg": "sterk",
     "lesson": 10,
+    "wk": true,
     "ex": {
-      "no": "Olav Kyrre grunnla Bergen rundt år 1070.",
-      "de": "Olav Kyrre gründete Bergen um das Jahr 1070."
+      "no": "Hun rakk toget i siste minutt.",
+      "de": "Sie erwischte den Zug in letzter Minute."
+    },
+    "note": "rekke toget = den Zug erwischen; ikke rekke = verpassen."
+  },
+  {
+    "id": "w11_bytte",
+    "no": "bytte",
+    "de": "umsteigen, tauschen",
+    "deAlt": [
+      "umsteigen",
+      "tauschen",
+      "wechseln"
+    ],
+    "pos": "verb",
+    "vf": [
+      "bytter",
+      "byttet/bytta",
+      "byttet/bytta",
+      "bytt"
+    ],
+    "vg": "1",
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Du må bytte tog på Myrdal.",
+      "de": "Du musst in Myrdal umsteigen."
     }
   },
   {
-    "id": "w10_dyrke",
-    "no": "dyrke",
-    "de": "anbauen",
+    "id": "w11_miste",
+    "no": "miste",
+    "de": "verpassen, verlieren",
+    "deAlt": [
+      "verpassen",
+      "verlieren"
+    ],
     "pos": "verb",
     "vf": [
-      "dyrker",
-      "dyrket/dyrka",
-      "dyrket/dyrka",
-      "dyrk"
+      "mister",
+      "mistet/mista",
+      "mistet/mista",
+      "mist"
+    ],
+    "vg": "1",
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Jeg mistet bussen og kom for sent.",
+      "de": "Ich verpasste den Bus und kam zu spät."
+    }
+  },
+  {
+    "id": "w11_stoppe",
+    "no": "stoppe",
+    "de": "halten, anhalten",
+    "deAlt": [
+      "halten",
+      "anhalten",
+      "stoppen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "stopper",
+      "stoppet/stoppa",
+      "stoppet/stoppa",
+      "stopp"
     ],
     "vg": "1",
     "lesson": 10,
     "ex": {
-      "no": "I Hardanger dyrker de epler.",
-      "de": "In Hardanger bauen sie Äpfel an."
+      "no": "Toget stoppet ved Kjosfossen.",
+      "de": "Der Zug hielt am Kjosfossen."
     }
   },
   {
-    "id": "w10_hilse",
-    "no": "hilse",
-    "de": "grüßen",
+    "id": "w11_savne",
+    "no": "savne",
+    "de": "vermissen",
     "pos": "verb",
     "vf": [
-      "hilser",
-      "hilste",
-      "hilst",
-      "hils"
+      "savner",
+      "savnet/savna",
+      "savnet/savna",
+      "savn"
+    ],
+    "vg": "1",
+    "lesson": 10,
+    "ex": {
+      "no": "Jeg kommer til å savne Oslo.",
+      "de": "Ich werde Oslo vermissen."
+    }
+  },
+  {
+    "id": "w11_sovne",
+    "no": "sovne",
+    "de": "einschlafen",
+    "pos": "verb",
+    "vf": [
+      "sovner",
+      "sovnet/sovna",
+      "sovnet/sovna",
+      "sovn"
+    ],
+    "vg": "1",
+    "lesson": 10,
+    "ex": {
+      "no": "Hun sovnet nesten på bussen.",
+      "de": "Sie schlief im Bus fast ein."
+    }
+  },
+  {
+    "id": "w11_bruse",
+    "no": "bruse",
+    "de": "rauschen, brausen",
+    "deAlt": [
+      "rauschen",
+      "brausen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "bruser",
+      "bruste",
+      "brust",
+      "brus"
     ],
     "vg": "2",
     "lesson": 10,
     "ex": {
-      "no": "Hils Anna fra meg!",
-      "de": "Grüß Anna von mir!"
+      "no": "Fossen bruste høyt.",
+      "de": "Der Wasserfall rauschte laut."
     }
   },
   {
-    "id": "w10_trekke",
-    "no": "trekke",
-    "de": "ziehen",
+    "id": "w11_skrike",
+    "no": "skrike",
+    "de": "schreien",
     "pos": "verb",
     "vf": [
-      "trekker",
-      "trakk",
-      "trukket",
-      "trekk"
+      "skriker",
+      "skrek",
+      "skreket",
+      "skrik"
     ],
     "vg": "sterk",
     "lesson": 10,
+    "ex": {
+      "no": "Barna skrek av glede.",
+      "de": "Die Kinder schrien vor Freude."
+    }
+  },
+  {
+    "id": "w11_renne",
+    "no": "renne",
+    "de": "rinnen, laufen (Wasser)",
+    "deAlt": [
+      "rinnen",
+      "fließen",
+      "laufen"
+    ],
+    "pos": "verb",
+    "vf": [
+      "renner",
+      "rant",
+      "rent",
+      "renn"
+    ],
+    "vg": "sterk",
+    "lesson": 10,
+    "ex": {
+      "no": "Regnet renner nedover vinduet.",
+      "de": "Der Regen läuft die Scheibe hinunter."
+    }
+  },
+  {
+    "id": "w11_forandre_seg",
+    "no": "forandre seg",
+    "de": "sich verändern",
+    "pos": "verb",
+    "vf": [
+      "forandrer seg",
+      "forandret seg",
+      "forandret seg",
+      "forandre deg"
+    ],
+    "vg": "1",
+    "lesson": 10,
+    "ex": {
+      "no": "Landskapet forandret seg etter Geilo.",
+      "de": "Hinter Geilo veränderte sich die Landschaft."
+    }
+  },
+  {
+    "id": "w11_ekte",
+    "no": "ekte",
+    "de": "echt",
+    "pos": "adj",
+    "forms": [
+      "ekte",
+      "ekte",
+      "ekte"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Er det et ekte vikingsverd?",
+      "de": "Ist das ein echtes Wikingerschwert?"
+    },
+    "note": "Unveränderlich."
+  },
+  {
+    "id": "w11_ekstra",
+    "no": "ekstra",
+    "de": "zusätzlich, extra",
+    "deAlt": [
+      "zusätzlich",
+      "extra"
+    ],
+    "pos": "adj",
+    "forms": [
+      "ekstra",
+      "ekstra",
+      "ekstra"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Vi har to ekstra billetter.",
+      "de": "Wir haben zwei zusätzliche Fahrkarten."
+    },
+    "note": "Unveränderlich."
+  },
+  {
+    "id": "w11_lilla",
+    "no": "lilla",
+    "de": "lila",
+    "pos": "adj",
+    "forms": [
+      "lilla",
+      "lilla",
+      "lilla"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Hun har et lilla skjerf.",
+      "de": "Sie hat einen lila Schal."
+    },
+    "note": "Unveränderlich."
+  },
+  {
+    "id": "w11_rosa",
+    "no": "rosa",
+    "de": "rosa",
+    "pos": "adj",
+    "forms": [
+      "rosa",
+      "rosa",
+      "rosa"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Himmelen var rosa over fjella.",
+      "de": "Der Himmel war rosa über den Bergen."
+    },
+    "note": "Unveränderlich."
+  },
+  {
+    "id": "w11_oransje",
+    "no": "oransje",
+    "de": "orange",
+    "pos": "adj",
+    "forms": [
+      "oransje",
+      "oransje",
+      "oransje"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Båten hadde oransje redningsvester.",
+      "de": "Das Boot hatte orange Rettungswesten."
+    },
+    "note": "Unveränderlich."
+  },
+  {
+    "id": "w11_spennende",
+    "no": "spennende",
+    "de": "spannend",
+    "pos": "adj",
+    "forms": [
+      "spennende",
+      "spennende",
+      "spennende"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Det var en spennende reise.",
+      "de": "Das war eine spannende Reise."
+    },
+    "note": "Unveränderlich."
+  },
+  {
+    "id": "w11_dyp",
+    "no": "dyp",
+    "de": "tief",
+    "pos": "adj",
+    "forms": [
+      "dyp",
+      "dypt",
+      "dype",
+      "dypere",
+      "dypest"
+    ],
+    "lesson": 10,
+    "ex": {
+      "no": "Sognefjorden er veldig dyp.",
+      "de": "Der Sognefjord ist sehr tief."
+    }
+  },
+  {
+    "id": "w11_forsinket",
+    "no": "forsinket",
+    "de": "verspätet",
+    "pos": "adj",
+    "forms": [
+      "forsinket",
+      "forsinket",
+      "forsinkede"
+    ],
+    "lesson": 10,
     "wk": true,
     "ex": {
-      "no": "Det trekker fra vinduet.",
-      "de": "Es zieht am Fenster."
+      "no": "Bussen er forsinket.",
+      "de": "Der Bus hat Verspätung."
     }
   },
   {
-    "id": "w10_lys",
-    "no": "lys",
-    "de": "hell",
+    "id": "w11_ledig",
+    "no": "ledig",
+    "de": "frei",
+    "deAlt": [
+      "frei",
+      "unbesetzt"
+    ],
     "pos": "adj",
     "forms": [
-      "lys",
-      "lyst",
-      "lyse",
-      "lysere",
-      "lysest"
+      "ledig",
+      "ledig",
+      "ledige"
     ],
     "lesson": 10,
     "wk": true,
     "ex": {
-      "no": "Stua er lys og fin.",
-      "de": "Das Wohnzimmer ist hell und schön."
-    },
-    "note": "et lys = ein Licht, eine Kerze."
-  },
-  {
-    "id": "w10_mork",
-    "no": "mørk",
-    "de": "dunkel",
-    "pos": "adj",
-    "forms": [
-      "mørk",
-      "mørkt",
-      "mørke"
-    ],
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Gangen er litt mørk.",
-      "de": "Der Flur ist ein bisschen dunkel."
+      "no": "Er denne plassen ledig?",
+      "de": "Ist dieser Platz frei?"
     }
   },
   {
-    "id": "w10_smal",
-    "no": "smal",
-    "de": "schmal",
+    "id": "w11_siste",
+    "no": "siste",
+    "de": "letzte",
     "pos": "adj",
     "forms": [
-      "smal",
-      "smalt",
-      "smale",
-      "smalere",
-      "smalest"
+      "siste",
+      "siste",
+      "siste"
     ],
     "lesson": 10,
     "ex": {
-      "no": "Gangen er lang og smal.",
-      "de": "Der Flur ist lang und schmal."
+      "no": "Hun rakk toget i siste minutt.",
+      "de": "Sie erwischte den Zug in letzter Minute."
     }
   },
   {
-    "id": "w10_bratt",
-    "no": "bratt",
-    "de": "steil",
-    "pos": "adj",
-    "forms": [
-      "bratt",
-      "bratt",
-      "bratte",
-      "brattere",
-      "brattest"
-    ],
+    "id": "w11_plutselig",
+    "no": "plutselig",
+    "de": "plötzlich",
+    "pos": "adv",
     "lesson": 10,
     "ex": {
-      "no": "Trappa er veldig bratt.",
-      "de": "Die Treppe ist sehr steil."
+      "no": "Plutselig var det ingen trær lenger.",
+      "de": "Plötzlich gab es keine Bäume mehr."
     }
   },
   {
-    "id": "w10_vaat",
-    "no": "våt",
-    "de": "nass",
-    "pos": "adj",
-    "forms": [
-      "våt",
-      "vått",
-      "våte",
-      "våtere",
-      "våtest"
-    ],
-    "lesson": 10,
-    "ex": {
-      "no": "Jeg var våt til skinnet.",
-      "de": "Ich war nass bis auf die Haut."
-    }
-  },
-  {
-    "id": "w10_ordentlig",
-    "no": "ordentlig",
-    "de": "richtig, ordentlich",
+    "id": "w11_lenger",
+    "no": "lenger",
+    "de": "länger; (nicht) mehr",
     "deAlt": [
-      "richtig",
-      "ordentlich"
+      "länger",
+      "mehr"
     ],
-    "pos": "adj",
-    "forms": [
-      "ordentlig",
-      "ordentlig",
-      "ordentlige"
-    ],
+    "pos": "adv",
     "lesson": 10,
     "ex": {
-      "no": "Kjøp ordentlig regntøy!",
-      "de": "Kauf richtige Regenkleidung!"
+      "no": "Det var ingen trær lenger.",
+      "de": "Es gab keine Bäume mehr."
+    },
+    "note": "ikke … lenger = nicht mehr."
+  },
+  {
+    "id": "w11_omtrent",
+    "no": "omtrent",
+    "de": "ungefähr, etwa",
+    "deAlt": [
+      "ungefähr",
+      "etwa"
+    ],
+    "pos": "adv",
+    "lesson": 10,
+    "ex": {
+      "no": "Turen tar omtrent sju timer.",
+      "de": "Die Fahrt dauert etwa sieben Stunden."
     }
   },
   {
-    "id": "w10_sentral",
-    "no": "sentral",
-    "de": "zentral",
-    "pos": "adj",
-    "forms": [
-      "sentral",
-      "sentralt",
-      "sentrale"
-    ],
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Huset ligger sentralt.",
-      "de": "Das Haus liegt zentral."
-    }
-  },
-  {
-    "id": "w10_heller",
-    "no": "heller",
-    "de": "lieber",
-    "deAlt": [
-      "eher"
-    ],
-    "pos": "adv",
-    "lesson": 10,
-    "ex": {
-      "no": "Kjøp heller regntøy.",
-      "de": "Kauf lieber Regenkleidung."
-    },
-    "note": "ikke … heller = auch nicht."
-  },
-  {
-    "id": "w10_inne",
-    "no": "inne",
-    "de": "drinnen",
-    "pos": "adv",
-    "lesson": 10,
-    "ex": {
-      "no": "Inne på kafeen var det varmt.",
-      "de": "Drinnen im Café war es warm."
-    },
-    "note": "Ort (wo?). Richtung: inn."
-  },
-  {
-    "id": "w10_ut",
-    "no": "ut",
-    "de": "hinaus, heraus",
-    "deAlt": [
-      "hinaus",
-      "heraus",
-      "raus"
-    ],
-    "pos": "adv",
-    "lesson": 10,
-    "ex": {
-      "no": "Vi går ut i regnet.",
-      "de": "Wir gehen hinaus in den Regen."
-    },
-    "note": "Richtung (wohin?). Ort: ute."
-  },
-  {
-    "id": "w10_ute",
-    "no": "ute",
-    "de": "draußen",
-    "pos": "adv",
-    "lesson": 10,
-    "ex": {
-      "no": "Det er kaldt ute.",
-      "de": "Draußen ist es kalt."
-    },
-    "note": "Ort (wo?). Richtung: ut."
-  },
-  {
-    "id": "w10_opp",
-    "no": "opp",
-    "de": "hinauf, herauf",
-    "deAlt": [
-      "hinauf",
-      "herauf",
-      "nach oben"
-    ],
-    "pos": "adv",
-    "lesson": 10,
-    "ex": {
-      "no": "Vi gikk opp på Fløyen.",
-      "de": "Wir gingen auf den Fløyen hinauf."
-    },
-    "note": "Richtung (wohin?). Ort: oppe."
-  },
-  {
-    "id": "w10_oppe",
-    "no": "oppe",
-    "de": "oben",
-    "pos": "adv",
-    "lesson": 10,
-    "ex": {
-      "no": "Matthias bor oppe.",
-      "de": "Matthias wohnt oben."
-    },
-    "note": "Ort (wo?). Richtung: opp."
-  },
-  {
-    "id": "w10_ned",
-    "no": "ned",
-    "de": "hinunter, herunter",
+    "id": "w11_nedover",
+    "no": "nedover",
+    "de": "hinunter, abwärts",
     "deAlt": [
       "hinunter",
-      "herunter",
-      "nach unten"
+      "abwärts"
     ],
     "pos": "adv",
     "lesson": 10,
     "ex": {
-      "no": "Han går ned til havna.",
-      "de": "Er geht zum Hafen hinunter."
-    },
-    "note": "Richtung (wohin?). Ort: nede."
-  },
-  {
-    "id": "w10_nede",
-    "no": "nede",
-    "de": "unten",
-    "pos": "adv",
-    "lesson": 10,
-    "ex": {
-      "no": "Fru Solheim bor nede.",
-      "de": "Frau Solheim wohnt unten."
-    },
-    "note": "Ort (wo?). Richtung: ned."
-  },
-  {
-    "id": "w10_bort",
-    "no": "bort",
-    "de": "weg, fort",
-    "deAlt": [
-      "weg",
-      "fort",
-      "hinüber"
-    ],
-    "pos": "adv",
-    "lesson": 10,
-    "ex": {
-      "no": "Paraplyen blåste bort.",
-      "de": "Der Regenschirm wurde weggeweht."
-    },
-    "note": "Richtung (wohin?). Ort: borte."
-  },
-  {
-    "id": "w10_borte",
-    "no": "borte",
-    "de": "weg, verschwunden",
-    "deAlt": [
-      "weg",
-      "fort",
-      "verschwunden",
-      "drüben"
-    ],
-    "pos": "adv",
-    "lesson": 10,
-    "ex": {
-      "no": "Nøkkelen er borte!",
-      "de": "Der Schlüssel ist weg!"
-    },
-    "note": "Ort/Zustand (wo?). Richtung: bort."
-  },
-  {
-    "id": "w10_fram",
-    "no": "fram",
-    "de": "nach vorn, vorwärts",
-    "deAlt": [
-      "nach vorn",
-      "vorwärts"
-    ],
-    "alt": [
-      "frem"
-    ],
-    "pos": "adv",
-    "lesson": 10,
-    "ex": {
-      "no": "Gå rett fram!",
-      "de": "Geh geradeaus!"
-    },
-    "note": "Richtung (wohin?). Ort: framme. Auch geschrieben: frem."
-  },
-  {
-    "id": "w10_framme",
-    "no": "framme",
-    "de": "angekommen, vorn",
-    "deAlt": [
-      "angekommen",
-      "vorn",
-      "da"
-    ],
-    "alt": [
-      "fremme"
-    ],
-    "pos": "adv",
-    "lesson": 10,
-    "ex": {
-      "no": "Når er vi framme?",
-      "de": "Wann sind wir da?"
-    },
-    "note": "være framme = angekommen sein."
-  },
-  {
-    "id": "w10_til_venstre",
-    "no": "til venstre",
-    "de": "links",
-    "deAlt": [
-      "nach links"
-    ],
-    "pos": "phrase",
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Badet er til venstre.",
-      "de": "Das Bad ist links."
+      "no": "Regnet renner nedover vinduet.",
+      "de": "Der Regen läuft die Scheibe hinunter."
     }
   },
   {
-    "id": "w10_til_hoyre",
-    "no": "til høyre",
-    "de": "rechts",
-    "deAlt": [
-      "nach rechts"
-    ],
-    "pos": "phrase",
+    "id": "w11_videre",
+    "no": "videre",
+    "de": "weiter",
+    "pos": "adv",
     "lesson": 10,
-    "wk": true,
     "ex": {
-      "no": "Til høyre er soverommet.",
-      "de": "Rechts ist das Schlafzimmer."
+      "no": "Fra Voss reiste hun videre til Bergen.",
+      "de": "Von Voss fuhr sie weiter nach Bergen."
     }
   },
   {
-    "id": "w10_ved_siden_av",
-    "no": "ved siden av",
-    "de": "neben, daneben",
+    "id": "w11_nok",
+    "no": "nok",
+    "de": "wohl; genug",
     "deAlt": [
-      "neben",
-      "daneben"
+      "wohl",
+      "genug",
+      "schon"
+    ],
+    "pos": "adv",
+    "lesson": 10,
+    "ex": {
+      "no": "I morgen kommer det nok til å regne.",
+      "de": "Morgen wird es wohl regnen."
+    },
+    "note": "nok = wohl (Vermutung) und genug: Har du nok penger?"
+  },
+  {
+    "id": "w11_gjennom",
+    "no": "gjennom",
+    "de": "durch",
+    "pos": "prep",
+    "lesson": 10,
+    "ex": {
+      "no": "Toget kjører gjennom mange tunneler.",
+      "de": "Der Zug fährt durch viele Tunnel."
+    }
+  },
+  {
+    "id": "w11_blant",
+    "no": "blant",
+    "de": "unter (mehreren)",
+    "deAlt": [
+      "unter",
+      "bei"
     ],
     "pos": "prep",
     "lesson": 10,
-    "wk": true,
     "ex": {
-      "no": "Kjøkkenet ligger ved siden av stua.",
-      "de": "Die Küche liegt neben dem Wohnzimmer."
+      "no": "Rundturen er populær blant turister.",
+      "de": "Die Rundreise ist bei Touristen beliebt."
     }
   },
   {
-    "id": "w10_paa_besok",
-    "no": "på besøk",
-    "de": "zu Besuch",
-    "pos": "phrase",
-    "lesson": 10,
-    "ex": {
-      "no": "Når kommer du på besøk?",
-      "de": "Wann kommst du zu Besuch?"
-    }
-  },
-  {
-    "id": "w10_hjem_kjaere_hjem",
-    "no": "Hjem, kjære hjem",
-    "de": "Trautes Heim, Glück allein",
-    "pos": "phrase",
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Endelig hjemme. Hjem, kjære hjem!",
-      "de": "Endlich zu Hause. Trautes Heim, Glück allein!"
-    }
-  },
-  {
-    "id": "w10_fol_deg_som_hjemme",
-    "no": "Føl deg som hjemme!",
-    "de": "Fühl dich wie zu Hause!",
-    "pos": "phrase",
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Kom inn og føl deg som hjemme!",
-      "de": "Komm herein und fühl dich wie zu Hause!"
-    }
-  },
-  {
-    "id": "w10_borte_bra",
-    "no": "Borte bra, men hjemme best",
-    "de": "Daheim ist’s doch am schönsten",
-    "pos": "phrase",
-    "lesson": 10,
-    "wk": true,
-    "ex": {
-      "no": "Etter tre uker på reise sa bestemor: «Borte bra, men hjemme best.»",
-      "de": "Nach drei Wochen auf Reisen sagte Oma: „Daheim ist’s doch am schönsten.“"
-    }
-  },
-  {
-    "id": "w10_vaat_til_skinnet",
-    "no": "våt til skinnet",
-    "de": "nass bis auf die Haut",
-    "pos": "phrase",
-    "lesson": 10,
-    "ex": {
-      "no": "Etter turen var vi våte til skinnet.",
-      "de": "Nach dem Ausflug waren wir nass bis auf die Haut."
-    }
-  },
-  {
-    "id": "w10_sno",
-    "no": "snø",
-    "de": "der Schnee",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "snø",
-      "snøen"
+    "id": "w11_ifolge",
+    "no": "ifølge",
+    "de": "laut, gemäß",
+    "deAlt": [
+      "laut",
+      "gemäß",
+      "zufolge"
     ],
+    "pos": "prep",
     "lesson": 10,
     "ex": {
-      "no": "Oppe på fjellet lå det allerede snø.",
-      "de": "Oben in den Bergen lag schon Schnee."
+      "no": "Ifølge værmeldingen blir det sol.",
+      "de": "Laut Wetterbericht wird es sonnig."
+    }
+  },
+  {
+    "id": "w11_selv_om",
+    "no": "selv om",
+    "de": "obwohl",
+    "pos": "conj",
+    "lesson": 10,
+    "ex": {
+      "no": "Hun sto på dekk, selv om det var kaldt.",
+      "de": "Sie stand an Deck, obwohl es kalt war."
+    }
+  },
+  {
+    "id": "w11_for",
+    "no": "før",
+    "de": "bevor; vorher",
+    "deAlt": [
+      "bevor",
+      "vorher",
+      "früher"
+    ],
+    "pos": "conj",
+    "lesson": 10,
+    "ex": {
+      "no": "Jeg må skrive alt ned før jeg glemmer det.",
+      "de": "Ich muss alles aufschreiben, bevor ich es vergesse."
+    }
+  },
+  {
+    "id": "w11_forste",
+    "no": "første",
+    "de": "erste",
+    "pos": "num",
+    "lesson": 10,
+    "ex": {
+      "no": "Den første uka i Bergen regnet det hver dag.",
+      "de": "In der ersten Woche in Bergen regnete es jeden Tag."
+    }
+  },
+  {
+    "id": "w11_andre",
+    "no": "andre",
+    "de": "zweite",
+    "deAlt": [
+      "andere"
+    ],
+    "pos": "num",
+    "lesson": 10,
+    "ex": {
+      "no": "Matthias bor i andre etasje.",
+      "de": "Matthias wohnt im ersten Stock (2. etasje)."
     },
-    "note": "Verb: det snør = es schneit."
+    "note": "andre heißt auch „andere“."
+  },
+  {
+    "id": "w11_tredje",
+    "no": "tredje",
+    "de": "dritte",
+    "pos": "num",
+    "lesson": 10,
+    "ex": {
+      "no": "Det er tredje gang jeg er i Bergen.",
+      "de": "Es ist das dritte Mal, dass ich in Bergen bin."
+    }
+  },
+  {
+    "id": "w11_fjerde",
+    "no": "fjerde",
+    "de": "vierte",
+    "pos": "num",
+    "lesson": 10,
+    "ex": {
+      "no": "Hun satt i den fjerde vogna.",
+      "de": "Sie saß im vierten Wagen."
+    }
+  },
+  {
+    "id": "w11_femte",
+    "no": "femte",
+    "de": "fünfte",
+    "pos": "num",
+    "lesson": 10,
+    "ex": {
+      "no": "Vi gikk av på den femte stasjonen.",
+      "de": "Wir stiegen am fünften Bahnhof aus."
+    }
+  },
+  {
+    "id": "w11_sjette",
+    "no": "sjette",
+    "de": "sechste",
+    "pos": "num",
+    "lesson": 10,
+    "ex": {
+      "no": "Han bor i sjette etasje.",
+      "de": "Er wohnt im fünften Stock (6. etasje)."
+    }
+  },
+  {
+    "id": "w11_sjuende",
+    "no": "sjuende",
+    "de": "siebte",
+    "alt": [
+      "syvende"
+    ],
+    "pos": "num",
+    "lesson": 10,
+    "ex": {
+      "no": "Søndag er den sjuende dagen i uka.",
+      "de": "Sonntag ist der siebte Tag der Woche."
+    }
+  },
+  {
+    "id": "w11_aattende",
+    "no": "åttende",
+    "de": "achte",
+    "pos": "num",
+    "lesson": 10,
+    "ex": {
+      "no": "Kurset begynte den åttende august.",
+      "de": "Der Kurs begann am achten August."
+    }
+  },
+  {
+    "id": "w11_niende",
+    "no": "niende",
+    "de": "neunte",
+    "pos": "num",
+    "lesson": 10,
+    "ex": {
+      "no": "Hun kom på niende plass i løpet.",
+      "de": "Sie kam bei dem Lauf auf den neunten Platz."
+    }
+  },
+  {
+    "id": "w11_tiende",
+    "no": "tiende",
+    "de": "zehnte",
+    "pos": "num",
+    "lesson": 10,
+    "ex": {
+      "no": "Bussen går hvert tiende minutt.",
+      "de": "Der Bus fährt alle zehn Minuten."
+    }
+  },
+  {
+    "id": "w11_ellevte",
+    "no": "ellevte",
+    "de": "elfte",
+    "pos": "num",
+    "lesson": 10,
+    "ex": {
+      "no": "I dag er det den ellevte oktober.",
+      "de": "Heute ist der elfte Oktober."
+    }
+  },
+  {
+    "id": "w11_tolvte",
+    "no": "tolvte",
+    "de": "zwölfte",
+    "pos": "num",
+    "lesson": 10,
+    "ex": {
+      "no": "Desember er den tolvte måneden.",
+      "de": "Dezember ist der zwölfte Monat."
+    }
+  },
+  {
+    "id": "w11_tjuende",
+    "no": "tjuende",
+    "de": "zwanzigste",
+    "pos": "num",
+    "lesson": 10,
+    "ex": {
+      "no": "Hun har billett til den tjuende november.",
+      "de": "Sie hat eine Fahrkarte für den zwanzigsten November."
+    }
+  },
+  {
+    "id": "w11_syttende",
+    "no": "syttende",
+    "de": "siebzehnte",
+    "pos": "num",
+    "lesson": 10,
+    "ex": {
+      "no": "Den syttende mai er nasjonaldagen.",
+      "de": "Der siebzehnte Mai ist der Nationalfeiertag."
+    }
+  },
+  {
+    "id": "w11_i_siste_minutt",
+    "no": "i siste minutt",
+    "de": "in letzter Minute",
+    "pos": "phrase",
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Vi rakk ferja i siste minutt.",
+      "de": "Wir haben die Fähre in letzter Minute erwischt."
+    }
+  },
+  {
+    "id": "w11_gaa_om_bord",
+    "no": "gå om bord",
+    "de": "an Bord gehen, einsteigen",
+    "deAlt": [
+      "an Bord gehen",
+      "einsteigen"
+    ],
+    "pos": "phrase",
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Alle passasjerer må gå om bord nå.",
+      "de": "Alle Fahrgäste müssen jetzt an Bord gehen."
+    }
+  },
+  {
+    "id": "w11_gaa_av",
+    "no": "gå av",
+    "de": "aussteigen",
+    "pos": "phrase",
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Jeg skal gå av på neste stopp.",
+      "de": "Ich steige an der nächsten Haltestelle aus."
+    }
+  },
+  {
+    "id": "w11_gaa_paa",
+    "no": "gå på",
+    "de": "einsteigen",
+    "pos": "phrase",
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "På Voss gikk hun på toget igjen.",
+      "de": "In Voss stieg sie wieder in den Zug."
+    }
+  },
+  {
+    "id": "w11_tur_retur",
+    "no": "tur-retur",
+    "de": "hin und zurück",
+    "pos": "phrase",
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "En billett tur-retur Bergen, takk.",
+      "de": "Eine Fahrkarte nach Bergen hin und zurück, bitte."
+    }
+  },
+  {
+    "id": "w11_over_havet",
+    "no": "over havet",
+    "de": "über dem Meer (Höhe)",
+    "deAlt": [
+      "über dem Meeresspiegel"
+    ],
+    "pos": "phrase",
+    "lesson": 10,
+    "ex": {
+      "no": "Finse ligger 1222 meter over havet.",
+      "de": "Finse liegt 1222 Meter über dem Meer."
+    }
+  },
+  {
+    "id": "w11_god_tur",
+    "no": "God tur!",
+    "de": "Gute Reise!",
+    "deAlt": [
+      "Viel Spaß!"
+    ],
+    "pos": "phrase",
+    "lesson": 10,
+    "wk": true,
+    "ex": {
+      "no": "Ha det, og god tur til Bergen!",
+      "de": "Tschüs, und gute Reise nach Bergen!"
+    }
   }
 ]

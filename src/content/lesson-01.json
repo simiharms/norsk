@@ -542,7 +542,7 @@
   "grammar": [
     {
       "id": "g01_pronomen",
-      "title": "Personalpronomen (Subjektform)",
+      "title": "Subjektform des Personalpronomens",
       "titleNo": "personlige pronomen",
       "summary": "jeg, du, han, hun, den, det, vi, dere, de: Wer tut etwas? Und in Norwegen sagt man fast immer du.",
       "sections": [
@@ -877,7 +877,7 @@
     },
     {
       "id": "g01_wortstellung",
-      "title": "Wortstellung im einfachen Hauptsatz",
+      "title": "Im einfachen Hauptsatz",
       "titleNo": "ordstilling i helsetninger",
       "summary": "Das Verb steht an zweiter Stelle; Ja/Nein-Fragen beginnen mit dem Verb, W-Fragen mit dem Fragewort.",
       "sections": [
@@ -1027,145 +1027,8 @@
       ]
     },
     {
-      "id": "g01_genus",
-      "title": "Die drei Geschlechter und der unbestimmte Artikel",
-      "titleNo": "kjønn og ubestemt artikkel",
-      "summary": "en (maskulin), ei (feminin, auch en erlaubt), et (neutrum): Lerne jedes Substantiv mit seinem Artikel.",
-      "sections": [
-        {
-          "h": "en, ei, et",
-          "body": "Norwegisch hat drei Geschlechter, wie das Deutsche. Du erkennst sie am unbestimmten Artikel:",
-          "table": [
-            [
-              "Geschlecht",
-              "Artikel",
-              "Beispiele",
-              "Deutsch"
-            ],
-            [
-              "maskulin",
-              "**en**",
-              "**en mann, en bil, en hybel**",
-              "ein Mann, ein Auto, ein Zimmer"
-            ],
-            [
-              "feminin",
-              "**ei**",
-              "**ei jente, ei bok, ei hytte**",
-              "ein Mädchen, ein Buch, eine Hütte"
-            ],
-            [
-              "neutrum",
-              "**et**",
-              "**et hus, et land, et språk**",
-              "ein Haus, ein Land, eine Sprache"
-            ]
-          ]
-        },
-        {
-          "h": "ei oder en?",
-          "body": "Jedes feminine Wort darf auch **en** bekommen: **ei jente** oder **en jente**, **ei bok** oder **en bok** – beides ist richtig. Viele Norweger (zum Beispiel in Bergen) sagen und schreiben bei Feminina fast immer **en**.\n\nIn diesem Kurs schreiben wir **ei**, aber **en** zählt in allen Übungen auch als richtig. Die wichtigste Entscheidung ist also: **en** oder **et**?"
-        },
-        {
-          "h": "Deutsch hilft (leider) nicht",
-          "body": "Das norwegische Geschlecht ist oft anders als das deutsche:\n\n• **et hus** = das Haus (passt)\n• **en bil** = **das** Auto\n• **et språk** = **die** Sprache\n• **ei bok** = **das** Buch\n• **en by** = **die** Stadt\n\nLerne darum jedes Substantiv mit Artikel: nicht »bil«, sondern **en bil**. Tipp: Die meisten Substantive sind maskulin. Wenn du raten musst, nimm **en**."
-        }
-      ],
-      "drills": [
-        {
-          "prompt": "Susanne leier ___ hybel.",
-          "de": "Susanne mietet ein Zimmer.",
-          "answer": [
-            "en"
-          ],
-          "hint": "hybel ist maskulin.",
-          "explain": "en hybel (maskulin)."
-        },
-        {
-          "prompt": "Mads jobber på ___ hotell.",
-          "de": "Mads arbeitet in einem Hotel.",
-          "answer": [
-            "et"
-          ],
-          "hint": "hotell ist ein Neutrum.",
-          "explain": "et hotell (neutrum)."
-        },
-        {
-          "prompt": "Familien Nygård har ___ jente og en gutt.",
-          "de": "Familie Nygård hat ein Mädchen und einen Jungen.",
-          "answer": [
-            "ei",
-            "en"
-          ],
-          "hint": "jente ist feminin.",
-          "explain": "ei jente (feminin) – en jente ist auch richtig."
-        },
-        {
-          "prompt": "Matthias er ___ mann fra Sveits.",
-          "de": "Matthias ist ein Mann aus der Schweiz.",
-          "answer": [
-            "en"
-          ],
-          "explain": "en mann (maskulin)."
-        },
-        {
-          "prompt": "Oslo er ___ by i Norge.",
-          "de": "Oslo ist eine Stadt in Norwegen.",
-          "answer": [
-            "en"
-          ],
-          "hint": "Achtung: die Stadt, aber auf Norwegisch maskulin.",
-          "explain": "en by – anders als im Deutschen (die Stadt)."
-        },
-        {
-          "prompt": "Tysk er ___ språk i Sveits.",
-          "de": "Deutsch ist eine Sprache in der Schweiz.",
-          "answer": [
-            "et"
-          ],
-          "hint": "Achtung: die Sprache, aber auf Norwegisch neutrum.",
-          "explain": "et språk – anders als im Deutschen (die Sprache)."
-        },
-        {
-          "prompt": "Susanne har ___ bok på norsk.",
-          "de": "Susanne hat ein Buch auf Norwegisch.",
-          "answer": [
-            "ei",
-            "en"
-          ],
-          "hint": "bok ist feminin.",
-          "explain": "ei bok (feminin) – en bok ist auch richtig."
-        },
-        {
-          "prompt": "Norge er ___ land i Nord-Europa.",
-          "de": "Norwegen ist ein Land in Nordeuropa.",
-          "answer": [
-            "et"
-          ],
-          "explain": "et land (neutrum) – wie im Deutschen: das Land."
-        },
-        {
-          "prompt": "Familien Nygård har ___ hus på Sagene.",
-          "de": "Familie Nygård hat ein Haus in Sagene.",
-          "answer": [
-            "et"
-          ],
-          "explain": "et hus (neutrum) – wie im Deutschen: das Haus."
-        },
-        {
-          "prompt": "Matthias har ___ bil i Bern.",
-          "de": "Matthias hat ein Auto in Bern.",
-          "answer": [
-            "en"
-          ],
-          "hint": "Achtung: das Auto, aber auf Norwegisch maskulin.",
-          "explain": "en bil – anders als im Deutschen (das Auto)."
-        }
-      ]
-    },
-    {
       "id": "g01_nasjonalitet",
-      "title": "Länder, Sprachen und Nationalitäten",
+      "title": "Nationalität",
       "titleNo": "land, språk og nasjonalitet",
       "summary": "Tyskland – tysk – en tysker: Länder schreibt man groß, Sprachen, Adjektive und Personen klein.",
       "sections": [

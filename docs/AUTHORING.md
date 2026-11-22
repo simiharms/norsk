@@ -2,11 +2,13 @@
 
 Nordlys is a Norwegian course app for a German-speaking learner (a mother who studies Norwegian at
 university with the textbook **»Et år i Norge – Norwegisch für Deutschsprachige«** by Randi Rosenvinge
-Schirmer, Hempen Verlag). The app follows the book lesson by lesson: same 23 lessons, same titles, same
-places, same grammar in the same order, levels A1 (L1–5), A2 (L6–10), B1 (L11–16), B2 (L17–23).
+Schirmer, Hempen Verlag). The app follows the book's table of contents lesson by lesson: the same 23 lessons
+with the same text titles, Landeskunde texts, Wörterkiste themes and grammar topics in the same order;
+levels A1 (L1–5), A2 (L6–10), B1 (L11–16), B2 (L17–23).
 
-**Nothing may be copied from the book.** We don't have it. Every text, sentence and exercise is written
-new for this app. Only the lesson titles, places and grammar topics follow the book (`src/lib/plan.ts`).
+**Nothing may be copied from the book.** We only have its table of contents. Every text, sentence and
+exercise is written new for this app. Only the titles, themes and grammar topics follow the book
+(`src/lib/plan.ts`).
 
 The learner reads the app in **German** (all explanations, translations, instructions) and learns
 **Norwegian Bokmål**. Address the learner with **du** in German ("Du lernst …", "Achte auf …").
@@ -24,8 +26,9 @@ lesson numbers allowed). Fix every error. Look at every warning too; most point 
 ## The plan
 
 `src/lib/plan.ts` gives, per lesson: level, book title, place, month, the story of the text, the titles
-of the extra (Landeskunde) texts, the Wörterkiste title and the grammar topics with ids and points to cover.
-Use **exactly** those titles and grammar ids, in that order.
+of the extra (Landeskunde) texts, the Wörterkiste title and the grammar topics with ids, the book's wording
+(`title`, German) and points to cover. Use **exactly** those titles and grammar ids, in that order; a grammar
+topic's `title` is the plan's `title` word for word.
 
 ## Story bible (keep it consistent across lessons)
 
@@ -35,20 +38,29 @@ The year runs from August to June.
   loves baking and hiking. Language course in Oslo (Aug–Oct), rents a room (hybel) in the Nygårds' house in
   Sagene, Oslo; from November exchange semester at UiT in Tromsø, shares a flat with Inga.
 - **Matthias Steiner** (26, m) from Bern, Switzerland; civil engineer; calm, punctual, dry humour, a bit
-  pedantic. Language course in Oslo, then (from L10) an internship at a small engineering firm in Bergen;
-  lives in an old wooden house in Sandviken. Quietly in love with Susanne; they become a couple in the end
+  pedantic. Language course in Oslo; decides for a job at a small engineering firm in Bergen (L9) and moves
+  there in October: first a room at a colleague's (Susanne visits him in L10), from the end of October his own
+  flat in an old wooden house in Sandviken (L14). Quietly in love with Susanne; they become a couple in the end
   (L22–23), but keep the romance light.
 - **Torunn Haugen** (f, ~45): the teacher of the language course in Oslo.
 - **Elin Lindqvist** (f, 23, Swedish, Gothenburg) and **Mads Kjær** (m, 25, Danish, Aarhus): classmates.
 - **Familien Nygård**, Sagene, Oslo: **Kari** (52, f, teacher at a lower secondary school), **Per** (55, m,
-  works for Oslo kommune), **Anna** (25, f, medical student, Susanne's friend; birthday in L6; hospital
-  internship in Trondheim in L19), **Ola** (16, m, school, football, gaming), **bestemor Ingrid** (80, f,
+  works for Oslo kommune), **Ola** (16, m, their son; school, football, gaming), **bestemor Ingrid** (80, f,
   Per's mother, from Lillehammer, tells troll stories), the dog **Bamse**. They have a **hytte** in
-  Gudbrandsdalen (L20).
+  Gudbrandsdalen (L21) and a small basement flat (**sokkelleilighet**) that they rent out.
+- **Anna Berg** (25, f): Norwegian medical student, **not related to the Nygårds**. Susanne's tandem partner
+  (Anna practises German, Susanne Norwegian). Until L13 she lives in a student flat (kollektiv) at Kringsjå
+  with her flatmate **Henrik** (24, m). Birthday in L6. In L13 she meets the Nygårds for the first time and
+  rents their basement flat; from then on she lives there (night shifts at Ullevål in L15, hospital
+  internship in Trondheim in L19, Easter at the Nygårds' cabin in L21, 17 May with them in L22). Before L13
+  she must never be with the Nygårds.
 - **Jonas** (26, m): Anna's boyfriend, jealous in L7.
 - **Onkel Arne** (60, m): Kari's brother from Ålesund, provocative dinner guest in L8.
 - **Inga Eira** (23, f): Sámi from Kautokeino, studies biology in Tromsø, Susanne's flatmate (L16–23).
-- **Erik Hansen** (28, m): from Svolvær, works on Hurtigruta; charming and fickle (L17, mentioned L19, L21).
+- **Erik Hansen** (28, m): from Svolvær, works on Hurtigruta; charming and fickle (L17, mentioned L19, L20).
+- The year: L1–9 Oslo (August–September), L10 trip to Bergen (October), L11–13 Oslo (October), L14 Bergen
+  (end of October), L15 Oslo (early November, Susanne's last week), L16–18 Tromsø (November–December),
+  L19 February, L20 south coast by car (March), L21 Easter at the cabin, L22 17 May in Oslo, L23 June in Tromsø.
 - Fictional firms and people only (no real private persons). Public places, institutions and public
   figures (Ibsen, Munch, Vigeland, King Harald V and Queen Sonja) are fine; keep facts uncontroversial and
   correct, and avoid anything time-sensitive.
@@ -60,10 +72,11 @@ The year runs from August to June.
   (`["boka", "boken"]`). Class-1 verbs in **-et** (snakket, kastet), accept -a in answers.
 - Object pronoun **ham** (accept "han" in answers where it is the object). **de/dem** correctly.
 - Write numbers in words in texts for A1–A2 when they are being taught (prices, times), digits otherwise.
-- Use only grammar the learner has met (lesson N may use everything from lessons 1…N). Before lesson 6 the
-  texts are in the **present tense** (plus modal verbs from lesson 4). Preteritum from L6, perfektum from
-  L7, plusquamperfektum and future from L11, passive from L18. Rare exceptions only as fixed phrases that the
-  glossary explains.
+- Use only grammar the learner has met (lesson N may use everything from lessons 1…N). Up to lesson 6 the
+  texts are in the **present tense** (modal verbs kan/vil/må/skal + infinitive are fine from lesson 1 as
+  vocabulary; the book treats them formally in L17). Preteritum from L7, perfektum from L8,
+  plusquamperfektum and future (kommer til å) from L10, passive from L18. Rare exceptions only as fixed
+  phrases that the glossary explains.
 - Natural, idiomatic Norwegian that a Norwegian would actually say; vary sentence length by level.
 - Punctuation: Norwegian quotation marks «…» in texts; dialogues as separate lines with speakers (no dashes).
 
@@ -103,6 +116,9 @@ The year runs from August to June.
 
 The book's Wörterkiste is a box of useful phrases on the lesson theme. `title` = plan's `wk`, `titleDe`
 German, `phrases`: idiomatic phrases and short sentences (`no`, `de`, optional `note` in German).
+Where the book has two Wörterkiste themes (L7 »Takk! · Die Wochentage«, L10 »På reise · Die Monate«, L21
+»Skiftende skydekke · Oppskrift på fårikål«), the title joins them with » · « and the phrases cover both
+(first theme first).
 
 ### `grammar`
 
@@ -180,6 +196,13 @@ later, keeping the first lesson). Fields:
   "writing": { "prompt": "…", "minWords": 30, "useWords": ["heter", "kommer fra"], "checklist": [{ "de": "Name", "keywords": ["heter"] }], "model": "…", "modelDe": "…" }
 }
 ```
+
+## Reworking after the restructure
+
+The lessons were rebuilt to the book's table of contents. Parts that still need work carry a `_todo` field
+(with a German note on what to do) – e.g. `NEW`, `SPLIT`, `TRIM`, `MERGE`, `EXTEND`, or `_todo_moved` on a
+lesson whose text and exercises came from another lesson. Do the work and delete the field; the validator
+fails while any `_todo` is left.
 
 ## Quality bar
 

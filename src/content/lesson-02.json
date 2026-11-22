@@ -1,9 +1,9 @@
 {
   "n": 2,
   "level": "A1",
-  "title": "Øl og bløtkake",
-  "titleDe": "Bier und Sahnetorte",
-  "place": "Oslo, ein Café in der Nähe von Blindern",
+  "title": "Øl og bløtkake. På kafeteria",
+  "titleDe": "Bier und Sahnetorte. In der Cafeteria",
+  "place": "Oslo, eine Cafeteria bei Blindern",
   "goals": [
     "Du kannst im Café bestellen, nach dem Preis fragen und bezahlen.",
     "Du kannst von null bis zwanzig zählen und Preise verstehen.",
@@ -13,7 +13,7 @@
   ],
   "text": {
     "id": "t02",
-    "title": "Øl og bløtkake",
+    "title": "Øl og bløtkake. På kafeteria",
     "titleDe": "Bier und Sahnetorte",
     "kind": "dialog",
     "intro": "Freitagnachmittag nach dem Unterricht: Susanne, Matthias, Elin und Mads gehen in ein Café in der Nähe von Blindern. Sie bestellen an der Theke.",
@@ -462,653 +462,449 @@
     }
   ],
   "wk": {
-    "title": "På kafeteria",
-    "titleDe": "In der Cafeteria",
-    "phrases": [
-      {
-        "no": "Hva skal det være?",
-        "de": "Was darf es sein?",
-        "note": "Das fragt die Bedienung an der Theke."
-      },
-      {
-        "no": "Kan jeg få en kaffe, takk?",
-        "de": "Kann ich bitte einen Kaffee haben?",
-        "note": "Die höflichste und häufigste Art zu bestellen."
-      },
-      {
-        "no": "Jeg tar et stykke kake.",
-        "de": "Ich nehme ein Stück Kuchen."
-      },
-      {
-        "no": "En te med melk, takk.",
-        "de": "Einen Tee mit Milch, bitte.",
-        "note": "»bitte« beim Bestellen = takk (am Ende)."
-      },
-      {
-        "no": "Spise her eller ta med?",
-        "de": "Zum Hieressen oder zum Mitnehmen?"
-      },
-      {
-        "no": "Hva koster det?",
-        "de": "Was kostet das?"
-      },
-      {
-        "no": "Det koster femten kroner.",
-        "de": "Das kostet fünfzehn Kronen."
-      },
-      {
-        "no": "Det blir tjue kroner.",
-        "de": "Das macht zwanzig Kronen."
-      },
-      {
-        "no": "Betaler du med kort?",
-        "de": "Zahlst du mit Karte?"
-      },
-      {
-        "no": "Vær så god!",
-        "de": "Bitte schön! (beim Geben)",
-        "note": "Nicht für »bitte« beim Bitten – dafür sagt man takk oder vær så snill."
-      },
-      {
-        "no": "Tusen takk!",
-        "de": "Vielen Dank! (wörtlich: tausend Dank)"
-      },
-      {
-        "no": "Er det ledig her?",
-        "de": "Ist hier frei?"
-      },
-      {
-        "no": "Jeg er sulten.",
-        "de": "Ich habe Hunger."
-      },
-      {
-        "no": "Jeg er tørst.",
-        "de": "Ich habe Durst."
-      },
-      {
-        "no": "Det er dyrt!",
-        "de": "Das ist teuer!"
-      },
-      {
-        "no": "Det er billig.",
-        "de": "Das ist billig."
-      },
-      {
-        "no": "Skål!",
-        "de": "Prost!"
-      }
-    ]
+    "title": "Hei, hvordan har du det?",
+    "titleDe": "",
+    "phrases": [],
+    "_todo": "NEW"
   },
   "grammar": [
     {
-      "id": "g02_flertall",
-      "title": "Der unbestimmte Plural",
-      "titleNo": "ubestemt flertall",
-      "summary": "Meist -er (biler, jenter); einsilbige Neutra ohne Endung (hus); Wörter auf -er bekommen -e (lærere); einige sind unregelmäßig (menn, bøker).",
+      "id": "g02_artikkel",
+      "title": "Der unbestimmte Artikel",
+      "titleNo": "kjønn og ubestemt artikkel",
+      "summary": "en (maskulin), ei (feminin, auch en erlaubt), et (neutrum): Lerne jedes Substantiv mit seinem Artikel.",
       "sections": [
         {
-          "h": "Die Hauptregel: -er",
-          "body": "Die meisten Substantive bekommen im Plural **-er**, egal welches Geschlecht:\n\n• **en bil – biler**, **en kopp – kopper**\n• **ei jente – jenter**, **ei hytte – hytter**\n• **et hotell – hoteller**, **et stykke – stykker**\n\nEndet das Wort schon auf **-e**, kommt nur **-r** dazu: **en krone – kroner**, **en time – timer**, **en bolle – boller**.\n\nViel einfacher als im Deutschen: meist kein Umlaut (Ausnahmen wie **bøker** siehe unten) und nicht fünf verschiedene Endungen."
-        },
-        {
-          "h": "Einsilbige Neutra: keine Endung",
-          "body": "Neutra mit **einer Silbe** bleiben im Plural gleich:\n\n• **et hus – to hus**\n• **et barn – to barn**\n• **et glass – to glass**\n• **et år – to år**\n• **et språk – mange språk**\n\nAchtung: Neutra mit zwei Silben bekommen **-er**: **et hotell – hoteller**, **et stykke – stykker**."
-        },
-        {
-          "h": "Wörter auf -er und unregelmäßige Pluralformen",
-          "body": "Personen und andere Wörter auf **-er** bekommen nur **-e**: **en lærer – lærere**, **en tysker – tyskere**, **en sveitser – sveitsere**.\n\nEinige wichtige Wörter sind unregelmäßig. Lerne sie auswendig:",
+          "h": "en, ei, et",
+          "body": "Norwegisch hat drei Geschlechter, wie das Deutsche. Du erkennst sie am unbestimmten Artikel:",
           "table": [
             [
-              "Singular",
-              "Plural",
+              "Geschlecht",
+              "Artikel",
+              "Beispiele",
               "Deutsch"
             ],
             [
-              "**en mann**",
-              "**menn**",
-              "Mann – Männer"
+              "maskulin",
+              "**en**",
+              "**en mann, en bil, en hybel**",
+              "ein Mann, ein Auto, ein Zimmer"
             ],
             [
-              "**en nordmann**",
-              "**nordmenn**",
-              "Norweger"
+              "feminin",
+              "**ei**",
+              "**ei jente, ei bok, ei hytte**",
+              "ein Mädchen, ein Buch, eine Hütte"
             ],
             [
-              "**ei bok**",
-              "**bøker**",
-              "Buch – Bücher"
-            ],
-            [
-              "**en bror**",
-              "**brødre**",
-              "Bruder – Brüder"
-            ],
-            [
-              "**et øye**",
-              "**øyne**",
-              "Auge – Augen"
-            ],
-            [
-              "**en sko**",
-              "**sko**",
-              "Schuh – Schuhe"
-            ]
-          ]
-        }
-      ],
-      "drills": [
-        {
-          "prompt": "Susanne drikker to ___ kaffe. (kopp)",
-          "de": "Susanne trinkt zwei Tassen Kaffee.",
-          "answer": [
-            "kopper"
-          ],
-          "explain": "Hauptregel: en kopp – kopper."
-        },
-        {
-          "prompt": "En øl koster 98 ___. (krone)",
-          "de": "Ein Bier kostet 98 Kronen.",
-          "answer": [
-            "kroner"
-          ],
-          "explain": "Wort auf -e: nur -r dazu: krone – kroner."
-        },
-        {
-          "prompt": "Familien Nygård har to ___. (barn)",
-          "de": "Familie Nygård hat zwei Kinder.",
-          "answer": [
-            "barn"
-          ],
-          "explain": "et barn: einsilbiges Neutrum, keine Endung im Plural."
-        },
-        {
-          "prompt": "På Blindern er det mange ___. (lærer)",
-          "de": "In Blindern gibt es viele Lehrer.",
-          "answer": [
-            "lærere"
-          ],
-          "explain": "Wörter auf -er bekommen nur -e: lærer – lærere."
-        },
-        {
-          "prompt": "Mads kjøper to ___. (bolle)",
-          "de": "Mads kauft zwei Hefebrötchen.",
-          "answer": [
-            "boller"
-          ],
-          "explain": "en bolle – boller: Wort auf -e, nur -r dazu."
-        },
-        {
-          "prompt": "Matthias og Mads er to ___. (mann)",
-          "de": "Matthias und Mads sind zwei Männer.",
-          "answer": [
-            "menn"
-          ],
-          "explain": "Unregelmäßig: en mann – menn."
-        },
-        {
-          "prompt": "Susanne har mange ___ på norsk. (bok)",
-          "de": "Susanne hat viele Bücher auf Norwegisch.",
-          "answer": [
-            "bøker"
-          ],
-          "explain": "Unregelmäßig: ei bok – bøker."
-        },
-        {
-          "prompt": "Vi trenger fire ___ vann. (glass)",
-          "de": "Wir brauchen vier Gläser Wasser.",
-          "answer": [
-            "glass"
-          ],
-          "explain": "et glass: einsilbiges Neutrum, keine Endung."
-        },
-        {
-          "prompt": "Han har to ___ og ei søster. (bror)",
-          "de": "Er hat zwei Brüder und eine Schwester.",
-          "answer": [
-            "brødre"
-          ],
-          "explain": "Unregelmäßig: en bror – brødre."
-        },
-        {
-          "prompt": "Ola har tre par ___. (sko)",
-          "de": "Ola hat drei Paar Schuhe.",
-          "answer": [
-            "sko"
-          ],
-          "explain": "Unregelmäßig: en sko – sko (keine Endung)."
-        }
-      ]
-    },
-    {
-      "id": "g02_inversjon",
-      "title": "Inversion",
-      "titleNo": "inversjon",
-      "summary": "Steht etwas anderes als das Subjekt am Satzanfang, bleibt das Verb auf Platz 2 und das Subjekt kommt danach: I dag drikker jeg kaffe.",
-      "sections": [
-        {
-          "h": "Das Verb bleibt auf Platz 2",
-          "body": "Der Satz muss nicht mit dem Subjekt anfangen. Oft steht eine Zeit, ein Ort oder ein Objekt vorn. Dann bleibt das Verb auf **Platz 2**, und das Subjekt kommt **nach** dem Verb. Das nennt man Inversion:\n\n• **Jeg drikker kaffe i dag.** → **I dag drikker jeg kaffe.**\n• **Jeg bor her.** → **Her bor jeg.**\n• **Jeg drikker øl hjemme i Danmark.** → **Hjemme i Danmark drikker jeg øl.**",
-          "table": [
-            [
-              "1",
-              "2 (Verb)",
-              "Subjekt",
-              "Rest"
-            ],
-            [
-              "**I dag**",
-              "**drikker**",
-              "**jeg**",
-              "kaffe."
-            ],
-            [
-              "**Her**",
-              "**bor**",
-              "**jeg**",
-              "–"
-            ],
-            [
-              "**Nå**",
-              "**går**",
-              "**vi**",
-              "på kafé."
-            ],
-            [
-              "**Kaffe**",
-              "**drikker**",
-              "**Mads**",
-              "i Norge."
+              "neutrum",
+              "**et**",
+              "**et hus, et land, et språk**",
+              "ein Haus, ein Land, eine Sprache"
             ]
           ]
         },
         {
-          "h": "Genau wie im Deutschen",
-          "body": "Das kennst du schon: »Heute **trinke ich** Kaffee.« Norwegisch funktioniert genauso.\n\nTypischer Fehler (vor allem, wenn man Englisch im Kopf hat): »I dag jeg drikker kaffe« ist falsch. Richtig: **I dag drikker jeg kaffe.**"
+          "h": "ei oder en?",
+          "body": "Jedes feminine Wort darf auch **en** bekommen: **ei jente** oder **en jente**, **ei bok** oder **en bok** – beides ist richtig. Viele Norweger (zum Beispiel in Bergen) sagen und schreiben bei Feminina fast immer **en**.\n\nIn diesem Kurs schreiben wir **ei**, aber **en** zählt in allen Übungen auch als richtig. Die wichtigste Entscheidung ist also: **en** oder **et**?"
         },
         {
-          "h": "Auch nach einem Nebensatz",
-          "body": "Ein ganzer Nebensatz kann auf Platz 1 stehen. Dann kommt danach sofort das Verb:\n\n• **Når det er fredag, spiser jeg kake.** – Wenn Freitag ist, esse ich Kuchen.\n• **Hvis jeg er sulten, kjøper jeg en bolle.** – Wenn ich Hunger habe, kaufe ich ein Hefebrötchen.\n\nAuch das ist wie im Deutschen: »…, **esse ich** Kuchen.«"
+          "h": "Deutsch hilft (leider) nicht",
+          "body": "Das norwegische Geschlecht ist oft anders als das deutsche:\n\n• **et hus** = das Haus (passt)\n• **en bil** = **das** Auto\n• **et språk** = **die** Sprache\n• **ei bok** = **das** Buch\n• **en by** = **die** Stadt\n\nLerne darum jedes Substantiv mit Artikel: nicht »bil«, sondern **en bil**. Tipp: Die meisten Substantive sind maskulin. Wenn du raten musst, nimm **en**."
         }
       ],
       "drills": [
         {
-          "prompt": "I dag ___ kaffe. (jeg + drikke)",
-          "de": "Heute trinke ich Kaffee.",
+          "prompt": "Susanne leier ___ hybel.",
+          "de": "Susanne mietet ein Zimmer.",
           "answer": [
-            "drikker jeg"
+            "en"
           ],
-          "explain": "»I dag« steht vorn, also Inversion: erst das Verb, dann das Subjekt."
+          "hint": "hybel ist maskulin.",
+          "explain": "en hybel (maskulin)."
         },
         {
-          "prompt": "Nå ___ på kafé. (vi + gå)",
-          "de": "Jetzt gehen wir ins Café.",
+          "prompt": "Mads jobber på ___ hotell.",
+          "de": "Mads arbeitet in einem Hotel.",
           "answer": [
-            "går vi"
-          ],
-          "explain": "»Nå« steht auf Platz 1, das Verb auf Platz 2, dann das Subjekt."
-        },
-        {
-          "prompt": "Her ___. (jeg + bo)",
-          "de": "Hier wohne ich.",
-          "answer": [
-            "bor jeg"
-          ],
-          "explain": "Ort auf Platz 1 → Verb vor dem Subjekt."
-        },
-        {
-          "prompt": "Hjemme i Danmark ___ øl. (Mads + drikke)",
-          "de": "Zu Hause in Dänemark trinkt Mads Bier.",
-          "answer": [
-            "drikker Mads"
-          ],
-          "explain": "Ortsangabe vorn → Inversion: drikker Mads."
-        },
-        {
-          "prompt": "I Norge ___ du til alle. (man + si)",
-          "de": "In Norwegen sagt man zu allen du.",
-          "answer": [
-            "sier man"
-          ],
-          "explain": "»I Norge« auf Platz 1 → sier man."
-        },
-        {
-          "prompt": "Når det er fredag, ___ kake. (jeg + spise)",
-          "de": "Wenn Freitag ist, esse ich Kuchen.",
-          "answer": [
-            "spiser jeg"
-          ],
-          "explain": "Der Nebensatz ist Platz 1, danach kommt sofort das Verb."
-        },
-        {
-          "prompt": "I Danmark ___ billig. (øl + være)",
-          "de": "In Dänemark ist Bier billig.",
-          "answer": [
-            "er øl"
-          ],
-          "explain": "»I Danmark« vorn → Verb (er) vor dem Subjekt (øl)."
-        },
-        {
-          "prompt": "Etter kurset ___ på kafé. (de + gå)",
-          "de": "Nach dem Kurs gehen sie ins Café.",
-          "answer": [
-            "går de"
-          ],
-          "explain": "Zeitangabe vorn → går de."
-        },
-        {
-          "prompt": "Nå ___ helg! (det + være)",
-          "de": "Jetzt ist Wochenende!",
-          "answer": [
-            "er det"
-          ],
-          "explain": "»Nå« vorn → er det."
-        },
-        {
-          "prompt": "For 98 kroner ___ veldig sakte. (Matthias + drikke)",
-          "de": "Für 98 Kronen trinkt Matthias sehr langsam.",
-          "answer": [
-            "drikker Matthias"
-          ],
-          "explain": "»For 98 kroner« steht auf Platz 1 → Verb, dann Subjekt."
-        }
-      ]
-    },
-    {
-      "id": "g02_leddsetning",
-      "title": "Wortstellung im Nebensatz",
-      "titleNo": "ordstilling i leddsetninger",
-      "summary": "Im Nebensatz steht das Verb NIE am Ende: … fordi jeg er sulten. ikke steht im Nebensatz vor dem Verb: … fordi jeg ikke har penger.",
-      "sections": [
-        {
-          "h": "Kein Verb am Ende!",
-          "body": "Nebensätze beginnen mit einer Konjunktion wie **at** (dass), **fordi** (weil), **når** (wenn/wann), **hvis** (wenn, falls) oder **om** (ob). Danach kommt die normale Reihenfolge: **Subjekt – Verb – Rest**.\n\n• **Jeg spiser kake fordi det er fredag.**\n  Deutsch: … weil Freitag **ist**.\n• **Jeg vet at Elin kommer fra Göteborg.**\n  Deutsch: … dass Elin aus Göteborg **kommt**.\n\nDas ist der wichtigste Unterschied zum Deutschen: Das Verb wandert **nie** ans Ende. Typischer Fehler: »fordi det fredag er« (falsch!)."
-        },
-        {
-          "h": "ikke im Nebensatz: vor dem Verb",
-          "body": "Im Hauptsatz steht **ikke** nach dem Verb. Im Nebensatz steht **ikke** **vor** dem Verb:",
-          "table": [
-            [
-              "Hauptsatz",
-              "Nebensatz"
-            ],
-            [
-              "Han **forstår ikke** alt.",
-              "… fordi han **ikke forstår** alt."
-            ],
-            [
-              "Jeg **har ikke** penger.",
-              "… fordi jeg **ikke har** penger."
-            ],
-            [
-              "Øl **er ikke** billig.",
-              "… at øl **ikke er** billig."
-            ]
-          ]
-        },
-        {
-          "h": "Die wichtigsten Konjunktionen",
-          "body": "• **at** – dass: **Jeg vet at kaffen er god.**\n• **fordi** – weil: **Elin drikker vann fordi det er gratis.**\n• **når** – wenn (Zeit, immer wenn), wann: **Når det er fredag, spiser jeg kake.**\n• **hvis** – wenn, falls (Bedingung): **Hvis du er sulten, er det boller der borte.**\n• **om** – ob: **Torunn spør om Matthias forstår.**\n\nNach **vet** und **sier** kann **at** auch wegfallen: **Jeg vet (at) det er dyrt.**"
-        }
-      ],
-      "drills": [
-        {
-          "prompt": "Susanne spiser kake fordi ___ fredag. (det + være)",
-          "de": "Susanne isst Kuchen, weil Freitag ist.",
-          "answer": [
-            "det er"
-          ],
-          "explain": "Im Nebensatz: Subjekt – Verb. Kein Verb am Ende wie im Deutschen."
-        },
-        {
-          "prompt": "Matthias er stresset fordi han ___ alt. (ikke + forstå)",
-          "de": "Matthias ist gestresst, weil er nicht alles versteht.",
-          "answer": [
-            "ikke forstår"
-          ],
-          "explain": "Im Nebensatz steht ikke vor dem Verb."
-        },
-        {
-          "prompt": "Jeg vet at ___ fra Göteborg. (Elin + komme)",
-          "de": "Ich weiß, dass Elin aus Göteborg kommt.",
-          "answer": [
-            "Elin kommer"
-          ],
-          "explain": "Nach at: Subjekt – Verb, keine Inversion und kein Verb am Ende."
-        },
-        {
-          "prompt": "Mads drikker kaffe fordi øl ___ billig i Norge. (ikke + være)",
-          "de": "Mads trinkt Kaffee, weil Bier in Norwegen nicht billig ist.",
-          "answer": [
-            "ikke er"
-          ],
-          "explain": "ikke steht im Nebensatz vor dem Verb: ikke er."
-        },
-        {
-          "prompt": "Vi lærer mye fordi ___ norsk hele tiden. (vi + snakke)",
-          "de": "Wir lernen viel, weil wir die ganze Zeit Norwegisch sprechen.",
-          "answer": [
-            "vi snakker"
-          ],
-          "explain": "Nebensatz: Subjekt vor dem Verb."
-        },
-        {
-          "prompt": "Torunn spør om ___ norsk. (Matthias + forstå)",
-          "de": "Torunn fragt, ob Matthias Norwegisch versteht.",
-          "answer": [
-            "Matthias forstår"
-          ],
-          "explain": "om (ob) leitet einen Nebensatz ein: Subjekt – Verb."
-        },
-        {
-          "prompt": "Matthias sier at han ___ penger. (ikke + ha)",
-          "de": "Matthias sagt, dass er kein Geld hat.",
-          "answer": [
-            "ikke har"
-          ],
-          "explain": "Im Nebensatz: ikke vor dem Verb. »kein Geld haben« = ikke ha penger."
-        },
-        {
-          "prompt": "___ det er fredag, spiser Susanne kake. (immer wenn)",
-          "de": "Wenn Freitag ist, isst Susanne Kuchen.",
-          "answer": [
-            "Når"
-          ],
-          "explain": "når = wenn (zeitlich, immer wenn)."
-        },
-        {
-          "prompt": "Elin drikker vann ___ det er gratis. (weil)",
-          "de": "Elin trinkt Wasser, weil es gratis ist.",
-          "answer": [
-            "fordi"
-          ],
-          "explain": "fordi = weil."
-        },
-        {
-          "prompt": "___ du er sulten, er det boller der borte. (falls)",
-          "de": "Falls du Hunger hast, gibt es dort drüben Hefebrötchen.",
-          "answer": [
-            "Hvis",
-            "Om"
-          ],
-          "explain": "hvis = wenn/falls (Bedingung); om geht hier auch."
-        }
-      ]
-    },
-    {
-      "id": "g02_tall",
-      "title": "Zahlen 0–20 und Preise",
-      "titleNo": "tall og priser",
-      "summary": "null bis tjue, en krone – to kroner: Hva koster det? Det koster femten kroner.",
-      "sections": [
-        {
-          "h": "Die Zahlen von 0 bis 20",
-          "body": "Für 7 gibt es zwei Formen: **sju** und **syv**. Beide sind richtig; **sju** ist häufiger.",
-          "table": [
-            [
-              "Zahl",
-              "Norwegisch",
-              "Zahl",
-              "Norwegisch"
-            ],
-            [
-              "0",
-              "**null**",
-              "11",
-              "**elleve**"
-            ],
-            [
-              "1",
-              "**en / ett**",
-              "12",
-              "**tolv**"
-            ],
-            [
-              "2",
-              "**to**",
-              "13",
-              "**tretten**"
-            ],
-            [
-              "3",
-              "**tre**",
-              "14",
-              "**fjorten**"
-            ],
-            [
-              "4",
-              "**fire**",
-              "15",
-              "**femten**"
-            ],
-            [
-              "5",
-              "**fem**",
-              "16",
-              "**seksten**"
-            ],
-            [
-              "6",
-              "**seks**",
-              "17",
-              "**sytten**"
-            ],
-            [
-              "7",
-              "**sju / syv**",
-              "18",
-              "**atten**"
-            ],
-            [
-              "8",
-              "**åtte**",
-              "19",
-              "**nitten**"
-            ],
-            [
-              "9",
-              "**ni**",
-              "20",
-              "**tjue**"
-            ],
-            [
-              "10",
-              "**ti**",
-              "",
-              ""
-            ]
-          ]
-        },
-        {
-          "h": "Aussprache und en/ett",
-          "body": "• **tjue** und **sju**: tj und sj klingen ähnlich wie »ch« in »ich« bzw. »sch«: etwa »chüe«, »schü«.\n• **tolv** spricht man »toll«, **seksten** »säisten«, **sytten** »sötten«, **atten** wie geschrieben.\n• **fire** hat zwei Silben: »fi-re«.\n\nDie Eins: Vor einem et-Wort heißt sie **ett**: **ett glass, ett år**. Vor einem en-Wort heißt sie **en**, vor einem ei-Wort **ei** (oder en): **en kopp, ei bok**. Beim Zählen sagt man **en**."
-        },
-        {
-          "h": "Preise",
-          "body": "Die Währung ist die **krone** (kr): **en krone, to kroner**. Eine Krone hat hundert **øre**, aber Münzen mit øre gibt es heute nicht mehr.\n\n• **Hva koster det?** – Was kostet das?\n• **Det koster femten kroner.** – Das kostet fünfzehn Kronen.\n• **Det blir tjue kroner.** – Das macht zwanzig Kronen."
-        }
-      ],
-      "drills": [
-        {
-          "prompt": "En kaffe koster ___ kroner. (20)",
-          "de": "Ein Kaffee kostet zwanzig Kronen.",
-          "answer": [
-            "tjue"
-          ],
-          "explain": "20 = tjue."
-        },
-        {
-          "prompt": "Vi er ___ i klassen. (12)",
-          "de": "Wir sind zwölf in der Klasse.",
-          "answer": [
-            "tolv"
-          ],
-          "explain": "12 = tolv (gesprochen »toll«)."
-        },
-        {
-          "prompt": "En bolle koster ___ kroner. (18)",
-          "de": "Ein Hefebrötchen kostet achtzehn Kronen.",
-          "answer": [
-            "atten"
-          ],
-          "explain": "18 = atten."
-        },
-        {
-          "prompt": "Ola er ___ år. (16)",
-          "de": "Ola ist sechzehn Jahre alt.",
-          "answer": [
-            "seksten"
-          ],
-          "explain": "16 = seksten."
-        },
-        {
-          "prompt": "Vi har ___ timer norsk i dag. (4)",
-          "de": "Wir haben heute vier Stunden Norwegisch.",
-          "answer": [
-            "fire"
-          ],
-          "explain": "4 = fire."
-        },
-        {
-          "prompt": "Det blir ___ kroner. (15)",
-          "de": "Das macht fünfzehn Kronen.",
-          "answer": [
-            "femten"
-          ],
-          "explain": "15 = femten."
-        },
-        {
-          "prompt": "Elin tar ___ glass vann. (1)",
-          "de": "Elin nimmt ein Glas Wasser.",
-          "answer": [
-            "ett",
             "et"
           ],
-          "explain": "Vor einem et-Wort heißt die Eins ett: ett glass."
+          "hint": "hotell ist ein Neutrum.",
+          "explain": "et hotell (neutrum)."
         },
         {
-          "prompt": "En uke har ___ dager. (7)",
-          "de": "Eine Woche hat sieben Tage.",
+          "prompt": "Familien Nygård har ___ jente og en gutt.",
+          "de": "Familie Nygård hat ein Mädchen und einen Jungen.",
           "answer": [
-            "sju",
-            "syv"
+            "ei",
+            "en"
           ],
-          "explain": "7 = sju oder syv."
+          "hint": "jente ist feminin.",
+          "explain": "ei jente (feminin) – en jente ist auch richtig."
         },
         {
-          "prompt": "En te koster ___ kroner. (13)",
-          "de": "Ein Tee kostet dreizehn Kronen.",
+          "prompt": "Matthias er ___ mann fra Sveits.",
+          "de": "Matthias ist ein Mann aus der Schweiz.",
           "answer": [
-            "tretten"
+            "en"
           ],
-          "explain": "13 = tretten."
+          "explain": "en mann (maskulin)."
         },
         {
-          "prompt": "Elleve og ni er ___.",
-          "de": "Elf und neun ist zwanzig.",
+          "prompt": "Oslo er ___ by i Norge.",
+          "de": "Oslo ist eine Stadt in Norwegen.",
           "answer": [
-            "tjue"
+            "en"
           ],
-          "explain": "11 + 9 = 20: tjue."
+          "hint": "Achtung: die Stadt, aber auf Norwegisch maskulin.",
+          "explain": "en by – anders als im Deutschen (die Stadt)."
+        },
+        {
+          "prompt": "Tysk er ___ språk i Sveits.",
+          "de": "Deutsch ist eine Sprache in der Schweiz.",
+          "answer": [
+            "et"
+          ],
+          "hint": "Achtung: die Sprache, aber auf Norwegisch neutrum.",
+          "explain": "et språk – anders als im Deutschen (die Sprache)."
+        },
+        {
+          "prompt": "Susanne har ___ bok på norsk.",
+          "de": "Susanne hat ein Buch auf Norwegisch.",
+          "answer": [
+            "ei",
+            "en"
+          ],
+          "hint": "bok ist feminin.",
+          "explain": "ei bok (feminin) – en bok ist auch richtig."
+        },
+        {
+          "prompt": "Norge er ___ land i Nord-Europa.",
+          "de": "Norwegen ist ein Land in Nordeuropa.",
+          "answer": [
+            "et"
+          ],
+          "explain": "et land (neutrum) – wie im Deutschen: das Land."
+        },
+        {
+          "prompt": "Familien Nygård har ___ hus på Sagene.",
+          "de": "Familie Nygård hat ein Haus in Sagene.",
+          "answer": [
+            "et"
+          ],
+          "explain": "et hus (neutrum) – wie im Deutschen: das Haus."
+        },
+        {
+          "prompt": "Matthias har ___ bil i Bern.",
+          "de": "Matthias hat ein Auto in Bern.",
+          "answer": [
+            "en"
+          ],
+          "hint": "Achtung: das Auto, aber auf Norwegisch maskulin.",
+          "explain": "en bil – anders als im Deutschen (das Auto)."
+        }
+      ]
+    },
+    {
+      "id": "g02_imperativ",
+      "title": "Imperativ",
+      "titleNo": "imperativ",
+      "summary": "Der Imperativ ist der Infinitiv ohne -e (snakke → snakk!) und hat nur eine Form für eine und für mehrere Personen.",
+      "sections": [
+        {
+          "h": "So bildest du den Imperativ",
+          "body": "Nimm den Infinitiv und streiche das unbetonte **-e** am Ende:\n\n• **komme → Kom hit!** – Komm her! / Kommt her!\n• **spise → Spis!** – Iss! / Esst!\n• **snakke → Snakk sakte!** – Sprich langsam!\n• **spørre → Spør Torunn!** – Frag Torunn!\n\nEinsilbige Verben bleiben, wie sie sind: **gå → Gå!**, **ta → Ta en kake!**, **se → Se!**, **si → Si det!**, **bli → Bli med!**\n\nDer Imperativ hat nur eine Form, für eine Person und für viele: **Kom hit, Matthias!** und **Kom hit, alle sammen!** Im Deutschen unterscheidest du „komm“ und „kommt“, im Norwegischen nicht.",
+          "table": [
+            [
+              "Infinitiv",
+              "Imperativ",
+              "Deutsch"
+            ],
+            [
+              "**komme**",
+              "**kom!**",
+              "komm! / kommt!"
+            ],
+            [
+              "**spise**",
+              "**spis!**",
+              "iss! / esst!"
+            ],
+            [
+              "**snakke**",
+              "**snakk!**",
+              "sprich! / sprecht!"
+            ],
+            [
+              "**spørre**",
+              "**spør!**",
+              "frag! / fragt!"
+            ],
+            [
+              "**ta**",
+              "**ta!**",
+              "nimm! / nehmt!"
+            ],
+            [
+              "**gå**",
+              "**gå!**",
+              "geh! / geht!"
+            ],
+            [
+              "**være**",
+              "**vær!**",
+              "sei! / seid!"
+            ],
+            [
+              "**glemme**",
+              "**glem!**",
+              "vergiss! / vergesst!"
+            ]
+          ]
+        },
+        {
+          "h": "Kleine Schreibregeln",
+          "body": "• Ein **m** wird am Wortende nie verdoppelt: **komme → kom!**, **glemme → glem!** (mehr dazu in Lektion 5).\n• Andere Doppelkonsonanten bleiben: **snakke → snakk!**, **slappe av → slapp av!**\n• Wäre das Wort ohne -e nicht aussprechbar, bleibt das -e: **åpne → Åpne vinduet!**, **sykle → Sykle forsiktig!**\n• **være → Vær!** folgt ganz der Regel, anders als deutsch „sein → sei“."
+        },
+        {
+          "h": "Verneinung und Höflichkeit",
+          "body": "Verneint wird mit **ikke** VOR dem Imperativ: **Ikke spør så mye!** – Frag nicht so viel! **Ikke vær så sjenert!** – Sei nicht so schüchtern!\n\nUnter Freunden ist der Imperativ ganz normal und klingt nicht unhöflich. Norwegisch hat aber kein Wort, das genau „bitte“ entspricht. Höflicher wird es so:\n\n• **Snakk sakte, er du snill!** / **Vær så snill og snakk sakte!** – Sprich bitte langsam!\n• **Kan du snakke sakte?** – Kannst du langsam sprechen?\n• **Ta gjerne en kake!** – Nimm ruhig ein Stück Kuchen!\n\n**Vær så god!** sagst du, wenn du jemandem etwas gibst („bitte schön“)."
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "___ hit, Matthias! (komme)",
+          "de": "Komm her, Matthias!",
+          "answer": [
+            "Kom"
+          ],
+          "explain": "komme ohne -e = kom; ein m wird am Wortende nicht verdoppelt."
+        },
+        {
+          "prompt": "___ en kake! (ta)",
+          "de": "Nimm ein Stück Kuchen!",
+          "answer": [
+            "Ta"
+          ],
+          "explain": "Einsilbiges Verb: Der Imperativ ist gleich dem Infinitiv."
+        },
+        {
+          "prompt": "___ sakte, er du snill! (snakke)",
+          "de": "Sprich bitte langsam!",
+          "answer": [
+            "Snakk"
+          ],
+          "explain": "snakke ohne -e = snakk; kk bleibt."
+        },
+        {
+          "prompt": "___ nå, alle sammen! (spise)",
+          "de": "Esst jetzt, alle zusammen!",
+          "answer": [
+            "Spis"
+          ],
+          "explain": "Eine Form für eine und für mehrere Personen."
+        },
+        {
+          "prompt": "Ikke ___ så mye! (spørre)",
+          "de": "Frag nicht so viel!",
+          "answer": [
+            "spør"
+          ],
+          "explain": "spørre ohne -e = spør; ikke steht vor dem Imperativ."
+        },
+        {
+          "prompt": "___ av! Det er helg! (slappe)",
+          "de": "Entspann dich! Es ist Wochenende!",
+          "answer": [
+            "Slapp"
+          ],
+          "explain": "slappe av → slapp av; pp bleibt."
+        },
+        {
+          "prompt": "Ikke ___ så sjenert! (være)",
+          "de": "Sei nicht so schüchtern!",
+          "answer": [
+            "vær"
+          ],
+          "explain": "være → vær."
+        },
+        {
+          "prompt": "Ikke ___ regnjakka! (glemme)",
+          "de": "Vergiss die Regenjacke nicht!",
+          "answer": [
+            "glem"
+          ],
+          "explain": "glemme → glem: Kein Doppel-m am Wortende."
+        },
+        {
+          "prompt": "___ med på tur! (bli)",
+          "de": "Komm mit auf die Wanderung!",
+          "answer": [
+            "Bli"
+          ],
+          "explain": "Einsilbiges Verb: bli bleibt bli."
+        },
+        {
+          "prompt": "___ vinduet, er du snill! (åpne)",
+          "de": "Öffne bitte das Fenster!",
+          "answer": [
+            "Åpne"
+          ],
+          "explain": "„åpn“ kann man nicht aussprechen, darum bleibt das -e."
+        }
+      ]
+    },
+    {
+      "id": "g02_ikke",
+      "title": "ikke im Hauptsatz",
+      "titleNo": "setningsadverbialer",
+      "summary": "ikke, aldri, alltid, ofte, også, bare und gjerne stehen im Hauptsatz direkt nach dem konjugierten Verb.",
+      "sections": [
+        {
+          "h": "ikke steht direkt nach dem Verb",
+          "body": "Im norwegischen Hauptsatz steht **ikke** (nicht) direkt nach dem konjugierten Verb, also gleich nach Platz 2:\n\n• **Jeg snakker ikke svensk.** – Ich spreche kein Schwedisch.\n• **Mads kommer ikke i dag.** – Mads kommt heute nicht.\n\nIm Deutschen rutscht „nicht“ oft weit nach hinten („Mads kommt heute nicht“). Im Norwegischen bleibt **ikke** fest hinter dem Verb. ✗ Mads kommer i dag ikke.\n\nFür „kein“ nimmst du meistens einfach **ikke** (es gibt auch **ingen**, das kommt später): **Jeg har ikke bil.** – Ich habe kein Auto. **Vi bruker ikke vanskelige ord.** – Wir benutzen keine schwierigen Wörter."
+        },
+        {
+          "h": "Andere Satzadverbien",
+          "body": "Diese kleinen Wörter verhalten sich alle wie **ikke**: Sie stehen direkt nach dem konjugierten Verb. Nach **jo** und **dessverre** kommt **ikke** zuletzt: **Jeg kan dessverre ikke.** – Ich kann leider nicht. Vor **alltid**, **ofte** und **bare** steht **ikke** dagegen, wie im Deutschen: **Mads forstår ikke alltid Elin.** – Mads versteht Elin nicht immer.\n\nAuch **gjerne** (gern) steht direkt nach dem Verb: „Ich esse gern Kuchen“ heißt **Jeg spiser gjerne kake.** **Jeg vil gjerne …** ist die höfliche Form für „ich möchte …“.",
+          "table": [
+            [
+              "Norwegisch",
+              "Deutsch",
+              "Beispiel"
+            ],
+            [
+              "**ikke**",
+              "nicht",
+              "**Jeg forstår ikke.**"
+            ],
+            [
+              "**aldri**",
+              "nie",
+              "**Elin drikker aldri kaffe.**"
+            ],
+            [
+              "**alltid**",
+              "immer",
+              "**Matthias spør alltid.**"
+            ],
+            [
+              "**ofte**",
+              "oft",
+              "**Vi går ofte på tur.**"
+            ],
+            [
+              "**også**",
+              "auch",
+              "**Jeg blir også med.**"
+            ],
+            [
+              "**bare**",
+              "nur, einfach",
+              "**Vi snakker bare sakte.**"
+            ],
+            [
+              "**gjerne**",
+              "gern",
+              "**Jeg blir gjerne med.**"
+            ],
+            [
+              "**dessverre**",
+              "leider",
+              "**Jeg kan dessverre ikke.**"
+            ],
+            [
+              "**jo**",
+              "ja, doch",
+              "**Han er jo ingeniør.**"
+            ]
+          ]
+        },
+        {
+          "h": "Nach Inversion und mit Modalverb",
+          "body": "Steht etwas anderes als das Subjekt am Satzanfang, tauschen Verb und Subjekt die Plätze (Inversion, Lektion 2). **ikke** kommt dann nach dem Subjekt:\n\n• **I dag kommer han ikke.** – Heute kommt er nicht.\n• **Svensk forstår jeg ikke.** – Schwedisch verstehe ich nicht.\n\nMit einem Modalverb steht **ikke** nach dem Modalverb und vor dem Infinitiv:\n\n• **Jeg kan ikke komme i morgen.** – Ich kann morgen nicht kommen.\n• **I morgen kan jeg ikke komme.** – Morgen kann ich nicht kommen.\n\nZur Erinnerung: Im Nebensatz steht **ikke** VOR dem Verb: **…fordi jeg ikke har tid.**"
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Jeg ___ dansk. (snakker, ikke)",
+          "de": "Ich spreche kein Dänisch.",
+          "answer": [
+            "snakker ikke"
+          ],
+          "explain": "ikke steht direkt nach dem konjugierten Verb."
+        },
+        {
+          "prompt": "Elin ___ kaffe. (drikker, aldri)",
+          "de": "Elin trinkt nie Kaffee.",
+          "answer": [
+            "drikker aldri"
+          ],
+          "explain": "aldri steht wie ikke direkt nach dem Verb."
+        },
+        {
+          "prompt": "I morgen ___ jobbe. (skal, jeg, ikke)",
+          "de": "Morgen arbeite ich nicht.",
+          "answer": [
+            "skal jeg ikke"
+          ],
+          "explain": "Inversion nach „I morgen“: Verb – Subjekt – ikke – Infinitiv."
+        },
+        {
+          "prompt": "Vi ___ på tur i Nordmarka. (går, ofte)",
+          "de": "Wir wandern oft in der Nordmarka.",
+          "answer": [
+            "går ofte"
+          ],
+          "explain": "ofte steht direkt nach dem Verb."
+        },
+        {
+          "prompt": "Matthias ___ komme i dag. (kan, ikke)",
+          "de": "Matthias kann heute nicht kommen.",
+          "answer": [
+            "kan ikke"
+          ],
+          "explain": "Mit Modalverb: Modalverb – ikke – Infinitiv."
+        },
+        {
+          "prompt": "I helgen ___ hjemme. (er, hun, ikke)",
+          "de": "Am Wochenende ist sie nicht zu Hause.",
+          "answer": [
+            "er hun ikke"
+          ],
+          "explain": "Inversion: Verb vor dem Subjekt, ikke nach dem Subjekt."
+        },
+        {
+          "prompt": "Mads ___ dansk med Elin. (snakker, bare)",
+          "de": "Mads spricht mit Elin nur Dänisch.",
+          "answer": [
+            "snakker bare"
+          ],
+          "explain": "bare steht direkt nach dem Verb."
+        },
+        {
+          "prompt": "Elin ___ med på tur. (vil, gjerne, bli)",
+          "de": "Elin möchte gern mit auf die Wanderung kommen.",
+          "answer": [
+            "vil gjerne bli"
+          ],
+          "explain": "gjerne steht nach dem Modalverb, der Infinitiv folgt danach."
+        },
+        {
+          "prompt": "Svensk ___ så godt. (forstår, jeg, ikke)",
+          "de": "Schwedisch verstehe ich nicht so gut.",
+          "answer": [
+            "forstår jeg ikke"
+          ],
+          "explain": "Das Objekt steht vorn, also Inversion: Verb – Subjekt – ikke."
+        },
+        {
+          "prompt": "Jeg ___ med. (blir, også)",
+          "de": "Ich komme auch mit.",
+          "answer": [
+            "blir også"
+          ],
+          "explain": "også steht direkt nach dem Verb."
         }
       ]
     }

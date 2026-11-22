@@ -3,7 +3,7 @@
   "level": "B2",
   "title": "Sankthans i Tromsø",
   "titleDe": "Mittsommer in Tromsø",
-  "place": "Tromsø, Telegrafbukta",
+  "place": "Tromsø",
   "goals": [
     "Du kannst einen persönlichen Blogbeitrag verstehen und selbst einen schreiben.",
     "Du kannst über Mittsommer, die Mitternachtssonne und ein ganzes Jahr in Norwegen erzählen.",
@@ -420,400 +420,189 @@
     }
   ],
   "wk": {
-    "title": "Noen datauttrykk",
-    "titleDe": "Einige Computerwörter",
-    "phrases": [
-      {
-        "no": "en datamaskin / en PC",
-        "de": "ein Computer",
-        "note": "PC spricht man [pe-se]; bestimmt: PC-en."
-      },
-      {
-        "no": "en bærbar PC",
-        "de": "ein Laptop",
-        "note": "Oft nur: en bærbar."
-      },
-      {
-        "no": "et nettbrett",
-        "de": "ein Tablet"
-      },
-      {
-        "no": "et tastatur og en skjerm",
-        "de": "eine Tastatur und ein Bildschirm"
-      },
-      {
-        "no": "å logge inn / å logge ut",
-        "de": "sich einloggen / sich ausloggen",
-        "note": "Auch: logge på / logge av."
-      },
-      {
-        "no": "Jeg har glemt passordet mitt.",
-        "de": "Ich habe mein Passwort vergessen."
-      },
-      {
-        "no": "et brukernavn",
-        "de": "ein Benutzername"
-      },
-      {
-        "no": "å laste ned en app",
-        "de": "eine App herunterladen"
-      },
-      {
-        "no": "å laste opp bilder",
-        "de": "Fotos hochladen"
-      },
-      {
-        "no": "å legge ut et innlegg",
-        "de": "einen Beitrag veröffentlichen (posten)"
-      },
-      {
-        "no": "å dele en lenke",
-        "de": "einen Link teilen"
-      },
-      {
-        "no": "Klikk på lenken!",
-        "de": "Klick auf den Link!"
-      },
-      {
-        "no": "å lagre et dokument",
-        "de": "ein Dokument speichern"
-      },
-      {
-        "no": "å slette en fil",
-        "de": "eine Datei löschen"
-      },
-      {
-        "no": "å sende en e-post med vedlegg",
-        "de": "eine E-Mail mit Anhang schicken"
-      },
-      {
-        "no": "å søke på nettet",
-        "de": "im Internet suchen"
-      },
-      {
-        "no": "PC-en har hengt seg opp.",
-        "de": "Der Computer hat sich aufgehängt."
-      },
-      {
-        "no": "Skjermen frøs.",
-        "de": "Der Bildschirm ist eingefroren."
-      },
-      {
-        "no": "Batteriet er nesten tomt – jeg må lade telefonen.",
-        "de": "Der Akku ist fast leer – ich muss das Handy laden."
-      },
-      {
-        "no": "Har dere trådløst nett her? Hva er passordet?",
-        "de": "Habt ihr hier WLAN? Wie ist das Passwort?",
-        "note": "Man sagt auch einfach wifi [vai-fai]."
-      },
-      {
-        "no": "å oppdatere appen",
-        "de": "die App aktualisieren"
-      },
-      {
-        "no": "å skrive en kommentar",
-        "de": "einen Kommentar schreiben"
-      }
-    ]
+    "title": "Han kjøpte katta i sekken og ble sittende med skjegget i postkassen",
+    "titleDe": "",
+    "phrases": [],
+    "_todo": "NEW"
   },
   "grammar": [
     {
-      "id": "g23_ligge_staa_sitte",
-      "title": "ligge, stå, sitte + og + Verb",
-      "titleNo": "sitter og leser – står og venter",
-      "summary": "Für eine Handlung, die gerade andauert, nimmt Norwegisch oft ein Positionsverb + og + Verb: Hun sitter og leser = Sie liest (gerade).",
-      "sections": [
-        {
-          "h": "Positionsverb + og + Verb",
-          "body": "Das Deutsche hat keine eigene Verlaufsform; man sagt „Sie liest gerade“. Norwegisch sagt oft, **in welcher Haltung** jemand etwas tut, und verbindet zwei Verben mit **og**:\n\n• **Hun sitter og leser.** – Sie sitzt da und liest. / Sie liest gerade.\n• **Vi sto og ventet på bussen.** – Wir standen da und warteten auf den Bus.\n• **Han ligger og sover.** – Er schläft (gerade).\n\nWichtig: **Beide Verben stehen in derselben Zeitform.** Ein typischer Fehler ist *Hun satt og lese – richtig ist **Hun satt og leste**.",
-          "table": [
-            [
-              "Zeit",
-              "sitte",
-              "stå",
-              "ligge"
-            ],
-            [
-              "Präsens",
-              "**sitter og leser**",
-              "**står og venter**",
-              "**ligger og sover**"
-            ],
-            [
-              "Präteritum",
-              "**satt og leste**",
-              "**sto og ventet**",
-              "**lå og sov**"
-            ],
-            [
-              "Perfekt",
-              "**har sittet og lest**",
-              "**har stått og ventet**",
-              "**har ligget og sovet**"
-            ]
-          ]
-        },
-        {
-          "h": "Welches Verb passt?",
-          "body": "Das Positionsverb beschreibt die echte Körperhaltung: **Hun sitter og skriver** (am Schreibtisch), **Han står og lager mat** (am Herd), **Jeg lå og tenkte på deg** (im Bett). Bei Bewegung nimmt man **gå**: **Han går og tenker på henne** (er denkt ständig an sie).\n\n• Satzadverbien stehen im Hauptsatz nach dem ersten Verb: **Hun sitter ikke og leser – hun sover.**\n• Im Nebensatz stehen sie vor dem ersten Verb: **…fordi han alltid sitter og ser på mobilen.**"
-        },
-        {
-          "h": "holde på med å",
-          "body": "**holde på med å** + Infinitiv = gerade dabei sein: **Jeg holder på med å pakke.** (Ich bin gerade beim Packen.) Mit Substantiv: **Hva holder du på med?** – **Jeg holder på med masteroppgaven.**\n\nAchtung: **holde på å** ohne **med** heißt oft „beinahe“, vor allem in der Vergangenheit: **Jeg holdt på å falle.** (Ich wäre fast gefallen.)"
-        }
-      ],
-      "drills": [
-        {
-          "prompt": "Inga sitter og ___ til eksamen. (lese, Präsens)",
-          "de": "Inga sitzt da und lernt für die Prüfung.",
-          "answer": [
-            "leser"
-          ],
-          "explain": "Beide Verben im Präsens: sitter og leser."
-        },
-        {
-          "prompt": "I går sto vi og ___ på bussen i en halv time. (vente)",
-          "de": "Gestern standen wir eine halbe Stunde da und warteten auf den Bus.",
-          "answer": [
-            "ventet",
-            "venta"
-          ],
-          "explain": "sto ist Präteritum, also auch ventet (oder venta)."
-        },
-        {
-          "prompt": "Matthias ___ og sov da jeg kom hjem. (ligge, Präteritum)",
-          "de": "Matthias lag da und schlief, als ich nach Hause kam.",
-          "answer": [
-            "lå"
-          ],
-          "explain": "ligge – lå – ligget; dazu passt sov im Präteritum."
-        },
-        {
-          "prompt": "Vi ___ og så på midnattssola til klokka to. (sitte, Präteritum)",
-          "de": "Wir saßen da und schauten bis zwei Uhr die Mitternachtssonne an.",
-          "answer": [
-            "satt"
-          ],
-          "explain": "sitte – satt – sittet; satt og så (beide Präteritum)."
-        },
-        {
-          "prompt": "Susanne har ___ og skrevet på bloggen hele kvelden. (sitte, Perfekt)",
-          "de": "Susanne hat den ganzen Abend an ihrem Blog geschrieben.",
-          "answer": [
-            "sittet"
-          ],
-          "explain": "Perfekt: har sittet og skrevet – beide Verben als Partizip."
-        },
-        {
-          "prompt": "Han lå på sofaen og ___ på musikk. (høre)",
-          "de": "Er lag auf dem Sofa und hörte Musik.",
-          "answer": [
-            "hørte"
-          ],
-          "explain": "lå ist Präteritum, also auch hørte."
-        },
-        {
-          "prompt": "Barna står rundt bålet og ___. (synge)",
-          "de": "Die Kinder stehen ums Feuer und singen.",
-          "answer": [
-            "synger"
-          ],
-          "explain": "står (Präsens) og synger (Präsens)."
-        },
-        {
-          "prompt": "Når jeg kommer hjem, ___ Inga alltid og leser i stua. (sitte)",
-          "de": "Wenn ich nach Hause komme, sitzt Inga immer im Wohnzimmer und liest.",
-          "answer": [
-            "sitter"
-          ],
-          "explain": "Nach dem Nebensatz Inversion: Verb vor dem Subjekt; Präsens wie leser."
-        },
-        {
-          "prompt": "Jeg holder på ___ å pakke kofferten. (Präposition)",
-          "de": "Ich bin gerade dabei, den Koffer zu packen.",
-          "answer": [
-            "med"
-          ],
-          "explain": "holde på med å + Infinitiv = gerade dabei sein."
-        },
-        {
-          "prompt": "Hva holder du på ___ for tiden? (Präposition)",
-          "de": "Womit bist du zurzeit beschäftigt?",
-          "answer": [
-            "med"
-          ],
-          "explain": "Hva holder du på med? – die Präposition steht am Ende der Frage."
-        },
-        {
-          "prompt": "Jeg ___ på å glemme passordet! (holde, Präteritum)",
-          "de": "Ich hätte fast das Passwort vergessen!",
-          "answer": [
-            "holdt"
-          ],
-          "explain": "holdt på å (ohne med) = beinahe."
-        },
-        {
-          "prompt": "Hun satt og ___ på mobilen da Matthias ringte. (se)",
-          "de": "Sie saß da und schaute aufs Handy, als Matthias anrief.",
-          "answer": [
-            "så"
-          ],
-          "explain": "satt (Präteritum) og så (Präteritum von se)."
-        }
-      ]
+      "id": "g23_smaaord",
+      "title": "Kleine Wörter mit vielschichtiger Bedeutung: da, før, om, siden, så",
+      "summary": "",
+      "sections": [],
+      "drills": [],
+      "_todo": "NEW"
     },
     {
-      "id": "g23_sammensatte_verb",
-      "title": "Zusammengesetzte Verben",
-      "titleNo": "sammensatte verb",
-      "summary": "Partikelverben (stå opp, ta med) sind trennbar wie im Deutschen, aber die Partikel steht direkt hinter dem Verb und wandert nicht ans Satzende; daneben gibt es feste Zusammensetzungen (oppgi, nedlagt).",
+      "id": "g23_uregelmessige_verb",
+      "title": "Liste der unregelmäßigen Verben",
+      "titleNo": "sterke og uregelmessige verb",
+      "summary": "Starke Verben wechseln den Stammvokal und haben im Präteritum keine Endung – fast wie im Deutschen.",
       "sections": [
         {
-          "h": "Partikelverben: stå opp, ta med, finne ut",
-          "body": "Wie im Deutschen (aufstehen, mitnehmen) gibt es Verben mit einer Partikel. Die Partikel ist **betont**: **stå opp**, **ta med**, **gi opp**, **finne ut**, **legge ut**, **sette opp**.\n\nDer große Unterschied: Die Partikel wandert **nicht ans Satzende**. Sie steht direkt nach dem Verb, auch im Nebensatz:\n\n• **Jeg står opp klokka sju.** – Ich stehe um sieben auf.\n• **Hun tar med kameraet.** – Sie nimmt die Kamera mit.\n• **…fordi han sto opp så tidlig.** – …weil er so früh aufstand.\n• **Vi har funnet ut at …** – Wir haben herausgefunden, dass …\n\nSatzadverbien wie **ikke** stehen vor der Partikel: **Vi gir ikke opp.** Ein unbetontes Objektpronomen steht zwischen Verb und Partikel: **Ta det med!** Ein Substantiv steht dahinter: **Ta med kameraet!**"
-        },
-        {
-          "h": "Feste Zusammensetzungen",
-          "body": "Daneben gibt es **feste Zusammensetzungen**: Die Partikel steht **vorne** und bildet mit dem Verb ein Wort. Sie sind oft formeller oder haben eine andere Bedeutung:\n\n• **legge ned** (hinlegen; auch: schließen) – **nedlegge** (stilllegen, formell)\n• **gi opp** (aufgeben) – **oppgi** (angeben: **Oppgi passordet ditt.**; formell auch: **oppgi håpet**, die Hoffnung aufgeben)\n• **finne opp** (erfinden) – **oppfinne** (erfinden, formell) → **en oppfinnelse** (Erfindung)\n• **ta opp** (aufheben, aufnehmen, ansprechen) – **oppta** (in Anspruch nehmen) → **opptatt** (beschäftigt, besetzt)\n\nLerne die beiden Formen als eigene Vokabeln – die Bedeutung ist nicht immer dieselbe."
-        },
-        {
-          "h": "Als Adjektiv und Substantiv",
-          "body": "Wird aus einem Partikelverb ein **Partizip als Adjektiv** oder ein **Substantiv**, nimmt man meist die feste Form mit der Partikel vorne:\n\n• **Butikken er nedlagt.** (Das Geschäft ist geschlossen worden.) – **en nedlagt fabrikk**\n• **Alt gikk etter oppsatt plan.** (Alles lief nach Plan.)\n• **Toalettet er opptatt.** (Die Toilette ist besetzt.)\n• **laste ned → en nedlasting**, **melde seg på → en påmelding**\n\nMit **bli** und im Perfekt bleibt dagegen meist das Partikelverb: **Butikken ble lagt ned i fjor.** **Hun har lagt ut et nytt innlegg.**",
+          "h": "Starke Verben: Vokalwechsel statt Endung",
+          "body": "Starke Verben bilden das Präteritum ohne Endung, nur mit einem anderen Vokal – genau wie im Deutschen (singen – sang – gesungen). Das Partizip Perfekt endet meist auf **-et** oder **-t**: **drikke – drakk – har drukket**, **skrive – skrev – har skrevet**.\n\nViele Verben folgen festen Mustern (Ablautreihen). Wenn du das Muster kennst, lernst du neue Verben leichter. Oft sind es sogar dieselben Verben wie im Deutschen: **finne – fant – funnet** (finden – fand – gefunden).",
           "table": [
             [
-              "Partikelverb",
-              "Partizip / Adjektiv",
-              "Substantiv"
+              "Muster",
+              "Infinitiv",
+              "Präteritum",
+              "Perfekt"
             ],
             [
-              "**legge ned**",
-              "**nedlagt**",
-              "**en nedleggelse**"
+              "i – a – u",
+              "**drikke** (trinken)",
+              "**drakk**",
+              "**har drukket**"
             ],
             [
-              "**laste ned**",
-              "**nedlastet**",
-              "**en nedlasting**"
+              "i – a – u",
+              "**finne** (finden)",
+              "**fant**",
+              "**har funnet**"
             ],
             [
-              "**ta opp**",
-              "**opptatt**",
-              "**et opptak**"
+              "i – e/ei – e/i",
+              "**skrive** (schreiben)",
+              "**skrev**",
+              "**har skrevet**"
             ],
             [
-              "**melde seg på**",
-              "**påmeldt**",
-              "**en påmelding**"
+              "i – e/ei – e/i",
+              "**bite** (beißen)",
+              "**bet / beit**",
+              "**har bitt**"
             ],
             [
-              "**finne opp**",
-              "**oppfunnet**",
-              "**en oppfinnelse**"
+              "y – øy – ø",
+              "**fly** (fliegen)",
+              "**fløy**",
+              "**har fløyet**"
+            ],
+            [
+              "e – a – å",
+              "**bære** (tragen)",
+              "**bar**",
+              "**har båret**"
+            ],
+            [
+              "e – a – å",
+              "**stjele** (stehlen)",
+              "**stjal**",
+              "**har stjålet**"
+            ],
+            [
+              "a – o – a",
+              "**fare** (fahren, eilen)",
+              "**for**",
+              "**har fart**"
+            ],
+            [
+              "a – o – a",
+              "**dra** (fahren, ziehen)",
+              "**dro**",
+              "**har dratt**"
             ]
           ]
+        },
+        {
+          "h": "Weitere wichtige starke Verben",
+          "body": "• **sove – sov – har sovet** (schlafen)\n• **le – lo – har ledd** (lachen)\n• **stå – sto – har stått** (stehen)\n• **gi – ga (gav) – har gitt** (geben)\n• **få – fikk – har fått** (bekommen)\n• **gå – gikk – har gått** (gehen)\n\nDie Verben aus Lektion 8 (**være, ha, gjøre, si, komme, se, ta, ligge, sitte** …) gehören auch dazu. Unter „Verben“ findest du in der App eine vollständige Liste."
+        },
+        {
+          "h": "Unregelmäßige schwache Verben",
+          "body": "Einige Verben haben eine Endung (**-te**, **-de**, **-t**) und wechseln trotzdem den Vokal – wie im Deutschen **bringen – brachte**:\n\n• **selge – solgte – har solgt** (verkaufen)\n• **fortelle – fortalte – har fortalt** (erzählen)\n• **legge – la – har lagt** (legen; Präteritum ganz ohne Endung)\n• **sette – satte – har satt** (setzen, stellen)\n• **gjøre – gjorde – har gjort** (machen, tun)\n• **spørre – spurte – har spurt** (fragen)\n\nAchtung: **legge/ligge** und **sette/sitte** sind wie im Deutschen Paare: **Jeg la nøkkelen på bordet. Nøkkelen lå på bordet.** (legte – lag)"
+        },
+        {
+          "h": "Das Präsens ist (fast) immer regelmäßig",
+          "body": "Auch bei starken Verben ist das Präsens einfach: Infinitiv + **-r**: **drikker, skriver, bærer, sover**. Nur wenige Verben sind auch im Präsens unregelmäßig: **er, gjør, sier, spør, vet**.\n\nLerne neue Verben deshalb immer mit drei Formen: **bære – bar – båret**."
         }
       ],
       "drills": [
         {
-          "prompt": "Matthias sto ___ klokka fire for å fotografere fjellene. (aufstehen)",
-          "de": "Matthias stand um vier Uhr auf, um die Berge zu fotografieren.",
+          "prompt": "Jeg ___ tjue kasser opp trappa. (bære, preteritum)",
+          "de": "Ich trug zwanzig Kisten die Treppe hinauf.",
           "answer": [
-            "opp"
+            "bar"
           ],
-          "explain": "stå opp: Die Partikel steht direkt nach dem Verb."
+          "explain": "bære – bar – båret (Muster e – a – å), wie tragen – trug."
         },
         {
-          "prompt": "Husk å ta ___ solkrem på turen! (mitnehmen)",
-          "de": "Denk daran, Sonnencreme auf die Tour mitzunehmen!",
+          "prompt": "Matthias ___ et lite bakeri nede ved havna. (finne, preteritum)",
+          "de": "Matthias fand eine kleine Bäckerei unten am Hafen.",
           "answer": [
-            "med"
+            "fant"
           ],
-          "explain": "ta med + Substantiv: ta med solkrem."
+          "explain": "finne – fant – funnet (i – a – u), wie finden – fand – gefunden."
         },
         {
-          "prompt": "Vi har funnet ___ at det ikke er wifi på stranda. (herausfinden)",
-          "de": "Wir haben herausgefunden, dass es am Strand kein WLAN gibt.",
+          "prompt": "Fru Solheim ___ ham en gammel sofa. (gi, preteritum)",
+          "de": "Frau Solheim gab ihm ein altes Sofa.",
           "answer": [
-            "ut"
+            "ga",
+            "gav"
           ],
-          "explain": "finne ut = herausfinden; im Perfekt: har funnet ut."
+          "explain": "gi – ga (auch gav) – gitt."
         },
         {
-          "prompt": "Ikke gi ___ – du klarer det! (aufgeben)",
-          "de": "Gib nicht auf – du schaffst das!",
+          "prompt": "Jeg har ___ en lang e-post til Susanne. (skrive, perfektum)",
+          "de": "Ich habe Susanne eine lange E-Mail geschrieben.",
           "answer": [
-            "opp"
+            "skrevet"
           ],
-          "explain": "gi opp = aufgeben (Partikelverb)."
+          "explain": "skrive – skrev – har skrevet."
         },
         {
-          "prompt": "Susanne har ___ et nytt innlegg på bloggen. (legge ut, Perfekt)",
-          "de": "Susanne hat einen neuen Beitrag auf dem Blog veröffentlicht.",
+          "prompt": "Den natta ___ Matthias som en stein. (sove, preteritum)",
+          "de": "In der Nacht schlief Matthias wie ein Stein.",
           "answer": [
-            "lagt ut"
+            "sov"
           ],
-          "explain": "legge – la – lagt; die Partikel ut folgt direkt: har lagt ut."
+          "explain": "sove – sov – har sovet. Präteritum und Imperativ sehen gleich aus: sov!"
         },
         {
-          "prompt": "Jeg skal ___ bildene i morgen. (hochladen)",
-          "de": "Ich lade die Fotos morgen hoch.",
+          "prompt": "Fru Solheim ___ da hun hørte om paraplyen. (le, preteritum)",
+          "de": "Frau Solheim lachte, als sie von dem Regenschirm hörte.",
           "answer": [
-            "laste opp"
+            "lo"
           ],
-          "explain": "laste opp = hochladen; nach skal der Infinitiv mit Partikel."
+          "explain": "le – lo – har ledd (lachen – lachte – gelacht)."
         },
         {
-          "prompt": "Vennligst ___ brukernavn og passord. (angeben)",
-          "de": "Bitte gib Benutzername und Passwort an.",
+          "prompt": "Han ___ nøklene på kjøkkenbordet. (legge, preteritum)",
+          "de": "Er legte die Schlüssel auf den Küchentisch.",
           "answer": [
-            "oppgi"
+            "la"
           ],
-          "explain": "oppgi (feste Zusammensetzung) = angeben; gi opp hieße „aufgeben“."
+          "explain": "legge – la – lagt. Nicht verwechseln mit ligge – lå – ligget (liegen)."
         },
         {
-          "prompt": "Vet du hvem som ___ telefonen? (erfinden, Präteritum)",
-          "de": "Weißt du, wer das Telefon erfunden hat?",
+          "prompt": "Fru Solheim ___ meg mye om huset. (fortelle, preteritum)",
+          "de": "Frau Solheim hat mir viel über das Haus erzählt.",
           "answer": [
-            "fant opp",
-            "oppfant"
+            "fortalte"
           ],
-          "explain": "finne opp oder (formeller) oppfinne – beides heißt erfinden."
+          "explain": "fortelle – fortalte – fortalt: Endung -te und Vokalwechsel e → a."
         },
         {
-          "prompt": "Den gamle fabrikken er ___. (stilllegen: legge ned, Partizip)",
-          "de": "Die alte Fabrik ist stillgelegt.",
+          "prompt": "Måkene ___ over havna. (fly, preteritum)",
+          "de": "Die Möwen flogen über den Hafen.",
           "answer": [
-            "nedlagt",
-            "lagt ned"
+            "fløy"
           ],
-          "explain": "Als Adjektiv nimmt man meist die feste Form: nedlagt (nach er geht auch: lagt ned)."
+          "explain": "fly – fløy – har fløyet (Muster y – øy – ø)."
         },
         {
-          "prompt": "Jeg kan ikke snakke nå, jeg er ___. (beschäftigt)",
-          "de": "Ich kann jetzt nicht reden, ich bin beschäftigt.",
+          "prompt": "Noen har ___ sykkelen min! (stjele, perfektum)",
+          "de": "Jemand hat mein Fahrrad gestohlen!",
           "answer": [
-            "opptatt"
+            "stjålet"
           ],
-          "explain": "opptatt (von oppta) = beschäftigt, besetzt."
-        },
-        {
-          "prompt": "Alt gikk etter ___ plan. (sette opp, Partizip)",
-          "de": "Alles lief nach Plan.",
-          "answer": [
-            "oppsatt"
-          ],
-          "explain": "Feste Form als Adjektiv: sette opp → oppsatt."
-        },
-        {
-          "prompt": "Har du kameraet? – Ja, jeg har tatt ___ med. (es: kameraet)",
-          "de": "Hast du die Kamera? – Ja, ich habe sie mitgenommen.",
-          "answer": [
-            "det"
-          ],
-          "explain": "et kamera → det; das unbetonte Pronomen steht vor der Partikel: tatt det med."
+          "explain": "stjele – stjal – har stjålet (e – a – å), wie bære – bar – båret."
         }
-      ]
+      ],
+      "_todo": "RETITLE/EXTEND: »Liste der unregelmäßigen Verben«"
     }
   ],
   "tf": [

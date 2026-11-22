@@ -3,7 +3,7 @@
   "level": "A2",
   "title": "Gratulerer med dagen!",
   "titleDe": "Herzlichen Glückwunsch zum Geburtstag!",
-  "place": "Oslo, Aker brygge",
+  "place": "Oslo, Kringsjå und Aker brygge",
   "goals": [
     "Du kannst im Präteritum erzählen, was gestern passiert ist: feiret, kjøpte, prøvde, bodde.",
     "Du kannst gratulieren, dich für ein Geschenk bedanken und ein Geburtstagslied singen.",
@@ -519,7 +519,7 @@
   "grammar": [
     {
       "id": "g06_bestemt",
-      "title": "Die bestimmte Form des Substantivs",
+      "title": "Der bestimmte Artikel und alle Formen des Substantivs",
       "titleNo": "bestemt form av substantivet",
       "summary": "Der bestimmte Artikel wird ans Nomen angehängt: bilen, boka, huset; im Plural bilene, bøkene, husene (husa).",
       "sections": [
@@ -819,8 +819,16 @@
       ]
     },
     {
+      "id": "g06_liten",
+      "title": "liten",
+      "summary": "",
+      "sections": [],
+      "drills": [],
+      "_todo": "NEW"
+    },
+    {
       "id": "g06_el_en_er",
-      "title": "Adjektive auf -el, -en und -er",
+      "title": "Adjektive auf -el, -en, -er",
       "titleNo": "adjektiv på -el, -en og -er",
       "summary": "Im Plural fällt das e der Endsilbe weg, und Doppelkonsonanten werden vereinfacht: gammel – gamle, sulten – sultne, vakker – vakre.",
       "sections": [
@@ -954,135 +962,268 @@
       ]
     },
     {
-      "id": "g06_preteritum",
-      "title": "Präteritum der regelmäßigen Verben",
-      "titleNo": "preteritum av svake verb",
-      "summary": "Regelmäßige Verben bilden das Präteritum mit -et, -te, -de oder -dde – mit einer einzigen Form für alle Personen.",
+      "id": "g06_t",
+      "title": "Adjektive auf -t",
+      "titleNo": "adjektiv på -ig og -sk",
+      "summary": "Adjektive auf -ig und mehrsilbige auf -sk (auch alle Nationalitäten) bekommen im Neutrum kein -t: et hyggelig møte, et norsk ord.",
       "sections": [
         {
-          "h": "Eine Form für alle Personen",
-          "body": "Mit dem Präteritum erzählst du, was zu einer bestimmten Zeit in der Vergangenheit passiert ist: **I går feiret vi Anna.** – Gestern haben wir Anna gefeiert.\n\nWie im Präsens gibt es nur eine Form für alle Personen: **jeg kjøpte, du kjøpte, hun kjøpte, vi kjøpte, de kjøpte**. Im Deutschen ändert sich die Endung (ich kaufte, du kauftest), im Norwegischen nie.\n\nAnders als im Deutschen ist das Präteritum auch im Gespräch ganz normal: **Hva spiste du i går? – Jeg spiste fiskesuppe.** Ein Deutscher würde hier eher „Ich habe … gegessen“ sagen."
-        },
-        {
-          "h": "Die vier Klassen",
-          "body": "Welche Klasse ein Verb hat, siehst du dem Infinitiv nicht immer sicher an. Lerne das Präteritum deshalb mit jedem Verb mit (in der Vokabelliste steht es immer dabei). Faustregeln:\n\n• **-et**: oft nach zwei Konsonanten: **snakke – snakket, pakke – pakket, pynte – pyntet, åpne – åpnet**. Im Bokmål ist auch **-a** richtig: **snakka, pakka**.\n• **-te**: oft nach einem einzelnen Konsonanten: **spise – spiste, kjøpe – kjøpte, lese – leste, bake – bakte**; außerdem alle Verben auf **-ere**: **studere – studerte, invitere – inviterte**.\n• **-de**: nach **v**, **g** und Diphthong: **prøve – prøvde, leve – levde, eie – eide**.\n• **-dde**: Verben, die auf einen betonten Vokal enden: **bo – bodde, tro – trodde, bety – betydde**.",
+          "h": "-ig: kein -t im Neutrum",
+          "body": "Adjektive auf **-ig** bekommen im Neutrum **kein -t**. Im Plural bekommen sie wie immer **-e**:",
           "table": [
             [
-              "Klasse",
-              "Infinitiv",
-              "Präteritum"
+              "en/ei-Wort",
+              "et-Wort",
+              "Plural"
             ],
             [
-              "1: -et",
-              "**snakke, vaske, feire**",
-              "**snakket, vasket, feiret**"
+              "en **hyggelig** kveld",
+              "et **hyggelig** møte",
+              "**hyggelige** venner"
             ],
             [
-              "2: -te",
-              "**spise, kjøpe, lese**",
-              "**spiste, kjøpte, leste**"
+              "en **billig** fisk",
+              "et **billig** brød",
+              "**billige** poteter"
             ],
             [
-              "3: -de",
-              "**prøve, leve**",
-              "**prøvde, levde**"
-            ],
-            [
-              "4: -dde",
-              "**bo, tro**",
-              "**bodde, trodde**"
+              "en **vanskelig** dag",
+              "et **vanskelig** språk",
+              "**vanskelige** ord"
             ]
           ]
         },
         {
-          "h": "Gut zu wissen",
-          "body": "• Ein Doppelkonsonant wird vor **-te** vereinfacht (Lektion 5): **tenne – tente, glemme – glemte, kjenne – kjente**.\n• **være – var** und **ha – hadde** sind unregelmäßig, genauso wie die starken Verben (**synge – sang**). Sie kommen in Lektion 8.\n• Achte auf die Wortstellung: Auch im Präteritum steht das Verb auf Platz 2: **I går fylte Anna tjuefem år.**"
+          "h": "-sk: kein -t bei mehrsilbigen Adjektiven und Nationalitäten",
+          "body": "Mehrsilbige Adjektive auf **-sk** und **alle Nationalitäten** bekommen im Neutrum ebenfalls **kein -t**:\n\n• **et praktisk kjøkken**, **et typisk måltid**\n• **et norsk ord**, **et tysk brød**, **et svensk hotell**\n\nPlural wie immer mit -e: **praktiske, norske, tyske**.\n\nAber: Die einsilbigen **fersk** (frisch) und **frisk** (gesund, frisch) bekommen ein -t: **et ferskt brød**, **et friskt barn**."
+        },
+        {
+          "h": "Adjektive, die schon auf -t enden",
+          "body": "• Endet das Adjektiv auf **Konsonant + t**, kommt nichts dazu: **et kort brev**, **et svart skjerf**.\n• Endet es auf **langen Vokal + t**, wird das t verdoppelt: **søt – et søtt eple**, **hvit – et hvitt hus**."
         }
       ],
       "drills": [
         {
-          "prompt": "I går ___ Anna tjuefem år. (fylle, Präteritum)",
-          "de": "Gestern wurde Anna fünfundzwanzig.",
+          "prompt": "Dere har et ___ kjøkken. (praktisk)",
+          "de": "Ihr habt eine praktische Küche.",
           "answer": [
-            "fylte"
+            "praktisk"
           ],
-          "explain": "Klasse 2: fylle – fylte (ll wird vor -te zu l)."
+          "explain": "Mehrsilbig auf -sk: kein -t im Neutrum."
         },
         {
-          "prompt": "Kari ___ frokostbordet med flagg. (pynte, Präteritum)",
-          "de": "Kari schmückte den Frühstückstisch mit Fähnchen.",
+          "prompt": "Fisk og poteter er et ___ måltid. (norsk)",
+          "de": "Fisch und Kartoffeln sind ein norwegisches Gericht.",
           "answer": [
-            "pyntet",
-            "pynta"
+            "norsk"
           ],
-          "explain": "Klasse 1: pynte – pyntet."
+          "explain": "Nationalitäten bekommen kein -t: et norsk måltid."
         },
         {
-          "prompt": "Om kvelden ___ vi fiskesuppe. (spise, Präteritum)",
-          "de": "Am Abend aßen wir Fischsuppe.",
+          "prompt": "Mads jobber på et ___ hotell. (hyggelig)",
+          "de": "Mads arbeitet in einem netten Hotel.",
           "answer": [
-            "spiste"
+            "hyggelig"
           ],
-          "explain": "Klasse 2: spise – spiste."
+          "explain": "Adjektive auf -ig bekommen kein -t."
         },
         {
-          "prompt": "Kari og Per ___ en ny sykkel til Anna. (kjøpe, Präteritum)",
-          "de": "Kari und Per kauften Anna ein neues Fahrrad.",
+          "prompt": "Brødet er ___. (fersk)",
+          "de": "Das Brot ist frisch.",
           "answer": [
-            "kjøpte"
+            "ferskt"
           ],
-          "explain": "Klasse 2: kjøpe – kjøpte."
+          "explain": "fersk ist einsilbig: Es bekommt das -t (ferskt)."
         },
         {
-          "prompt": "Jeg ___ en tysk sjokoladekake. (bake, Präteritum)",
-          "de": "Ich backte einen deutschen Schokoladenkuchen.",
+          "prompt": "Eplet er ___. (søt)",
+          "de": "Der Apfel ist süß.",
           "answer": [
-            "bakte"
+            "søtt"
           ],
-          "explain": "Klasse 2: bake – bakte."
+          "explain": "Langer Vokal + t: das t wird verdoppelt – søtt."
         },
         {
-          "prompt": "Anna ___ genseren med en gang. (prøve, Präteritum)",
-          "de": "Anna probierte den Pullover sofort an.",
+          "prompt": "Susanne har et ___ skjerf. (svart)",
+          "de": "Susanne hat einen schwarzen Schal.",
           "answer": [
-            "prøvde"
+            "svart"
           ],
-          "explain": "Klasse 3: prøve – prøvde."
+          "explain": "svart endet auf Konsonant + t: keine weitere Endung."
         },
         {
-          "prompt": "Matthias ___ menyen lenge. (studere, Präteritum)",
-          "de": "Matthias studierte lange die Speisekarte.",
+          "prompt": "Er norsk et ___ språk? (vanskelig)",
+          "de": "Ist Norwegisch eine schwierige Sprache?",
           "answer": [
-            "studerte"
+            "vanskelig"
           ],
-          "explain": "Verben auf -ere: -erte."
+          "explain": "Adjektive auf -ig bekommen kein -t."
         },
         {
-          "prompt": "Før ___ Elin i Göteborg. (bo, Präteritum)",
-          "de": "Früher wohnte Elin in Göteborg.",
+          "prompt": "Vi kjøper ___ poteter. (billig)",
+          "de": "Wir kaufen billige Kartoffeln.",
           "answer": [
-            "bodde"
+            "billige"
           ],
-          "explain": "Klasse 4: bo – bodde; Inversion nach „Før“."
+          "explain": "Im Plural bekommen auch -ig-Adjektive ein -e."
         },
         {
-          "prompt": "Jeg ___ at Matthias var sulten. (tro, Präteritum)",
-          "de": "Ich dachte, dass Matthias Hunger hatte.",
+          "prompt": "«Kindergarten» er et ___ ord. (tysk)",
+          "de": "»Kindergarten« ist ein deutsches Wort.",
           "answer": [
-            "trodde"
+            "tysk"
           ],
-          "explain": "Klasse 4: tro – trodde."
+          "explain": "Nationalitäten bekommen im Neutrum kein -t."
         },
         {
-          "prompt": "Etter middagen ___ vi til langt på natt. (danse, Präteritum)",
-          "de": "Nach dem Essen tanzten wir bis spät in die Nacht.",
+          "prompt": "Anna og Susanne er ___ jenter. (hyggelig)",
+          "de": "Anna und Susanne sind nette junge Frauen.",
           "answer": [
-            "danset",
-            "dansa"
+            "hyggelige"
           ],
-          "explain": "Klasse 1: danse – danset."
+          "explain": "Plural: hyggelig + e = hyggelige."
         }
-      ]
+      ],
+      "_todo": "NEW from SEED: Kopie des alten Themas -ig/-sk als Material; daraus ein neues Thema »Adjektive auf -t« machen"
+    },
+    {
+      "id": "g06_at",
+      "title": "at",
+      "summary": "",
+      "sections": [],
+      "drills": [],
+      "_todo": "NEW"
+    },
+    {
+      "id": "g06_m",
+      "title": "-m im Auslaut",
+      "titleNo": "dobbel konsonant",
+      "summary": "Ein Doppelkonsonant wird vor einem weiteren Konsonanten vereinfacht (grønn – grønt), und m wird am Wortende nie verdoppelt (dum – dumme).",
+      "sections": [
+        {
+          "h": "Vor einem Konsonanten: nur einer",
+          "body": "Ein Doppelkonsonant zeigt, dass der Vokal davor kurz ist. Kommt ein weiterer Konsonant dazu, oft das **-t** im Neutrum, schreibt man nur einen:\n\n• **grønn – grønt – grønne**: **et grønt eple**\n• **tynn – tynt – tynne**: **et tynt pledd**\n• **trygg – trygt – trygge**: **Det er trygt her.**\n\nGenauso bei Verben: **kjenne – kjente**, **glemme – glemte**.",
+          "table": [
+            [
+              "en/ei",
+              "et",
+              "Plural"
+            ],
+            [
+              "**grønn**",
+              "**grønt**",
+              "**grønne**"
+            ],
+            [
+              "**tynn**",
+              "**tynt**",
+              "**tynne**"
+            ],
+            [
+              "**trygg**",
+              "**trygt**",
+              "**trygge**"
+            ],
+            [
+              "**dum**",
+              "**dumt**",
+              "**dumme**"
+            ],
+            [
+              "**full**",
+              "**fullt**",
+              "**fulle**"
+            ]
+          ]
+        },
+        {
+          "h": "m am Wortende: nie doppelt",
+          "body": "Ein **m** wird am Wortende nie verdoppelt, auch nach kurzem Vokal. Kommt eine Endung mit Vokal dazu, erscheint das Doppel-m:\n\n• **dum – dumt – dumme**\n• **et rom – rommet – rom – rommene**\n• **et program – programmet**\n• **komme – Kom!**, **glemme – Glem!** (Imperativ)\n\nEine Ausnahme ist **full – fullt** (mit Doppel-l): **Glasset er fullt.** Andere Wörter auf -ll folgen der Hauptregel: **snill – snilt**."
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Bestemor spiser et ___ eple. (grønn)",
+          "de": "Oma isst einen grünen Apfel.",
+          "answer": [
+            "grønt"
+          ],
+          "explain": "Neutrum: grønn + t → grønt (nn wird zu n)."
+        },
+        {
+          "prompt": "Ola har ___ sokker. (grønn)",
+          "de": "Ola hat grüne Socken.",
+          "answer": [
+            "grønne"
+          ],
+          "explain": "Plural: Vokal folgt, also bleibt nn: grønne."
+        },
+        {
+          "prompt": "Kari har et ___ pledd. (tynn)",
+          "de": "Kari hat eine dünne Wolldecke.",
+          "answer": [
+            "tynt"
+          ],
+          "explain": "Neutrum: tynn + t → tynt."
+        },
+        {
+          "prompt": "Det er ___ å bo i Norge. (trygg)",
+          "de": "Es ist sicher, in Norwegen zu wohnen.",
+          "answer": [
+            "trygt"
+          ],
+          "explain": "Neutrum nach det: trygg + t → trygt."
+        },
+        {
+          "prompt": "Det er et ___ spørsmål. (dum)",
+          "de": "Das ist eine dumme Frage.",
+          "answer": [
+            "dumt"
+          ],
+          "explain": "et spørsmål: Neutrum, dum + t → dumt."
+        },
+        {
+          "prompt": "Ola og Anna er ikke ___. (dum)",
+          "de": "Ola und Anna sind nicht dumm.",
+          "answer": [
+            "dumme"
+          ],
+          "explain": "Plural: dum + e → dumme (jetzt mit Doppel-m)."
+        },
+        {
+          "prompt": "Susanne bor i ___ ved siden av kjøkkenet. (rom, bestimmte Form)",
+          "de": "Susanne wohnt im Zimmer neben der Küche.",
+          "answer": [
+            "rommet"
+          ],
+          "explain": "et rom – rommet: Vor der Endung wird m verdoppelt."
+        },
+        {
+          "prompt": "Glasset er ___. (full)",
+          "de": "Das Glas ist voll.",
+          "answer": [
+            "fullt"
+          ],
+          "explain": "Ausnahme: full behält das Doppel-l: fullt."
+        },
+        {
+          "prompt": "___ hit, Ola! (komme, Imperativ)",
+          "de": "Komm her, Ola!",
+          "answer": [
+            "Kom"
+          ],
+          "explain": "Am Wortende kein Doppel-m: kom."
+        },
+        {
+          "prompt": "Ola ser på ___ på TV. (program, bestimmte Form)",
+          "de": "Ola sieht sich die Sendung im Fernsehen an.",
+          "answer": [
+            "programmet"
+          ],
+          "explain": "et program – programmet."
+        }
+      ],
+      "_todo": "NEW from SEED: Kopie des alten Doppelkonsonanten-Themas; daraus »-m im Auslaut« machen"
     }
   ],
   "tf": [

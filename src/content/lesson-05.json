@@ -3,7 +3,7 @@
   "level": "A1",
   "title": "Typisk norsk?",
   "titleDe": "Typisch norwegisch?",
-  "place": "Oslo, hos familien Nygård",
+  "place": "Oslo, bei Familie Nygård",
   "goals": [
     "Du kannst über typisch norwegische Dinge sprechen: brunost, matpakke, tur, kos und dugnad.",
     "Du kannst alle Formen der Personalpronomen verwenden, auch als Objekt: meg, deg, ham, henne, oss, dem.",
@@ -452,78 +452,77 @@
     }
   ],
   "wk": {
-    "title": "Hjemme hos familien",
-    "titleDe": "Zu Hause bei der Familie",
+    "title": "På handletur",
+    "titleDe": "Im Laden",
     "phrases": [
       {
-        "no": "Velkommen hjem!",
-        "de": "Willkommen zu Hause!"
+        "no": "Har du handlelista?",
+        "de": "Hast du die Einkaufsliste?"
       },
       {
-        "no": "Hei, jeg er hjemme!",
-        "de": "Hallo, ich bin wieder da!"
+        "no": "Hvor er melka?",
+        "de": "Wo ist die Milch?"
       },
       {
-        "no": "Føl deg som hjemme!",
-        "de": "Fühl dich wie zu Hause!"
+        "no": "Har dere fersk fisk?",
+        "de": "Habt ihr frischen Fisch?"
       },
       {
-        "no": "Sett deg!",
-        "de": "Setz dich!"
+        "no": "Hva koster en kilo poteter?",
+        "de": "Was kostet ein Kilo Kartoffeln?"
       },
       {
-        "no": "Ta av deg skoene, er du snill.",
-        "de": "Zieh bitte die Schuhe aus.",
-        "note": "In Norwegen zieht man drinnen fast immer die Schuhe aus."
+        "no": "Det koster tjueni kroner kiloen.",
+        "de": "Das kostet neunundzwanzig Kronen das Kilo."
       },
       {
-        "no": "Frokosten er klar!",
-        "de": "Das Frühstück ist fertig!"
+        "no": "Er det på tilbud?",
+        "de": "Ist das im Angebot?"
       },
       {
-        "no": "Vær så god!",
-        "de": "Bitte schön! / Greift zu!",
-        "note": "Wenn man etwas reicht oder zum Essen bittet."
+        "no": "en liter melk",
+        "de": "ein Liter Milch"
       },
       {
-        "no": "Kan du sende meg brunosten?",
-        "de": "Kannst du mir den Braunkäse reichen?"
+        "no": "en pakke smør",
+        "de": "ein Päckchen Butter"
       },
       {
-        "no": "Jeg dekker på bordet.",
-        "de": "Ich decke den Tisch."
+        "no": "et brød",
+        "de": "ein Brot"
       },
       {
-        "no": "Hvem tar oppvasken?",
-        "de": "Wer spült ab?"
+        "no": "et kilo epler",
+        "de": "ein Kilo Äpfel",
+        "note": "kilo kann en oder et sein: en/et kilo."
       },
       {
-        "no": "Det er din tur.",
-        "de": "Du bist dran.",
-        "note": "din = dein (Possessivpronomen, Lektion 13)."
+        "no": "Det er ferskt.",
+        "de": "Das ist frisch."
       },
       {
-        "no": "Kan du hjelpe meg med middagen?",
-        "de": "Kannst du mir beim Abendessen helfen?",
-        "note": "middag = die warme Hauptmahlzeit, meist am späten Nachmittag."
+        "no": "Hvor er kassa?",
+        "de": "Wo ist die Kasse?"
       },
       {
-        "no": "Kos deg!",
-        "de": "Viel Spaß! / Mach es dir schön!"
+        "no": "Trenger du pose?",
+        "de": "Brauchst du eine Tüte?",
+        "note": "Das fragt man an der Kasse; Tüten kosten extra."
       },
       {
-        "no": "Så koselig!",
-        "de": "Wie gemütlich! / Wie schön!"
+        "no": "Nei takk, jeg har pose.",
+        "de": "Nein danke, ich habe eine Tüte."
       },
       {
-        "no": "Jeg legger meg nå. God natt!",
-        "de": "Ich gehe jetzt ins Bett. Gute Nacht!"
+        "no": "Kan jeg betale med kort?",
+        "de": "Kann ich mit Karte zahlen?"
       },
       {
-        "no": "Sov godt!",
-        "de": "Schlaf gut!"
+        "no": "Ha en fin dag!",
+        "de": "Einen schönen Tag noch!"
       }
-    ]
+    ],
+    "_todo": "Startpunkt: alte Wörterkiste »I butikken« (L3)"
   },
   "grammar": [
     {
@@ -683,7 +682,7 @@
     },
     {
       "id": "g05_den_det",
-      "title": "Die 3. Person: den und det",
+      "title": "Gebrauch des Personalpronomens der 3. Person",
       "titleNo": "den og det",
       "summary": "Dinge sind den (en- und ei-Wörter) oder det (et-Wörter); det ist außerdem das „es“ ohne Bezug: Det regner.",
       "sections": [
@@ -813,7 +812,7 @@
     },
     {
       "id": "g05_blaa",
-      "title": "Adjektive wie blå, grå, ny",
+      "title": "blå, grå, ny",
       "titleNo": "adjektiv på trykksterk vokal",
       "summary": "Adjektive auf betonten Vokal bekommen im Neutrum -tt (blå – blått, ny – nytt); god und rød bekommen nur ein t (godt, rødt).",
       "sections": [
@@ -952,6 +951,14 @@
       ]
     },
     {
+      "id": "g05_predikativ",
+      "title": "In prädikativer Stellung",
+      "summary": "",
+      "sections": [],
+      "drills": [],
+      "_todo": "NEW"
+    },
+    {
       "id": "g05_refleksiv",
       "title": "Reflexive Verben",
       "titleNo": "refleksive verb",
@@ -1085,7 +1092,7 @@
     },
     {
       "id": "g05_dobbelkonsonant",
-      "title": "Rechtschreibung: Doppelkonsonanten",
+      "title": "Vereinfachung von Doppelkonsonanten",
       "titleNo": "dobbel konsonant",
       "summary": "Ein Doppelkonsonant wird vor einem weiteren Konsonanten vereinfacht (grønn – grønt), und m wird am Wortende nie verdoppelt (dum – dumme).",
       "sections": [
@@ -1211,7 +1218,8 @@
           ],
           "explain": "et program – programmet."
         }
-      ]
+      ],
+      "_todo": "TRIM: -m im Auslaut entfernen (kommt in L6, g06_m)"
     }
   ],
   "tf": [

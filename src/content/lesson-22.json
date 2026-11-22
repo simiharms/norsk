@@ -3,7 +3,7 @@
   "level": "B2",
   "title": "Hurra for 17. mai!",
   "titleDe": "Hurra für den 17. Mai!",
-  "place": "Oslo, Karl Johans gate und das Schloss",
+  "place": "Oslo, Karl Johan und das Schloss",
   "goals": [
     "Du kannst über den 17. Mai erzählen: Frühstück, Bunad, Kinderumzug, Russ, Eis und Würstchen.",
     "Du kennst die wichtigsten Daten der norwegischen Geschichte: 1814 (Verfassung von Eidsvoll) und 1905.",
@@ -559,583 +559,395 @@
           "de": "die 1970er-Jahre"
         }
       ]
+    },
+    {
+      "id": "x22b",
+      "title": "Norsk nasjonalfølelse",
+      "titleDe": "",
+      "kind": "info",
+      "lines": [],
+      "glossary": [],
+      "_todo": "NEW TEXT"
     }
   ],
   "wk": {
-    "title": "Norsk nasjonalfølelse",
-    "titleDe": "Norwegisches Nationalgefühl",
+    "title": "Noen datauttrykk",
+    "titleDe": "Einige Computerwörter",
     "phrases": [
       {
-        "no": "Gratulerer med dagen!",
-        "de": "Herzlichen Glückwunsch!",
-        "note": "Am 17. Mai gratuliert man sich gegenseitig – wie zum Geburtstag."
+        "no": "en datamaskin / en PC",
+        "de": "ein Computer",
+        "note": "PC spricht man [pe-se]; bestimmt: PC-en."
       },
       {
-        "no": "Hipp hipp hurra!",
-        "de": "Hipp, hipp, hurra!"
+        "no": "en bærbar PC",
+        "de": "ein Laptop",
+        "note": "Oft nur: en bærbar."
       },
       {
-        "no": "Hurra for 17. mai!",
-        "de": "Hurra für den 17. Mai!"
+        "no": "et nettbrett",
+        "de": "ein Tablet"
       },
       {
-        "no": "Ja, vi elsker dette landet",
-        "de": "Ja, wir lieben dieses Land",
-        "note": "Die erste Zeile der Nationalhymne; der Text ist von Bjørnstjerne Bjørnson."
+        "no": "et tastatur og en skjerm",
+        "de": "eine Tastatur und ein Bildschirm"
       },
       {
-        "no": "å gå i barnetoget",
-        "de": "im Kinderumzug mitgehen"
+        "no": "å logge inn / å logge ut",
+        "de": "sich einloggen / sich ausloggen",
+        "note": "Auch: logge på / logge av."
       },
       {
-        "no": "å heise flagget",
-        "de": "die Flagge hissen"
+        "no": "Jeg har glemt passordet mitt.",
+        "de": "Ich habe mein Passwort vergessen."
       },
       {
-        "no": "å vifte med flagget",
-        "de": "die Fahne schwenken"
+        "no": "et brukernavn",
+        "de": "ein Benutzername"
       },
       {
-        "no": "å gå i bunad",
-        "de": "Tracht tragen",
-        "note": "Auch: å ha på seg bunad."
+        "no": "å laste ned en app",
+        "de": "eine App herunterladen"
       },
       {
-        "no": "17. mai er barnas dag.",
-        "de": "Der 17. Mai ist der Tag der Kinder."
+        "no": "å laste opp bilder",
+        "de": "Fotos hochladen"
       },
       {
-        "no": "Jeg er stolt av å være norsk.",
-        "de": "Ich bin stolz darauf, Norweger(in) zu sein."
+        "no": "å legge ut et innlegg",
+        "de": "einen Beitrag veröffentlichen (posten)"
       },
       {
-        "no": "Alt for Norge",
-        "de": "Alles für Norwegen",
-        "note": "Wahlspruch von König Haakon VII. und König Harald V."
+        "no": "å dele en lenke",
+        "de": "einen Link teilen"
       },
       {
-        "no": "Norge i rødt, hvitt og blått",
-        "de": "Norwegen in Rot, Weiß und Blau",
-        "note": "Titel eines beliebten Liedes, das man am 17. Mai singt."
+        "no": "Klikk på lenken!",
+        "de": "Klick auf den Link!"
       },
       {
-        "no": "Det er typisk norsk å være god.",
-        "de": "Es ist typisch norwegisch, gut zu sein.",
-        "note": "Berühmter Satz aus der Neujahrsansprache von Ministerpräsidentin Gro Harlem Brundtland (1992); heute oft ironisch zitiert."
+        "no": "å lagre et dokument",
+        "de": "ein Dokument speichern"
       },
       {
-        "no": "Nordmenn er født med ski på beina.",
-        "de": "Norweger werden mit Skiern an den Füßen geboren.",
-        "note": "Scherzhafte Redensart."
+        "no": "å slette en fil",
+        "de": "eine Datei löschen"
       },
       {
-        "no": "Ut på tur, aldri sur.",
-        "de": "Wer wandern geht, ist nie schlecht gelaunt.",
-        "note": "Bekannter Spruch: Draußen in der Natur ist man nicht „sauer“."
+        "no": "å sende en e-post med vedlegg",
+        "de": "eine E-Mail mit Anhang schicken"
       },
       {
-        "no": "Borte bra, men hjemme best.",
-        "de": "Die Fremde ist schön, aber zu Hause ist es am besten."
+        "no": "å søke på nettet",
+        "de": "im Internet suchen"
       },
       {
-        "no": "å ha et avslappet forhold til flagget",
-        "de": "ein entspanntes Verhältnis zur Flagge haben"
+        "no": "PC-en har hengt seg opp.",
+        "de": "Der Computer hat sich aufgehängt."
       },
       {
-        "no": "å kjenne seg norsk",
-        "de": "sich norwegisch fühlen"
+        "no": "Skjermen frøs.",
+        "de": "Der Bildschirm ist eingefroren."
       },
       {
-        "no": "å være glad i landet sitt",
-        "de": "sein Land lieben",
-        "note": "glad i = gern haben, lieben (nicht: froh)."
+        "no": "Batteriet er nesten tomt – jeg må lade telefonen.",
+        "de": "Der Akku ist fast leer – ich muss das Handy laden."
+      },
+      {
+        "no": "Har dere trådløst nett her? Hva er passordet?",
+        "de": "Habt ihr hier WLAN? Wie ist das Passwort?",
+        "note": "Man sagt auch einfach wifi [vai-fai]."
+      },
+      {
+        "no": "å oppdatere appen",
+        "de": "die App aktualisieren"
+      },
+      {
+        "no": "å skrive en kommentar",
+        "de": "einen Kommentar schreiben"
       }
     ]
   },
   "grammar": [
     {
-      "id": "g22_verbalsubstantiv",
-      "title": "Verbalsubstantive",
-      "titleNo": "verbalsubstantiv",
-      "summary": "Aus vielen Verben bildest du Substantive mit -ing/-ning, -else, -sjon oder mit dem bloßen Stamm – und die Endung verrät oft das Geschlecht.",
+      "id": "g22_preposisjon_genitiv",
+      "title": "Präpositionalverbindung als Ersatz für den Genitiv",
+      "titleNo": "genitiv med preposisjon",
+      "summary": "Statt Genitiv-s verwendet man oft eine Präposition: rommet til Inga, taket på huset, Universitetet i Tromsø, en venn av meg.",
       "sections": [
         {
-          "h": "-ing und -ning",
-          "body": "Die häufigste Endung ist **-ing**. Sie kommt an den Stamm des Verbs (Infinitiv ohne -e): **feire → feiring** (Feier), **forklare → forklaring** (Erklärung), **bestille → bestilling** (Bestellung), **trene → trening** (Training). Bei manchen Verben heißt die Endung **-ning**: **løse → løsning** (Lösung), **bygge → bygning** (Gebäude), **lese → lesning** (Lektüre). Endet der Stamm schon auf -n, kommt einfach -ing dazu: **åpne → åpning** (Öffnung), **tegne → tegning** (Zeichnung).\n\nOft entspricht **-ing** dem deutschen **-ung**: Erklärung – **forklaring**, Lösung – **løsning**.\n\n• Geschlecht: maskulin **oder** feminin, beides ist korrekt: **en/ei løsning – løsningen/løsninga**, **en/ei feiring – feiringen/feiringa**.\n• Der Plural endet immer auf **-er**: **feiringer, løsninger, forklaringer**."
-        },
-        {
-          "h": "-else und -sjon",
-          "body": "**-else** bildet meist abstrakte Wörter: **oppleve → en opplevelse** (Erlebnis), **føle → en følelse** (Gefühl), **forstå → en forståelse** (Verständnis), **hende → en hendelse** (Ereignis).\n\n**-sjon** gehört zu den Fremdwörtern auf **-ere**: **demonstrere → en demonstrasjon**, **invitere → en invitasjon**, **informere → en informasjon**. Manchmal ändert sich der Stamm: **diskutere → en diskusjon**.\n\n• Verbalsubstantive auf **-else** und **-sjon** sind maskulin: **følelsen, invitasjonen**. (Eine bekannte Ausnahme ist **et spøkelse**, das Gespenst.)\n• Achtung, Rechtschreibung: Norwegisch schreibt **-sjon**, nicht -tion: **en nasjon**, **en tradisjon**."
-        },
-        {
-          "h": "Der bloße Stamm",
-          "body": "Manche Verben bilden ein Substantiv ganz ohne Endung, oft ein Neutrum: **kjøpe → et kjøp** (Kauf), **besøke → et besøk** (Besuch), **hoppe → et hopp** (Sprung), **smile → et smil** (Lächeln). Es gibt aber auch maskuline: **starte → en start**, **drømme → en drøm**. Manchmal ist das Substantiv sogar gleich wie der Infinitiv: **uttale → en uttale** (Aussprache), **ønske → et ønske** (Wunsch).\n\nHier hilft nur: das Geschlecht mitlernen. Im Deutschen ist es ähnlich (kaufen – der Kauf).",
+          "h": "til bei Personen und Besitzern",
+          "body": "Im gesprochenen Norwegisch sagt man selten **Ingas rom**. Viel häufiger ist: Substantiv in der **bestimmten Form** + **til** + Besitzer:\n\n• **rommet til Inga** = Ingas Zimmer\n• **faren til Anna** = Annas Vater\n• **bilen til naboen** = das Auto des Nachbarn\n\nAchtung: Nach dem Genitiv-s ist das Substantiv unbestimmt (**Ingas rom**), mit **til** ist es bestimmt (**rommet til Inga**). Nach **til** steht ein Pronomen in der Objektform: **boka til ham**, **kofferten til henne** – meist sagt man aber einfach **boka hans**, **kofferten hennes**.",
           "table": [
             [
-              "Verb",
-              "Substantiv",
-              "Geschlecht",
+              "mit -s",
+              "mit Präposition",
               "Deutsch"
             ],
             [
-              "**feire**",
-              "**feiring**",
-              "m/f",
-              "die Feier"
+              "**Ingas rom**",
+              "**rommet til Inga**",
+              "Ingas Zimmer"
             ],
             [
-              "**løse**",
-              "**løsning**",
-              "m/f",
-              "die Lösung"
+              "**Pers bil**",
+              "**bilen til Per**",
+              "Pers Auto"
             ],
             [
-              "**oppleve**",
-              "**opplevelse**",
-              "m",
-              "das Erlebnis"
+              "**professorens kontor**",
+              "**kontoret til professoren**",
+              "das Büro des Professors"
+            ]
+          ]
+        },
+        {
+          "h": "på, i und av bei Dingen, Orten und Mengen",
+          "body": "Bei Dingen benutzt man fast nie -s, sondern eine Präposition. Welche, hängt von der Bedeutung ab:\n\n• **på** für Teile und Eigenschaften einer Sache: **taket på huset** (das Dach des Hauses), **prisen på boka** (der Preis des Buches), **navnet på gata** (der Name der Straße), **døra på kjøleskapet**\n• **i** für Orte und Institutionen an einem Ort: **Universitetet i Tromsø**, **lysene i byen**, **ordføreren i Bergen**\n• **av** für „einer von / ein Teil von“ und für Bilder: **en venn av meg** (ein Freund von mir), **en av studentene**, **halvparten av forelesningen**, **slutten av filmen**, **et bilde av Inga**\n\nDie Wahl der Präposition muss man teilweise einfach lernen – das Deutsche hilft hier wenig, denn dort steht meist der Genitiv oder „von“."
+        },
+        {
+          "h": "Typische Fehler",
+          "body": "• Nicht **Inga sitt rom** schreiben – das hört man zwar oft im Gespräch, aber in der Schriftsprache heißt es **rommet til Inga** oder **Ingas rom**.\n• Nach dem -s nie die bestimmte Form: **Annas bror**, nicht *Annas broren*.\n• „Ein Freund von mir“ heißt **en venn av meg**, nicht *en venn fra meg*."
+        }
+      ],
+      "drills": [
+        {
+          "prompt": "Rommet ___ Inga er lite og ryddig.",
+          "de": "Ingas Zimmer ist klein und ordentlich.",
+          "answer": [
+            "til"
+          ],
+          "explain": "Besitzer ist eine Person: bestimmte Form + til (rommet til Inga)."
+        },
+        {
+          "prompt": "Det ligger mye snø på taket ___ biblioteket.",
+          "de": "Auf dem Dach der Bibliothek liegt viel Schnee.",
+          "answer": [
+            "på"
+          ],
+          "explain": "Teil einer Sache: på (taket på biblioteket)."
+        },
+        {
+          "prompt": "Susanne studerer ved Universitetet ___ Tromsø.",
+          "de": "Susanne studiert an der Universität Tromsø.",
+          "answer": [
+            "i"
+          ],
+          "explain": "Institution an einem Ort: i (Universitetet i Tromsø)."
+        },
+        {
+          "prompt": "Hva er prisen ___ boka?",
+          "de": "Was kostet das Buch? (Wie hoch ist der Preis des Buches?)",
+          "answer": [
+            "på"
+          ],
+          "explain": "Preis, Name, Farbe einer Sache: på (prisen på boka)."
+        },
+        {
+          "prompt": "Hun forsto bare halvparten ___ forelesningen.",
+          "de": "Sie verstand nur die Hälfte der Vorlesung.",
+          "answer": [
+            "av"
+          ],
+          "explain": "Ein Teil von etwas: av (halvparten av forelesningen)."
+        },
+        {
+          "prompt": "Vet du navnet ___ gata der Inga bor?",
+          "de": "Weißt du den Namen der Straße, in der Inga wohnt?",
+          "answer": [
+            "på"
+          ],
+          "explain": "Der Name einer Sache: navnet på gata."
+        },
+        {
+          "prompt": "Mora ___ Inga bor fortsatt i Kautokeino.",
+          "de": "Ingas Mutter wohnt immer noch in Kautokeino.",
+          "answer": [
+            "til"
+          ],
+          "explain": "Person als Besitzer: mora til Inga."
+        },
+        {
+          "prompt": "Inga viste Susanne et bilde ___ familien sin.",
+          "de": "Inga zeigte Susanne ein Bild ihrer Familie.",
+          "answer": [
+            "av"
+          ],
+          "explain": "Ein Bild von jemandem: et bilde av …"
+        },
+        {
+          "prompt": "Han er en god venn ___ meg.",
+          "de": "Er ist ein guter Freund von mir.",
+          "answer": [
+            "av"
+          ],
+          "explain": "„Ein Freund von mir“ = en venn av meg (einer aus der Gruppe meiner Freunde)."
+        },
+        {
+          "prompt": "Fargen ___ huset er gul.",
+          "de": "Die Farbe des Hauses ist gelb.",
+          "answer": [
+            "på"
+          ],
+          "explain": "Eigenschaft einer Sache (Farbe, Preis, Name): på (fargen på huset)."
+        },
+        {
+          "prompt": "Dette er en ___ de beste bøkene om dialekter.",
+          "de": "Das ist eines der besten Bücher über Dialekte.",
+          "answer": [
+            "av"
+          ],
+          "explain": "„Eines von / einer von“: en av, et av."
+        },
+        {
+          "prompt": "Lysene ___ byen glitret i mørket.",
+          "de": "Die Lichter der Stadt glitzerten in der Dunkelheit.",
+          "answer": [
+            "i",
+            "fra"
+          ],
+          "explain": "Etwas, das sich an einem Ort befindet: i (lysene i byen). Auch lysene fra byen ist richtig."
+        }
+      ],
+      "_todo": "NEW from SEED: Kopie des alten Genitiv-Umschreibungs-Themas; daraus das erweiterte Thema machen (på, i, av, for, ved, over, fra)"
+    },
+    {
+      "id": "g22_stedsadverb_gradboying",
+      "title": "Steigerung einiger Ortsadverbien/-adjektive",
+      "summary": "",
+      "sections": [],
+      "drills": [],
+      "_todo": "NEW"
+    },
+    {
+      "id": "g22_artikkel",
+      "title": "Auslassung des Artikels",
+      "titleNo": "substantiv uten artikkel",
+      "summary": "Kein Artikel bei Beruf, Nationalität und Religion nach være/bli (Anna er medisinstudent) und in vielen festen Wendungen (ha bil, ta buss).",
+      "sections": [
+        {
+          "h": "Beruf, Nationalität, Religion",
+          "body": "Nach **være** (sein) und **bli** (werden) steht bei Beruf, Nationalität und Religion **kein Artikel** – wie im Deutschen:\n\n• **Anna er medisinstudent.** – Anna ist Medizinstudentin.\n• **Matthias er ingeniør.** – Matthias ist Ingenieur.\n• **Hun er norsk.** / **Hun er nordmann.** – Sie ist Norwegerin.\n• **Han er katolikk.** – Er ist Katholik.\n\nAber: Steht ein Adjektiv davor, braucht man den Artikel – auch wie im Deutschen: **Torunn er en god lærer.** (eine gute Lehrerin)"
+        },
+        {
+          "h": "Feste Wendungen ohne Artikel",
+          "body": "In vielen festen Wendungen steht auf Norwegisch kein Artikel – manchmal wie im Deutschen (Zeit haben, Geburtstag haben), oft aber anders (ein Auto haben, den Bus nehmen). Lerne sie als Ganzes:",
+          "table": [
+            [
+              "Norwegisch",
+              "Deutsch"
             ],
             [
-              "**føle**",
-              "**følelse**",
-              "m",
-              "das Gefühl"
+              "**Har du bil?**",
+              "Hast du ein Auto?"
             ],
             [
-              "**invitere**",
-              "**invitasjon**",
-              "m",
-              "die Einladung"
+              "**Jeg tar buss.**",
+              "Ich nehme den Bus."
             ],
             [
-              "**besøke**",
-              "**besøk**",
-              "n",
-              "der Besuch"
+              "**Har du tid?**",
+              "Hast du Zeit?"
             ],
             [
-              "**kjøpe**",
-              "**kjøp**",
-              "n",
-              "der Kauf"
+              "**Hun har bursdag.**",
+              "Sie hat Geburtstag."
+            ],
+            [
+              "**Vi lager middag.**",
+              "Wir kochen das Abendessen."
+            ],
+            [
+              "**Trenger du pose?**",
+              "Brauchst du eine Tüte?"
             ]
           ]
         }
       ],
       "drills": [
         {
-          "prompt": "Matthias ber Per om en kort ___. (forklare)",
-          "de": "Matthias bittet Per um eine kurze Erklärung.",
+          "prompt": "Anna er ___. (Medizinstudentin)",
+          "de": "Anna ist Medizinstudentin.",
           "answer": [
-            "forklaring"
+            "medisinstudent"
           ],
-          "explain": "forklare + -ing → forklaring (wie Erklärung)."
+          "explain": "Beruf nach være: kein Artikel."
         },
         {
-          "prompt": "17. mai i Oslo var en fantastisk ___ for Susanne. (oppleve)",
-          "de": "Der 17. Mai in Oslo war ein fantastisches Erlebnis für Susanne.",
+          "prompt": "Kari er ___. (Lehrerin)",
+          "de": "Kari ist Lehrerin.",
           "answer": [
-            "opplevelse"
+            "lærer"
           ],
-          "explain": "oppleve + -else → opplevelse (maskulin)."
+          "explain": "Beruf nach være: kein Artikel."
         },
         {
-          "prompt": "Det er ikke lett å finne en god ___ på problemet. (løse)",
-          "de": "Es ist nicht leicht, eine gute Lösung für das Problem zu finden.",
+          "prompt": "Matthias er ___. (Ingenieur)",
+          "de": "Matthias ist Ingenieur.",
           "answer": [
-            "løsning"
+            "ingeniør"
           ],
-          "explain": "løse + -ning → løsning."
+          "explain": "Beruf nach være: kein Artikel."
         },
         {
-          "prompt": "___ på Karl Johan varer i mange timer. (feire, bestimmte Form)",
-          "de": "Die Feier auf der Karl Johan dauert viele Stunden.",
+          "prompt": "I kveld er Anna ___. (Köchin)",
+          "de": "Heute Abend ist Anna Köchin.",
           "answer": [
-            "Feiringa",
-            "Feiringen"
+            "kokk"
           ],
-          "explain": "feire → feiring; als m/f-Wort geht feiringa oder feiringen."
+          "explain": "Beruf/Rolle nach være: kein Artikel."
         },
         {
-          "prompt": "Tusen takk for ___ til festen! (invitere, bestimmte Form)",
-          "de": "Vielen Dank für die Einladung zum Fest!",
-          "answer": [
-            "invitasjonen"
-          ],
-          "explain": "invitere → invitasjon (-ere → -sjon), maskulin: invitasjonen."
-        },
-        {
-          "prompt": "Da barna ropte «Hurra!», fikk Susanne en rar ___ i magen. (føle)",
-          "de": "Als die Kinder „Hurra!“ riefen, bekam Susanne ein seltsames Gefühl im Bauch.",
-          "answer": [
-            "følelse"
-          ],
-          "explain": "føle + -else → følelse."
-        },
-        {
-          "prompt": "Det var en stor ___ foran Stortinget i går. (demonstrere)",
-          "de": "Gestern gab es eine große Demonstration vor dem Parlament.",
-          "answer": [
-            "demonstrasjon"
-          ],
-          "explain": "demonstrere → demonstrasjon; geschrieben mit -sjon."
-        },
-        {
-          "prompt": "Takk for ___ i Bergen! Det var veldig hyggelig. (besøke, bestimmte Form)",
-          "de": "Danke für den Besuch in Bergen! Es war sehr schön.",
-          "answer": [
-            "besøket"
-          ],
-          "explain": "besøke → et besøk (bloßer Stamm, Neutrum) → besøket."
-        },
-        {
-          "prompt": "Bunaden var et dyrt ___, men den varer hele livet. (kjøpe)",
-          "de": "Die Tracht war ein teurer Kauf, aber sie hält ein ganzes Leben.",
-          "answer": [
-            "kjøp"
-          ],
-          "explain": "kjøpe → et kjøp (Neutrum, ohne Endung)."
-        },
-        {
-          "prompt": "Vi hadde en lang ___ om nasjonalfølelse. (diskutere)",
-          "de": "Wir hatten eine lange Diskussion über Nationalgefühl.",
-          "answer": [
-            "diskusjon"
-          ],
-          "explain": "diskutere → diskusjon: hier ändert sich der Stamm (-t- fällt weg)."
-        },
-        {
-          "prompt": "Den norske ___ er ikke alltid lett for tyskere. (uttale, bestimmte Form)",
-          "de": "Die norwegische Aussprache ist für Deutsche nicht immer leicht.",
-          "answer": [
-            "uttalen"
-          ],
-          "explain": "uttale (Verb) → en uttale (Substantiv, gleiche Form) → uttalen."
-        },
-        {
-          "prompt": "Hun hadde ___ fin opplevelse på 17. mai. (en/ei/et)",
-          "de": "Sie hatte ein schönes Erlebnis am 17. Mai.",
+          "prompt": "Torunn er ___ god lærer.",
+          "de": "Torunn ist eine gute Lehrerin.",
           "answer": [
             "en"
           ],
-          "explain": "Wörter auf -else sind maskulin: en opplevelse."
-        }
-      ]
-    },
-    {
-      "id": "g22_sammensatte_ord",
-      "title": "Zusammengesetzte Substantive",
-      "titleNo": "sammensatte ord",
-      "summary": "Zusammengesetzte Substantive schreibst du wie im Deutschen in einem Wort; Geschlecht und Endungen bestimmt das letzte Glied.",
-      "sections": [
-        {
-          "h": "Ein Wort, nicht zwei",
-          "body": "Wie im Deutschen schreibt man Zusammensetzungen in einem Wort: **nasjonaldag**, **barnetog**, **juletre**, **flaggstang**. Getrenntschreibung (**særskriving**) gilt in Norwegen als typischer Fehler, vor allem unter dem Einfluss des Englischen – und sie kann den Sinn verändern:\n\n• **lammelår** = Lammkeule, aber **lamme lår** = gelähmte Oberschenkel\n• **røykfritt** = rauchfrei, aber **røyk fritt** = rauch, so viel du willst!\n• **en engelsklærer** = ein Englischlehrer, aber **en engelsk lærer** = ein englischer Lehrer\n\nMit Zahlen und Abkürzungen steht ein Bindestrich: **17. mai-feiring**, **fotball-VM**, **e-post**."
+          "explain": "Mit Adjektiv braucht man den Artikel: en god lærer."
         },
         {
-          "h": "Fugenlaute: -s- und -e-",
-          "body": "Wie im Deutschen (Arbeit**s**tag) steht zwischen den Teilen oft ein Fugenlaut:\n\n• **-s-**: **arbeidsdag**, **hverdagsliv**, **grunnlovsdag**, **fødselsdag**\n• **-e-**: **barnetog**, **juletre**, **russebuss**\n• ohne Fuge: **nasjonaldag**, **flaggstang**, **sølvsølje**, **skolekorps** (skole endet schon auf -e)\n\nEine feste Regel gibt es nicht – lerne die Wörter als Ganzes. Nach **-ing**, **-sjon** und **-het** steht aber fast immer **-s-**: **regjeringssjef**, **informasjonsmøte**, **sikkerhetsbelte**."
+          "prompt": "Elin er ___ hyggelig svenske.",
+          "de": "Elin ist eine nette Schwedin.",
+          "answer": [
+            "en"
+          ],
+          "explain": "Mit Adjektiv braucht man den Artikel: en hyggelig svenske."
         },
         {
-          "h": "Das letzte Glied entscheidet",
-          "body": "Geschlecht und Beugung kommen – wie im Deutschen – vom letzten Teil:\n\n• **et tog → et barnetog – barnetoget – barnetog – barnetoga/barnetogene**\n• **en dag → en nasjonaldag – nasjonaldagen – nasjonaldager**\n• **ei stang → ei flaggstang – flaggstanga – flaggstenger**\n• **en buss → en russebuss – russebussen – russebusser**\n\nVorsicht: Das norwegische Geschlecht ist oft anders als das deutsche, z. B. **et barnetog** (der Kinderumzug), **et juletre** (der Weihnachtsbaum).",
-          "table": [
-            [
-              "erstes Glied",
-              "letztes Glied",
-              "Zusammensetzung",
-              "Deutsch"
-            ],
-            [
-              "barn",
-              "et tog",
-              "**et barnetog**",
-              "der Kinderumzug"
-            ],
-            [
-              "nasjonal",
-              "en dag",
-              "**en nasjonaldag**",
-              "der Nationalfeiertag"
-            ],
-            [
-              "grunnlov",
-              "en dag",
-              "**en grunnlovsdag**",
-              "der Verfassungstag"
-            ],
-            [
-              "flagg",
-              "ei stang",
-              "**ei flaggstang**",
-              "die Fahnenstange"
-            ],
-            [
-              "hverdag",
-              "et liv",
-              "**et hverdagsliv**",
-              "das Alltagsleben"
-            ]
-          ]
+          "prompt": "Susanne er ___. (Deutsche)",
+          "de": "Susanne ist Deutsche.",
+          "answer": [
+            "tysk",
+            "tysker"
+          ],
+          "explain": "Nationalität nach være: kein Artikel."
+        },
+        {
+          "prompt": "Ola har ___ i dag. (Geburtstag)",
+          "de": "Ola hat heute Geburtstag.",
+          "answer": [
+            "bursdag"
+          ],
+          "explain": "Feste Wendung ohne Artikel: ha bursdag."
+        },
+        {
+          "prompt": "Mads har ikke ___ i dag. (Zeit)",
+          "de": "Mads hat heute keine Zeit.",
+          "answer": [
+            "tid"
+          ],
+          "explain": "Feste Wendung ohne Artikel: ha tid."
+        },
+        {
+          "prompt": "Hun er ___. (Katholikin)",
+          "de": "Sie ist Katholikin.",
+          "answer": [
+            "katolikk"
+          ],
+          "explain": "Religion nach være: kein Artikel."
         }
       ],
-      "drills": [
-        {
-          "prompt": "I år var det ___ veldig langt barnetog. (en/ei/et)",
-          "de": "Dieses Jahr war es ein sehr langer Kinderumzug.",
-          "answer": [
-            "et"
-          ],
-          "explain": "Das letzte Glied entscheidet: et tog → et barnetog."
-        },
-        {
-          "prompt": "Kongefamilien vinker til ___ fra balkongen. (barn + tog, bestimmte Form)",
-          "de": "Die Königsfamilie winkt dem Kinderumzug vom Balkon aus zu.",
-          "answer": [
-            "barnetoget"
-          ],
-          "explain": "barn + e + tog = barnetog, bestimmt: barnetoget."
-        },
-        {
-          "prompt": "17. mai er Norges ___. (nasjonal + dag)",
-          "de": "Der 17. Mai ist Norwegens Nationalfeiertag.",
-          "answer": [
-            "nasjonaldag"
-          ],
-          "explain": "In einem Wort, ohne Fugenlaut; nach dem Genitiv unbestimmt."
-        },
-        {
-          "prompt": "Per kom sent hjem etter en lang ___. (arbeid + dag)",
-          "de": "Per kam nach einem langen Arbeitstag spät nach Hause.",
-          "answer": [
-            "arbeidsdag"
-          ],
-          "explain": "Mit Fugen-s wie im Deutschen: arbeidsdag (Arbeitstag)."
-        },
-        {
-          "prompt": "Ola gikk i ___ til han var seks år. (barn + hage)",
-          "de": "Ola ging in den Kindergarten, bis er sechs Jahre alt war.",
-          "answer": [
-            "barnehage",
-            "barnehagen"
-          ],
-          "explain": "barn + e + hage = barnehage (Fugen-e); gå i barnehage = in den Kindergarten gehen."
-        },
-        {
-          "prompt": "Flagget henger i ___ i hagen. (flagg + stang, bestimmte Form)",
-          "de": "Die Fahne hängt an der Fahnenstange im Garten.",
-          "answer": [
-            "flaggstanga",
-            "flaggstangen"
-          ],
-          "explain": "ei stang → ei flaggstang → flaggstanga (oder flaggstangen)."
-        },
-        {
-          "prompt": "Kari har festet ___ på bunaden. (sølv + sølje, bestimmte Form)",
-          "de": "Kari hat die Silberbrosche an der Tracht befestigt.",
-          "answer": [
-            "sølvsølja",
-            "sølvsøljen"
-          ],
-          "explain": "ei sølje → ei sølvsølje → sølvsølja (oder sølvsøljen)."
-        },
-        {
-          "prompt": "Russen kjører rundt i den røde ___. (russ + buss, bestimmte Form)",
-          "de": "Die Russ fahren im roten Russ-Bus herum.",
-          "answer": [
-            "russebussen"
-          ],
-          "explain": "Mit Fugen-e: russebuss; nach den røde steht die bestimmte Form: russebussen."
-        },
-        {
-          "prompt": "Det norske ___ er roligere enn det tyske. (hverdag + liv, bestimmte Form)",
-          "de": "Das norwegische Alltagsleben ist ruhiger als das deutsche.",
-          "answer": [
-            "hverdagslivet"
-          ],
-          "explain": "hverdag + s + liv = hverdagsliv (Neutrum, wegen et liv) → hverdagslivet."
-        },
-        {
-          "prompt": "Matthias spiste tre ___ til frokost. (rund + stykke, Plural)",
-          "de": "Matthias aß drei Brötchen zum Frühstück.",
-          "answer": [
-            "rundstykker"
-          ],
-          "explain": "et rundstykke – rundstykker: der Plural richtet sich nach et stykke."
-        },
-        {
-          "prompt": "På ___ går barna i tog. (grunnlov + dag, bestimmte Form)",
-          "de": "Am Verfassungstag laufen die Kinder im Umzug mit.",
-          "answer": [
-            "grunnlovsdagen"
-          ],
-          "explain": "grunnlov + s + dag = grunnlovsdag, bestimmt: grunnlovsdagen."
-        },
-        {
-          "prompt": "Mange tyskere har ikke så sterk ___ som nordmenn. (nasjonal + følelse)",
-          "de": "Viele Deutsche haben kein so starkes Nationalgefühl wie die Norweger.",
-          "answer": [
-            "nasjonalfølelse"
-          ],
-          "explain": "In einem Wort: nasjonalfølelse (maskulin wie en følelse)."
-        }
-      ]
-    },
-    {
-      "id": "g22_perfektum_partisipp",
-      "title": "Das Partizip Perfekt als Adjektiv",
-      "titleNo": "perfektum partisipp som adjektiv",
-      "summary": "Das Partizip Perfekt kann wie ein Adjektiv vor dem Substantiv stehen; Partizipien auf -et bekommen im Plural und in der bestimmten Form -ede.",
-      "sections": [
-        {
-          "h": "Die schwachen Verben",
-          "body": "Wie im Deutschen (der geschmückte Bus) kann das Partizip Perfekt vor einem Substantiv stehen: **en pyntet buss**, **et dekket bord**, **nybakte rundstykker**. Die Endungen hängen von der Verbklasse ab:\n\n• Klasse 1 (**-et**): im Singular unverändert, im Plural und in der bestimmten Form **-ede**: **en pyntet buss – pyntede busser – den pyntede bussen**. Mit der a-Form bleibt alles gleich: **pynta busser**.\n• Klassen 2–4 (**-t**, **-d**): wie ein normales Adjektiv, Plural und bestimmte Form **-e**: **kjøpte kaker**, **den håndsydde bunaden**.\n• Im Neutrum kommt **kein** zusätzliches -t dazu: **et pyntet hus**, **et kjøpt brød**, **et håndsydd skjørt**.",
-          "table": [
-            [
-              "Klasse",
-              "en/ei",
-              "et",
-              "Plural / bestimmt"
-            ],
-            [
-              "1: pynte",
-              "**pyntet**",
-              "**pyntet**",
-              "**pyntede**"
-            ],
-            [
-              "2: kjøpe",
-              "**kjøpt**",
-              "**kjøpt**",
-              "**kjøpte**"
-            ],
-            [
-              "3: prøve",
-              "**prøvd**",
-              "**prøvd**",
-              "**prøvde**"
-            ],
-            [
-              "4: sy",
-              "**sydd**",
-              "**sydd**",
-              "**sydde**"
-            ]
-          ]
-        },
-        {
-          "h": "Die starken Verben",
-          "body": "Starke Partizipien enden auf **-et**. Im Plural und in der bestimmten Form fällt das e weg, und die Endung ist **-ne**:\n\n• **skrive – skrevet**: **et skrevet brev – det skrevne språket – skrevne regler**\n• **stjele – stjålet**: **en stjålet sykkel – den stjålne sykkelen**\n• **brekke – brukket**: **et brukket bein – brukne ribbein**\n\nIm Singular unbestimmt bleibt die Form also gleich: **en stjålet sykkel**, **et stjålet kamera**."
-        },
-        {
-          "h": "Nach være und bli",
-          "body": "Nach **være** und **bli** steht das Partizip prädikativ: **Bordet er dekket.** **Bunaden er håndsydd.** Im Plural ist die unveränderte Form üblich: **Bussene er pyntet.** Bei den Klassen 2–4 geht auch **-e**: **Butikkene er stengt/stengte.**\n\n• **være** + Partizip = Zustand: **Bordet er dekket** (ist gedeckt).\n• **bli** + Partizip = Vorgang, also Passiv (Lektion 18): **Bordet ble dekket** (wurde gedeckt).\n• Viele Partizipien sind feste Adjektive geworden: **gift** (verheiratet), **kjent** (bekannt), **opptatt** (beschäftigt), **forelsket** (verliebt)."
-        }
-      ],
-      "drills": [
-        {
-          "prompt": "På 17. mai ser man mange ___ busser i byen. (pynte)",
-          "de": "Am 17. Mai sieht man viele geschmückte Busse in der Stadt.",
-          "answer": [
-            "pyntede",
-            "pynta"
-          ],
-          "explain": "Klasse 1 im Plural: pyntet → pyntede (mit a-Form: pynta)."
-        },
-        {
-          "prompt": "Den ___ bunaden til Kari er fra Sunnmøre. (hånd + sy)",
-          "de": "Karis handgenähte Tracht ist aus Sunnmøre.",
-          "answer": [
-            "håndsydde"
-          ],
-          "explain": "Bestimmte Form: håndsydd + -e → den håndsydde bunaden."
-        },
-        {
-          "prompt": "Til frokost spiste vi ___ rundstykker. (ny + bake)",
-          "de": "Zum Frühstück aßen wir frisch gebackene Brötchen.",
-          "answer": [
-            "nybakte"
-          ],
-          "explain": "Klasse 2 (bake – bakt) im Plural: nybakte."
-        },
-        {
-          "prompt": "Bordet er ___, og champagnen er kald. (dekke)",
-          "de": "Der Tisch ist gedeckt, und der Champagner ist kalt.",
-          "answer": [
-            "dekket",
-            "dekka",
-            "dekt"
-          ],
-          "explain": "være + Partizip = Zustand; Singular Neutrum: dekket (oder dekka/dekt)."
-        },
-        {
-          "prompt": "Et ___ brød er ikke like godt som et hjemmebakt. (kjøpe)",
-          "de": "Ein gekauftes Brot ist nicht so gut wie ein selbst gebackenes.",
-          "answer": [
-            "kjøpt"
-          ],
-          "explain": "Neutrum: kjøpt – kein zusätzliches -t."
-        },
-        {
-          "prompt": "Han fant den ___ sykkelen sin bak stasjonen. (stjele)",
-          "de": "Er fand sein gestohlenes Fahrrad hinter dem Bahnhof.",
-          "answer": [
-            "stjålne"
-          ],
-          "explain": "Starkes Verb, bestimmte Form: stjålet → den stjålne sykkelen."
-        },
-        {
-          "prompt": "Susanne fikk et ___ brev fra Matthias. (hånd + skrive)",
-          "de": "Susanne bekam einen handgeschriebenen Brief von Matthias.",
-          "answer": [
-            "håndskrevet"
-          ],
-          "explain": "Singular unbestimmt: håndskrevet, auch im Neutrum ohne Änderung."
-        },
-        {
-          "prompt": "Det ___ språket i Norge er bokmål eller nynorsk. (skrive)",
-          "de": "Die geschriebene Sprache in Norwegen ist Bokmål oder Nynorsk.",
-          "answer": [
-            "skrevne"
-          ],
-          "explain": "Starkes Partizip in der bestimmten Form: skrevet → det skrevne språket."
-        },
-        {
-          "prompt": "Gutten har et ___ bein og kan ikke spille fotball. (brekke)",
-          "de": "Der Junge hat ein gebrochenes Bein und kann nicht Fußball spielen.",
-          "answer": [
-            "brukket"
-          ],
-          "explain": "Singular unbestimmt: brekke – brukket → et brukket bein."
-        },
-        {
-          "prompt": "Mange butikker er ___ på 17. mai. (stenge)",
-          "de": "Viele Geschäfte sind am 17. Mai geschlossen.",
-          "answer": [
-            "stengt",
-            "stengte"
-          ],
-          "explain": "Prädikativ im Plural: meist unverändert stengt, bei Klasse 2 geht auch stengte."
-        },
-        {
-          "prompt": "Kari er stolt av den ___ sølvsølja. (arve)",
-          "de": "Kari ist stolz auf die geerbte Silberbrosche.",
-          "answer": [
-            "arvede",
-            "arva"
-          ],
-          "explain": "Klasse 1, bestimmte Form: arvet → den arvede sølvsølja (mit a-Form: arva)."
-        },
-        {
-          "prompt": "Ola ser at Matthias er ___ i Susanne. (forelske)",
-          "de": "Ola sieht, dass Matthias in Susanne verliebt ist.",
-          "answer": [
-            "forelsket",
-            "forelska"
-          ],
-          "explain": "forelsket ist ein festes Adjektiv geworden: være forelsket i noen."
-        }
-      ]
+      "_todo": "NEW from SEED: Kopie des alten Artikel-Themas; daraus die erweiterten Fälle machen (feste Wendungen, som, Titel …)"
     }
   ],
   "tf": [

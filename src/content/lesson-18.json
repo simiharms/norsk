@@ -293,7 +293,7 @@
   "extra": [
     {
       "id": "x18a",
-      "title": "Jul i Norge",
+      "title": "God jul!",
       "titleDe": "Weihnachten in Norwegen",
       "kind": "info",
       "intro": "Vom ersten Advent bis zum Julebukk: die wichtigsten Weihnachtsbräuche in Norwegen.",
@@ -456,97 +456,15 @@
     }
   ],
   "wk": {
-    "title": "God jul!",
-    "titleDe": "Frohe Weihnachten!",
-    "phrases": [
-      {
-        "no": "God jul!",
-        "de": "Frohe Weihnachten!"
-      },
-      {
-        "no": "God jul og godt nytt år!",
-        "de": "Frohe Weihnachten und ein gutes neues Jahr!"
-      },
-      {
-        "no": "Takk, i like måte!",
-        "de": "Danke, gleichfalls!"
-      },
-      {
-        "no": "Riktig god jul til deg og familien din!",
-        "de": "Frohe Weihnachten dir und deiner Familie!"
-      },
-      {
-        "no": "Godt nyttår!",
-        "de": "Frohes neues Jahr!"
-      },
-      {
-        "no": "Godt nytt år, og takk for det gamle!",
-        "de": "Ein gutes neues Jahr, und danke für das alte!",
-        "note": "Typischer Neujahrsgruß: Man bedankt sich für das gemeinsame Jahr."
-      },
-      {
-        "no": "Takk for i år!",
-        "de": "Danke für dieses Jahr!",
-        "note": "Sagt man beim letzten Treffen vor dem Jahreswechsel, z. B. mit Kollegen."
-      },
-      {
-        "no": "Hvor skal du feire jul?",
-        "de": "Wo feierst du Weihnachten?"
-      },
-      {
-        "no": "Jeg skal hjem til jul.",
-        "de": "Ich fahre über Weihnachten nach Hause."
-      },
-      {
-        "no": "Hva ønsker du deg til jul?",
-        "de": "Was wünschst du dir zu Weihnachten?"
-      },
-      {
-        "no": "Har du kjøpt alle julegavene?",
-        "de": "Hast du alle Weihnachtsgeschenke gekauft?"
-      },
-      {
-        "no": "Jeg har pakket inn gavene.",
-        "de": "Ich habe die Geschenke eingepackt."
-      },
-      {
-        "no": "Skal du på julebord i år?",
-        "de": "Gehst du dieses Jahr zur Weihnachtsfeier?"
-      },
-      {
-        "no": "Vi pynter juletreet på lille julaften.",
-        "de": "Wir schmücken den Weihnachtsbaum am 23. Dezember."
-      },
-      {
-        "no": "Vi har bakt sju slag.",
-        "de": "Wir haben sieben Sorten Plätzchen gebacken."
-      },
-      {
-        "no": "Det er god julestemning i byen.",
-        "de": "In der Stadt herrscht schöne Weihnachtsstimmung."
-      },
-      {
-        "no": "Vi går rundt juletreet og synger.",
-        "de": "Wir gehen um den Weihnachtsbaum herum und singen."
-      },
-      {
-        "no": "Takk for gaven! Den var akkurat det jeg ønsket meg.",
-        "de": "Danke für das Geschenk! Es war genau das, was ich mir gewünscht habe."
-      },
-      {
-        "no": "Julenissen kommer etter middagen.",
-        "de": "Der Weihnachtsmann kommt nach dem Abendessen."
-      },
-      {
-        "no": "Butikkene er stengt på første juledag.",
-        "de": "Die Geschäfte sind am ersten Weihnachtstag geschlossen."
-      }
-    ]
+    "title": "Din tosk!",
+    "titleDe": "",
+    "phrases": [],
+    "_todo": "NEW"
   },
   "grammar": [
     {
       "id": "g18_passiv",
-      "title": "Das Passiv",
+      "title": "Passiv",
       "titleNo": "passiv",
       "summary": "s-Passiv für Regeln und Allgemeines (Døra lukkes kl. 22), bli-Passiv für Vorgänge in allen Zeiten (Treet ble pyntet), være + Partizip für Zustände (Butikken er stengt); der Urheber steht mit av.",
       "sections": [
@@ -869,7 +787,7 @@
     },
     {
       "id": "g18_slik",
-      "title": "slik und sånn",
+      "title": "Das Demonstrativpronomen slik/sånn",
       "titleNo": "slik og sånn",
       "summary": "slik (eher geschrieben) und sånn (gesprochen) bedeuten „so ein, solch“: en sånn kake, et sånt hus, sånne julesanger, slike ting – und als Adverb „so“: Gjør det slik! Sånn er det.",
       "sections": [
