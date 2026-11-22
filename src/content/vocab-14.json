@@ -274,8 +274,8 @@
     "lesson": 14,
     "wk": true,
     "ex": {
-      "no": "Flyttebilen kom på onsdag.",
-      "de": "Der Umzugswagen kam am Mittwoch."
+      "no": "Matthias leide en liten flyttebil på lørdag.",
+      "de": "Matthias hat am Samstag einen kleinen Umzugswagen gemietet."
     }
   },
   {
@@ -1332,5 +1332,449 @@
       "de": "Oben in den Bergen lag schon Schnee."
     },
     "note": "Verb: det snør = es schneit."
+  },
+  {
+    "id": "w14_trehus",
+    "no": "trehus",
+    "de": "das Holzhaus",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "trehus",
+      "trehuset",
+      "trehus",
+      "trehusa/trehusene"
+    ],
+    "lesson": 14,
+    "wk": true,
+    "ex": {
+      "no": "Matthias bor i et gammelt trehus i Sandviken.",
+      "de": "Matthias wohnt in einem alten Holzhaus in Sandviken."
+    }
+  },
+  {
+    "id": "w14_fru",
+    "no": "fru",
+    "de": "Frau (vor dem Namen)",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "fru",
+      "frua",
+      "fruer",
+      "fruene"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Fru Solheim bor nede.",
+      "de": "Frau Solheim wohnt unten."
+    },
+    "note": "Als Anrede heute selten; man duzt und nennt meist den Vornamen."
+  },
+  {
+    "id": "w14_barnebarn",
+    "no": "barnebarn",
+    "de": "das Enkelkind",
+    "deAlt": [
+      "der Enkel",
+      "die Enkelin"
+    ],
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "barnebarn",
+      "barnebarnet",
+      "barnebarn",
+      "barnebarna"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Fru Solheim har fem barnebarn.",
+      "de": "Frau Solheim hat fünf Enkelkinder."
+    }
+  },
+  {
+    "id": "w14_haape",
+    "no": "håpe",
+    "de": "hoffen",
+    "pos": "verb",
+    "vf": [
+      "håper",
+      "håpet",
+      "håpet",
+      "håp"
+    ],
+    "vg": "1",
+    "lesson": 14,
+    "ex": {
+      "no": "Jeg håper at du kommer snart.",
+      "de": "Ich hoffe, dass du bald kommst."
+    }
+  },
+  {
+    "id": "w14_dessuten",
+    "no": "dessuten",
+    "de": "außerdem",
+    "pos": "adv",
+    "lesson": 14,
+    "ex": {
+      "no": "Leiligheten er lys. Dessuten er utsikten fin.",
+      "de": "Die Wohnung ist hell. Außerdem ist die Aussicht schön."
+    },
+    "note": "Am Satzanfang folgt Inversion: Dessuten kan jeg sykle."
+  },
+  {
+    "id": "w14_garasje",
+    "no": "garasje",
+    "de": "die Garage",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "garasje",
+      "garasjen",
+      "garasjer",
+      "garasjene"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Kassene sto i garasjen til kollegaen hans.",
+      "de": "Die Kisten standen in der Garage seines Kollegen."
+    }
+  },
+  {
+    "id": "w14_falle",
+    "no": "falle",
+    "de": "fallen",
+    "pos": "verb",
+    "vf": [
+      "faller",
+      "falt",
+      "falt",
+      "fall"
+    ],
+    "vg": "sterk",
+    "lesson": 14,
+    "ex": {
+      "no": "Han falt nesten ned trappa.",
+      "de": "Er wäre fast die Treppe hinuntergefallen."
+    },
+    "note": "Gleiche Form im Präteritum und Partizip: falt."
+  },
+  {
+    "id": "w14_kjokkenvindu",
+    "no": "kjøkkenvindu",
+    "de": "das Küchenfenster",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "kjøkkenvindu",
+      "kjøkkenvinduet",
+      "kjøkkenvinduer",
+      "kjøkkenvinduene"
+    ],
+    "lesson": 14,
+    "wk": true,
+    "ex": {
+      "no": "Fra kjøkkenvinduet ser han Fløyen.",
+      "de": "Vom Küchenfenster aus sieht er den Fløyen."
+    }
+  },
+  {
+    "id": "w14_vaskemaskin",
+    "no": "vaskemaskin",
+    "de": "die Waschmaschine",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "vaskemaskin",
+      "vaskemaskinen",
+      "vaskemaskiner",
+      "vaskemaskinene"
+    ],
+    "lesson": 14,
+    "wk": true,
+    "ex": {
+      "no": "Vaskemaskinen står i kjelleren.",
+      "de": "Die Waschmaschine steht im Keller."
+    }
+  },
+  {
+    "id": "w14_flytting",
+    "no": "flytting",
+    "de": "der Umzug",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "flytting",
+      "flyttingen",
+      "flyttinger",
+      "flyttingene"
+    ],
+    "lesson": 14,
+    "wk": true,
+    "ex": {
+      "no": "Kollegaen hjalp ham med flyttingen.",
+      "de": "Der Kollege half ihm beim Umzug."
+    }
+  },
+  {
+    "id": "w14_trives",
+    "no": "trives",
+    "de": "sich wohlfühlen",
+    "pos": "verb",
+    "vf": [
+      "trives",
+      "trivdes",
+      "trivdes",
+      ""
+    ],
+    "vg": "3",
+    "lesson": 14,
+    "wk": true,
+    "ex": {
+      "no": "Matthias trives godt i Sandviken.",
+      "de": "Matthias fühlt sich in Sandviken wohl."
+    },
+    "note": "Ein s-Verb (mehr dazu in Lektion 18); sehr häufig."
+  },
+  {
+    "id": "w14_bli_glad_i",
+    "no": "bli glad i",
+    "de": "lieb gewinnen",
+    "pos": "phrase",
+    "lesson": 14,
+    "ex": {
+      "no": "Jeg tror jeg kommer til å bli glad i byen.",
+      "de": "Ich glaube, ich werde die Stadt lieb gewinnen."
+    },
+    "note": "være glad i = gern haben; bli glad i = lieb gewinnen."
+  },
+  {
+    "id": "w14_like_seg",
+    "no": "like seg",
+    "de": "sich wohlfühlen",
+    "pos": "verb",
+    "vf": [
+      "liker seg",
+      "likte seg",
+      "likt seg",
+      "lik deg"
+    ],
+    "vg": "2",
+    "lesson": 14,
+    "ex": {
+      "no": "Susanne kommer til å like seg i Tromsø.",
+      "de": "Susanne wird sich in Tromsø wohlfühlen."
+    }
+  },
+  {
+    "id": "w14_morketid",
+    "no": "mørketid",
+    "de": "die Polarnacht",
+    "deAlt": [
+      "die dunkle Zeit"
+    ],
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "mørketid",
+      "mørketida"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "I mørketida kommer ikke sola over horisonten.",
+      "de": "In der Polarnacht kommt die Sonne nicht über den Horizont."
+    },
+    "note": "In Tromsø ungefähr von Ende November bis Mitte Januar."
+  },
+  {
+    "id": "w14_video",
+    "no": "video",
+    "de": "das Video",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "video",
+      "videoen",
+      "videoer",
+      "videoene"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Vi snakker på video hver søndag.",
+      "de": "Wir reden jeden Sonntag per Video."
+    },
+    "note": "snakke på video = videotelefonieren."
+  },
+  {
+    "id": "w14_enda",
+    "no": "enda",
+    "de": "noch (beim Komparativ)",
+    "deAlt": [
+      "noch"
+    ],
+    "pos": "adv",
+    "lesson": 14,
+    "ex": {
+      "no": "Bergen er enda vakrere enn jeg trodde.",
+      "de": "Bergen ist noch schöner, als ich dachte."
+    },
+    "note": "enda + Komparativ = noch: enda større, enda lenger borte."
+  },
+  {
+    "id": "w14_derfor",
+    "no": "derfor",
+    "de": "deshalb, darum",
+    "deAlt": [
+      "deshalb",
+      "darum",
+      "daher"
+    ],
+    "pos": "adv",
+    "lesson": 14,
+    "ex": {
+      "no": "Det regner mye i Bergen. Derfor trenger man regntøy.",
+      "de": "In Bergen regnet es viel. Deshalb braucht man Regenkleidung."
+    },
+    "note": "Adverb: Am Satzanfang folgt Inversion (Derfor trenger man …)."
+  },
+  {
+    "id": "w14_for_at",
+    "no": "for at",
+    "de": "damit",
+    "pos": "conj",
+    "lesson": 14,
+    "ex": {
+      "no": "Hun snakker langsomt for at han skal forstå.",
+      "de": "Sie spricht langsam, damit er versteht."
+    },
+    "note": "Mit Subjektwechsel; bei gleichem Subjekt: for å + Infinitiv."
+  },
+  {
+    "id": "w14_slik_at",
+    "no": "slik at",
+    "de": "sodass; damit",
+    "deAlt": [
+      "sodass",
+      "damit"
+    ],
+    "pos": "conj",
+    "lesson": 14,
+    "ex": {
+      "no": "Det regnet, slik at vi ble våte.",
+      "de": "Es regnete, sodass wir nass wurden."
+    }
+  },
+  {
+    "id": "w14_saa_at",
+    "no": "så … at",
+    "de": "so … dass",
+    "deAlt": [
+      "sodass"
+    ],
+    "pos": "conj",
+    "lesson": 14,
+    "ex": {
+      "no": "Trappa er så bratt at han nesten falt.",
+      "de": "Die Treppe ist so steil, dass er fast gefallen wäre."
+    }
+  },
+  {
+    "id": "w14_som_om",
+    "no": "som om",
+    "de": "als ob",
+    "pos": "conj",
+    "lesson": 14,
+    "ex": {
+      "no": "Hun snakker til ham som om han var barnebarnet hennes.",
+      "de": "Sie redet mit ihm, als ob er ihr Enkel wäre."
+    },
+    "note": "Meist mit Präteritum; kein Konjunktiv nötig."
+  },
+  {
+    "id": "w14_tenke_paa",
+    "no": "tenke på",
+    "de": "denken an",
+    "deAlt": [
+      "nachdenken über"
+    ],
+    "pos": "verb",
+    "vf": [
+      "tenker på",
+      "tenkte på",
+      "tenkt på",
+      "tenk på"
+    ],
+    "vg": "2",
+    "lesson": 14,
+    "ex": {
+      "no": "Matthias tenker mye på Susanne.",
+      "de": "Matthias denkt viel an Susanne."
+    }
+  },
+  {
+    "id": "w14_tenke_aa",
+    "no": "tenke å",
+    "de": "vorhaben (zu)",
+    "deAlt": [
+      "vorhaben",
+      "planen"
+    ],
+    "pos": "phrase",
+    "lesson": 14,
+    "ex": {
+      "no": "Matthias tenker å ha innflyttingsfest.",
+      "de": "Matthias hat vor, eine Einweihungsparty zu geben."
+    }
+  },
+  {
+    "id": "w14_tenke_seg_om",
+    "no": "tenke seg om",
+    "de": "überlegen",
+    "deAlt": [
+      "nachdenken"
+    ],
+    "pos": "verb",
+    "vf": [
+      "tenker seg om",
+      "tenkte seg om",
+      "tenkt seg om",
+      "tenk deg om"
+    ],
+    "vg": "2",
+    "lesson": 14,
+    "ex": {
+      "no": "Tenk deg om før du svarer!",
+      "de": "Überleg, bevor du antwortest!"
+    }
+  },
+  {
+    "id": "w14_tro_paa",
+    "no": "tro på",
+    "de": "glauben an",
+    "pos": "verb",
+    "vf": [
+      "tror på",
+      "trodde på",
+      "trodd på",
+      "tro på"
+    ],
+    "vg": "4",
+    "lesson": 14,
+    "ex": {
+      "no": "Tror du på troll, bestemor?",
+      "de": "Glaubst du an Trolle, Oma?"
+    }
+  },
+  {
+    "id": "w14_paa_video",
+    "no": "på video",
+    "de": "per Video",
+    "pos": "phrase",
+    "lesson": 14,
+    "ex": {
+      "no": "Vi kan snakke på video hver søndag.",
+      "de": "Wir können jeden Sonntag per Video reden."
+    }
   }
 ]

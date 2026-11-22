@@ -109,10 +109,6 @@
         "de": "als ob ich ihr Enkel wäre (som om + Präteritum)"
       },
       {
-        "no": "koselig",
-        "de": "gemütlich"
-      },
-      {
         "no": "en smal gang",
         "de": "ein schmaler Flur"
       },
@@ -169,8 +165,8 @@
         "de": "nass dasitzen"
       },
       {
-        "no": "kasser",
-        "de": "Kisten (ei kasse)"
+        "no": "Kassene mine",
+        "de": "meine Kisten (ei kasse = Kiste)"
       },
       {
         "no": "hadde stått",
@@ -235,6 +231,10 @@
       {
         "no": "Hilsen",
         "de": "Gruß (am Briefende: Viele Grüße)"
+      },
+      {
+        "no": "PS",
+        "de": "PS (Nachsatz am Briefende)"
       }
     ]
   },

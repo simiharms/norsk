@@ -1311,7 +1311,7 @@
         },
         {
           "h": "Ohne »am«, mit mer/mest und så … som mulig",
-          "body": "Der Superlativ des Adverbs steht ohne Artikel und ohne »am«: **Hvem går fortest på ski?** (Wer läuft am schnellsten Ski?) – ✗ *den fortest*.\n\nLange Adverbien steigert man mit **mer** und **mest**: **Togene i Sveits går mer presist. Hun forklarte det mest praktisk.**\n\n»möglichst« drückst du mit **så … som mulig** aus: **så fort som mulig** (möglichst schnell), **så lenge som mulig** (so lange wie möglich)."
+          "body": "Der Superlativ des Adverbs steht ohne Artikel und ohne »am«: **Hvem går fortest på ski?** (Wer läuft am schnellsten Ski?) – ✗ *den fortest*.\n\nLange Adverbien steigert man mit **mer** und **mest**: **Togene i Sveits går mer presist enn her.**\n\n»möglichst« drückst du mit **så … som mulig** aus: **så fort som mulig** (möglichst schnell), **så lenge som mulig** (so lange wie möglich)."
         }
       ],
       "drills": [
@@ -1557,7 +1557,7 @@
         },
         {
           "h": "Subjekt oder Objekt?",
-          "body": "Hat der Nebensatz schon ein anderes Subjekt, ist das Fragewort Objekt – dann **kein som**:\n\n• **Vet du hvem hun møtte?** (hun ist Subjekt) – Weißt du, wen sie getroffen hat?\n• **Jeg vet ikke hva han sa.** – aber: **Jeg vet ikke hva som skjedde.**\n\nTest: Ersetze das Fragewort durch **han** oder **det**. Kann es allein vor dem Verb stehen (**Det skjedde.**), ist es Subjekt → **som**.\n\nIn direkten Fragen steht **nie** som: **Hvem kommer?** (✗ *Hvem som kommer?*). Anders ist nur die Konstruktion **Hvem er det som kommer?** (Wer ist es, der kommt?)."
+          "body": "Hat der Nebensatz schon ein anderes Subjekt, ist das Fragewort Objekt – dann **kein som**:\n\n• **Vet du hvem hun møtte?** (hun ist Subjekt) – Weißt du, wen sie getroffen hat?\n• **Jeg vet ikke hva han sa.** – aber: **Jeg vet ikke hva som skjedde.**\n\nTest: Mach aus dem Nebensatz einen Aussagesatz mit **det** statt des Fragewortes. **Det skjedde.** – det ist Subjekt → **hva som skjedde**. **Han sa det.** – det ist Objekt → **hva han sa**.\n\nIn direkten Fragen steht **nie** som: **Hvem kommer?** (✗ *Hvem som kommer?*). Anders ist nur die Konstruktion **Hvem er det som kommer?** (Wer ist es, der kommt?)."
         },
         {
           "h": "hvem som helst, hva som helst, hvor som helst",
@@ -1767,7 +1767,7 @@
       ]
     },
     {
-      "q": "Hvorfor vil ikke Mads campe?",
+      "q": "Hvorfor vil ikke Mads bo på camping?",
       "qDe": "Warum will Mads nicht zelten?",
       "answer": "Fordi det er altfor kaldt å sove i telt i oktober.",
       "answerDe": "Weil es im Oktober viel zu kalt ist, um im Zelt zu schlafen.",
@@ -1924,6 +1924,7 @@
         "Jeg vil helst bo på ei hytte.",
         "Jeg vil helst bo på en hytte.",
         "Jeg vil helst bo i ei hytte.",
+        "Jeg vil helst bo i en hytte.",
         "Jeg vil helst bo på hytte."
       ]
     },

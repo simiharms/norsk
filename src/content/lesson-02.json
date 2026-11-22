@@ -525,9 +525,9 @@
         "de": "Ich bin ein bisschen müde."
       },
       {
-        "no": "Lenge siden!",
+        "no": "Lenge siden sist!",
         "de": "Lange nicht gesehen!",
-        "note": "Wenn man jemanden lange nicht getroffen hat."
+        "note": "Wenn man jemanden lange nicht getroffen hat. Kurz: »Lenge siden!«"
       },
       {
         "no": "Takk for sist!",
@@ -555,8 +555,7 @@
       },
       {
         "no": "God natt!",
-        "de": "Gute Nacht!",
-        "note": "Nur vor dem Schlafengehen – nicht als Abschiedsgruß am Abend."
+        "de": "Gute Nacht!"
       }
     ]
   },
@@ -1191,11 +1190,10 @@
       ]
     },
     {
-      "de": "Komm her und probier mal!",
+      "de": "Komm her und nimm ein Stückchen!",
       "no": [
-        "Kom hit og smak!",
         "Kom hit og ta en bit!",
-        "Kom hit og prøv!"
+        "Kom og ta en bit!"
       ]
     }
   ],
