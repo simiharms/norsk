@@ -48,8 +48,8 @@
       },
       {
         "s": "a",
-        "no": "Ja, vi leste det på videregående. Og for to år siden så jeg det i Bergen.",
-        "de": "Ja, wir haben es auf dem Gymnasium gelesen. Und vor zwei Jahren habe ich es in Bergen gesehen."
+        "no": "Ja, vi leste det på videregående. For to år siden så jeg det i Bergen.",
+        "de": "Ja, wir haben es auf dem Gymnasium gelesen. Vor zwei Jahren habe ich es in Bergen gesehen."
       },
       {
         "s": "m",
@@ -83,8 +83,8 @@
       },
       {
         "s": "m",
-        "no": "Akkurat! Og Torvald behandler henne som et lite barn. Men vent til slutten, Susanne …",
-        "de": "Genau! Und Torvald behandelt sie wie ein kleines Kind. Aber warte bis zum Schluss, Susanne …"
+        "no": "Akkurat! Torvald behandler henne som et lite barn. Men vent til slutten, Susanne …",
+        "de": "Genau! Torvald behandelt sie wie ein kleines Kind. Aber warte bis zum Schluss, Susanne …"
       },
       {
         "s": "s",
@@ -148,8 +148,8 @@
       },
       {
         "s": "j",
-        "no": "Kanskje litt. Dere snakket i et kvarter, og jeg sto der med fire kaffekopper.",
-        "de": "Vielleicht ein bisschen. Ihr habt eine Viertelstunde lang geredet, und ich stand da mit vier Kaffeetassen."
+        "no": "Kanskje litt. Jeg likte ikke at dere snakket i et kvarter. Jeg sto der med fire kaffekopper!",
+        "de": "Vielleicht ein bisschen. Mir hat nicht gefallen, dass ihr eine Viertelstunde lang geredet habt. Ich stand da mit vier Kaffeetassen!"
       },
       {
         "s": "m",
@@ -183,8 +183,8 @@
       },
       {
         "s": "a",
-        "no": "Jeg kjenner en liten pizzarestaurant like ved Stortinget. Den er åpen til klokka ett. Kom!",
-        "de": "Ich kenne eine kleine Pizzeria ganz in der Nähe des Stortings. Sie hat bis ein Uhr geöffnet. Kommt!"
+        "no": "Jeg kjenner en liten pizzarestaurant like ved Stortinget. Den er åpen til klokka ett.",
+        "de": "Ich kenne eine kleine Pizzeria ganz in der Nähe des Stortings. Sie hat bis ein Uhr geöffnet."
       },
       {
         "s": "s",
@@ -263,10 +263,6 @@
         "de": "warte bis zum Schluss"
       },
       {
-        "no": "Ikke si noe!",
-        "de": "Sag nichts!"
-      },
-      {
         "no": "hvordan det slutter",
         "de": "wie es ausgeht"
       },
@@ -329,6 +325,10 @@
       {
         "no": "Hva er det?",
         "de": "Was ist los?"
+      },
+      {
+        "no": "Jeg likte ikke at",
+        "de": "Mir hat nicht gefallen, dass (like – likte)"
       },
       {
         "no": "hadde det jo så hyggelig",
@@ -1459,7 +1459,7 @@
       "s": "Anna så «Et dukkehjem» i Bergen for to år siden.",
       "de": "Anna hat »Et dukkehjem« vor zwei Jahren in Bergen gesehen.",
       "a": true,
-      "why": "Sie sagt: »Og for to år siden så jeg det i Bergen.«"
+      "why": "Sie sagt: »For to år siden så jeg det i Bergen.«"
     },
     {
       "s": "Matthias så stykket på en scene i Bern.",

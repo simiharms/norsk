@@ -1776,5 +1776,47 @@
       "no": "Vi kan snakke på video hver søndag.",
       "de": "Wir können jeden Sonntag per Video reden."
     }
+  },
+  {
+    "id": "w14_hoy",
+    "no": "høy",
+    "de": "hoch",
+    "deAlt": [
+      "laut"
+    ],
+    "pos": "adj",
+    "forms": [
+      "høy",
+      "høyt",
+      "høye",
+      "høyere",
+      "høyest"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Husleia er høyere enn han hadde håpet.",
+      "de": "Die Miete ist höher, als er gehofft hatte."
+    }
+  },
+  {
+    "id": "w14_lav",
+    "no": "lav",
+    "de": "niedrig",
+    "deAlt": [
+      "leise"
+    ],
+    "pos": "adj",
+    "forms": [
+      "lav",
+      "lavt",
+      "lave",
+      "lavere",
+      "lavest"
+    ],
+    "lesson": 14,
+    "ex": {
+      "no": "Husleia er ikke lav, men utsikten er fin.",
+      "de": "Die Miete ist nicht niedrig, aber die Aussicht ist schön."
+    }
   }
 ]
