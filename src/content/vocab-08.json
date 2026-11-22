@@ -66,70 +66,6 @@
     }
   },
   {
-    "id": "w08_klokke",
-    "no": "klokke",
-    "de": "die Uhr",
-    "pos": "noun",
-    "gender": "f",
-    "forms": [
-      "klokke",
-      "klokka/klokken",
-      "klokker",
-      "klokkene"
-    ],
-    "lesson": 8,
-    "ex": {
-      "no": "Hvor mye er klokka?",
-      "de": "Wie spät ist es?"
-    },
-    "note": "Bei der Uhrzeit: klokka fem = um fünf (Uhr) – ohne Präposition."
-  },
-  {
-    "id": "w08_kvart_over",
-    "no": "kvart over",
-    "de": "Viertel nach",
-    "pos": "phrase",
-    "lesson": 8,
-    "ex": {
-      "no": "Arne kom kvart over fem.",
-      "de": "Arne kam um Viertel nach fünf."
-    },
-    "note": "kvart på = Viertel vor. Eine Viertelstunde = et kvarter."
-  },
-  {
-    "id": "w08_halv",
-    "no": "halv",
-    "de": "halb",
-    "pos": "adj",
-    "forms": [
-      "halv",
-      "halvt",
-      "halve"
-    ],
-    "lesson": 8,
-    "ex": {
-      "no": "Klokka er halv seks.",
-      "de": "Es ist halb sechs."
-    },
-    "note": "halv seks = halb sechs (5.30), wie im Deutschen. en halv time = eine halbe Stunde."
-  },
-  {
-    "id": "w08_over",
-    "no": "over",
-    "de": "nach (bei der Uhrzeit); über",
-    "deAlt": [
-      "über",
-      "nach"
-    ],
-    "pos": "prep",
-    "lesson": 8,
-    "ex": {
-      "no": "Klokka er ti over sju.",
-      "de": "Es ist zehn nach sieben."
-    },
-    "note": "Bei der Uhrzeit: over = nach, på = vor."
-  },
-  {
     "id": "w08_klippfisk",
     "no": "klippfisk",
     "de": "der Klippfisch (getrockneter Salzkabeljau)",
@@ -265,6 +201,60 @@
     }
   },
   {
+    "id": "w07_noen_gang",
+    "no": "noen gang",
+    "de": "jemals, schon einmal",
+    "pos": "phrase",
+    "lesson": 8,
+    "ex": {
+      "no": "Har du noen gang vært i Bergen?",
+      "de": "Warst du schon einmal in Bergen?"
+    }
+  },
+  {
+    "id": "w08_vestlandet",
+    "no": "Vestlandet",
+    "de": "Westnorwegen",
+    "pos": "name",
+    "lesson": 8,
+    "ex": {
+      "no": "Ålesund og Bergen ligger på Vestlandet.",
+      "de": "Ålesund und Bergen liegen in Westnorwegen."
+    },
+    "note": "på Vestlandet = in Westnorwegen (mit på)."
+  },
+  {
+    "id": "w08_heller",
+    "no": "heller",
+    "de": "auch nicht (nach Verneinung)",
+    "pos": "adv",
+    "lesson": 8,
+    "ex": {
+      "no": "Jeg har ikke vært i Ålesund, og ikke i Bergen heller.",
+      "de": "Ich war nicht in Ålesund und auch nicht in Bergen."
+    },
+    "note": "Nach einer Verneinung steht heller statt også: Jeg liker ikke fisk. – Ikke jeg heller."
+  },
+  {
+    "id": "w08_sommer",
+    "no": "sommer",
+    "de": "der Sommer",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "sommer",
+      "sommeren",
+      "somrer",
+      "somrene"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "Neste sommer reiser Susanne til Ålesund.",
+      "de": "Nächsten Sommer fährt Susanne nach Ålesund."
+    },
+    "note": "neste sommer = nächsten Sommer; om sommeren = im Sommer (immer)."
+  },
+  {
     "id": "w08_olje",
     "no": "olje",
     "de": "das Öl",
@@ -298,24 +288,6 @@
       "de": "Arne redet über das Ölgeld."
     },
     "note": "Nur Plural, wie penger (Geld)."
-  },
-  {
-    "id": "w08_begynne",
-    "no": "begynne",
-    "de": "anfangen, beginnen",
-    "pos": "verb",
-    "vf": [
-      "begynner",
-      "begynte",
-      "begynt",
-      "begynn"
-    ],
-    "vg": "2",
-    "lesson": 8,
-    "ex": {
-      "no": "Middagen begynner klokka fem.",
-      "de": "Das Essen beginnt um fünf Uhr."
-    }
   },
   {
     "id": "w08_gaffel",
@@ -643,6 +615,44 @@
     }
   },
   {
+    "id": "w07_nettopp",
+    "no": "nettopp",
+    "de": "gerade (eben)",
+    "pos": "adv",
+    "lesson": 8,
+    "ex": {
+      "no": "Arne har nettopp kommet.",
+      "de": "Arne ist gerade gekommen."
+    }
+  },
+  {
+    "id": "w07_siden",
+    "no": "siden",
+    "de": "seit",
+    "pos": "prep",
+    "lesson": 8,
+    "ex": {
+      "no": "Jeg har bodd i Oslo siden august.",
+      "de": "Ich wohne seit August in Oslo."
+    },
+    "note": "siden + Zeitpunkt; für eine Dauer: i (i tre uker)."
+  },
+  {
+    "id": "w07_fortsatt",
+    "no": "fortsatt",
+    "de": "immer noch",
+    "deAlt": [
+      "noch immer",
+      "weiterhin"
+    ],
+    "pos": "adv",
+    "lesson": 8,
+    "ex": {
+      "no": "De er fortsatt sammen.",
+      "de": "Sie sind immer noch zusammen."
+    }
+  },
+  {
     "id": "w08_gi",
     "no": "gi",
     "de": "geben",
@@ -747,55 +757,6 @@
       "no": "Susanne var høflig, men bestemt.",
       "de": "Susanne war höflich, aber bestimmt."
     }
-  },
-  {
-    "id": "w08_halvtime",
-    "no": "halvtime",
-    "de": "die halbe Stunde",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "halvtime",
-      "halvtimen",
-      "halvtimer",
-      "halvtimene"
-    ],
-    "lesson": 8,
-    "ex": {
-      "no": "Lunsjpausen er bare en halvtime.",
-      "de": "Die Mittagspause dauert nur eine halbe Stunde."
-    },
-    "note": "Auch getrennt: en halv time."
-  },
-  {
-    "id": "w08_minutt",
-    "no": "minutt",
-    "de": "die Minute",
-    "pos": "noun",
-    "gender": "n",
-    "forms": [
-      "minutt",
-      "minuttet",
-      "minutter",
-      "minuttene/minutta"
-    ],
-    "lesson": 8,
-    "ex": {
-      "no": "Maten er klar om ti minutter.",
-      "de": "Das Essen ist in zehn Minuten fertig."
-    }
-  },
-  {
-    "id": "w08_for_siden",
-    "no": "for … siden",
-    "de": "vor (zeitlich)",
-    "pos": "phrase",
-    "lesson": 8,
-    "ex": {
-      "no": "Arne kom for to timer siden.",
-      "de": "Arne kam vor zwei Stunden."
-    },
-    "note": "Der Zeitraum steht in der Mitte: for to år siden = vor zwei Jahren."
   },
   {
     "id": "w08_om",
@@ -1179,58 +1140,39 @@
     "id": "w08_sikkert",
     "no": "sikkert",
     "de": "sicher, bestimmt (wahrscheinlich)",
-    "pos": "adv",
     "deAlt": [
       "sicher",
       "bestimmt",
       "wohl"
     ],
+    "pos": "adv",
+    "lesson": 8,
     "ex": {
       "no": "Da var du sikkert presis klokka fem?",
       "de": "Dann warst du sicher pünktlich um fünf da?"
-    },
-    "lesson": 8
+    }
   },
   {
     "id": "w08_under",
     "no": "under",
     "de": "unter",
     "pos": "prep",
+    "lesson": 8,
     "ex": {
       "no": "Bamse ligger under bordet.",
       "de": "Bamse liegt unter dem Tisch."
-    },
-    "lesson": 8
+    }
   },
   {
     "id": "w08_nesten",
     "no": "nesten",
     "de": "fast, beinahe",
     "pos": "adv",
+    "lesson": 8,
     "ex": {
       "no": "De satt ved bordet i nesten tre timer.",
       "de": "Sie saßen fast drei Stunden am Tisch."
-    },
-    "lesson": 8
-  },
-  {
-    "id": "w08_lordag",
-    "no": "lørdag",
-    "de": "der Samstag",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "lørdag",
-      "lørdagen",
-      "lørdager",
-      "lørdagene"
-    ],
-    "ex": {
-      "no": "På lørdag skal Susanne bake ei kake.",
-      "de": "Am Samstag backt Susanne einen Kuchen."
-    },
-    "note": "Wochentage schreibt man klein. på lørdag = am (kommenden) Samstag; i lørdags = letzten Samstag.",
-    "lesson": 8
+    }
   },
   {
     "id": "w08_varm",
@@ -1244,11 +1186,11 @@
       "varmere",
       "varmest"
     ],
+    "lesson": 8,
     "ex": {
       "no": "Middag er et varmt måltid.",
       "de": "Middag ist eine warme Mahlzeit."
-    },
-    "lesson": 8
+    }
   },
   {
     "id": "w08_sukker",
@@ -1260,12 +1202,12 @@
       "sukker",
       "sukkeret"
     ],
+    "lesson": 8,
     "ex": {
       "no": "Vil du ha sukker i kaffen?",
       "de": "Möchtest du Zucker in den Kaffee?"
     },
-    "note": "Nicht verwechseln: sukke = seufzen.",
-    "lesson": 8
+    "note": "Nicht verwechseln: sukke = seufzen."
   },
   {
     "id": "w08_klokkeslett",
@@ -1279,11 +1221,11 @@
       "klokkeslett",
       "klokkesletta/klokkeslettene"
     ],
+    "lesson": 8,
     "ex": {
       "no": "Skriv klokkeslettet med ord.",
       "de": "Schreib die Uhrzeit in Worten."
-    },
-    "lesson": 8
+    }
   },
   {
     "id": "w08_sekund",
@@ -1297,11 +1239,11 @@
       "sekunder",
       "sekunda/sekundene"
     ],
+    "lesson": 8,
     "ex": {
       "no": "Vent et sekund!",
       "de": "Warte eine Sekunde!"
-    },
-    "lesson": 8
+    }
   },
   {
     "id": "w08_vertinne",
@@ -1315,12 +1257,12 @@
       "vertinner",
       "vertinnene"
     ],
+    "lesson": 8,
     "wk": true,
     "ex": {
       "no": "Kari er ei god vertinne.",
       "de": "Kari ist eine gute Gastgeberin."
-    },
-    "lesson": 8
+    }
   },
   {
     "id": "w08_rett",
@@ -1334,13 +1276,13 @@
       "retter",
       "rettene"
     ],
+    "lesson": 8,
     "wk": true,
     "ex": {
       "no": "Fiskesuppe er en typisk norsk rett.",
       "de": "Fischsuppe ist ein typisch norwegisches Gericht."
     },
-    "note": "Auch Adjektiv: rett = gerade, richtig, direkt (rett fram = geradeaus; rett og slett = schlicht und einfach). Auch: das Recht – ha rett = recht haben, rett til = das Recht auf.",
-    "lesson": 8
+    "note": "Auch Adjektiv: rett = gerade, richtig, direkt (rett fram = geradeaus; rett og slett = schlicht und einfach). Auch: das Recht – ha rett = recht haben, rett til = das Recht auf."
   },
   {
     "id": "w08_forrett",
@@ -1354,12 +1296,12 @@
       "forretter",
       "forrettene"
     ],
+    "lesson": 8,
     "wk": true,
     "ex": {
       "no": "Til forrett er det suppe.",
       "de": "Als Vorspeise gibt es Suppe."
-    },
-    "lesson": 8
+    }
   },
   {
     "id": "w08_hovedrett",
@@ -1373,12 +1315,12 @@
       "hovedretter",
       "hovedrettene"
     ],
+    "lesson": 8,
     "wk": true,
     "ex": {
       "no": "Hovedretten var laks med poteter.",
       "de": "Das Hauptgericht war Lachs mit Kartoffeln."
-    },
-    "lesson": 8
+    }
   },
   {
     "id": "w08_suppe",
@@ -1392,12 +1334,12 @@
       "supper",
       "suppene"
     ],
+    "lesson": 8,
     "wk": true,
     "ex": {
       "no": "Suppa er varm.",
       "de": "Die Suppe ist warm."
-    },
-    "lesson": 8
+    }
   },
   {
     "id": "w08_oppskrift",
@@ -1411,13 +1353,13 @@
       "oppskrifter",
       "oppskriftene"
     ],
+    "lesson": 8,
     "wk": true,
     "ex": {
       "no": "Kan jeg få oppskriften på eplekaka?",
       "de": "Kann ich das Rezept für den Apfelkuchen bekommen?"
     },
-    "note": "Falscher Freund: en resept = ein Rezept vom Arzt.",
-    "lesson": 8
+    "note": "Falscher Freund: en resept = ein Rezept vom Arzt."
   },
   {
     "id": "w08_bestikk",
@@ -1431,12 +1373,12 @@
       "bestikk",
       "bestikka/bestikkene"
     ],
+    "lesson": 8,
     "wk": true,
     "ex": {
       "no": "Ola legger bestikket på bordet.",
       "de": "Ola legt das Besteck auf den Tisch."
-    },
-    "lesson": 8
+    }
   },
   {
     "id": "w08_serviett",
@@ -1450,12 +1392,12 @@
       "servietter",
       "serviettene"
     ],
+    "lesson": 8,
     "wk": true,
     "ex": {
       "no": "Kan du gi meg en serviett?",
       "de": "Kannst du mir eine Serviette geben?"
-    },
-    "lesson": 8
+    }
   },
   {
     "id": "w08_rydde",
@@ -1469,12 +1411,337 @@
       "rydd"
     ],
     "vg": "1",
+    "lesson": 8,
     "wk": true,
     "ex": {
       "no": "Etter middagen rydder Ola av bordet.",
       "de": "Nach dem Essen räumt Ola den Tisch ab."
     },
-    "note": "rydde av bordet = den Tisch abräumen",
-    "lesson": 8
+    "note": "rydde av bordet = den Tisch abräumen"
+  },
+  {
+    "id": "w08_avis",
+    "no": "avis",
+    "de": "die Zeitung",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "avis",
+      "avisa",
+      "aviser",
+      "avisene"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "Per leser avisa til frokost.",
+      "de": "Per liest die Zeitung beim Frühstück."
+    },
+    "note": "lese avis = Zeitung lesen (ohne Artikel)."
+  },
+  {
+    "id": "w08_nyhet",
+    "no": "nyhet",
+    "de": "die Nachricht, die Neuigkeit",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "nyhet",
+      "nyheten",
+      "nyheter",
+      "nyhetene"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "Kari leser nyhetene på mobilen.",
+      "de": "Kari liest die Nachrichten auf dem Handy."
+    },
+    "note": "nyhetene = die Nachrichten (im Radio, im Fernsehen, in der Zeitung)."
+  },
+  {
+    "id": "w08_postkasse",
+    "no": "postkasse",
+    "de": "der Briefkasten",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "postkasse",
+      "postkassa/postkassen",
+      "postkasser",
+      "postkassene"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "Avisa ligger i postkassa.",
+      "de": "Die Zeitung liegt im Briefkasten."
+    }
+  },
+  {
+    "id": "w08_bilde",
+    "no": "bilde",
+    "de": "das Bild, das Foto",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "bilde",
+      "bildet",
+      "bilder",
+      "bildene"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "Avisa har et stort bilde av kongen.",
+      "de": "Die Zeitung hat ein großes Bild vom König."
+    }
+  },
+  {
+    "id": "w08_overskrift",
+    "no": "overskrift",
+    "de": "die Überschrift, die Schlagzeile",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "overskrift",
+      "overskriften",
+      "overskrifter",
+      "overskriftene"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "Overskriften er stor og rød.",
+      "de": "Die Schlagzeile ist groß und rot."
+    }
+  },
+  {
+    "id": "w08_lokalavis",
+    "no": "lokalavis",
+    "de": "die Lokalzeitung",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "lokalavis",
+      "lokalavisa",
+      "lokalaviser",
+      "lokalavisene"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "Arne leser lokalavisa hver dag.",
+      "de": "Arne liest jeden Tag die Lokalzeitung."
+    }
+  },
+  {
+    "id": "w08_de_fleste",
+    "no": "de fleste",
+    "de": "die meisten",
+    "pos": "phrase",
+    "lesson": 8,
+    "ex": {
+      "no": "De fleste leser nyhetene på mobilen.",
+      "de": "Die meisten lesen die Nachrichten auf dem Handy."
+    }
+  },
+  {
+    "id": "w08_egen",
+    "no": "egen",
+    "de": "eigen",
+    "pos": "adj",
+    "forms": [
+      "egen",
+      "eget",
+      "egne"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "Ola vil ha et eget rom.",
+      "de": "Ola möchte ein eigenes Zimmer."
+    },
+    "note": "egen (m/f), eget (n), egne (Plural)."
+  },
+  {
+    "id": "w08_skje_v",
+    "no": "skje",
+    "de": "geschehen, passieren",
+    "pos": "verb",
+    "vf": [
+      "skjer",
+      "skjedde",
+      "skjedd",
+      ""
+    ],
+    "vg": "4",
+    "lesson": 8,
+    "ex": {
+      "no": "Hva skjer i Oslo i helga?",
+      "de": "Was ist am Wochenende in Oslo los?"
+    },
+    "note": "Nicht verwechseln mit ei skje = ein Löffel."
+  },
+  {
+    "id": "w08_i_naerheten",
+    "no": "i nærheten",
+    "de": "in der Nähe",
+    "pos": "phrase",
+    "lesson": 8,
+    "ex": {
+      "no": "Er det en kafé i nærheten?",
+      "de": "Gibt es hier in der Nähe ein Café?"
+    }
+  },
+  {
+    "id": "w08_paa_nett",
+    "no": "på nett",
+    "de": "im Internet, online",
+    "pos": "phrase",
+    "lesson": 8,
+    "ex": {
+      "no": "Jeg leser avisa på nett.",
+      "de": "Ich lese die Zeitung online."
+    }
+  },
+  {
+    "id": "w08_radio",
+    "no": "radio",
+    "de": "das Radio",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "radio",
+      "radioen",
+      "radioer",
+      "radioene"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "Per hører på radio i bilen.",
+      "de": "Per hört im Auto Radio."
+    }
+  },
+  {
+    "id": "w08_kanal",
+    "no": "kanal",
+    "de": "der Sender, der Kanal",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "kanal",
+      "kanalen",
+      "kanaler",
+      "kanalene"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "NRK er en norsk TV-kanal.",
+      "de": "NRK ist ein norwegischer Fernsehsender."
+    }
+  },
+  {
+    "id": "w08_tips",
+    "no": "tips",
+    "de": "der Tipp",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "tips",
+      "tipset",
+      "tips",
+      "tipsa/tipsene"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "Har du et godt tips til meg?",
+      "de": "Hast du einen guten Tipp für mich?"
+    }
+  },
+  {
+    "id": "w08_miste",
+    "no": "miste",
+    "de": "verlieren",
+    "pos": "verb",
+    "vf": [
+      "mister",
+      "mistet/mista",
+      "mistet/mista",
+      "mist"
+    ],
+    "vg": "1",
+    "lesson": 8,
+    "ex": {
+      "no": "Oi, jeg har mistet nøkkelen!",
+      "de": "Oje, ich habe den Schlüssel verloren!"
+    }
+  },
+  {
+    "id": "w08_nokkel",
+    "no": "nøkkel",
+    "de": "der Schlüssel",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "nøkkel",
+      "nøkkelen",
+      "nøkler",
+      "nøklene"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "Har du sett nøkkelen min?",
+      "de": "Hast du meinen Schlüssel gesehen?"
+    },
+    "note": "Plural ohne e: nøkler (Lektion 9)."
+  },
+  {
+    "id": "w08_milliard",
+    "no": "milliard",
+    "de": "die Milliarde",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "milliard",
+      "milliarden",
+      "milliarder",
+      "milliardene"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "Norge har mange milliarder kroner i oljepenger.",
+      "de": "Norwegen hat viele Milliarden Kronen an Ölgeld."
+    },
+    "note": "en milliard = 1 000 000 000 (eine Milliarde, keine »Billion«)."
+  },
+  {
+    "id": "w08_komma",
+    "no": "komma",
+    "de": "das Komma",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "komma",
+      "kommaet",
+      "komma/kommaer",
+      "kommaene"
+    ],
+    "lesson": 8,
+    "ex": {
+      "no": "2,5 leser man «to komma fem».",
+      "de": "2,5 liest man »zwei Komma fünf«."
+    }
+  },
+  {
+    "id": "w08_svomme",
+    "no": "svømme",
+    "de": "schwimmen",
+    "pos": "verb",
+    "vf": [
+      "svømmer",
+      "svømte",
+      "svømt",
+      "svøm"
+    ],
+    "vg": "2",
+    "lesson": 8,
+    "ex": {
+      "no": "Kan du svømme? – Ja, det kan jeg.",
+      "de": "Kannst du schwimmen? – Ja, kann ich."
+    }
   }
 ]

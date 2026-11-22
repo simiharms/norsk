@@ -29,7 +29,6 @@
       "sjalusien"
     ],
     "lesson": 7,
-    "wk": true,
     "ex": {
       "no": "Sjalusi er en vond følelse.",
       "de": "Eifersucht ist ein schlimmes Gefühl."
@@ -75,8 +74,8 @@
     "pos": "adv",
     "lesson": 7,
     "ex": {
-      "no": "Har du sett stykket før?",
-      "de": "Hast du das Stück schon einmal gesehen?"
+      "no": "Kjente du stykket fra før?",
+      "de": "Kanntest du das Stück schon?"
     },
     "note": "Auch Präposition: før pausen = vor der Pause."
   },
@@ -225,8 +224,8 @@
     ],
     "lesson": 7,
     "ex": {
-      "no": "Jeg har stått i kø i ti minutter.",
-      "de": "Ich habe zehn Minuten in der Schlange gestanden."
+      "no": "Jonas sto i kø i ti minutter.",
+      "de": "Jonas stand zehn Minuten in der Schlange."
     },
     "note": "stå i kø = Schlange stehen"
   },
@@ -352,10 +351,10 @@
     "vg": "sterk",
     "lesson": 7,
     "ex": {
-      "no": "Nora smeller igjen døra.",
-      "de": "Nora knallt die Tür zu."
+      "no": "Døra smalt, og jeg hoppet nesten i stolen.",
+      "de": "Die Tür knallte, und ich bin fast vom Sitz gesprungen."
     },
-    "note": "smelle igjen døra = die Tür zuknallen"
+    "note": "døra smalt = die Tür knallte; smelle igjen døra = die Tür zuknallen."
   },
   {
     "id": "w07_smell",
@@ -392,22 +391,10 @@
     ],
     "lesson": 7,
     "ex": {
-      "no": "Folk snakker fortsatt om stykket.",
-      "de": "Die Leute reden immer noch über das Stück."
+      "no": "Folk snakket om stykket i mange år.",
+      "de": "Die Leute redeten viele Jahre lang über das Stück."
     },
     "note": "folk (ohne Artikel) = Leute; et folk = ein Volk."
-  },
-  {
-    "id": "w07_siden",
-    "no": "siden",
-    "de": "seit",
-    "pos": "prep",
-    "lesson": 7,
-    "ex": {
-      "no": "Jeg har bodd i Oslo siden august.",
-      "de": "Ich wohne seit August in Oslo."
-    },
-    "note": "siden + Zeitpunkt; für eine Dauer: i (i tre uker)."
   },
   {
     "id": "w07_moderne",
@@ -458,8 +445,8 @@
     "pos": "phrase",
     "lesson": 7,
     "ex": {
-      "no": "Har dere hatt det hyggelig i kveld?",
-      "de": "Hattet ihr einen schönen Abend?"
+      "no": "Hadde dere det hyggelig i går?",
+      "de": "Hattet ihr gestern einen schönen Abend?"
     }
   },
   {
@@ -468,7 +455,6 @@
     "de": "eifersüchtig",
     "pos": "adj",
     "lesson": 7,
-    "wk": true,
     "ex": {
       "no": "Jonas er sjalu på Matthias.",
       "de": "Jonas ist eifersüchtig auf Matthias."
@@ -495,6 +481,72 @@
     "note": "et kvarter = 15 Minuten. Bei der Uhrzeit: kvart over tre (Lektion 8)."
   },
   {
+    "id": "w07_for_forste_gang",
+    "no": "for første gang",
+    "de": "zum ersten Mal",
+    "pos": "phrase",
+    "lesson": 7,
+    "ex": {
+      "no": "I kveld ser Matthias stykket for første gang.",
+      "de": "Heute Abend sieht Matthias das Stück zum ersten Mal."
+    }
+  },
+  {
+    "id": "w07_hoppe",
+    "no": "hoppe",
+    "de": "springen, hüpfen",
+    "pos": "verb",
+    "vf": [
+      "hopper",
+      "hoppet/hoppa",
+      "hoppet/hoppa",
+      "hopp"
+    ],
+    "vg": "1",
+    "lesson": 7,
+    "ex": {
+      "no": "Jeg hoppet nesten i stolen da døra smalt.",
+      "de": "Ich bin fast vom Sitz gesprungen, als die Tür knallte."
+    }
+  },
+  {
+    "id": "w07_stol",
+    "no": "stol",
+    "de": "der Stuhl; der Sitz",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "stol",
+      "stolen",
+      "stoler",
+      "stolene"
+    ],
+    "lesson": 7,
+    "ex": {
+      "no": "Stolene i teateret er røde.",
+      "de": "Die Sitze im Theater sind rot."
+    }
+  },
+  {
+    "id": "w07_vare",
+    "no": "vare",
+    "de": "dauern",
+    "pos": "verb",
+    "vf": [
+      "varer",
+      "varte",
+      "vart",
+      ""
+    ],
+    "vg": "2",
+    "lesson": 7,
+    "ex": {
+      "no": "Stykket varte i nesten tre timer.",
+      "de": "Das Stück dauerte fast drei Stunden."
+    },
+    "note": "vare i + Zeitraum: Det varer i to timer. (Nicht verwechseln mit en vare = eine Ware.)"
+  },
+  {
     "id": "w07_kaffekopp",
     "no": "kaffekopp",
     "de": "die Kaffeetasse",
@@ -513,17 +565,6 @@
     }
   },
   {
-    "id": "w07_noen_gang",
-    "no": "noen gang",
-    "de": "jemals, schon einmal",
-    "pos": "phrase",
-    "lesson": 7,
-    "ex": {
-      "no": "Har du noen gang vært i Bergen?",
-      "de": "Warst du schon einmal in Bergen?"
-    }
-  },
-  {
     "id": "w07_dod",
     "no": "død",
     "de": "tot",
@@ -535,8 +576,8 @@
     ],
     "lesson": 7,
     "ex": {
-      "no": "Ibsen har vært død i over hundre år.",
-      "de": "Ibsen ist seit über hundert Jahren tot."
+      "no": "Er Ibsen død? – Ja, han døde i 1906.",
+      "de": "Ist Ibsen tot? – Ja, er ist 1906 gestorben."
     }
   },
   {
@@ -564,7 +605,6 @@
     "de": "gern haben, lieb haben",
     "pos": "phrase",
     "lesson": 7,
-    "wk": true,
     "ex": {
       "no": "Jeg er glad i deg.",
       "de": "Ich hab dich lieb."
@@ -638,63 +678,6 @@
     }
   },
   {
-    "id": "w07_folelse",
-    "no": "følelse",
-    "de": "das Gefühl",
-    "pos": "noun",
-    "gender": "m",
-    "forms": [
-      "følelse",
-      "følelsen",
-      "følelser",
-      "følelsene"
-    ],
-    "lesson": 7,
-    "wk": true,
-    "ex": {
-      "no": "Glede er en god følelse.",
-      "de": "Freude ist ein gutes Gefühl."
-    }
-  },
-  {
-    "id": "w07_elske",
-    "no": "elske",
-    "de": "lieben",
-    "pos": "verb",
-    "vf": [
-      "elsker",
-      "elsket",
-      "elsket",
-      "elsk"
-    ],
-    "vg": "1",
-    "lesson": 7,
-    "wk": true,
-    "ex": {
-      "no": "Jeg elsker teater!",
-      "de": "Ich liebe Theater!"
-    },
-    "note": "Auch für Dinge: Jeg elsker brunost."
-  },
-  {
-    "id": "w07_forelsket",
-    "no": "forelsket",
-    "de": "verliebt",
-    "pos": "adj",
-    "forms": [
-      "forelsket",
-      "forelsket",
-      "forelskede"
-    ],
-    "lesson": 7,
-    "wk": true,
-    "ex": {
-      "no": "Matthias er kanskje forelsket i Susanne.",
-      "de": "Matthias ist vielleicht in Susanne verliebt."
-    },
-    "note": "forelsket i = verliebt in"
-  },
-  {
     "id": "w07_sint",
     "no": "sint",
     "de": "wütend, böse",
@@ -705,184 +688,11 @@
       "sinte"
     ],
     "lesson": 7,
-    "wk": true,
     "ex": {
       "no": "Er du sint på meg?",
       "de": "Bist du wütend auf mich?"
     },
     "note": "sint på = wütend auf"
-  },
-  {
-    "id": "w07_vaere_lei_seg",
-    "no": "være lei seg",
-    "de": "traurig sein; etwas bedauern",
-    "deAlt": [
-      "traurig sein",
-      "leidtun"
-    ],
-    "pos": "phrase",
-    "lesson": 7,
-    "wk": true,
-    "ex": {
-      "no": "Anna er lei seg fordi Jonas er sur.",
-      "de": "Anna ist traurig, weil Jonas schlecht gelaunt ist."
-    }
-  },
-  {
-    "id": "w07_vaere_lei_av",
-    "no": "være lei av",
-    "de": "etwas satthaben",
-    "pos": "phrase",
-    "lesson": 7,
-    "wk": true,
-    "ex": {
-      "no": "Jeg er lei av regnet.",
-      "de": "Ich habe den Regen satt."
-    }
-  },
-  {
-    "id": "w07_redd",
-    "no": "redd",
-    "de": "ängstlich",
-    "deAlt": [
-      "Angst haben"
-    ],
-    "pos": "adj",
-    "forms": [
-      "redd",
-      "redd",
-      "redde"
-    ],
-    "lesson": 7,
-    "wk": true,
-    "ex": {
-      "no": "Er du redd for mørket?",
-      "de": "Hast du Angst vor der Dunkelheit?"
-    },
-    "note": "være redd for = Angst haben vor"
-  },
-  {
-    "id": "w07_nervos",
-    "no": "nervøs",
-    "de": "nervös",
-    "pos": "adj",
-    "forms": [
-      "nervøs",
-      "nervøst",
-      "nervøse"
-    ],
-    "lesson": 7,
-    "wk": true,
-    "ex": {
-      "no": "Jeg er alltid nervøs før en eksamen.",
-      "de": "Vor einer Prüfung bin ich immer nervös."
-    }
-  },
-  {
-    "id": "w07_skuffet",
-    "no": "skuffet",
-    "de": "enttäuscht",
-    "pos": "adj",
-    "forms": [
-      "skuffet",
-      "skuffet",
-      "skuffede"
-    ],
-    "lesson": 7,
-    "wk": true,
-    "ex": {
-      "no": "Ola er skuffet fordi laget tapte.",
-      "de": "Ola ist enttäuscht, weil die Mannschaft verloren hat."
-    }
-  },
-  {
-    "id": "w07_stolt",
-    "no": "stolt",
-    "de": "stolz",
-    "pos": "adj",
-    "forms": [
-      "stolt",
-      "stolt",
-      "stolte"
-    ],
-    "lesson": 7,
-    "wk": true,
-    "ex": {
-      "no": "Kari er stolt av Anna.",
-      "de": "Kari ist stolz auf Anna."
-    },
-    "note": "stolt av (nicht på!)"
-  },
-  {
-    "id": "w07_kjede_seg",
-    "no": "kjede seg",
-    "de": "sich langweilen",
-    "pos": "verb",
-    "vf": [
-      "kjeder seg",
-      "kjedet seg",
-      "kjedet seg",
-      "kjed deg"
-    ],
-    "vg": "1",
-    "lesson": 7,
-    "wk": true,
-    "ex": {
-      "no": "Ola kjeder seg i teateret.",
-      "de": "Ola langweilt sich im Theater."
-    }
-  },
-  {
-    "id": "w07_lettet",
-    "no": "lettet",
-    "de": "erleichtert",
-    "pos": "adj",
-    "forms": [
-      "lettet",
-      "lettet",
-      "lettede"
-    ],
-    "lesson": 7,
-    "wk": true,
-    "ex": {
-      "no": "Anna er lettet, og Jonas smiler igjen.",
-      "de": "Anna ist erleichtert, und Jonas lächelt wieder."
-    }
-  },
-  {
-    "id": "w07_rorende",
-    "no": "rørende",
-    "de": "rührend",
-    "pos": "adj",
-    "forms": [
-      "rørende",
-      "rørende",
-      "rørende"
-    ],
-    "lesson": 7,
-    "wk": true,
-    "ex": {
-      "no": "Slutten var veldig rørende.",
-      "de": "Der Schluss war sehr rührend."
-    }
-  },
-  {
-    "id": "w07_ensom",
-    "no": "ensom",
-    "de": "einsam",
-    "pos": "adj",
-    "forms": [
-      "ensom",
-      "ensomt",
-      "ensomme"
-    ],
-    "lesson": 7,
-    "wk": true,
-    "ex": {
-      "no": "Nora føler seg ensom.",
-      "de": "Nora fühlt sich einsam."
-    },
-    "note": "Plural mit mm: ensomme (Lektion 5)."
   },
   {
     "id": "w07_bli_fodt",
@@ -1060,7 +870,7 @@
     "pos": "adv",
     "lesson": 7,
     "ex": {
-      "no": "Jeg har bakt kaka selv.",
+      "no": "Jeg bakte kaka selv.",
       "de": "Ich habe den Kuchen selbst gebacken."
     }
   },
@@ -1192,6 +1002,209 @@
     "note": "kjenne = Personen und Orte kennen; vite = wissen."
   },
   {
+    "id": "w08_klokke",
+    "no": "klokke",
+    "de": "die Uhr",
+    "pos": "noun",
+    "gender": "f",
+    "forms": [
+      "klokke",
+      "klokka/klokken",
+      "klokker",
+      "klokkene"
+    ],
+    "lesson": 7,
+    "ex": {
+      "no": "Hvor mye er klokka?",
+      "de": "Wie spät ist es?"
+    },
+    "note": "Bei der Uhrzeit: klokka fem = um fünf (Uhr) – ohne Präposition."
+  },
+  {
+    "id": "w08_kvart_over",
+    "no": "kvart over",
+    "de": "Viertel nach",
+    "pos": "phrase",
+    "lesson": 7,
+    "ex": {
+      "no": "Stykket sluttet kvart over ti.",
+      "de": "Das Stück war um Viertel nach zehn zu Ende."
+    },
+    "note": "kvart på = Viertel vor. Eine Viertelstunde = et kvarter."
+  },
+  {
+    "id": "w08_halv",
+    "no": "halv",
+    "de": "halb",
+    "pos": "adj",
+    "forms": [
+      "halv",
+      "halvt",
+      "halve"
+    ],
+    "lesson": 7,
+    "ex": {
+      "no": "Stykket begynte halv åtte.",
+      "de": "Das Stück fing um halb acht an."
+    },
+    "note": "halv åtte = halb acht (7.30), wie im Deutschen. en halv time = eine halbe Stunde."
+  },
+  {
+    "id": "w08_over",
+    "no": "over",
+    "de": "nach (bei der Uhrzeit); über",
+    "deAlt": [
+      "über",
+      "nach"
+    ],
+    "pos": "prep",
+    "lesson": 7,
+    "ex": {
+      "no": "Klokka er ti over sju.",
+      "de": "Es ist zehn nach sieben."
+    },
+    "note": "Bei der Uhrzeit: over = nach, på = vor."
+  },
+  {
+    "id": "w08_halvtime",
+    "no": "halvtime",
+    "de": "die halbe Stunde",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "halvtime",
+      "halvtimen",
+      "halvtimer",
+      "halvtimene"
+    ],
+    "lesson": 7,
+    "ex": {
+      "no": "Lunsjpausen er bare en halvtime.",
+      "de": "Die Mittagspause dauert nur eine halbe Stunde."
+    },
+    "note": "Auch getrennt: en halv time."
+  },
+  {
+    "id": "w08_minutt",
+    "no": "minutt",
+    "de": "die Minute",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "minutt",
+      "minuttet",
+      "minutter",
+      "minuttene/minutta"
+    ],
+    "lesson": 7,
+    "ex": {
+      "no": "Jonas sto i kø i ti minutter.",
+      "de": "Jonas stand zehn Minuten in der Schlange."
+    }
+  },
+  {
+    "id": "w08_begynne",
+    "no": "begynne",
+    "de": "anfangen, beginnen",
+    "pos": "verb",
+    "vf": [
+      "begynner",
+      "begynte",
+      "begynt",
+      "begynn"
+    ],
+    "vg": "2",
+    "lesson": 7,
+    "ex": {
+      "no": "Stykket begynner halv åtte.",
+      "de": "Das Stück beginnt um halb acht."
+    }
+  },
+  {
+    "id": "w07_kvart_paa",
+    "no": "kvart på",
+    "de": "Viertel vor",
+    "pos": "phrase",
+    "lesson": 7,
+    "ex": {
+      "no": "Pausen begynner kvart på ni.",
+      "de": "Die Pause beginnt um Viertel vor neun."
+    },
+    "note": "Bei der Uhrzeit: på = vor, over = nach."
+  },
+  {
+    "id": "w07_tusen",
+    "no": "tusen",
+    "de": "tausend",
+    "pos": "num",
+    "lesson": 7,
+    "ex": {
+      "no": "Jeg ble født i to tusen og ett.",
+      "de": "Ich bin 2001 geboren."
+    },
+    "note": "Jahreszahlen ab 2000: to tusen og fem (2005). Auch: ett tusen (1000)."
+  },
+  {
+    "id": "w07_aarhundre",
+    "no": "århundre",
+    "de": "das Jahrhundert",
+    "pos": "noun",
+    "gender": "n",
+    "forms": [
+      "århundre",
+      "århundret",
+      "århundrer",
+      "århundrene"
+    ],
+    "lesson": 7,
+    "ex": {
+      "no": "Stykket er over et århundre gammelt.",
+      "de": "Das Stück ist über ein Jahrhundert alt."
+    },
+    "note": "Meist sagt man -tallet: på 1800-tallet = im 19. Jahrhundert."
+  },
+  {
+    "id": "w07_paa_1800_tallet",
+    "no": "på 1800-tallet",
+    "de": "im 19. Jahrhundert",
+    "pos": "phrase",
+    "lesson": 7,
+    "ex": {
+      "no": "Ibsen levde på 1800-tallet.",
+      "de": "Ibsen lebte im 19. Jahrhundert."
+    },
+    "note": "1800-tallet = die Jahre 1800–1899. Ebenso: på 1900-tallet (im 20. Jh.), på nittitallet (in den Neunzigern)."
+  },
+  {
+    "id": "w08_for_siden",
+    "no": "for … siden",
+    "de": "vor (zeitlich)",
+    "pos": "phrase",
+    "lesson": 7,
+    "ex": {
+      "no": "Anna så stykket for to år siden.",
+      "de": "Anna hat das Stück vor zwei Jahren gesehen."
+    },
+    "note": "Der Zeitraum steht in der Mitte: for to år siden = vor zwei Jahren."
+  },
+  {
+    "id": "w07_forrige",
+    "no": "forrige",
+    "de": "letzte(r, s), vorige(r, s)",
+    "pos": "adj",
+    "forms": [
+      "forrige",
+      "forrige",
+      "forrige"
+    ],
+    "lesson": 7,
+    "ex": {
+      "no": "Forrige uke kjøpte Susanne billetter til teateret.",
+      "de": "Letzte Woche hat Susanne Theaterkarten gekauft."
+    },
+    "note": "Unveränderlich und ohne Artikel: forrige uke, forrige år."
+  },
+  {
     "id": "w07_billett",
     "no": "billett",
     "de": "die Eintrittskarte, die Fahrkarte",
@@ -1209,8 +1222,8 @@
     ],
     "lesson": 7,
     "ex": {
-      "no": "Har du kjøpt billetter til teateret?",
-      "de": "Hast du Karten fürs Theater gekauft?"
+      "no": "Susanne kjøpte billettene forrige uke.",
+      "de": "Susanne hat die Karten letzte Woche gekauft."
     }
   },
   {
@@ -1225,32 +1238,6 @@
     "ex": {
       "no": "I fjor var jeg i Paris.",
       "de": "Letztes Jahr war ich in Paris."
-    }
-  },
-  {
-    "id": "w07_nettopp",
-    "no": "nettopp",
-    "de": "gerade (eben)",
-    "pos": "adv",
-    "lesson": 7,
-    "ex": {
-      "no": "Jonas har nettopp kommet.",
-      "de": "Jonas ist gerade gekommen."
-    }
-  },
-  {
-    "id": "w07_fortsatt",
-    "no": "fortsatt",
-    "de": "immer noch",
-    "deAlt": [
-      "noch immer",
-      "weiterhin"
-    ],
-    "pos": "adv",
-    "lesson": 7,
-    "ex": {
-      "no": "De er fortsatt sammen.",
-      "de": "Sie sind immer noch zusammen."
     }
   },
   {
@@ -1330,11 +1317,11 @@
     "id": "w07_synes",
     "no": "synes",
     "de": "finden, meinen",
-    "pos": "verb",
     "deAlt": [
       "finden",
       "meinen"
     ],
+    "pos": "verb",
     "vf": [
       "synes",
       "syntes",
@@ -1431,26 +1418,26 @@
     "id": "w07_annen",
     "no": "annen",
     "de": "anderer, andere, anderes",
+    "alt": [
+      "annet",
+      "andre"
+    ],
     "pos": "pron",
     "lesson": 7,
     "ex": {
       "no": "Ibsen skrev mange andre stykker.",
       "de": "Ibsen schrieb viele andere Stücke."
     },
-    "note": "annen (m/f), annet (n), andre (Plural): en annen gang = ein andermal.",
-    "alt": [
-      "annet",
-      "andre"
-    ]
+    "note": "annen (m/f), annet (n), andre (Plural): en annen gang = ein andermal."
   },
   {
     "id": "w07_da",
     "no": "da",
     "de": "als (einmalig in der Vergangenheit)",
-    "pos": "conj",
     "deAlt": [
       "als"
     ],
+    "pos": "conj",
     "lesson": 7,
     "ex": {
       "no": "Da Ibsen var femten år, flyttet han til Grimstad.",
@@ -1517,11 +1504,11 @@
       "filmer",
       "filmene"
     ],
+    "lesson": 7,
     "ex": {
       "no": "Vi så en norsk film i går.",
       "de": "Wir haben gestern einen norwegischen Film gesehen."
-    },
-    "lesson": 7
+    }
   },
   {
     "id": "w07_reise",
@@ -1557,9 +1544,231 @@
     ],
     "lesson": 7,
     "ex": {
-      "no": "Jeg er lei av regnet.",
-      "de": "Ich habe den Regen satt."
+      "no": "Det kommer mye regn i Bergen.",
+      "de": "In Bergen regnet es viel."
     },
     "note": "Nicht verwechseln: det regnet = es regnete / es hat geregnet (Verb regne)."
+  },
+  {
+    "id": "w07_takk_skal_du_ha",
+    "no": "takk skal du ha",
+    "de": "vielen Dank (dir)",
+    "pos": "phrase",
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "Takk skal du ha, Jonas!",
+      "de": "Vielen Dank, Jonas!"
+    },
+    "note": "Zu mehreren: Takk skal dere ha!"
+  },
+  {
+    "id": "w07_takk_for_hjelpen",
+    "no": "takk for hjelpen",
+    "de": "danke für die Hilfe",
+    "pos": "phrase",
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "Tusen takk for hjelpen, Matthias!",
+      "de": "Vielen Dank für die Hilfe, Matthias!"
+    }
+  },
+  {
+    "id": "w07_takk_for_i_dag",
+    "no": "takk for i dag",
+    "de": "danke für heute",
+    "pos": "phrase",
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "Takk for i dag, og god helg!",
+      "de": "Danke für heute und schönes Wochenende!"
+    },
+    "note": "Am Ende eines Kurstags oder Treffens."
+  },
+  {
+    "id": "w07_takk_for_i_gaar",
+    "no": "takk for i går",
+    "de": "danke für gestern",
+    "pos": "phrase",
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "Takk for i går! Det var en fin kveld.",
+      "de": "Danke für gestern! Es war ein schöner Abend."
+    }
+  },
+  {
+    "id": "w07_selv_takk",
+    "no": "selv takk",
+    "de": "ich danke (auch)",
+    "pos": "phrase",
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "Takk for sist! – Selv takk!",
+      "de": "Danke für das letzte Mal! – Ich habe zu danken!"
+    },
+    "note": "Antwort auf »Takk for sist« oder »Takk for i dag«."
+  },
+  {
+    "id": "w07_takk_i_like_maate",
+    "no": "takk i like måte",
+    "de": "danke, gleichfalls",
+    "pos": "phrase",
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "God helg! – Takk i like måte!",
+      "de": "Schönes Wochenende! – Danke, gleichfalls!"
+    }
+  },
+  {
+    "id": "w07_ingen_aarsak",
+    "no": "ingen årsak",
+    "de": "keine Ursache",
+    "pos": "phrase",
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "Tusen takk! – Ingen årsak!",
+      "de": "Vielen Dank! – Keine Ursache!"
+    }
+  },
+  {
+    "id": "w07_bare_hyggelig",
+    "no": "bare hyggelig",
+    "de": "gern geschehen",
+    "pos": "phrase",
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "Takk for kaffen! – Bare hyggelig!",
+      "de": "Danke für den Kaffee! – Gern geschehen!"
+    },
+    "note": "Wörtlich »nur nett«."
+  },
+  {
+    "id": "w07_mandag",
+    "no": "mandag",
+    "de": "der Montag",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "mandag",
+      "mandagen",
+      "mandager",
+      "mandagene"
+    ],
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "Vi ses på mandag!",
+      "de": "Wir sehen uns am Montag!"
+    },
+    "note": "Wochentage schreibt man klein. på mandag = am kommenden Montag; på mandager = montags."
+  },
+  {
+    "id": "w07_tirsdag",
+    "no": "tirsdag",
+    "de": "der Dienstag",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "tirsdag",
+      "tirsdagen",
+      "tirsdager",
+      "tirsdagene"
+    ],
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "På tirsdag har Ola fotballtrening.",
+      "de": "Am Dienstag hat Ola Fußballtraining."
+    }
+  },
+  {
+    "id": "w07_onsdag",
+    "no": "onsdag",
+    "de": "der Mittwoch",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "onsdag",
+      "onsdagen",
+      "onsdager",
+      "onsdagene"
+    ],
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "På onsdager spiser vi pizza.",
+      "de": "Mittwochs essen wir Pizza."
+    }
+  },
+  {
+    "id": "w07_torsdag",
+    "no": "torsdag",
+    "de": "der Donnerstag",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "torsdag",
+      "torsdagen",
+      "torsdager",
+      "torsdagene"
+    ],
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "Jeg har norskkurs på mandager og torsdager.",
+      "de": "Ich habe montags und donnerstags Norwegischkurs."
+    }
+  },
+  {
+    "id": "w08_lordag",
+    "no": "lørdag",
+    "de": "der Samstag",
+    "pos": "noun",
+    "gender": "m",
+    "forms": [
+      "lørdag",
+      "lørdagen",
+      "lørdager",
+      "lørdagene"
+    ],
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "På lørdag går vi på kino.",
+      "de": "Am Samstag gehen wir ins Kino."
+    },
+    "note": "Wochentage schreibt man klein. på lørdag = am (kommenden) Samstag; på lørdager = samstags; sist lørdag / i lørdags = letzten Samstag."
+  },
+  {
+    "id": "w07_god_helg",
+    "no": "god helg",
+    "de": "schönes Wochenende",
+    "pos": "phrase",
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "God helg, Torunn! – Takk i like måte!",
+      "de": "Schönes Wochenende, Torunn! – Danke, gleichfalls!"
+    }
+  },
+  {
+    "id": "w07_sist",
+    "no": "sist",
+    "de": "letzte(r, s), zuletzt",
+    "pos": "adv",
+    "lesson": 7,
+    "wk": true,
+    "ex": {
+      "no": "Sist fredag kom jeg for sent til kurset.",
+      "de": "Letzten Freitag kam ich zu spät zum Kurs."
+    },
+    "note": "sist fredag = letzten Freitag (auch: forrige fredag). Takk for sist = Danke für das letzte Mal."
   }
 ]

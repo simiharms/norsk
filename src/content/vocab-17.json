@@ -1580,18 +1580,6 @@
     }
   },
   {
-    "id": "w17_baade",
-    "no": "både",
-    "de": "sowohl (… als auch)",
-    "pos": "conj",
-    "lesson": 17,
-    "note": "både … og = sowohl … als auch",
-    "ex": {
-      "no": "Skipene går både for lokale reisende og for turister.",
-      "de": "Die Schiffe fahren sowohl für Einheimische als auch für Touristen."
-    }
-  },
-  {
     "id": "w17_hoy",
     "no": "høy",
     "de": "hoch",

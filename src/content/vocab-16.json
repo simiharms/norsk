@@ -1899,5 +1899,26 @@
       "no": "Omtrent ni av ti elever har bokmål som hovedmål.",
       "de": "Etwa neun von zehn Schülern haben Bokmål als Hauptsprache."
     }
+  },
+  {
+    "id": "w16_kjempefin",
+    "no": "kjempefin",
+    "de": "super, prima, sehr schön",
+    "deAlt": [
+      "super",
+      "prima"
+    ],
+    "pos": "adj",
+    "forms": [
+      "kjempefin",
+      "kjempefint",
+      "kjempefine"
+    ],
+    "lesson": 16,
+    "note": "kjempe- verstärkt (umgangssprachlich): kjempebra, kjempestor. Jeg har det kjempefint = Mir geht es super.",
+    "ex": {
+      "no": "Jeg har det kjempefint i Tromsø!",
+      "de": "Mir geht es in Tromsø super!"
+    }
   }
 ]
