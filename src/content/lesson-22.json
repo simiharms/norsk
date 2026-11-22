@@ -906,7 +906,7 @@
       "sections": [
         {
           "h": "Zur Erinnerung: -s und til",
-          "body": "Den Genitiv auf **-s** benutzt man vor allem bei **Namen, Personen und Ländern**: **Norges konge**, **kongens slott**, **Annas bunad**. Nach dem -s steht das Substantiv immer **unbestimmt**: **Annas bror**, nicht *Annas broren*.\n\nIm Gespräch sagt man bei Personen meist **til** + bestimmte Form (Lektion 13): **bunaden til Anna**, **rommet til Inga**. Bei Dingen, Orten und Gruppen nimmt man dagegen andere Präpositionen – welche, hängt von der **Bedeutung** ab. Das Deutsche hilft hier wenig, denn dort steht meist einfach der Genitiv oder „von“."
+          "body": "Den Genitiv auf **-s** benutzt man vor allem bei **Namen, Personen und Ländern**: **Norges konge**, **kongens slott**, **Olas sykkel**. Nach dem -s steht das Substantiv immer **unbestimmt**: **kongens bror**, nicht *kongens broren*.\n\nIm Gespräch sagt man bei Personen meist **til** + bestimmte Form (Lektion 13): **sykkelen til Ola**, **rommet til Inga**. Bei Dingen, Orten und Gruppen nimmt man dagegen andere Präpositionen – welche, hängt von der **Bedeutung** ab. Das Deutsche hilft hier wenig, denn dort steht meist einfach der Genitiv oder „von“."
         },
         {
           "h": "på, i und av",
@@ -1161,7 +1161,7 @@
         },
         {
           "prompt": "Ola sto helt ___ på brygga og fisket. (ganz außen, am Ende)",
-          "de": "Ola stand ganz vorn am Ende des Stegs und angelte.",
+          "de": "Ola stand ganz außen am Ende des Stegs und angelte.",
           "answer": [
             "ytterst"
           ],

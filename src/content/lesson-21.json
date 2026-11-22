@@ -710,12 +710,12 @@
           "explain": "gi opp = aufgeben (Partikelverb)."
         },
         {
-          "prompt": "Susanne har ___ et nytt innlegg på bloggen. (legge ut, Perfekt)",
-          "de": "Susanne hat einen neuen Beitrag auf dem Blog veröffentlicht.",
+          "prompt": "Bestemor har ___ kaffe. (aufsetzen: sette på, Perfekt)",
+          "de": "Oma hat Kaffee aufgesetzt.",
           "answer": [
-            "lagt ut"
+            "satt på"
           ],
-          "explain": "legge – la – lagt; die Partikel ut folgt direkt: har lagt ut."
+          "explain": "sette – satte – satt; die Partikel på folgt direkt: har satt på."
         },
         {
           "prompt": "Før vi drar, må vi ___ i hytta. (aufräumen)",
@@ -847,8 +847,8 @@
           "explain": "Feste Zusammensetzung als Adjektiv: snø ned → nedsnødd; bestimmte Form + -e."
         },
         {
-          "prompt": "Bestemor hadde med seg to ___ kaker. (ny + bake)",
-          "de": "Oma hatte zwei frisch gebackene Kuchen dabei.",
+          "prompt": "Til frokost fikk vi ___ boller. (ny + bake)",
+          "de": "Zum Frühstück bekamen wir frisch gebackene Hefebrötchen.",
           "answer": [
             "nybakte"
           ],
